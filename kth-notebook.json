@@ -1,0 +1,86 @@
+{
+"@context":"https://gist.githubusercontent.com/sfsheath/da7e0b07327babd54ffa/raw/kaa-context.jsonld",
+
+ "@id":"kaathr:notebook-threpsiadou",
+ "title":"1976 Notebook",
+ "@type":"kaa:excavation-notebook",
+ "pages":[
+   {
+    "@id":"notebook-1976-page-001",
+    "@type":"kaa:notebook-page",
+    "dct:description":"Plan."
+   },{
+    "@id":"notebook-1976-page-002",
+    "@type":"kaa:notebook-page",
+    "date":"1976-03-26"
+   },{
+    "@id":"notebook-1976-page-003",
+    "@type":"kaa:notebook-page",
+    "date":"1976-03-26"
+   },{
+    "@id":"notebook-1976-page-004",
+    "@type":"kaa:notebook-page",
+    "description":"Sketch of architectural block."
+   },{
+    "@id":"notebook-1976-page-005",
+    "@type":"kaa:notebook-page",
+    "description":"Text.",
+    "date": "1976-03-27"
+   },{
+    "@id":"notebook-1976-page-006",
+    "@type":"kaa:notebook-page",
+    "description":"Text.",
+    "date": "1976-03-29"
+   },{
+    "@id":"notebook-1976-page-007",
+    "@type":"kaa:notebook-page",
+    "description":"Text.",
+    "date": "1976-03-29"
+   },{
+    "@id":"notebook-1976-page-008",
+    "@type":"kaa:notebook-page",
+    "description":"Sketch of inscription."
+   },{
+    "@id":"notebook-1976-page-069",
+    "@type":"kaa:notebook-page",
+    "description":"Object list: 30-62"
+   },{
+    "@id":"notebook-1976-page-070",
+    "@type":"kaa:notebook-page",
+    "description":"Object list: 63-95"
+   },{
+    "@id":"notebook-1976-page-071",
+    "@type":"kaa:notebook-page",
+    "description":"Object list: 96-125"
+   },{
+    "@id":"notebook-1976-page-072",
+    "@type":"kaa:notebook-page",
+    "description":"Object list: 126-156"
+   },{
+    "@id":"notebook-1976-page-073",
+    "@type":"kaa:notebook-page",
+    "description":"Object list: 157-160"
+   },{
+    "@id":"notebook-1976-page-194",
+    "@type":"kaa:notebook-page",
+    "description":"Object list: 161-186"
+   },{
+    "@id":"notebook-1976-page-195",
+    "@type":"kaa:notebook-page",
+    "description":"Object list: 187-216"
+   },{
+    "@id":"notebook-1976-page-196",
+    "@type":"kaa:notebook-page",
+    "description":"Object list: 217-241"
+   },{
+    "@id":"notebook-1976-page-197",
+    "@type":"kaa:notebook-page",
+    "description":"Object list: 242-269"
+   },{
+    "@id":"notebook-1976-page-198",
+    "@type":"kaa:notebook-page",
+    "description":"Object list: 270-280"
+   }
+  ]
+}
+

@@ -1,0 +1,203 @@
+{
+ "@context": "kaa-context.jsonld",
+ "@graph": [
+  {
+   "@id":"kaatyp:generic",
+   "@type":"crm:E55_type",
+   "title": "Unspecified typological identification",
+   "is-part-of": "kaa:kaa"
+  },{
+   "@id":"kaatyp:g",
+   "@type":"crm:E55_type",
+   "broader": "kaatyp:generic",
+   "title":"Glass"
+  },{
+   "@id":"kaatyp:kth-container",
+   "@type": "crm:E55_type",
+   "title": "A Threpsiades Container",
+   "description": "A container, probably a crate, used to store material from the Threpsiades property. These IDs were assigned in 2014. This type is specialized and should not be used goin forward.",
+   "broader": "kaatyp:generic"
+  },{
+   "@id":"kaatyp:p",
+   "@type": "crm:E55_type",
+   "broader": "kaatyp:generic",
+   "title": "Pottery"
+  },{
+   "@id":"kaatyp:p-amphora",
+   "@type": "crm:E55_type",
+   "title": "Amphora",
+   "broader": "kaatyp:p"
+  },{
+   "@id": "kaatyp:p-ars",
+   "@type": "crm:E55_type",
+   "title": "African Red Slip",
+   "broader": "kaatyp:p-slipped-fw"
+  },{
+   "@id": "kaatyp:p-ars-hayes-67",
+   "@type": "crm:E55_type",
+   "title": "African Red-Slip Hayes 67",
+   "broader": "kaatyp:p-ars"
+  },{
+   "@id": "kaatyp:p-ars-hayes-84",
+   "@type": "crm:E55_type",
+   "title": "African Red-Slip Hayes 84",
+   "broader": "kaatyp:p-ars"
+  },{
+   "@id": "kaatyp:p-ars-hayes-104",
+   "@type": "crm:E55_type",
+   "title": "African Red-Slip Hayes 104",
+   "broader": "kaatyp:p-ars",
+   "not-before": 500,
+   "not-after": 625
+  },{
+   "@id": "kaatyp:p-ars-hayes-104a",
+   "@type": "crm:E55_type",
+   "title": "African Red-Slip Hayes 104a",
+   "broader": "kaatyp:p-ars-hayes-104",
+   "not-before": 500,
+   "not-after": 580
+  },{
+   "@id": "kaatyp:p-ars-hayes-104b",
+   "@type": "crm:E55_type",
+   "title": "African Red-Slip Hayes 104b",
+   "broader": "kaatyp:p-ars-hayes-104",
+   "not-before": 570,
+   "not-after": 600
+  },{
+   "@id": "kaatyp:p-ars-hayes-104c",
+   "@type": "crm:E55_type",
+   "title": "African Red-Slip Hayes 104c",
+   "broader": "kaatyp:p-ars-hayes-104",
+   "not-before": 550,
+   "not-after": 625
+  },{
+   "@id": "kaatyp:p-ars-hayes-105",
+   "@type": "crm:E55_type",
+   "title": "African Red-Slip Hayes 105",
+   "broader": "kaatyp:p-ars",
+   "not-before": 580,
+   "not-after": 675
+  },{
+   "@id": "kaatyp:p-athenian-gouged",
+   "@type": "crm:E55_type",
+   "title": "Athenian Gouged Ware",
+   "broader": "kaatyp:p-slipped-fw",
+   "see":"http://www.agathe.gr/id/agora/object/p%2034657"
+  },{
+   "@id":"kaatyp:p-amphora-beirut-8",
+   "@type": "crm:E55_type",
+   "broader":"kaatyp:p-amphora",
+   "not-before": 450,
+   "not-after": 650,
+   "origin": "misc:beirut",
+   "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=39",
+   "title": "Beiruit 8 Amphora"
+  },{
+   "@id": "kaatyp:p-esc",
+   "@type": "crm:E55_type",
+   "title": "Eastern Sigillata C",
+   "broader": "kaatyp:p-slipped-fw"
+  },{
+   "@id":"kaatyp:p-byz-sgraffito",
+   "@type": "crm:E55_type",
+   "title": "Byzantine Sgraffito"
+  },{
+   "@id": "kaatyp:p-esc-hayes-1",
+   "@type": "crm:E55_type",
+   "title": "Eastern Sigillata C Form Hayes 1",
+   "broader": "kaatyp:p-esc",
+   "not-before": 150,
+   "not-after": 300
+  }, {
+   "@id":"kaatyp:p-keay-52",
+   "@type":"crm:E55_type",
+   "title": "Keay 52 Amphora",
+   "not-before": 350,
+   "not-after": 600
+  },{
+   "@id":"kaatyp:p-slipped-fw",
+   "@type":"crm:E55_type",
+   "title":"Slipped Tablewares",
+   "broader":"kaatyp:p"
+  },{
+   "@id":"kaatyp:p-lra-1",
+   "@type":"crm:E55_type",
+   "title":"Late Roman Amphora 1",
+   "broader":"kaatyp:p-amphora"
+  },{
+   "@id":"kaatyp:p-lra-2",
+   "@type":"crm:E55_type",
+   "title":"Late Roman Amphora 2",
+   "broader":"kaatyp:p-amphora"
+  },{
+   "@id":"kaatyp:p-lra-2-small",
+   "@type":"crm:E55_type",
+   "title":"Late Roman Amphora 2 Small",
+   "broader":"kaatyp:p-amphora"
+  },{
+   "@id":"kaatyp:p-lra-3",
+   "@type":"crm:E55_type",
+   "title":"Late Roman Amphora 3",
+   "broader":"kaatyp:p-amphora"
+  },{
+   "@id":"kaatyp:p-lra-4",
+   "@type":"crm:E55_type",
+   "title":"Late Roman Amphora 4",
+   "broader":"kaatyp:p-amphora"
+  },{
+   "@id":"kaatyp:p-lra-5",
+   "@type":"crm:E55_type",
+   "title":"Late Roman Amphora 5",
+   "broader":"kaatyp:p-amphora"
+  },{
+   "@id":"kaatyp:p-lra-6",
+   "@type":"crm:E55_type",
+   "title":"Late Roman Amphora 6",
+   "broader":"kaatyp:p-amphora"
+  },{
+   "@id":"kaatyp:p-lra-7",
+   "@type":"crm:E55_type",
+   "title":"Late Roman Amphora 7",
+   "broader":"kaatyp:p-amphora"
+  },{
+   "@id":"kaatyp:p-prs",
+   "@type": "crm:E55_type",
+   "title": "Phocaean Red Slip",
+   "broader": "kaatyp:p-slipped-fw"
+  },{
+   "@id":"kaatyp:p-prs-hayes-10",
+   "@type":"crm:E55_type",
+   "broader": "kaatyp:p-prs",
+   "title": "Phocaean Red-Slip Hayes 10"
+  },{
+   "@id":"kaatyp:p-prs-hayes-10a",
+   "@type":"crm:E55_type",
+   "broader": "kaatyp:p-prs",
+   "title": "Phocaean Red-Slip Hayes 10a"
+  },{
+   "@id":"kaatyp:p-prs-hayes-10b",
+   "@type":"crm:E55_type",
+   "broader": "kaatyp:p-prs",
+   "title": "Phocaean Red-Slip Hayes 10b"
+  },{
+   "@id":"kaatyp:p-prs-hayes-10c",
+   "@type":"crm:E55_type",
+   "broader": "kaatyp:p-prs",
+   "title": "Phocaean Red-Slip Hayes 10c"
+  },{
+   "@id": "kaatyp:p-rooftile",
+   "@type": "crm:E55_type",
+   "title": "Rooftile"
+   },{
+   "@id":"kaatyp:p-small-handled-stopper",
+   "@type": "crm:E55_type",
+   "broader":"kaatyp:p",
+   "title": "Small handled stopper"
+  },{
+   "@id": "kaatyp:p-spatheion",
+   "@type":"crm:E55_type",
+   "title": "Spatheion",
+   "broader": "kaatyp:p-amphora"
+  }
+ ]
+}

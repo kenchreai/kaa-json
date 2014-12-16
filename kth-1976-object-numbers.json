@@ -1,0 +1,2060 @@
+{
+"@context": "https://gist.githubusercontent.com/sfsheath/da7e0b07327babd54ffa/raw/kaa-context.jsonld",
+    "@graph": [
+        {
+            "@id": "kaakth:KTH76-001",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-002",
+            "notebook-page": "notebook-threpsiadou-page-068",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-1",
+            "notebook-text": "καρφί",
+            "notebook-text-en": "nail"
+        },
+        {
+            "@id": "kaakth:KTH76-002",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-003",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2",
+            "notebook-text": "",
+            "notebook-text-en": ""
+        },
+        {
+            "@id": "kaakth:KTH76-003",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-004",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-004",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-005",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-005",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-006",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-006",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-007",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-007",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-008",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-008",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-009",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-009",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-010",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-010",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-011",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-011",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-012",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-012",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-013",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-013",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-014",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-014",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-015",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-015",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-016",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-016",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-017",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-017",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-018",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-018",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-019",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-019",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-020",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-020",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-021",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-021",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-022",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-022",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-023",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-023",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-024",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-024",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-025",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-025",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-026",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-026",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-027",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-027",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-028",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-028",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-029",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-029",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-030",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-030",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-031",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-031",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-032",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-032",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-033",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-033",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-034",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-034",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-035",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-035",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-036",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-036",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-037",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-037",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-038",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-038",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-039",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-039",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-040",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-040",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-041",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-041",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-042",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-042",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-043",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-043",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-044",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-044",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-045",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-045",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-046",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-046",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-047",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-047",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-048",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-048",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-049",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-049",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-050",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-050",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-051",
+            "status":"available",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-051",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-052",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-052",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-053",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-053",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-054",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-054",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-055",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-055",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-056",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-3"
+        },
+        {
+            "@id": "kaakth:KTH76-056",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-057",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-057",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-058",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-3"
+        },
+        {
+            "@id": "kaakth:KTH76-058",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-059",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-3"
+        },
+        {
+            "@id": "kaakth:KTH76-059",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-060",
+            "status":"available",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-3"
+        },
+        {
+            "@id": "kaakth:KTH76-060",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-061",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-061",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-062",
+            "status":"available",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-062",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-063",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-063",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-064",
+            "status":"available",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-064",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-065",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-065",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-066",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-066",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-067",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-067",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-068",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-068",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-069",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-069",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-070",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-3"
+        },
+        {
+            "@id": "kaakth:KTH76-070",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-071",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-071",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-072",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-072",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-073",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-073",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-074",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-3"
+        },
+        {
+            "@id": "kaakth:KTH76-074",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-075",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-075",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-076",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-076",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-077",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level":["kaakth:kth-sector-gamma-level-1","kaakth:kth-sector-gamma-level-2"]
+        },
+        {
+            "@id": "kaakth:KTH76-077",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-078",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-3"
+        },
+        {
+            "@id": "kaakth:KTH76-078",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-079",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-3"
+        },
+        {
+            "@id": "kaakth:KTH76-079",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-080",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-080",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-081",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-081",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-082",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-082",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-083",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-083",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-084",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-084",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-085",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-085",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-086",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-086",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-087",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-087",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-088",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-088",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-089",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-089",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-090",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-090",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-091",
+            "kth-sector": "kaakth:kth-sector-beta",
+            "kth-level": "kaakth:kth-sector-beta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-091",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-092",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-092",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-093",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-093",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-094",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-094",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-095",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-095",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-096",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-096",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-097",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-097",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-098",
+            "kth-sector": "kaakth:kth-sector-beta",
+            "kth-level": "kaakth:kth-sector-beta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-098",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-099",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-099",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-100",
+            "kth-sector": "kaakth:kth-sector-beta",
+            "kth-level": "kaakth:kth-sector-beta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-100",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-101",
+            "kth-sector": "kaakth:kth-sector-beta",
+            "kth-level": "kaakth:kth-sector-beta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-101",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-102",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-102",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-103",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-103",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-104",
+            "status":"available",
+            "kth-sector": "kaakth:kth-sector-beta",
+            "kth-level": "kaakth:kth-sector-beta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-104",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-105",
+            "kth-sector": "kaakth:kth-sector-beta",
+            "kth-level": "kaakth:kth-sector-beta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-105",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-106",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-106",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-107",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-107",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-108",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-108",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-109",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-109",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-110",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-110",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-111",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-111",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-112",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-112",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-113",
+            "kth-sector": "kaakth:kth-sector-beta",
+            "kth-level": "kaakth:kth-sector-beta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-113",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-114",
+            "kth-sector": "kaakth:kth-sector-bet",
+            "kth-level": "kaakth:kth-sector-beta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-114",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-115",
+            "kth-sector": "kaakth:kth-sector-beta",
+            "kth-level": "kaakth:kth-sector-beta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-115",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-116",
+            "kth-sector": "kaakth:kth-sector-delta",
+            "kth-level": "kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-116",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-117",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-117",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-118",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-118",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-119",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-119",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-120",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-120",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-121",
+            "kth-sector": "kaakth:kth-sector-gamma",
+            "kth-level": "kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-121",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-122",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-122",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-123",
+            "status":"available",
+            "kth-sector": "kaakth:kth-sector-alpha",
+            "kth-level": "kaakth:kth-sector-alpha-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-123",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-124",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-124",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-125",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-125",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-126",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-126",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-127",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-127",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-128",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-1",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-128",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-129",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-129",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-130",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-130",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-131",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-131",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-132",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-132",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-133",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-133",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-134",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-134",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-135",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-135",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-136",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-136",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-137",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-137",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-138",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-138",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-139",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-139",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-140",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-140",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-141",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-141",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-142",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-142",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-143",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-143",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-144",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-144",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-145",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-145",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-146",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-146",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-147",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-147",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-148",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-148",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-149",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-149",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-150",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-150",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-151",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-151",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-152",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-152",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-153",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-153",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-154",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-154",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-155",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-155",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-156",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-156",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-157",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-157",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-158",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-158",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-159",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-159",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-160",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-160",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-161",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-161",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-162",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-162",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-163",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-163",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-164",
+            "status":"kaaont:kth-bag",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-164",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-165",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-165",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-166",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-166",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-167",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-167",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-168",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-168",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-169",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-169",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-170",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-170",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-171",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-171",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-172",
+            "kth-sector":"kaakth:kth-sector-alpha",
+            "kth-level":"kaakth:kth-sector-alpha-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-172",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-173",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-173",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-174",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-174",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-175",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-175",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-176",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-176",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-177",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-177",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-178",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-178",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-179",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-179",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-180",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-180",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-181",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-181",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-182",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-182",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-183",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-183",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-184",
+            "kth-sector":"kaakth:kth-sector-beta",
+            "kth-level":"kaakth:kth-sector-beta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-184",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-185",
+            "kth-sector":"kaakth:kth-sector-beta",
+            "kth-level":"kaakth:kth-sector-beta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-185",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-186",
+            "kth-sector":"kaakth:kth-sector-beta",
+            "kth-level":"kaakth:kth-sector-beta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-186",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-187",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-187",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-188",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-188",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-189",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-189",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-190",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-190",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-191",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-191",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-192",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-192",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-193",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-193",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-194",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-194",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-195",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-195",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-196",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-196",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-197",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-197",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-198",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-198",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-199",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-199",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-200",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-200",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-201",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-201",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-202",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-202",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-203",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-203",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-204",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-204",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-205",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-205",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-206",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-206",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-207",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-207",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-208",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-208",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-209",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-1",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-209",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-210",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-210",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-211",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-211",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-212",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-212",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-213",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-213",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-214",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-214",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-215",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-215",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-216",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-216",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-217",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-217",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-218",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-218",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-219",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-219",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-220",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-220",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-221",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-221",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-222",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-222",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-223",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-223",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-224",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-224",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-225",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-225",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-226",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-226",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-227",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-227",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-228",
+            "status":"tag",
+            "kth-sector":"kaakth:kth-sector-delta"
+        },
+        {
+            "@id": "kaakth:KTH76-228",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-229",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-229",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-230",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-1"
+        },
+        {
+            "@id": "kaakth:KTH76-230",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-231",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-231",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-232",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-232",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-233",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-233",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-234",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-234",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-235",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-235",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-236",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-236",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-237",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-237",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-238",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-238",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-239",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-239",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-240",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-240",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-241",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-241",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-242",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-242",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-243",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-243",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-244",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-244",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-245",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-245",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-246",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-246",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-247",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-247",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-248",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-248",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-249",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-249",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-250",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-250",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-251",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-251",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-252",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-252",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-253",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-253",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-254",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-254",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-255",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-255",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-256",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-256",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-257",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-257",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-258",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-258",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-259",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "kth-level":"kaakth:kth-sector-delta-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-259",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-260",
+            "kth-sector":"kaakth:kth-sector-delta"
+        },
+        {
+            "@id": "kaakth:KTH76-260",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-261",
+            "kth-sector":"kaakth:kth-sector-delta"
+        },
+        {
+            "@id": "kaakth:KTH76-261",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-262",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-delta"
+        },
+        {
+            "@id": "kaakth:KTH76-262",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-263",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-delta"
+        },
+        {
+            "@id": "kaakth:KTH76-263",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-264",
+            "kth-sector":"kaakth:kth-sector-delta"
+        },
+        {
+            "@id": "kaakth:KTH76-264",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-265",
+            "kth-sector":"kaakth:kth-sector-delta",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-265",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-266",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-266",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-267",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-267",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-268",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-268",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-269",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-269",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-270",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-270",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-271",
+            "kth-sector":"kaakth:kth-sector-epsilon"
+        },
+        {
+            "@id": "kaakth:KTH76-271",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-272",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-272",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-273",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-273",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-274",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-274",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-275",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-275",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-276",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2",
+            "notebook-text": "Νομισμα",
+            "notebook-text-en": "Coin",
+            "described-type": "http://nomisma.org/id/coin"
+        },
+        {
+            "@id": "kaakth:KTH76-276",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-277",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-277",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-278",
+            "kth-sector":"kaakth:kth-sector-gamma",
+            "kth-level":"kaakth:kth-sector-gamma-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-278",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-279",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-279",
+            "@type": "kaao:inventory-number",
+            "next": "kaakth:KTH76-280",
+            "status":"available",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        },
+        {
+            "@id": "kaakth:KTH76-280",
+            "@type": "kaao:inventory-number",
+            "kth-sector":"kaakth:kth-sector-epsilon",
+            "kth-level":"kaakth:kth-sector-epsilon-level-2"
+        }
+    ]
+}

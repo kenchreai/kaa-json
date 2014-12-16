@@ -1,0 +1,210 @@
+{
+ "@context": "https://gist.githubusercontent.com/sfsheath/da7e0b07327babd54ffa/raw/kaa-context.jsonld",
+ "@graph": [
+  {
+   "@id":"kaath:kth-sector-alpha",
+   "@type":"kaa:excavation-unit",
+   "title":"Sector Alpha"
+  },{
+   "@id":"kaath:kth-sector-alpha-level-1",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Alpha, Level 1"
+  },{
+   "@id":"kaath:kth-sector-alpha-level-2",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Alpha, Level 2"
+  },{
+   "@id":"kaath:kth-sector-beta",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Beta"
+  },{
+   "@id":"kaath:kth-sector-beta-level-1",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Beta, Level 1"
+  },{
+   "@id":"kaath:kth-sector-beta-level-2",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Beta, Level 2"
+  },{
+   "@id":"kaath:kth-sector-beta-level-3",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Beta, Level 3"
+  },{
+   "@id":"kaath:kth-sector-gamma",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Gamma"
+  },{
+   "@id":"kaath:kth-sector-gamma-level-1",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Gamma, Level 1"
+  },{
+   "@id":"kaath:kth-sector-gamma-level-2",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Gamma, Level 2"
+  },{
+   "@id":"kaath:kth-sector-gamma-level-3",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Gamma, Level 3"
+  },{
+   "@id":"kaath:kth-sector-delta",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Delta"
+  },{
+   "@id":"kaath:kth-sector-delta-level-1",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Delta, Level 1"
+  },{
+   "@id":"kaath:kth-sector-delta-level-2",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Delta, Level 2"
+  },{
+   "@id":"kaath:kth-sector-delta-level-3",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Delta, Level 3"
+  },{
+   "@id":"kaath:kth-sector-epsilon",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Epsilon"
+  },{
+   "@id":"kaath:kth-sector-epsilon-level-1",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Epsilon, Level 1"
+  },{
+   "@id":"kaath:kth-sector-epsilon-level-2",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Epsilon, Level 2"
+  },{
+   "@id":"kaath:kth-sector-epsilon-level-3",
+   "@type":"kaa:excavation-unit",
+   "title": "Sector Epsilon, Level 3"
+  },{
+   "@id":"kaath:kth-room-1",
+   "@type":"kaa:excavation-unit",
+   "title": "Room 1"
+  },{
+   "@id":"kaath:kth-room-2",
+   "@type":"kaa:excavation-unit",
+   "title": "Room 2"
+  },{
+   "@id":"kaath:kth-room-3",
+   "@type":"kaa:excavation-unit",
+   "title": "Room 3"
+  },{
+   "@id":"kaath:kth-room-3",
+   "@type":"kaa:excavation-unit",
+   "title": "Room 3"
+  },{
+   "@id":"kaath:kth-room-4",
+   "@type":"kaa:excavation-unit",
+   "title": "Room 4"
+  },{
+   "@id":"kaath:kth-room-5",
+   "@type":"kaa:excavation-unit",
+   "title": "Room 6"
+  },{
+   "@id":"kaath:kth-room-7",
+   "@type":"kaa:excavation-unit",
+   "title": "Room 7"
+  },{
+   "@id":"kaath:kth-room-8",
+   "@type":"kaa:excavation-unit",
+   "title": "Room 8"
+  },{
+   "@id":"kaath:kth-wall-1",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 1"
+  },{
+   "@id":"kaath:kth-wall-2",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 2"
+  },{
+   "@id":"kaath:kth-wall-3",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 3"
+  },{
+   "@id":"kaath:kth-wall-4",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 4"
+  },{
+   "@id":"kaath:kth-wall-5",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 5"
+  },{
+   "@id":"kaath:kth-wall-6",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 6"
+  },{
+   "@id":"kaath:kth-wall-7",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 7"
+  },{
+   "@id":"kaath:kth-wall-8",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 8"
+  },{
+   "@id":"kaath:kth-wall-9",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 9"
+  },{
+   "@id":"kaath:kth-wall-10",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 10"
+  },{
+   "@id":"kaath:kth-wall-11",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 11"
+  },{
+   "@id":"kaath:kth-wall-12",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 12"
+  },{
+   "@id":"kaath:kth-wall-13",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 13"
+  },{
+   "@id":"kaath:kth-wall-14",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 14"
+  },{
+   "@id":"kaath:kth-wall-15",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 15"
+  },{
+   "@id":"kaath:kth-wall-16",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 16"
+  },{
+   "@id":"kaath:kth-wall-17",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 18"
+  },{
+   "@id":"kaath:kth-wall-19",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 19"
+  },{
+   "@id":"kaath:kth-wall-20",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 20"
+  },{
+   "@id":"kaath:kth-wall-21",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 21"
+  },{
+   "@id":"kaath:kth-wall-22",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 22"
+  },{
+   "@id":"kaath:kth-wall-23",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 23"
+  },{
+   "@id":"kaath:kth-wall-24",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 24"
+  },{
+   "@id":"kaath:kth-wall-25",
+   "@type":"kaa:excavation-unit",
+   "title": "Wall 25"
+  }
+ ]
+}

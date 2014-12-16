@@ -1,0 +1,17 @@
+#!  /Users/sfsh/Documents/apache-jena-2.11.1/bin/arq --query sparql/typed_ceramics.sparql --data n3/kenchreai-triples.n3 --results CSV 
+SELECT ?title ?count
+WHERE {
+   {
+    ?id <http://www.cidoc-crm.org/cidoc-crm#P5_has_type> ?type .
+    ?id <http://kenchreai.org/kaa/ontology/part> "rim" .
+    OPTIONAL {?id <http://kenchreai.org/kaa/ontology/count> ?count }
+    ?type <http://purl.org/dc/terms/title> ?title
+   }
+  UNION 
+    {
+    ?id <http://www.cidoc-crm.org/cidoc-crm#P5_has_type> <http://kenchreai.org/kaa/typology/p-small-handled-stopper> .
+    OPTIONAL {?id <http://kenchreai.org/kaa/ontology/count> ?count }
+    <http://kenchreai.org/kaa/typology/p-small-handled-stopper> <http://purl.org/dc/terms/title> ?title
+    }
+
+}

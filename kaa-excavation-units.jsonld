@@ -1,0 +1,61 @@
+{
+ "@context": "kaa-context.jsonld",
+ "@graph": [
+  {
+   "@id":"kaa:kenchreai",
+   "@type": "lawd:Place",
+   "geo:lat": 37.885,
+   "geo:long": 22.9875
+  },{
+   "@id":"kaa:area-a",
+   "@type":"kaaont:excavation-area",
+   "title":"Area A",
+   "is-part-of": "kaa:kenchreai"
+  },{
+   "@id":"kaa:area-b",
+   "@type":"kaaont:excavation-area",
+   "title":"Area B",
+   "is-part-of": "kaa:kenchreai"
+  },{
+   "@id":"kaa:area-c",
+   "@type":"kaaont:excavation-area",
+   "title":"Area C",
+   "is-part-of": "kaa:kenchreai"
+  },{
+   "@id":"kaa:area-d",
+   "@type":"kaaont:excavation-area",
+   "title":"Area D",
+   "is-part-of": "kaa:kenchreai"
+  },{
+   "@id":"kaa:area-e",
+   "@type":"kaaont:excavation-area",
+   "title":"Area E",
+   "is-part-of": "kaa:kenchreai"
+  },{
+   "@id":"kaa:area-g",
+   "@type":"kaaont:excavation-area",
+   "title":"Area G",
+   "is-part-of": "kaa:kenchreai"
+  },{
+   "@id":"kaa:area-ta",
+   "@type":"kaaont:excavation-area",
+   "title":"Area TA",
+   "is-part-of": "kaa:kenchreai"
+  },{
+   "@id":"kaa:area-ua",
+   "@type":"kaaont:excavation-area",
+   "title":"Area UA (Unnassigned)",
+   "is-part-of": "kaa:kenchreai"
+  },{
+   "@id": "kaa:box-e0121",
+   "@type": "kaaont:excavation-box",
+   "date-excavated": "1963-08-06",
+   "title": "Box E121",
+   "is-part-of": "kaa:trench-e-ii-x-1"
+  },{
+   "@id": "kaa:trench-e-ii-x-1",
+   "@type": "kaaont:excavation-trench",
+   "is-part-of": "kaa:area-e"
+   }
+ ]
+}

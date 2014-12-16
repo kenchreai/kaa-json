@@ -1,0 +1,22 @@
+{
+ "@context": "kaa-context.jsonld",
+ "@graph": [
+  {
+   "@id":"kaaont:count",
+   "@type":"rdf:Property",
+   "title":"Count"
+  },{
+   "@id":"kaaont:file",
+   "@type":"rdf:Property",
+   "title":"Media file"
+  },{
+   "@id":"kaaont:inventory-number",
+   "@type":"rdf:Class",
+   "title":"Inventory number"
+  },{
+   "@id":"kaaont:observed",
+   "@type":"rdf:Property",
+   "title":"Observed"
+  }
+ ]
+}

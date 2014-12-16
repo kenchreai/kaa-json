@@ -1,0 +1,87 @@
+{
+"@context": "https://gist.githubusercontent.com/sfsheath/da7e0b07327babd54ffa/raw/kaa-context.jsonld",
+    "@graph": [
+        {
+            "@id": "kaathr:KTH001",
+            "@type": "kaao:kth-inventory-number",
+            "date-inventoried":"2014-05-14",
+            "by":"kaa/sebastian-heath",
+            "next": "kaathr:KTH002",
+            "from":"kaath:kth-container-001",
+            "typology":"kaatyp:p-prs-hayes-10a",
+            "part":"rim"
+        },{
+            "@id": "kaathr:KTH002",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH003",
+            "date-inventoried":"2014-05-14",
+            "by":"kaa/sebastian-heath",
+            "from": "kaakth:kth-container-002",
+            "typology": "kaatyp:p-amphora-spatheion",
+            "part":"kaaont:neck-rim"
+        },{
+            "@id": "kaathr:KTH003",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH004",
+            "by":"kaa/sebastian-heath",
+            "date-inventoried":"2014-05-14",
+            "from": "kaakth:kth-container-004",
+            "typology": "kaatyp:p-prs-hayes-10c"
+        },{
+            "@id": "kaathr:KTH004",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH005",
+            "from": "kaakth:kth-container-007",
+            "typology":"kaatyp:p-palestinian-string-cut-casserole"
+        },{
+            "@id": "kaathr:KTH005",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH006",
+            "typology":"kaatyp:p-lra-2",
+            "from":"kaakth:kth-container-003"
+        },{
+            "@id": "kaathr:KTH006",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH007",
+            "typology":"kaatyp:p-lra-2-small",
+            "from":"kaakth:kth-container-003"
+
+        },{
+            "@id": "kaathr:KTH007",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH008"
+        },{
+            "@id": "kaathr:KTH008",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH009"
+        },{
+            "@id": "kaathr:KTH009",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH010"
+        },{
+            "@id": "kaathr:KTH010",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH011"
+        },{
+            "@id": "kaathr:KTH011",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH012"
+        },{
+            "@id": "kaathr:KTH012",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH013"
+        },{
+            "@id": "kaathr:KTH013",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH014"
+        },{
+            "@id": "kaathr:KTH014",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH015"
+        },{
+            "@id": "kaathr:KTH015",
+            "@type": "kaao:inventory-number",
+            "next": "kaathr:KTH016"
+        }
+    ]
+}

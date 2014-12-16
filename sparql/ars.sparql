@@ -1,0 +1,12 @@
+SELECT ?s ?s2 ?ars_form_title
+WHERE {
+ OPTIONAL { 
+  ?s <http://www.cidoc-crm.org/cidoc-crm#P5_has_type> <http://kenchreai.org/kaa/typology/p-ars> .
+  ?s <http://www.cidoc-crm.org/cidoc-crm#P5_has_type> ?ars_form }
+
+ OPTIONAL { 
+  ?ars_form  <http://www.cidoc-crm.org/cidoc-crm#P127_has_broader_term> <http://kenchreai.org/kaa/typology/p-ars> .  
+  ?s2 <http://www.cidoc-crm.org/cidoc-crm#P5_has_type> ?ars_form . }
+
+ OPTIONAL { ?ars_form <http://purl.org/dc/terms/title> ?ars_form_title }
+}

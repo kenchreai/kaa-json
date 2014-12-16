@@ -1,0 +1,42 @@
+{
+"@context":{
+ "claros": "http://purl.org/NET/Claros/vocab#",
+ "crm": "http://www.cidoc-crm.org/cidoc-crm#",
+ "dct": "http://purl.org/dc/terms/",
+ "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#",
+ "lawd": "http://lawd.info/ontology/",
+ "owl": "http://www.w3.org/2002/07/owl#",
+ "pleiades": "http://pleiades.stoa.org/places/",
+ "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+ "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+ "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+ 
+    "kaa":"http://kenchreai.org/kaa/id/",
+ "kaakth":"http://kenchreai.org/kaa/threpsiades/id/",
+ "kaaont":"http://kenchreai.org/kaa/ontology/",
+ "kaatyp":"http://kenchreai.org/kaa/typology/",
+ 
+ "@base":"http://kenchreai.org/id",
+ 
+ "broader":{"@id":"crm:P127_has_broader_term","@type":"@id"},
+ "count":{"@id":"kaaont:count"},
+ "described-type":{"@id":"dct:format","@type":"@id"},
+ "description":{"@id":"dct:description"},
+ "file":{"@id":"kaaont:file"},
+ "is-part-of":{"@id":"dct:isPartOf","@type":"@id"},
+ "kth-sector":{"@id":"kaaont:inKthSector","@type":"@id"},
+ "kth-level":{"@id":"kaaont:inKthLevel","@type":"@id"},
+ "next":{"@id":"http://www.w3.org/TR/html4/types.html#next","@type":"@id"},
+ "not-before": "claros:not_before",
+ "not-after": "claros:not_after",
+ "observed": {"@id":"kaaont:observed","@type":"@id"},
+ "part": "kaaont:part",
+ "pages":{"@id":"kaaont:hasPage"},
+ "references":{"@id":"dct:references","@type":"@id"},
+ "same":{"@id":"owl:sameAs","@type":"@id"},
+ "see":{"@id":"rdfs:seeAlso","@type":"@id"},
+ "title":{"@id":"dct:title"},
+ "typology":{"@id":"crm:P5_has_type","@type":"@id"}
+ }
+}
