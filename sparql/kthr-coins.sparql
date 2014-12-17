@@ -1,9 +1,0 @@
-SELECT DISTINCT * 
-WHERE {
-?id ?p <http://nomisma.org/id/coin> ; 
- <http://kenchreai.org/kaa/ontology/inKthSector> ?sectorURI ;
- <http://kenchreai.org/kaa/ontology/inKthLevel> ?levelURI  .
- ?sectorURI <http://purl.org/dc/terms/title> ?sector .
- ?levelURI <http://purl.org/dc/terms/title> ?levels_with_coins .
-}
-ORDER BY ?levels_with_coins
