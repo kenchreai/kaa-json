@@ -12,11 +12,21 @@
    "broader": "kaatyp:generic",
    "title":"Glass"
   },{
+   "@id":"kaatyp:excavation-trench",
+   "@type":"crm:E55_type",
+   "broader": "kaatyp:generic",
+   "title":"Excavation Trench"
+  },{
    "@id":"kaatyp:kth-container",
    "@type": "crm:E55_type",
    "title": "A Threpsiades Container",
    "description": "A container, probably a crate, used to store material from the Threpsiades property. These IDs were assigned in 2014. This type is specialized and should not be used going forward.",
    "broader": "kaatyp:generic"
+  },{
+   "@id":"kaatyp:l",
+   "@type": "crm:E55_type",
+   "broader": "kaatyp:generic",
+   "title": "Lamp"
   },{
    "@id":"kaatyp:p",
    "@type": "crm:E55_type",
