@@ -7,7 +7,7 @@
    "title": "Unspecified typological identification",
    "is-part-of": "kaa:kaa"
   },{
-   "@id":"kaatyp:g",
+   "@id":"kaatyp:gl",
    "@type":"crm:E55_type",
    "broader": "kaatyp:generic",
    "title":"Glass"
@@ -27,6 +27,16 @@
    "@type": "crm:E55_type",
    "broader": "kaatyp:generic",
    "title": "Lamp"
+  },{
+   "@id":"kaatyp:mi",
+   "@type": "crm:E55_type",
+   "broader": "kaatyp:generic",
+   "title": "Miscellaneous"
+  },{
+   "@id":"kaatyp:mi-stone-bowl",
+   "@type": "crm:E55_type",
+   "broader": "kaatyp:mi",
+   "title": "Stone Bowl"
   },{
    "@id":"kaatyp:p",
    "@type": "crm:E55_type",
