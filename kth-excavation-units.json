@@ -1,7 +1,11 @@
 {
- "@context": "https://gist.githubusercontent.com/sfsheath/da7e0b07327babd54ffa/raw/kaa-context.jsonld",
+ "@context": "kaa-context.jsonld",
  "@graph": [
   {
+   "@id":"kaa:",
+   "@type":"kaa:excavation-trench",
+   "title":"Sector Alpha"
+  },{
    "@id":"kaath:kth-sector-alpha",
    "@type":"kaa:excavation-unit",
    "title":"Sector Alpha"

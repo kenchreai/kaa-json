@@ -208,6 +208,11 @@
    "@type":"crm:E55_type",
    "title": "Spatheion",
    "broader": "kaatyp:p-amphora"
+  },{
+   "@id":"kaatyp:s",
+   "@type": "crm:E55_type",
+   "broader": "kaatyp:generic",
+   "title": "Sculpture"
   }
  ]
 }

@@ -6,6 +6,10 @@
    "@type":"rdf:Property",
    "title":"Count"
   },{
+   "@id":"kaaont:excavation-trench",
+   "@type":["rdf:Class","rdf:Property"],
+   "title":"Excavation Trench"
+  },{
    "@id":"kaaont:file",
    "@type":"rdf:Property",
    "title":"Media file"

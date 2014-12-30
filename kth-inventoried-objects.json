@@ -1,5 +1,5 @@
 {
-"@context": "https://gist.githubusercontent.com/sfsheath/da7e0b07327babd54ffa/raw/kaa-context.jsonld",
+"@context": "kaa-context.jsonld",
     "@graph": [
         {
             "@id": "kaathr:KTH001",
