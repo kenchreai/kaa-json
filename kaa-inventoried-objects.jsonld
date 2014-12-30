@@ -268,6 +268,7 @@
     },
     {
       "@id": "kaa:KE0030",
+      "file": "pagescans/inventory/29-34.PDF",
       "is-part-of": "kaa:inventory-book",
       "next": "kaa:KE0031",
       "typology": "kaatyp:l",
@@ -275,6 +276,7 @@
     },
     {
       "@id": "kaa:KE0031",
+      "file": "pagescans/inventory/29-34.PDF",
       "is-part-of": "kaa:inventory-book",
       "next": "kaa:KE0032",
       "typology": "kaatyp:l",
@@ -282,6 +284,7 @@
     },
     {
       "@id": "kaa:KE0032",
+      "file": "pagescans/inventory/29-34.PDF",
       "is-part-of": "kaa:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_1784.tif",
       "next": "kaa:KE0033",
@@ -289,6 +292,7 @@
     },
     {
       "@id": "kaa:KE0033",
+      "file": "pagescans/inventory/29-34.PDF",
       "is-part-of": "kaa:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_2891.tif",
       "next": "kaa:KE0034",
@@ -296,8 +300,8 @@
     },
     {
       "@id": "kaa:KE0034",
-      "is-part-of": "kaa:inventory-book",
       "file": "pagescans/inventory/29-34.PDF",
+      "is-part-of": "kaa:inventory-book",
       "next": "kaa:KE0035",
       "typology": "kaatyp:l",
       "@type": "kaaont:inventory-number"
@@ -311,23 +315,29 @@
         "photography/2011_inventory_photos/IMG_3021.tif"
       ],
       "next": "kaa:KE0036",
+      "same": "kaa:GL0002",
+      "typology": "kaatyp:gl",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaa:KE0036",
       "is-part-of": "kaa:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_2986.tif",
+      "file": [
+        "pagescans/inventory/35-40.PDF",
+        "photography/2011_inventory_photos/IMG_2986.tif"],
       "next": "kaa:KE0037",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaa:KE0037",
+      "file": "pagescans/inventory/35-40.PDF",
       "is-part-of": "kaa:inventory-book",
       "next": "kaa:KE0038",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaa:KE0038",
+      "file": "pagescans/inventory/35-40.PDF",
       "is-part-of": "kaa:inventory-book",
       "next": "kaa:KE0039",
       "typology": "kaatyp:l",
@@ -335,6 +345,7 @@
     },
     {
       "@id": "kaa:KE0039",
+      "file": "pagescans/inventory/35-40.PDF",
       "is-part-of": "kaa:inventory-book",
       "next": "kaa:KE0040",
       "typology": "kaatyp:l",
@@ -360,6 +371,7 @@
     },
     {
       "@id": "kaa:KE0042",
+      "file": "pagescans/inventory/41-46.PDF",
       "is-part-of": "kaa:inventory-book",
       "next": "kaa:KE0043",
       "@type": "kaaont:inventory-number"
@@ -367,19 +379,20 @@
     {
       "@id": "kaa:KE0043",
       "is-part-of": "kaa:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_0455.tif",
+      "file": ["pagescans/inventory/41-46.PDF","photography/2011_inventory_photos/IMG_0455.tif"],
       "next": "kaa:KE0044",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaa:KE0044",
       "is-part-of": "kaa:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_1849.tif",
+      "file": ["pagescans/inventory/41-46.PDF","photography/2011_inventory_photos/IMG_1849.tif"],
       "next": "kaa:KE0045",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaa:KE0045",
+      "file": "pagescans/inventory/41-46.PDF",
       "is-part-of": "kaa:inventory-book",
       "next": "kaa:KE0046",
       "@type": "kaaont:inventory-number"
@@ -401,37 +414,37 @@
     {
       "@id": "kaa:KE0048",
       "is-part-of": "kaa:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_2979.tif",
+      "file": ["pagescans/inventory/47-53.PDF","photography/2011_inventory_photos/IMG_2979.tif"],
       "next": "kaa:KE0049",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaa:KE0049",
       "is-part-of": "kaa:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_2983.tif",
+      "file": ["pagescans/inventory/47-53.PDF","photography/2011_inventory_photos/IMG_2983.tif"],
       "next": "kaa:KE0050",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaa:KE0050",
       "is-part-of": "kaa:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_2985.tif",
+      "file": ["pagescans/inventory/47-53.PDF","photography/2011_inventory_photos/IMG_2985.tif"],
       "next": "kaa:KE0051",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaa:KE0051",
-      "is-part-of": "kaa:inventory-book",
+      "file": "pagescans/inventory/47-53.PDF","is-part-of": "kaa:inventory-book",
       "next": "kaa:KE0052",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaa:KE0052",
       "is-part-of": "kaa:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_1941.tif",
+      "file": ["pagescans/inventory/47-53.PDF","photography/2011_inventory_photos/IMG_1941.tif"],
       "same": "kaa:S0002",
       "next": "kaa:KE0053",
-      "typology": "kaatyp:s",
+      "typology": "kaatyp:s-terracotta",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -9823,8 +9836,11 @@
     {
       "@id": "kaa:KE1261",
       "is-part-of": "kaa:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_2778.tif",
+      "file": [
+        "pagescans/inventory/1260-1263.PDF",
+        "photography/2011_inventory_photos/IMG_2778.tif"],
       "next": "kaa:KE1262",
+      "typology": "kaatyp:p-attic-red-figure",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -17507,6 +17523,7 @@
       "is-part-of": "kaa:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_2784.tif",
       "next": "kaa:KE2301",
+      "typology": "kaatyp:p-cw-phocaean-cookware",
       "@type": "kaaont:inventory-number"
     },
     {

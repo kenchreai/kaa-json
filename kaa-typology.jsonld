@@ -104,6 +104,11 @@
    "broader": "kaatyp:p-slipped-fw",
    "see":"http://www.agathe.gr/id/agora/object/p%2034657"
   },{
+   "@id": "kaatyp:p-attic-red-figure",
+   "@type": "crm:E55_type",
+   "title": "Attic Red Figure",
+   "broader": "kaatyp:p-fw"
+  },{
    "@id":"kaatyp:p-amphora-beirut-8",
    "@type": "crm:E55_type",
    "broader":"kaatyp:p-amphora",
@@ -121,6 +126,16 @@
    "@id":"kaatyp:p-byz-sgraffito",
    "@type": "crm:E55_type",
    "title": "Byzantine Sgraffito"
+  },{
+   "@id": "kaatyp:p-cw",
+   "@type": "crm:E55_type",
+   "title": "Coarse Ware",
+   "broader": "kaatyp:p"
+  },{
+   "@id": "kaatyp:p-cw-phocaean-cookware",
+   "@type": "crm:E55_type",
+   "title": "Phocaean Cooking Ware",
+   "broader": "kaatyp:p-cw"
   },{
    "@id": "kaatyp:p-esc-hayes-1",
    "@type": "crm:E55_type",
@@ -223,6 +238,11 @@
    "@type": "crm:E55_type",
    "broader": "kaatyp:generic",
    "title": "Sculpture"
+  },{
+   "@id":"kaatyp:s-terracotta",
+   "@type": "crm:E55_type",
+   "broader": "kaatyp:s",
+   "title": "Terracotta Figurine"
   }
  ]
 }
