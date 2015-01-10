@@ -11,8 +11,8 @@
  "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
  "xsd": "http://www.w3.org/2001/XMLSchema#",
 
- 
-    "kaa":"http://kenchreai.org/kaa/id/",
+ "kaa": "http://kenchreai.org/kaa/",
+ "kaahbr":"http://kenchreai.org/kaa/harbor/id/",
  "kaakth":"http://kenchreai.org/kaa/threpsiades/id/",
  "kaaont":"http://kenchreai.org/kaa/ontology/",
  "kaatyp":"http://kenchreai.org/kaa/typology/",
