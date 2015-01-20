@@ -2,8 +2,8 @@
  "@context": "kaa-context.jsonld",
  "@graph": [
   {
-   "@id":"kaa:",
-   "@type":"rdf:Property",
+   "@id":"kaa:kaa",
+   "@type":"rdf:Resource",
    "title":"The Kenchreai Archaeological Archive"
   } 
  ]
