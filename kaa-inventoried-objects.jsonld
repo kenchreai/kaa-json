@@ -9576,13 +9576,13 @@
       ],
       "same": "kaahbr:S0053",
       "next": "kaahbr:KE1221",
-      "model": "http://p3d.in/oJZFm",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:KE1221",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1220-1221.PDF",
+      "model": "http://p3d.in/oJZFm",
       "same": "kaahbr:S0054",
       "next": "kaahbr:KE1222",
       "typology": "kaatyp:s",
