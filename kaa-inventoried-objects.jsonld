@@ -1832,7 +1832,7 @@
       "@id": "kaahbr:KE0235",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/233-236.PDF",
-      "kaaont:three-d-model": "http://p3d.in/pJKgf/shadeless",
+      "model": "http://p3d.in/pJKgf/shadeless",
       "same": "kaahbr:L0061",
       "next": "kaahbr:KE0236",
       "typology": "kaatyp:l",
@@ -9576,15 +9576,16 @@
       ],
       "same": "kaahbr:S0053",
       "next": "kaahbr:KE1221",
+      "model": "http://p3d.in/oJZFm",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:KE1221",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1220-1221.PDF",
-      "kaaont:location-string": "Near Isthmia shelf Z1.",
       "same": "kaahbr:S0054",
       "next": "kaahbr:KE1222",
+      "typology": "kaatyp:s",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -9614,7 +9615,7 @@
         "kaahbr:inventory-book"
       ],
       "file": "pagescans/inventory/1224-1227.PDF",
-      "kaaont:three-d-model": "http://p3d.in/y9hVe/shadeless",
+      "model": "http://p3d.in/y9hVe/shadeless",
       "same": "kaahbr:S0057",
       "next": "kaahbr:KE1225",
       "@type": "kaaont:inventory-number"
@@ -14205,7 +14206,7 @@
         "pagescans/inventory/1828-1834.PDF",
         "photography/2011_inventory_photos/IMG_1177.tif"
       ],
-      "kaaont:three-d-model": "http://p3d.in/LbBsj/shadeless",
+      "model": "http://p3d.in/LbBsj/shadeless",
       "same": "kaahbr:AR0096",
       "next": "kaahbr:KE1829",
       "@type": "kaaont:inventory-number"

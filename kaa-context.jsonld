@@ -11,7 +11,7 @@
  "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
  "xsd": "http://www.w3.org/2001/XMLSchema#",
 
- "kaa": "http://kenchreai.org/kaa/",
+ "kaa":   "http://kenchreai.org/kaa/",
  "kaahbr":"http://kenchreai.org/kaa/harbor/id/",
  "kaakth":"http://kenchreai.org/kaa/threpsiades/id/",
  "kaaont":"http://kenchreai.org/kaa/ontology/",
@@ -27,6 +27,7 @@
  "is-part-of":{"@id":"dct:isPartOf","@type":"@id"},
  "kth-sector":{"@id":"kaaont:inKthSector","@type":"@id"},
  "kth-level":{"@id":"kaaont:inKthLevel","@type":"@id"},
+ "model":{"@id":"kaaont:model","@type":"@id"},
  "next":{"@id":"http://www.w3.org/TR/html4/types.html#next","@type":"@id"},
  "not-before": "claros:not_before",
  "not-after": "claros:not_after",
