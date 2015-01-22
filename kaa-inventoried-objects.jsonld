@@ -9580,13 +9580,14 @@
     },
     {
       "@id": "kaahbr:KE1221",
-      "is-part-of": "kaahbr:inventory-book",
+      "@type": "kaaont:inventory-number",
+      "is-part-of": ["kaahbr:area-a","kaahbr:inventory-book"],
       "file": "pagescans/inventory/1220-1221.PDF",
       "model": "http://p3d.in/oJZFm",
       "same": "kaahbr:S0054",
       "next": "kaahbr:KE1222",
-      "typology": "kaatyp:s",
-      "@type": "kaaont:inventory-number"
+      "title": "Marble Statue Base",
+      "typology": "kaatyp:s"
     },
     {
       "@id": "kaahbr:KE1222",
