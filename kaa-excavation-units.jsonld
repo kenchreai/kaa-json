@@ -2,7 +2,7 @@
  "@context": "kaa-context.jsonld",
  "@graph": [
   {
-   "@id":"kaahbr:kenchreai",
+   "@id":"kaa:kenchreai",
    "@type": "lawd:Place",
    "geo:lat": 37.885,
    "geo:long": 22.9875,
