@@ -21,6 +21,11 @@
    "@id":"kaaont:observed",
    "@type":"rdf:Property",
    "title":"Observed"
+  },{
+   "@id":"kaaont:person",
+   "@type":"rdf:Class",
+   "title":"Observed",
+   "owl:sameAs": "foaf:Person"
   }
  ]
 }

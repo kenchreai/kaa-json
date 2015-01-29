@@ -12,8 +12,8 @@
  "xsd": "http://www.w3.org/2001/XMLSchema#",
 
  "kaa":   "http://kenchreai.org/kaa/",
- "kaahbr":"http://kenchreai.org/kaa/harbor/id/",
- "kaakth":"http://kenchreai.org/kaa/threpsiades/id/",
+ "kaahbr":"http://kenchreai.org/kaa/harbor/",
+ "kaakth":"http://kenchreai.org/kaa/threpsiades/",
  "kaaont":"http://kenchreai.org/kaa/ontology/",
  "kaatyp":"http://kenchreai.org/kaa/typology/",
  
