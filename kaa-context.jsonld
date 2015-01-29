@@ -38,6 +38,7 @@
  "same":{"@id":"owl:sameAs","@type":"@id"},
  "see":{"@id":"rdfs:seeAlso","@type":"@id"},
  "title":{"@id":"dct:title"},
- "typology":{"@id":"crm:P5_has_type","@type":"@id"}
+ "typology":{"@id":"crm:P5_has_type","@type":"@id"},
+ "viaf":{"@id":"rdfs:seeAlso", "@type":"@id"}
  }
 }
