@@ -9,12 +9,26 @@
    "see": "http://www.worldcat.org/oclc/489736548",
    "viaf": "http://viaf.org/viaf/191392491"
   },{
+   "@id":"kaa:martin-breen",
+   "@type": "kaaont:person",
+   "comment": "No viaf ID?",
+   "foaf:name": "Martin Breen",
+   "is-part-of": "kaa:kaa",
+   "see": "http://www.worldcat.org/oclc/303579603"
+  },{
    "@id":"kaa:robert-brill",
    "@type": "kaaont:person",
    "foaf:name": "Robert Brill",
    "is-part-of": "kaa:kaa",
    "see": "http://www.worldcat.org/oclc/489736404",
    "viaf": "http://viaf.org/viaf/17303911"
+  },{
+   "@id":"kaa:roxana-docsan",
+   "@type": "kaaont:person",
+   "foaf:name": "Roxana Docsan",
+   "is-part-of": "kaa:kaa",
+   "see": "http://www.worldcat.org/oclc/303579603",
+   "viaf": "http://viaf.org/viaf/217386788"
   },{
    "@id":"kaa:elizabeth-gebhard",
    "@type": "kaaont:person",
@@ -65,6 +79,13 @@
    "is-part-of": "kaa:kaa",
    "see": "http://www.worldcat.org/oclc/303579603",
    "viaf": "http://viaf.org/viaf/48390541"
+  },{
+   "@id":"kaa:danae-hadjilazaro-thimme",
+   "@type": "kaaont:person",
+   "foaf:name": "Danae Hadjilazaro Thimme",
+   "is-part-of": "kaa:kaa",
+   "see": "http://www.worldcat.org/oclc/303579603",
+   "viaf": ["http://viaf.org/viaf/10183217","http://viaf.org/viaf/237380935"]
   },{
    "@id":"kaa:hector-williams",
    "@type": "kaaont:person",
