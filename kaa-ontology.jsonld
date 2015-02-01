@@ -33,7 +33,7 @@
   },{
    "@id":"kaaont:person",
    "@type":"rdf:Class",
-   "title":"Observed",
+   "title":"Person",
    "owl:sameAs": "foaf:Person"
   }
  ]
