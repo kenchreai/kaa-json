@@ -6,6 +6,10 @@
    "@type":"rdf:Property",
    "title":"Count"
   },{
+   "@id":"kaaont:excavation-notebook",
+   "@type":["rdf:Class","rdf:Property"],
+   "title":"Excavation Trench"
+  },{
    "@id":"kaaont:excavation-trench",
    "@type":["rdf:Class","rdf:Property"],
    "title":"Excavation Trench"
@@ -17,6 +21,11 @@
    "@id":"kaaont:inventory-number",
    "@type":"rdf:Class",
    "title":"Inventory number"
+  },{
+   "@id":"kaaont:notebook-page",
+   "@type":"rdf:Class",
+   "title":"Observed",
+   "owl:sameAs": "foaf:Person"
   },{
    "@id":"kaaont:observed",
    "@type":"rdf:Property",
