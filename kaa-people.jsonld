@@ -23,6 +23,13 @@
    "see": "http://www.worldcat.org/oclc/489736404",
    "viaf": "http://viaf.org/viaf/17303911"
   },{
+   "@id":"kaa:wellington-wilson-cummer",
+   "@type": "kaaont:person",
+   "foaf:name": "W. Wilson CUummer",
+   "is-part-of": "kaa:kaa",
+   "see": "http://www.jstor.org/stable/10.2307/147632",
+   "viaf": "http://viaf.org/viaf/47366868"
+  },{
    "@id":"kaa:roxana-docsan",
    "@type": "kaaont:person",
    "foaf:name": "Roxana Docsan",

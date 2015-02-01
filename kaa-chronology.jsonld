@@ -24,7 +24,7 @@
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Three",
    "is-part-of": "kaa:kaa",
-   "see": "http://en.wikipedia.org/wiki/1963"
+   "see": ["http://en.wikipedia.org/wiki/1963","http://www.jstor.org/stable/10.2307/147183"]
   },{
    "@id":"kaa:year1964",
    "@type": "kaaont:year",
