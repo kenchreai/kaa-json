@@ -1,0 +1,77 @@
+{
+ "@context": "kaa-context.jsonld",
+ "@graph": [
+  {
+   "@id":"kaa:beverley-adamsheck",
+   "@type": "kaaont:person",
+   "foaf:name": "Beverley Adamsheck",
+   "is-part-of": "kaa:kaa",
+   "see": "http://www.worldcat.org/oclc/489736548",
+   "viaf": "http://viaf.org/viaf/191392491"
+  },{
+   "@id":"kaa:robert-brill",
+   "@type": "kaaont:person",
+   "foaf:name": "Robert Brill",
+   "is-part-of": "kaa:kaa",
+   "see": "http://www.worldcat.org/oclc/489736404",
+   "viaf": "http://viaf.org/viaf/17303911"
+  },{
+   "@id":"kaa:elizabeth-gebhard",
+   "@type": "kaaont:person",
+   "foaf:name": "Elizabeth Gebhard",
+   "is-part-of": "kaa:kaa",
+   "viaf": "http://viaf.org/viaf/195628890",
+   "year": "kaa:year1963"
+  },{
+   "@id":"kaa:robert-hohlfelder",
+   "@type": "kaaont:person",
+   "foaf:name": "Robert Hohlfelder",
+   "is-part-of": "kaa:kaa",
+   "see": "http://www.worldcat.org/oclc/829279",
+   "viaf": "http://viaf.org/viaf/46773164"
+  },{
+   "@id":"kaa:leila-ibrahim",
+   "@type": "kaaont:person",
+   "foaf:name": "Leila Ibrahim",
+   "is-part-of": "kaa:kaa",
+   "see": "http://www.worldcat.org/oclc/489736404",
+   "viaf": "http://viaf.org/viaf/35708767"
+  },{
+   "@id":"kaa:joseph-rife",
+   "@type": "kaaont:person",
+   "foaf:name": "Joseph Rife",
+   "is-part-of": "kaa:kaa",
+   "see": "http://www.worldcat.org/oclc/5548904576",
+   "viaf": "http://viaf.org/viaf/292151525"
+  },{
+   "@id":"kaa:robert-scranton",
+   "@type": "kaaont:person",
+   "foaf:name": "Robert Scranton",
+   "is-part-of": "kaa:kaa",
+   "see": "http://www.worldcat.org/oclc/489736331",
+   "viaf": "http://viaf.org/viaf/107033339",
+   "year": "kaa:year1963"
+  },{
+   "@id":"kaa:joseph-shaw",
+   "@type": "kaaont:person",
+   "foaf:name": "Joseph Shaw",
+   "is-part-of": "kaa:kaa",
+   "see": "http://www.worldcat.org/oclc/489736331",
+   "viaf": "http://viaf.org/viaf/80260303"
+  },{
+   "@id":"kaa:wilma-olch-stern",
+   "@type": "kaaont:person",
+   "foaf:name": "Wilma Olch Stern",
+   "is-part-of": "kaa:kaa",
+   "see": "http://www.worldcat.org/oclc/303579603",
+   "viaf": "http://viaf.org/viaf/48390541"
+  },{
+   "@id":"kaa:hector-williams",
+   "@type": "kaaont:person",
+   "foaf:name": "Hector Williams",
+   "is-part-of": "kaa:kaa",
+   "see": "http://www.worldcat.org/oclc/489736603",
+   "viaf": "http://viaf.org/viaf/36373493"
+  }
+ ]
+}

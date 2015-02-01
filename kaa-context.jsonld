@@ -40,6 +40,7 @@
  "see":{"@id":"rdfs:seeAlso","@type":"@id"},
  "title":{"@id":"dct:title"},
  "typology":{"@id":"crm:P5_has_type","@type":"@id"},
- "viaf":{"@id":"rdfs:seeAlso", "@type":"@id"}
+ "viaf":{"@id":"rdfs:seeAlso", "@type":"@id"},
+ "year":{"@id":"dct:isPartOf", "@type":"@id"}
  }
 }
