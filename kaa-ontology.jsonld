@@ -22,6 +22,10 @@
    "@type":"rdf:Class",
    "title":"Inventory number"
   },{
+   "@id":"kaaont:month",
+   "@type":["rdf:Class","rdf:Property"],
+   "title":"Month"
+  },{
    "@id":"kaaont:notebook-page",
    "@type":"rdf:Class",
    "title":"Observed",
@@ -35,6 +39,10 @@
    "@type":"rdf:Class",
    "title":"Person",
    "owl:sameAs": "foaf:Person"
+  },{
+   "@id":"kaaont:year",
+   "@type":["rdf:Class","rdf:Property"],
+   "title":"Year"
   }
  ]
 }
