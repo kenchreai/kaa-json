@@ -6,70 +6,70 @@
    "@type": "kaaont:year",
    "title": "Nineteen Sixty",
    "is-part-of": "kaa:kaa",
-   "next": "year1961",
+   "next": "kaa:year1961",
    "see": "http://en.wikipedia.org/wiki/1960"
   },{
    "@id":"kaa:year1961",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-One",
    "is-part-of": "kaa:kaa",
-   "next": "year1962",
+   "next": "kaa:year1962",
    "see": "http://en.wikipedia.org/wiki/1961"
   },{
    "@id":"kaa:year1962",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Two",
    "is-part-of": "kaa:kaa",
-   "next": "year1963",
+   "next": "kaa:year1963",
    "see": "http://en.wikipedia.org/wiki/1962"
   },{
    "@id":"kaa:year1963",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Three",
    "is-part-of": "kaa:kaa",
-   "next": "year1964",
+   "next": "kaa:year1964",
    "see": ["http://en.wikipedia.org/wiki/1963","http://www.jstor.org/stable/10.2307/147183"]
   },{
    "@id":"kaa:year1964",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Four",
    "is-part-of": "kaa:kaa",
-   "next": "year1965",
+   "next": "kaa:year1965",
    "see": "http://en.wikipedia.org/wiki/1964"
   },{
    "@id":"kaa:year1965",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Five",
    "is-part-of": "kaa:kaa",
-   "next": "year1966",
+   "next": "kaa:year1966",
    "see": "http://en.wikipedia.org/wiki/1965"
   },{
    "@id":"kaa:year1966",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Six",
    "is-part-of": "kaa:kaa",
-   "next": "year1967",
+   "next": "kaa:year1967",
    "see": "http://en.wikipedia.org/wiki/1966"
   },{
    "@id":"kaa:year1967",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Seven",
    "is-part-of": "kaa:kaa",
-   "next": "year1968",
+   "next": "kaa:year1968",
    "see": "http://en.wikipedia.org/wiki/1967"
   },{
    "@id":"kaa:year1968",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Eight",
    "is-part-of": "kaa:kaa",
-   "next": "year1969",
+   "next": "kaa:year1969",
    "see": "http://en.wikipedia.org/wiki/1968"
   },{
    "@id":"kaa:year1969",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Nine",
    "is-part-of": "kaa:kaa",
-   "next": "year1970",
+   "next": "kaa:year1970",
    "see": "http://en.wikipedia.org/wiki/1969"
   },{
    "@id":"kaa:year1970",
