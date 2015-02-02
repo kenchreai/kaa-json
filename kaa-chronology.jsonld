@@ -34,7 +34,7 @@
    "@type": "kaaont:month",
    "title": "June, 1963",
    "is-part-of": "kaa:year1963",
-   "next": "kaa:year1964",
+   "next": "kaa:month-july-1963",
    "see": ["http://en.wikipedia.org/wiki/June_1963"]
   },{
    "@id":"kaa:month-july-1963",
@@ -50,6 +50,19 @@
    "is-part-of": "kaa:kaa",
    "next": "kaa:year1965",
    "see": "http://en.wikipedia.org/wiki/1964"
+  },{
+   "@id":"kaa:month-july-1964",
+   "@type": "kaaont:month",
+   "title": "July, 1964",
+   "is-part-of": "kaa:year1964",
+   "next": "kaa:month-august-1964",
+   "see": ["http://en.wikipedia.org/wiki/July_1964"]
+  },{
+   "@id":"kaa:month-august-1964",
+   "@type": "kaaont:month",
+   "title": "August, 1964",
+   "is-part-of": "kaa:year1964",
+   "see": ["http://en.wikipedia.org/wiki/August_1964"]
   },{
    "@id":"kaa:year1965",
    "@type": "kaaont:year",
@@ -85,6 +98,12 @@
    "is-part-of": "kaa:kaa",
    "next": "kaa:year1970",
    "see": "http://en.wikipedia.org/wiki/1969"
+  },{
+   "@id":"kaa:month-march-1969",
+   "@type": "kaaont:month",
+   "title": "March, 1969",
+   "is-part-of": "kaa:year1969",
+   "see": ["http://en.wikipedia.org/wiki/March_1969"]
   },{
    "@id":"kaa:year1970",
    "@type": "kaaont:year",

@@ -211,7 +211,7 @@
    "@id":"kaahbr:area-ta",
    "@type":"kaaont:excavation-area",
    "title":"Area TA",
-   "is-part-of": "kaa:kenchreai"
+   "is-part-of": ["kaa:kenchreai", "kaa:month-july-1964", "kaa:month-august-1964","kaa:month-march-1969"]
   },{
    "@id":"kaahbr:area-ua",
    "@type":"kaaont:excavation-area",

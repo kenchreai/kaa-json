@@ -36,8 +36,8 @@
   },{
    "@id":"kaa:wellington-wilson-cummer",
    "@type": "kaaont:person",
-   "foaf:name": "W. Wilson CUummer",
-   "is-part-of": "kaa:kaa",
+   "foaf:name": "W. Wilson Cummer",
+   "is-part-of": ["kaa:kaa", "kaa:year1969"],
    "see": "http://www.jstor.org/stable/10.2307/147632",
    "viaf": "http://viaf.org/viaf/47366868"
   },{
