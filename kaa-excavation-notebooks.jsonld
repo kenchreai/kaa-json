@@ -4,13 +4,13 @@
    "@id":"kaahbr:notebook-a-i",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A Notebook I",
-   "is-part-of":["kaahbr:area-a", "kaa:year1963"],
+   "is-part-of":["kaahbr:area-a", "kaa:month-june-1963"],
    "next": "kaahbr:notebook-a-ii"
   },{
    "@id":"kaahbr:notebook-a-ii",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A Notebook II",
-   "is-part-of":["kaahbr:area-a", "kaa:year1963"],
+   "is-part-of":["kaahbr:area-a", "kaa:month-july-1963"],
    "next": "kaahbr:notebook-a-iii"
   },{
    "@id":"kaahbr:notebook-a-iii",

@@ -30,6 +30,20 @@
    "next": "kaa:year1964",
    "see": ["http://en.wikipedia.org/wiki/1963","http://www.jstor.org/stable/10.2307/147183"]
   },{
+   "@id":"kaa:month-june-1963",
+   "@type": "kaaont:month",
+   "title": "June, 1963",
+   "is-part-of": "kaa:year1963",
+   "next": "kaa:year1964",
+   "see": ["http://en.wikipedia.org/wiki/June_1963"]
+  },{
+   "@id":"kaa:month-july-1963",
+   "@type": "kaaont:month",
+   "title": "July, 1963",
+   "is-part-of": "kaa:year1963",
+   "next": "kaa:year1964",
+   "see": ["http://en.wikipedia.org/wiki/July_1963"]
+  },{
    "@id":"kaa:year1964",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Four",
