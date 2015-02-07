@@ -8,6 +8,11 @@
    "geo:long": 22.9875,
    "rdfs:seeAlso": "http://pleiades.stoa.org/places/570347"
   },{
+   "@id":"kaa:harbor",
+   "@type": "kaa:project",
+   "is-part-of": "kaa:",
+   "title": "The Chicago/Indiana Excavations at Kenchreai"
+  },{
    "@id":"kaahbr:area-a",
    "@type":"kaaont:excavation-area",
    "title":"Area A",
