@@ -5421,22 +5421,24 @@
     {
       "@id": "kaahbr:KE0693",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_1936.tif",
+      "file": ["pagescans/inventory/692-696.PDF","photography/2011_inventory_photos/IMG_1936.tif"],
       "same": "kaahbr:S0016",
       "next": "kaahbr:KE0694",
+      "typology": "kaatyp:s-terracotta",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:KE0694",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_1398.tif",
+      "file": ["pagescans/inventory/692-696.PDF","photography/2011_inventory_photos/IMG_1398.tif"],
       "next": "kaahbr:KE0695",
+      "typology": "kaatyp:p-amphora",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:KE0695",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_2937.tif",
+      "file": ["pagescans/inventory/692-696.PDF","photography/2011_inventory_photos/IMG_2937.tif"],
       "next": "kaahbr:KE0696",
       "@type": "kaaont:inventory-number"
     },

@@ -15,16 +15,19 @@
   },{
    "@id":"kaahbr:area-a",
    "@type":"kaaont:excavation-area",
+   "next": "kaahbr:area-b",
    "title":"Area A",
    "is-part-of": "kaa:kenchreai"
   },{
    "@id":"kaahbr:area-b",
    "@type":"kaaont:excavation-area",
+   "next": "kaahbr:area-c",
    "title":"Area B",
    "is-part-of": "kaa:kenchreai"
   },{
    "@id":"kaahbr:area-c",
    "@type":"kaaont:excavation-area",
+   "next": "kaahbr:area-d",
    "title":"Area C",
    "is-part-of": "kaa:kenchreai"
   },{
@@ -190,6 +193,7 @@
   },{
    "@id":"kaahbr:area-d",
    "@type":"kaaont:excavation-area",
+   "next": "kaahbr:area-e",
    "title":"Area D",
    "is-part-of": "kaa:kenchreai"
   },{
@@ -200,7 +204,8 @@
   },{
    "@id": "kaahbr:trench-e-ii-x-1",
    "@type": "kaaont:excavation-trench",
-   "is-part-of": "kaahbr:area-e"
+   "is-part-of": "kaahbr:area-e",
+   "next": "kaahbr:area-g"
    },{
    "@id": "kaahbr:box-e0121",
    "@type": "kaaont:excavation-box",
@@ -211,7 +216,8 @@
    "@id":"kaahbr:area-g",
    "@type":"kaaont:excavation-area",
    "title":"Area G",
-   "is-part-of": "kaa:kenchreai"
+   "is-part-of": "kaa:kenchreai",
+   "next": "kaahbr:area-ua"
   },{
    "@id":"kaahbr:area-ta",
    "@type":"kaaont:excavation-area",
@@ -221,7 +227,8 @@
    "@id":"kaahbr:area-ua",
    "@type":"kaaont:excavation-area",
    "title":"Area UA (Unnassigned)",
-   "is-part-of": "kaahbr:kenchreai"
+   "is-part-of": "kaahbr:kenchreai",
+   "next": "kaahbr:area-ta"
   }
  ]
 }
