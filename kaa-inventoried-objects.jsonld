@@ -5276,7 +5276,6 @@
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/674-680.PDF",
-        "photography/2011_inventory_photos/IMG_2247.tif",
         "photography/2011_inventory_photos/IMG_2776.tif"
       ],
       "next": "kaahbr:KE0677",
@@ -13058,6 +13057,7 @@
     },
     {
       "@id": "kaahbr:KE1675",
+      "file": "photography/2011_inventory_photos/IMG_2247.tif",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:KE1676",
       "@type": "kaaont:inventory-number"
