@@ -18,6 +18,10 @@
    "@type":"rdf:Property",
    "title":"Media file"
   },{
+   "@id":"kaaont:inventory-book-description",
+   "@type":"rdf:Class",
+   "title":"Inventory book description"
+  },{
    "@id":"kaaont:inventory-number",
    "@type":"rdf:Class",
    "title":"Inventory number"
