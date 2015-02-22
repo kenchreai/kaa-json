@@ -104,6 +104,11 @@
    "broader": "kaatyp:p-slipped-fw",
    "see":"http://www.agathe.gr/id/agora/object/p%2034657"
   },{
+   "@id": "kaatyp:p-attic-black-figure",
+   "@type": "crm:E55_type",
+   "title": "Attic Black Figure",
+   "broader": "kaatyp:p-fw"
+  },{
    "@id": "kaatyp:p-attic-red-figure",
    "@type": "crm:E55_type",
    "title": "Attic Red Figure",

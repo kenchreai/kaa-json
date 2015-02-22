@@ -5198,13 +5198,14 @@
     },
     {
       "@id": "kaahbr:KE0669",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/669-673.PDF",
         "photography/2011_inventory_photos/IMG_2266.tif"
       ],
       "next": "kaahbr:KE0670",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p"
     },
     {
       "@id": "kaahbr:KE0670",
@@ -5241,19 +5242,20 @@
     {
       "@id": "kaahbr:KE0672",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_2957.tif",
+      "file": ["pagescans/inventory/669-673.PDF","photography/2011_inventory_photos/IMG_2957.tif"],
       "next": "kaahbr:KE0673",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:KE0673",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/669-673.PDF",
         "photography/2011_inventory_photos/IMG_1478.tif"
       ],
       "next": "kaahbr:KE0674",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-amphora"
     },
     {
       "@id": "kaahbr:KE0674",
@@ -5268,7 +5270,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/674-680.PDF","photography/2011_inventory_photos/IMG_1460.tif"],
       "next": "kaahbr:KE0676",
-      "typology": "kaatyp:p",
+      "typology": "kaatyp:p-amphora",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -5279,7 +5281,7 @@
         "photography/2011_inventory_photos/IMG_2776.tif"
       ],
       "next": "kaahbr:KE0677",
-      "typology": "kaatyp:p",
+      "typology": "kaatyp:p-attic-black-figure",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -5289,7 +5291,7 @@
         "pagescans/inventory/674-680.PDF",
         "photography/2011_inventory_photos/IMG_1532.tif"],
       "next": "kaahbr:KE0678",
-      "typology": "kaatyp:p",
+      "typology": "kaatyp:p-amphora",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -5301,7 +5303,7 @@
         "photography/2011_inventory_photos/IMG_1801.tif"
       ],
       "next": "kaahbr:KE0679",
-      "typology": "kaatyp:p",
+      "typology": "kaatyp:p-amphora",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -16714,10 +16716,11 @@
     },
     {
       "@id": "kaahbr:KE2169",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_2887.tif",
+      "file": ["photography/2011_inventory_photos/IMG_2887.tif", "pagescans/inventory/Inventory_Book_2_90.png"],
       "next": "kaahbr:KE2170",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p"
     },
     {
       "@id": "kaahbr:KE2170",
