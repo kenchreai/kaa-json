@@ -35,6 +35,10 @@
    "@type":"rdf:Class",
    "title":"Inventory number"
   },{
+   "@id":"kaaont:model",
+   "@type":["rdf:Class","rdf:Property"],
+   "title":"3d Model"
+  },{
    "@id":"kaaont:month",
    "@type":["rdf:Class","rdf:Property"],
    "title":"Month"

@@ -7,28 +7,33 @@
    "title": "Nineteen Sixty",
    "is-part-of": "kaa:kaa",
    "next": "kaa:year1961",
-   "see": "http://en.wikipedia.org/wiki/1960"
+   "see": "http://en.wikipedia.org/wiki/1960",
+   "xsd:gYear": "1960"
   },{
    "@id":"kaa:year1961",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-One",
    "is-part-of": "kaa:kaa",
    "next": "kaa:year1962",
-   "see": "http://en.wikipedia.org/wiki/1961"
+   "see": "http://en.wikipedia.org/wiki/1961",
+   "xsd:gYear": "1961"
   },{
    "@id":"kaa:year1962",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Two",
    "is-part-of": "kaa:kaa",
    "next": "kaa:year1963",
-   "see": "http://en.wikipedia.org/wiki/1962"
+   "see": "http://en.wikipedia.org/wiki/1962",
+   "xsd:gYear": "1962"
   },{
    "@id":"kaa:year1963",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Three",
    "is-part-of": "kaa:kaa",
+   "kaaont:iso8601date": "1963",
    "next": "kaa:year1964",
-   "see": ["http://en.wikipedia.org/wiki/1963","http://www.jstor.org/stable/10.2307/147183"]
+   "see": ["http://en.wikipedia.org/wiki/1963","http://www.jstor.org/stable/10.2307/147183"],
+   "xsd:gYear": "1963"
   },{
    "@id":"kaa:month-june-1963",
    "@type": "kaaont:month",
@@ -49,7 +54,8 @@
    "title": "Nineteen Sixty-Four",
    "is-part-of": "kaa:kaa",
    "next": "kaa:year1965",
-   "see": "http://en.wikipedia.org/wiki/1964"
+   "see": "http://en.wikipedia.org/wiki/1964",
+   "xsd:gYear": "1964"
   },{
    "@id":"kaa:month-july-1964",
    "@type": "kaaont:month",
@@ -69,47 +75,54 @@
    "title": "Nineteen Sixty-Five",
    "is-part-of": "kaa:kaa",
    "next": "kaa:year1966",
-   "see": "http://en.wikipedia.org/wiki/1965"
+   "see": "http://en.wikipedia.org/wiki/1965",
+   "xsd:gYear": "1965"
   },{
    "@id":"kaa:year1966",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Six",
    "is-part-of": "kaa:kaa",
    "next": "kaa:year1967",
-   "see": "http://en.wikipedia.org/wiki/1966"
+   "see": "http://en.wikipedia.org/wiki/1966",
+   "xsd:gYear": "1966"
   },{
    "@id":"kaa:year1967",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Seven",
    "is-part-of": "kaa:kaa",
    "next": "kaa:year1968",
-   "see": "http://en.wikipedia.org/wiki/1967"
+   "see": "http://en.wikipedia.org/wiki/1967",
+   "xsd:gYear": "1967"
   },{
    "@id":"kaa:year1968",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Eight",
    "is-part-of": "kaa:kaa",
    "next": "kaa:year1969",
-   "see": "http://en.wikipedia.org/wiki/1968"
+   "see": "http://en.wikipedia.org/wiki/1968",
+   "xsd:gYear": "1968"
   },{
    "@id":"kaa:year1969",
    "@type": "kaaont:year",
    "title": "Nineteen Sixty-Nine",
    "is-part-of": "kaa:kaa",
    "next": "kaa:year1970",
-   "see": "http://en.wikipedia.org/wiki/1969"
+   "see": "http://en.wikipedia.org/wiki/1969",
+   "xsd:gYear": "1969"
   },{
    "@id":"kaa:month-march-1969",
    "@type": "kaaont:month",
    "title": "March, 1969",
    "is-part-of": "kaa:year1969",
-   "see": ["http://en.wikipedia.org/wiki/March_1969"]
+   "see": ["http://en.wikipedia.org/wiki/March_1969"],
+   "xsd:gYear": "1969"
   },{
    "@id":"kaa:year1970",
    "@type": "kaaont:year",
    "title": "Nineteen Seventy",
    "is-part-of": "kaa:kaa",
-   "see": "http://en.wikipedia.org/wiki/1970"
+   "see": "http://en.wikipedia.org/wiki/1970",
+   "xsd:gYear": "1970"
   }
  ]
 }
