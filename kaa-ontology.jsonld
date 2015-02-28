@@ -2,13 +2,17 @@
  "@context": "kaa-context.jsonld",
  "@graph": [
   {
+   "@id":"kaaont:base-diameter",
+   "@type":"rdf:Property",
+   "title":"Base diameter"
+  },{
    "@id":"kaaont:count",
    "@type":"rdf:Property",
    "title":"Count"
   },{
    "@id":"kaaont:excavation-notebook",
    "@type":["rdf:Class","rdf:Property"],
-   "title":"Excavation Trench"
+   "title":"Excavation Notebook"
   },{
    "@id":"kaaont:excavation-trench",
    "@type":["rdf:Class","rdf:Property"],
@@ -43,6 +47,10 @@
    "@type":"rdf:Class",
    "title":"Person",
    "owl:sameAs": "foaf:Person"
+  },{
+   "@id":"kaaont:preserved-height",
+   "@type":["rdf:Property"],
+   "title":"Preserved height"
   },{
    "@id":"kaaont:year",
    "@type":["rdf:Class","rdf:Property"],

@@ -5209,7 +5209,9 @@
     },
     {
       "@id": "kaahbr:KE0670",
+      "@type": "kaaont:inventory-number",
       "count": 1,
+      "kaaont:diameter-base":  0.105,
       "typology": "kaatyp:p-esc-hayes-1",
       "count": 1,
       "is-part-of": [
@@ -5223,10 +5225,10 @@
       "kaaont:inventory-book-description": "EIIXI. Diam foot: 0.105<br/>h(frag): 0.045m.<br>Ring foot piece from a large+ heavy red-glazed foot<br/>Strawberry stamp on center of the interior.",
       "kaaont:inventory-book-sketch": true,
       "kaaont:location": "kaahbr:museum-crate-159",
+      "kaaont:preserved-height": 0.045,
       "same": "kaahbr:P0176",
       "next": "kaahbr:KE0671",
-      "@type": "kaaont:inventory-number",
-      "published": "kaahbr:kenchreai-vol4-lrb17b"
+      "kaaont:published": "kaahbr:kenchreai-vol4-lrb17b"
     },
     {
       "@id": "kaahbr:KE0671",
