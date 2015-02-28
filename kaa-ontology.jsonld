@@ -10,6 +10,11 @@
    "@type":"rdf:Property",
    "title":"Count"
   },{
+   "@id":"kaaont:depicts",
+   "@type":["rdf:Class","rdf:Property"],
+   "owl:sameAs": "crm:P62_depicts",
+   "title":"Depicts"
+  },{
    "@id":"kaaont:excavation-notebook",
    "@type":["rdf:Class","rdf:Property"],
    "title":"Excavation Notebook"
@@ -51,6 +56,10 @@
    "@id":"kaaont:preserved-height",
    "@type":["rdf:Property"],
    "title":"Preserved height"
+  },{
+   "@id":"kaaont:published",
+   "@type":["rdf:Property"],
+   "title":"Published as"
   },{
    "@id":"kaaont:year",
    "@type":["rdf:Class","rdf:Property"],

@@ -5211,7 +5211,7 @@
       "@id": "kaahbr:KE0670",
       "@type": "kaaont:inventory-number",
       "count": 1,
-      "kaaont:diameter-base":  0.105,
+      "kaaont:base-diameter":  0.105,
       "typology": "kaatyp:p-esc-hayes-1",
       "count": 1,
       "is-part-of": [
@@ -5222,6 +5222,7 @@
         "pagescans/inventory/669-673.PDF",
         "photography/2011_inventory_photos/IMG_0498.png"
       ],
+      "kaaont:depicts": "Grape cluster",
       "kaaont:inventory-book-description": "EIIXI. Diam foot: 0.105<br/>h(frag): 0.045m.<br>Ring foot piece from a large+ heavy red-glazed foot<br/>Strawberry stamp on center of the interior.",
       "kaaont:inventory-book-sketch": true,
       "kaaont:location": "kaahbr:museum-crate-159",
