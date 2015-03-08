@@ -8,8 +8,9 @@
   },{
    "@id":"kaa:harbor",
    "@type": "kaa:project",
-   "is-part-of": "http://kenchreai.org/kaa",
-   "title": "The records and other archival material of the Chicago/Indiana Excavations at Kenchreai"
+   "title": "The Records of the Chicago/Indiana Harbor Excavations",
+   "description": "The records and other archival material of the Chicago/Indiana Excavations at Kenchreai",
+   "is-part-of": "http://kenchreai.org/kaa"
   }
  ]
 }
