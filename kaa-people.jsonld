@@ -58,7 +58,7 @@
    "@id":"kaa:elizabeth-r-gebhard",
    "@type": "kaaont:person",
    "foaf:name": "Elizabeth R. Gebhard",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "viaf": "http://viaf.org/viaf/195628890",
    "year": "kaa:year1963"
   },{

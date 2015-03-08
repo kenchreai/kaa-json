@@ -6,7 +6,7 @@
    "@type":"crm:E55_type",
    "title": "KAA typology generic term",
    "description": "The starting point of the KAA typology.",
-   "is-part-of": "http://kenchreai.org/kaa"
+   "is-part-of": "kaa:typology"
   },{
    "@id":"kaatyp:gl",
    "@type":"crm:E55_type",

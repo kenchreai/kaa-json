@@ -23,6 +23,12 @@
    "title": "Modern Chronology",
    "description": "Identifiers associated with the modern chronology of archaeological work at Kenchreai.",
    "is-part-of": "http://kenchreai.org/kaa"
+  },{
+   "@id":"kaa:typology",
+   "@type": "rdfs:Resource",
+   "title": "Archaeological Typologies",
+   "description": "Identifiers associated with the typologies used to describe objects and other discovered or describe during archaeological work at Kenchreai.",
+   "is-part-of": "http://kenchreai.org/kaa"
   }
  ]
 }
