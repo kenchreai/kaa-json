@@ -5,53 +5,54 @@
    "@id":"kaa:beverley-adamsheck",
    "@type": "kaaont:person",
    "foaf:name": "Beverley Adamsheck",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/489736548",
    "viaf": "http://viaf.org/viaf/191392491"
   },{
    "@id":"kaa:alix-barbet",
    "@type": "kaaont:person",
    "foaf:name": "Alix Barbet",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/71386897"
   },{
    "@id":"kaa:jorge-jose-bravo-iii",
    "@type": "kaaont:person",
    "foaf:name": "Jorge Jose Bravo III",
-   "is-part-of": "http://kenchreai.org/kaa"
+   "is-part-of": "kaa:people"
   },{
    "@id":"kaa:martin-breen",
    "@type": "kaaont:person",
    "foaf:name": "Martin Breen",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/303579603"
   },{
    "@id":"kaa:robert-h-brill",
    "@type": "kaaont:person",
    "foaf:name": "Robert Brill",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/489736404",
    "viaf": "http://viaf.org/viaf/17303911"
   },{
    "@id":"kaa:wellington-wilson-cummer",
    "@type": "kaaont:person",
    "foaf:name": "W. Wilson Cummer",
-   "is-part-of": ["http://kenchreai.org/kaa", "kaa:year1969"],
+   "is-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/147632",
-   "viaf": "http://viaf.org/viaf/47366868"
+   "viaf": "http://viaf.org/viaf/47366868",
+   "year": "kaa:year1969"
   },{
    "@id":"kaa:roxana-docsan",
    "@type": "kaaont:person",
    "foaf:name": "Roxana Docsan",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/303579603",
    "viaf": "http://viaf.org/viaf/217386788"
   },{
    "@id":"kaa:richard-k-dunn",
    "@type": "kaaont:person",
    "foaf:name": "Richard K. Dunn",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/25068015"
   },{
    "@id":"kaa:elizabeth-r-gebhard",
@@ -64,28 +65,28 @@
    "@id":"kaa:sebastian-heath",
    "@type": "kaaont:person",
    "foaf:name": "Sebastian Heath",
-   "is-part-of": ["http://kenchreai.org/kaa"],
+   "is-part-of": "kaa:people",
    "viaf": "http://viaf.org/viaf/46773164",
    "year": "2013"
   },{
    "@id":"kaa:robert-l-hohlfelder",
    "@type": "kaaont:person",
    "foaf:name": "Robert L. Hohlfelder",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/829279",
    "viaf": "http://viaf.org/viaf/46773164"
   },{
    "@id":"kaa:leila-ibrahim",
    "@type": "kaaont:person",
    "foaf:name": "Leila Ibrahim",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/489736404",
    "viaf": "http://viaf.org/viaf/35708767"
   },{
    "@id":"kaa:florence-monier",
    "@type": "kaaont:person",
    "foaf:name": "Florence Monier",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/176520803"
   },{
