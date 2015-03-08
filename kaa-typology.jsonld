@@ -5,7 +5,7 @@
    "@id":"kaatyp:generic",
    "@type":"crm:E55_type",
    "title": "Unspecified typological identification",
-   "is-part-of": "kaa:kaa"
+   "is-part-of": "http://kenchreai.org/kaa"
   },{
    "@id":"kaatyp:gl",
    "@type":"crm:E55_type",

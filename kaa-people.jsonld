@@ -5,113 +5,115 @@
    "@id":"kaa:beverley-adamsheck",
    "@type": "kaaont:person",
    "foaf:name": "Beverley Adamsheck",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.worldcat.org/oclc/489736548",
    "viaf": "http://viaf.org/viaf/191392491"
   },{
    "@id":"kaa:alix-barbet",
    "@type": "kaaont:person",
    "foaf:name": "Alix Barbet",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/71386897"
   },{
    "@id":"kaa:jorge-jose-bravo-iii",
    "@type": "kaaont:person",
    "foaf:name": "Jorge Jose Bravo III",
-   "is-part-of": "kaa:kaa"
+   "is-part-of": "http://kenchreai.org/kaa"
   },{
    "@id":"kaa:martin-breen",
    "@type": "kaaont:person",
    "foaf:name": "Martin Breen",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.worldcat.org/oclc/303579603"
   },{
    "@id":"kaa:robert-h-brill",
    "@type": "kaaont:person",
    "foaf:name": "Robert Brill",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.worldcat.org/oclc/489736404",
    "viaf": "http://viaf.org/viaf/17303911"
   },{
    "@id":"kaa:wellington-wilson-cummer",
    "@type": "kaaont:person",
    "foaf:name": "W. Wilson Cummer",
-   "is-part-of": ["kaa:kaa", "kaa:year1969"],
+   "is-part-of": ["http://kenchreai.org/kaa", "kaa:year1969"],
    "see": "http://www.jstor.org/stable/10.2307/147632",
    "viaf": "http://viaf.org/viaf/47366868"
   },{
    "@id":"kaa:roxana-docsan",
    "@type": "kaaont:person",
    "foaf:name": "Roxana Docsan",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.worldcat.org/oclc/303579603",
    "viaf": "http://viaf.org/viaf/217386788"
   },{
    "@id":"kaa:richard-k-dunn",
    "@type": "kaaont:person",
    "foaf:name": "Richard K. Dunn",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.jstor.org/stable/10.2307/25068015"
   },{
    "@id":"kaa:elizabeth-r-gebhard",
    "@type": "kaaont:person",
    "foaf:name": "Elizabeth R. Gebhard",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "viaf": "http://viaf.org/viaf/195628890",
    "year": "kaa:year1963"
   },{
    "@id":"kaa:sebastian-heath",
    "@type": "kaaont:person",
    "foaf:name": "Sebastian Heath",
-   "is-part-of": "kaa:kaa",
-   "viaf": "http://viaf.org/viaf/46773164"
+   "is-part-of": ["http://kenchreai.org/kaa"],
+   "viaf": "http://viaf.org/viaf/46773164",
+   "year": "2013"
   },{
    "@id":"kaa:robert-l-hohlfelder",
    "@type": "kaaont:person",
    "foaf:name": "Robert L. Hohlfelder",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.worldcat.org/oclc/829279",
    "viaf": "http://viaf.org/viaf/46773164"
   },{
    "@id":"kaa:leila-ibrahim",
    "@type": "kaaont:person",
    "foaf:name": "Leila Ibrahim",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.worldcat.org/oclc/489736404",
    "viaf": "http://viaf.org/viaf/35708767"
   },{
    "@id":"kaa:florence-monier",
    "@type": "kaaont:person",
    "foaf:name": "Florence Monier",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/176520803"
   },{
    "@id":"kaa:melissa-moore-morison",
    "@type": "kaaont:person",
    "foaf:name": "Melissa Moore Morison",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.jstor.org/stable/10.2307/25068015"
   },{
    "@id":"kaa:edwin-s-ramage",
    "@type": "kaaont:person",
    "foaf:name": "Edwin S. Ramage",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.jstor.org/stable/10.2307/147183",
    "viaf": "http://viaf.org/viaf/59099581"
   },{
    "@id":"kaa:joseph-l-rife",
    "@type": "kaaont:person",
    "foaf:name": "Joseph L. Rife",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.jstor.org/stable/10.2307/25068015",
-   "viaf": "http://viaf.org/viaf/292151525"
+   "viaf": "http://viaf.org/viaf/292151525",
+   "year": "kaa:2013"
   },{
    "@id":"kaa:robert-l-scranton",
    "@type": "kaaont:person",
    "foaf:name": "Robert L. Scranton",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.worldcat.org/oclc/489736331",
    "viaf": "http://viaf.org/viaf/107033339",
    "year": "kaa:year1963"
@@ -119,7 +121,7 @@
    "@id":"kaa:joseph-w-shaw",
    "@type": "kaaont:person",
    "foaf:name": "Joseph W. Shaw",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.worldcat.org/oclc/489736331",
    "viaf": "http://viaf.org/viaf/80260303",
    "year": "kaa:year1963"
@@ -127,28 +129,28 @@
    "@id":"kaa:wilma-olch-stern",
    "@type": "kaaont:person",
    "foaf:name": "Wilma Olch Stern",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.worldcat.org/oclc/303579603",
    "viaf": "http://viaf.org/viaf/48390541"
   },{
    "@id":"kaa:danae-hadjilazaro-thimme",
    "@type": "kaaont:person",
    "foaf:name": "Danae Hadjilazaro Thimme",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.worldcat.org/oclc/303579603",
    "viaf": ["http://viaf.org/viaf/10183217","http://viaf.org/viaf/237380935"]
   },{
    "@id":"kaa:douglas-h-ubelaker",
    "@type": "kaaont:person",
    "foaf:name": "Douglas H. Ubelaker",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/92759009"
   },{
    "@id":"kaa:hector-williams",
    "@type": "kaaont:person",
    "foaf:name": "Hector Williams",
-   "is-part-of": "kaa:kaa",
+   "is-part-of": "http://kenchreai.org/kaa",
    "see": "http://www.worldcat.org/oclc/489736603",
    "viaf": "http://viaf.org/viaf/36373493"
   }

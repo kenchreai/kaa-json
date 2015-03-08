@@ -4,7 +4,7 @@
   {
    "@id":"kaaont:base-diameter",
    "@type":"rdf:Property",
-   "title":"Base diameter"
+   "title":"Base diameter (cm.)"
   },{
    "@id":"kaaont:count",
    "@type":"rdf:Property",
@@ -45,7 +45,12 @@
   },{
    "@id":"kaaont:notebook-page",
    "@type":"rdf:Class",
-   "title":"Observed",
+   "title":"Notebook page",
+   "owl:sameAs": "foaf:Person"
+  },{
+   "@id":"kaaont:inventory-book-sketch",
+   "@type":"rdf:Property",
+   "title":"Sketch in inventory book",
    "owl:sameAs": "foaf:Person"
   },{
    "@id":"kaaont:observed",
@@ -59,7 +64,7 @@
   },{
    "@id":"kaaont:preserved-height",
    "@type":["rdf:Property"],
-   "title":"Preserved height"
+   "title":"Preserved height (cm.)"
   },{
    "@id":"kaaont:published",
    "@type":["rdf:Property"],

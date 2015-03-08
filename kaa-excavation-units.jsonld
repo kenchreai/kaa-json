@@ -1,17 +1,16 @@
 {
  "@context": "kaa-context.jsonld",
+ "@base": "http://kenchreai.org/kaa",
  "@graph": [
   {
    "@id":"kaa:kenchreai",
    "@type": "lawd:Place",
+   "description": "This is the base entity for real-world locations within Kenchreai and for physical objects from Kenchreai. This is distinct from the organization of records, which will appear in the kaa: hierarchy.",
+   "file": ["plans/harbor-plan.png","plans/harbor-reconstruction.png"],
    "geo:lat": 37.885,
    "geo:long": 22.9875,
-   "rdfs:seeAlso": "http://pleiades.stoa.org/places/570347"
-  },{
-   "@id":"kaa:harbor",
-   "@type": "kaa:project",
-   "is-part-of": "kaa:",
-   "title": "The Chicago/Indiana Excavations at Kenchreai"
+   "rdfs:seeAlso": "http://pleiades.stoa.org/places/570347",
+   "title": "The Archaeological Site of Kenchreai in Greece"
   },{
    "@id":"kaahbr:area-a",
    "@type":"kaaont:excavation-area",

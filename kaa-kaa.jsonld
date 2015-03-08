@@ -2,9 +2,14 @@
  "@context": "kaa-context.jsonld",
  "@graph": [
   {
-   "@id":"kaa:kaa",
+   "@id":"http://kenchreai.org/kaa",
    "@type":"rdf:Resource",
    "title":"The Kenchreai Archaeological Archive"
-  } 
+  },{
+   "@id":"kaa:harbor",
+   "@type": "kaa:project",
+   "is-part-of": "http://kenchreai.org/kaa",
+   "title": "The records and other archival material of the Chicago/Indiana Excavations at Kenchreai"
+  }
  ]
 }

@@ -12,15 +12,16 @@
  "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
  "xsd": "http://www.w3.org/2001/XMLSchema#",
 
+"@base":"http://kenchreai.org/kaa",
+
  "kaa":   "http://kenchreai.org/kaa/",
  "kaahbr":"http://kenchreai.org/kaa/harbor/",
  "kaakth":"http://kenchreai.org/kaa/threpsiades/",
  "kaaont":"http://kenchreai.org/kaa/ontology/",
  "kaatyp":"http://kenchreai.org/kaa/typology/",
  
- "@base":"http://kenchreai.org/id",
- 
  "broader":{"@id":"crm:P127_has_broader_term","@type":"@id"},
+ "comment": {"@id":"kaaont:comment"},
  "count":{"@id":"kaaont:count"},
  "described-type":{"@id":"dct:format","@type":"@id"},
  "description":{"@id":"dct:description"},
