@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@id": "kaahbr:inventory-book",
-      "is-part-of": "kaahbr:"
+      "is-part-of": "kaa:harbor"
     },
     {
       "@id": "kaahbr:KE0001",

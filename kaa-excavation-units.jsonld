@@ -14,21 +14,24 @@
   },{
    "@id":"kaahbr:area-a",
    "@type":"kaaont:excavation-area",
-   "next": "kaahbr:area-b",
    "title":"Area A",
-   "is-part-of": "kaa:kenchreai"
+   "file": "plans/harbor-plan.png",
+   "is-part-of": "kaa:kenchreai",
+   "next": "kaahbr:area-b"
   },{
    "@id":"kaahbr:area-b",
    "@type":"kaaont:excavation-area",
-   "next": "kaahbr:area-c",
    "title":"Area B",
+   "file": "plans/harbor-plan.png",
+   "next": "kaahbr:area-c",
    "is-part-of": "kaa:kenchreai"
   },{
    "@id":"kaahbr:area-c",
    "@type":"kaaont:excavation-area",
-   "next": "kaahbr:area-d",
    "title":"Area C",
-   "is-part-of": "kaa:kenchreai"
+   "file": "plans/harbor-plan.png",
+   "is-part-of": "kaa:kenchreai",
+   "next": "kaahbr:area-d"
   },{
    "@id":"kaahbr:trench-c63-i-2",
    "@type":"kaaont:excavation-trench",
@@ -192,13 +195,15 @@
   },{
    "@id":"kaahbr:area-d",
    "@type":"kaaont:excavation-area",
-   "next": "kaahbr:area-e",
    "title":"Area D",
-   "is-part-of": "kaa:kenchreai"
+   "file": "plans/harbor-plan.png",
+   "is-part-of": "kaa:kenchreai",
+   "next": "kaahbr:area-e"
   },{
    "@id":"kaahbr:area-e",
    "@type":"kaaont:excavation-area",
    "title":"Area E",
+   "file": "plans/harbor-plan.png",
    "is-part-of": "kaa:kenchreai"
   },{
    "@id": "kaahbr:trench-e-ii-x-1",

@@ -4,47 +4,47 @@
    "@id":"kaahbr:notebook-a-i",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A Notebook I",
-   "is-part-of":["kaahbr:area-a", "kaa:month-june-1963"],
+   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:month-june-1963"],
    "next": "kaahbr:notebook-a-ii"
   },{
    "@id":"kaahbr:notebook-a-ii",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A Notebook II",
-   "is-part-of":["kaahbr:area-a", "kaa:month-july-1963"],
+   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:month-july-1963"],
    "next": "kaahbr:notebook-a-iii"
   },{
    "@id":"kaahbr:notebook-a-iii",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A Notebook III",
-   "is-part-of":["kaahbr:area-a", "kaa:year1963"],
+   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1963"],
    "next": "kaahbr:notebook-a-iv"
   },{
    "@id":"kaahbr:notebook-a-iv",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A Notebook IV",
-   "is-part-of":["kaahbr:area-a", "kaa:year1964"]
+   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1964"]
   },{
    "@id":"kaahbr:notebook-c-i",
    "@type":"kaaont:excavation-notebook",
    "title": "Area C Notebook I",
-   "is-part-of":"kaahbr:area-c",
+   "is-part-of":["kaa:harbor","kaahbr:area-c"],
    "next": "kaahbr:notebook-c-ii"
   },{
    "@id":"kaahbr:notebook-c-ii",
    "@type":"kaaont:excavation-notebook",
    "title": "Area C Notebook II",
-   "is-part-of":"kaahbr:area-c",
+   "is-part-of":["kaa:harbor","kaahbr:area-c"],
    "next": "kaahbr:notebook-c-iii"
   },{
    "@id":"kaahbr:notebook-c-iii",
    "@type":"kaaont:excavation-notebook",
    "title": "Area C Notebook III",
-   "is-part-of":"kaahbr:area-c"
+   "is-part-of": ["kaa:harbor","kaahbr:area-c"]
   },{
    "@id":"kaahbr:notebook-e-i",
    "@type":"kaaont:excavation-notebook",
    "title": "Area E Notebook I",
-   "is-part-of":"kaahbr:area-e"
+   "is-part-of": ["kaa:harbor","kaahbr:area-e"]
   },{
   "@id":"kaahbr:notebook-page-a-i-001",
   "@type":"kaaont:notebook-page",
