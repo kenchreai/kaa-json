@@ -66,6 +66,11 @@
    "@type":["rdf:Property"],
    "title":"Preserved height (cm.)"
   },{
+   "@id":"kaaont:project",
+   "@type":"rdf:Class",
+   "title":"Project",
+   "description": "Any identifiable, probably multi-year, effort to investigate the site of Kenchreai or nearby areas."
+  },{
    "@id":"kaaont:published",
    "@type":["rdf:Property"],
    "title":"Published as"
