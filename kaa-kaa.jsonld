@@ -9,7 +9,19 @@
    "@id":"kaa:harbor",
    "@type": "kaaont:project",
    "title": "The Records of the Chicago/Indiana Harbor Excavations",
-   "description": "The records and other archival material of the Chicago/Indiana Excavations at Kenchreai",
+   "description": "Identifiers for records and other archival materials of the Chicago/Indiana Excavations at Kenchreai",
+   "is-part-of": "http://kenchreai.org/kaa"
+  },{
+   "@id":"kaa:people",
+   "@type": "rdfs:Resource",
+   "title": "People Associated with Kenchreai",
+   "description": "Identifiers for people associated with archaeological work at Kenchreai.",
+   "is-part-of": "http://kenchreai.org/kaa"
+  },{
+   "@id":"kaa:modern-chronology",
+   "@type": "rdfs:Resource",
+   "title": "Modern Chronology",
+   "description": "Identifiers associated with the modern chronology of archaeological work at Kenchreai.",
    "is-part-of": "http://kenchreai.org/kaa"
   }
  ]

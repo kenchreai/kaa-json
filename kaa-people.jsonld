@@ -92,20 +92,20 @@
    "@id":"kaa:melissa-moore-morison",
    "@type": "kaaont:person",
    "foaf:name": "Melissa Moore Morison",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/25068015"
   },{
    "@id":"kaa:edwin-s-ramage",
    "@type": "kaaont:person",
    "foaf:name": "Edwin S. Ramage",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/147183",
    "viaf": "http://viaf.org/viaf/59099581"
   },{
    "@id":"kaa:joseph-l-rife",
    "@type": "kaaont:person",
    "foaf:name": "Joseph L. Rife",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/292151525",
    "year": "kaa:2013"
@@ -113,7 +113,7 @@
    "@id":"kaa:robert-l-scranton",
    "@type": "kaaont:person",
    "foaf:name": "Robert L. Scranton",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/489736331",
    "viaf": "http://viaf.org/viaf/107033339",
    "year": "kaa:year1963"
@@ -121,7 +121,7 @@
    "@id":"kaa:joseph-w-shaw",
    "@type": "kaaont:person",
    "foaf:name": "Joseph W. Shaw",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/489736331",
    "viaf": "http://viaf.org/viaf/80260303",
    "year": "kaa:year1963"
@@ -129,28 +129,28 @@
    "@id":"kaa:wilma-olch-stern",
    "@type": "kaaont:person",
    "foaf:name": "Wilma Olch Stern",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/303579603",
    "viaf": "http://viaf.org/viaf/48390541"
   },{
    "@id":"kaa:danae-hadjilazaro-thimme",
    "@type": "kaaont:person",
    "foaf:name": "Danae Hadjilazaro Thimme",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/303579603",
    "viaf": ["http://viaf.org/viaf/10183217","http://viaf.org/viaf/237380935"]
   },{
    "@id":"kaa:douglas-h-ubelaker",
    "@type": "kaaont:person",
    "foaf:name": "Douglas H. Ubelaker",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/92759009"
   },{
    "@id":"kaa:hector-williams",
    "@type": "kaaont:person",
    "foaf:name": "Hector Williams",
-   "is-part-of": "http://kenchreai.org/kaa",
+   "is-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/489736603",
    "viaf": "http://viaf.org/viaf/36373493"
   }
