@@ -26,7 +26,7 @@
       "title": "Kenchreai Harbor Inventoried Object KE 2",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1-3.PDF",
-      "is-part-of": "kaahbr:area-c",
+      "is-part-of": ["kaahbr:inventory-book","kaahbr:area-c"],
       "same": "AR0001",
       "next": "kaahbr:KE0003",
       "typology":"kaatyp:architectural-fragment"
@@ -37,7 +37,7 @@
       "title": "Kenchreai Harbor Inventoried Object KE 3",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1-3.PDF",
-      "is-part-of": "kaahbr:area-b",
+      "is-part-of": ["kaahbr:inventory-book","kaahbr:area-b"],
       "next": "kaahbr:KE0004",
       "same": "kaahbr:P0001",
       "typology":"kaatyp:p"

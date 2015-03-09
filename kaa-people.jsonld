@@ -67,7 +67,7 @@
    "foaf:name": "Sebastian Heath",
    "is-part-of": "kaa:people",
    "viaf": "http://viaf.org/viaf/46773164",
-   "year": "2013"
+   "year": "kaa:year2013"
   },{
    "@id":"kaa:robert-l-hohlfelder",
    "@type": "kaaont:person",
@@ -109,7 +109,7 @@
    "is-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/292151525",
-   "year": "kaa:2013"
+   "year": "kaa:year2013"
   },{
    "@id":"kaa:robert-l-scranton",
    "@type": "kaaont:person",
