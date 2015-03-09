@@ -3,83 +3,83 @@
  "@graph": [
   {
    "@id":"kaaont:base-diameter",
-   "@type":"rdf:Property",
+   "@type":"rdfs:Property",
    "title":"Base diameter (cm.)"
   },{
    "@id":"kaaont:count",
-   "@type":"rdf:Property",
+   "@type":"rdfs:Property",
    "title":"Count"
   },{
    "@id":"kaaont:depicts",
-   "@type":["rdf:Class","rdf:Property"],
+   "@type":["rdfs:Class","rdfs:Property"],
    "owl:sameAs": "crm:P62_depicts",
    "title":"Depicts"
   },{
    "@id":"kaaont:excavation-area",
-   "@type":["rdf:Class","rdf:Property"],
+   "@type":["rdfs:Class","rdfs:Property"],
    "title":"Excavation Area"
   },{
    "@id":"kaaont:excavation-notebook",
-   "@type":["rdf:Class","rdf:Property"],
+   "@type":["rdfs:Class","rdfs:Property"],
    "title":"Excavation Notebook"
   },{
    "@id":"kaaont:excavation-trench",
-   "@type":["rdf:Class","rdf:Property"],
+   "@type":["rdfs:Class","rdfs:Property"],
    "title":"Excavation Trench"
   },{
    "@id":"kaaont:file",
-   "@type":"rdf:Property",
+   "@type":"rdfs:Property",
    "title":"Media file"
   },{
    "@id":"kaaont:inventory-book-description",
-   "@type":"rdf:Class",
+   "@type":"rdfs:Class",
    "title":"Inventory book description"
   },{
    "@id":"kaaont:inventory-book-sketch",
-   "@type":"rdf:Property",
+   "@type":"rdfs:Property",
    "title":"Sketch in inventory book",
    "owl:sameAs": "foaf:Person"
   },{
    "@id":"kaaont:inventory-number",
-   "@type":"rdf:Class",
+   "@type":"rdfs:Class",
    "title":"Inventory number"
   },{
    "@id":"kaaont:model",
-   "@type":["rdf:Class","rdf:Property"],
+   "@type":["rdfs:Class","rdfs:Property"],
    "title":"3d Model"
   },{
    "@id":"kaaont:month",
-   "@type":["rdf:Class","rdf:Property"],
+   "@type":["rdfs:Class","rdfs:Property"],
    "title":"Month"
   },{
    "@id":"kaaont:notebook-page",
-   "@type":"rdf:Class",
+   "@type":"rdfs:Class",
    "title":"Notebook page"
   },{
    "@id":"kaaont:observed",
-   "@type":"rdf:Property",
+   "@type":"rdfs:Property",
    "title":"Observed"
   },{
    "@id":"kaaont:person",
-   "@type":"rdf:Class",
+   "@type":"rdfs:Class",
    "title":"Person",
    "owl:sameAs": "foaf:Person"
   },{
    "@id":"kaaont:preserved-height",
-   "@type":["rdf:Property"],
+   "@type":["rdfs:Property"],
    "title":"Preserved height (cm.)"
   },{
    "@id":"kaaont:project",
-   "@type":"rdf:Class",
+   "@type":"rdfs:Class",
    "title":"Project",
    "description": "Any identifiable, probably multi-year, effort to investigate the site of Kenchreai or nearby areas."
   },{
    "@id":"kaaont:published",
-   "@type":["rdf:Property"],
+   "@type":["rdfs:Property"],
    "title":"Published as"
   },{
    "@id":"kaaont:year",
-   "@type":["rdf:Class","rdf:Property"],
+   "@type":["rdfs:Class","rdfs:Property"],
    "title":"Year"
   }
  ]

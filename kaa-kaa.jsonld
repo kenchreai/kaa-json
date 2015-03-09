@@ -3,7 +3,7 @@
  "@graph": [
   {
    "@id":"http://kenchreai.org/kaa",
-   "@type":"rdf:Resource",
+   "@type":"rdfs:Resource",
    "dct:creator": ["kaa:joseph-l-rife","kaa:sebastian-heath"],
    "description": "The Kenchreai Archaeological Archive (KAA) is an archival resource that assembles and provides access to written, visual and digital records produced by fieldwork at the ancient port of Kenchreai near Corinth in Greece. KAA is a project of the American Excavation at Kenchreai, which operates with a permit from the Greek Ministry of Culture and under the auspices of the American School of Classical Studies at Athens.",
    "title":"The Kenchreai Archaeological Archive"
