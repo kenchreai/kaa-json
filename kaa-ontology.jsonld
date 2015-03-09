@@ -54,8 +54,7 @@
   },{
    "@id":"kaaont:notebook-page",
    "@type":"rdf:Class",
-   "title":"Notebook page",
-   "owl:sameAs": "foaf:Person"
+   "title":"Notebook page"
   },{
    "@id":"kaaont:observed",
    "@type":"rdf:Property",
