@@ -8,7 +8,8 @@
   },{
    "@id":"kaaont:count",
    "@type":"rdfs:Property",
-   "title":"Count"
+   "title":"Count",
+   "description": "The number of objects or other discrete entities described by any entry in KAA."
   },{
    "@id":"kaaont:depicts",
    "@type":["rdfs:Class","rdfs:Property"],
@@ -42,15 +43,18 @@
   },{
    "@id":"kaaont:inventory-number",
    "@type":"rdfs:Class",
-   "title":"Inventory number"
+   "title":"Inventory number",
+   "description": "An inventory number."
   },{
    "@id":"kaaont:model",
-   "@type":["rdfs:Class","rdfs:Property"],
-   "title":"3d Model"
+   "@type":"rdfs:Property",
+   "title":"3d Model",
+   "description": "URL of a 3D model."
   },{
    "@id":"kaaont:month",
    "@type":["rdfs:Class","rdfs:Property"],
-   "title":"Month"
+   "title":"Month",
+   "description": "When used as a class, an identifier for a modern calendar month."
   },{
    "@id":"kaaont:notebook-page",
    "@type":"rdfs:Class",
@@ -63,6 +67,7 @@
    "@id":"kaaont:person",
    "@type":"rdfs:Class",
    "title":"Person",
+   "description": "An identifier for a person.",
    "owl:sameAs": "foaf:Person"
   },{
    "@id":"kaaont:preserved-height",
@@ -80,7 +85,8 @@
   },{
    "@id":"kaaont:year",
    "@type":["rdfs:Class","rdfs:Property"],
-   "title":"Year"
+   "title":"Year",
+   "description": "When used as a class, an identifier for a modern calendar year."
   }
  ]
 }
