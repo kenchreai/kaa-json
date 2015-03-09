@@ -34,9 +34,9 @@
    "see": "http://www.worldcat.org/oclc/489736404",
    "viaf": "http://viaf.org/viaf/17303911"
   },{
-   "@id":"kaa:wellington-wilson-cummer",
+   "@id":"kaa:wellington-willson-cummer",
    "@type": "kaaont:person",
-   "foaf:name": "W. Wilson Cummer",
+   "foaf:name": "W. Willson Cummer",
    "is-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/147632",
    "viaf": "http://viaf.org/viaf/47366868",
@@ -66,7 +66,7 @@
    "@type": "kaaont:person",
    "foaf:name": "Sebastian Heath",
    "is-part-of": "kaa:people",
-   "viaf": "http://viaf.org/viaf/46773164",
+   "viaf": "http://viaf.org/viaf/220831018",
    "year": "kaa:year2013"
   },{
    "@id":"kaa:robert-l-hohlfelder",

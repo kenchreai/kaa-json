@@ -9838,6 +9838,7 @@
     {
       "@id": "kaahbr:KE1246",
       "@type": "kaaont:inventory-number",
+      "title": "Kenchreai Inventoried Object KE 1246 (ARS H105)",
       "count": 1,
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/1244-1247.PDF","photography/2011_inventory_photos/IMG_2973.tif"],

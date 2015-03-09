@@ -37,6 +37,7 @@
  "observed": {"@id":"kaaont:observed","@type":"@id"},
  "part": "kaaont:part",
  "pages":{"@id":"kaaont:hasPage"},
+ "published": {"@id":"kaaont:published"},
  "rdfs:seeAlso": {"@type":"@id"},
  "references":{"@id":"dct:references","@type":"@id"},
  "same":{"@id":"owl:sameAs","@type":"@id"},
