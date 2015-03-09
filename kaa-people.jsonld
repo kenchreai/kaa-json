@@ -77,6 +77,13 @@
    "viaf": "http://viaf.org/viaf/195628890",
    "year": "kaa:year1963"
   },{
+   "@id":"kaa:john-g-hawthorne",
+   "@type": "kaaont:person",
+   "foaf:name": "John G. Hawthorne",
+   "is-part-of": "kaa:people",
+   "see": "http://www.ascsa.edu.gr/index.php/archives/john-g-hawthorne",
+   "year": "kaa:year1963"
+  },{
    "@id":"kaa:sebastian-heath",
    "@type": "kaaont:person",
    "foaf:name": "Sebastian Heath",
@@ -125,6 +132,13 @@
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/292151525",
    "year": "kaa:year2013"
+  },{
+   "@id":"kaa:alice-swift-riginos",
+   "@type": "kaaont:person",
+   "foaf:name": "Alice Swift Riginos",
+   "is-part-of": "kaa:people",
+   "see": "http://archives.chicagotribune.com/1967/07/28/page/43/article/alice-swift-to-wed-in-greece",
+   "year": "kaa:year1963"
   },{
    "@id":"kaa:robert-l-scranton",
    "@type": "kaaont:person",
