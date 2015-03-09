@@ -230,6 +230,11 @@
    "@type": "crm:E55_type",
    "title": "Rooftile"
    },{
+   "@id": "kaatyp:p-sig-it",
+   "@type": "crm:E55_type",
+   "title": "Italian Sigillata",
+   "broader": "kaatyp:p-slipped-fw"
+   },{
    "@id":"kaatyp:p-small-handled-stopper",
    "@type": "crm:E55_type",
    "broader":"kaatyp:p",

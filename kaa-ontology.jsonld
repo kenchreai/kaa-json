@@ -6,6 +6,11 @@
    "@type":"rdfs:Property",
    "title":"Base diameter (cm.)"
   },{
+   "@id":"kaaont:comment",
+   "@type":"rdfs:Property",
+   "title":"Comment",
+   "description": "A comment providing further information about an identified entity."
+  },{
    "@id":"kaaont:count",
    "@type":"rdfs:Property",
    "title":"Count",

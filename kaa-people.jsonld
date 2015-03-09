@@ -9,6 +9,13 @@
    "see": "http://www.worldcat.org/oclc/489736548",
    "viaf": "http://viaf.org/viaf/191392491"
   },{
+   "@id":"kaa:john-bandekas",
+   "@type": "kaaont:person",
+   "foaf:name": "John Bandekas",
+   "is-part-of": "kaa:people",
+   "see": "http://www.jstor.org/stable/10.2307/25068015",
+   "viaf": "http://viaf.org/viaf/71386897"
+  },{
    "@id":"kaa:alix-barbet",
    "@type": "kaaont:person",
    "foaf:name": "Alix Barbet",
@@ -33,6 +40,14 @@
    "is-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/489736404",
    "viaf": "http://viaf.org/viaf/17303911"
+  },{
+   "@id":"kaa:oscar-t-broneer",
+   "@type": "kaaont:person",
+   "comment": "In the Spring of 1963, O. Broneer arranged for the purchase of property at Kenchreai prior to the start of excavation that year.",
+   "foaf:name": "Oscar T. Broneer",
+   "is-part-of": "kaa:people",
+   "viaf": "http://viaf.org/viaf/117252295",
+   "year": "kaa:year1963"
   },{
    "@id":"kaa:wellington-willson-cummer",
    "@type": "kaaont:person",
@@ -123,9 +138,15 @@
    "@type": "kaaont:person",
    "foaf:name": "Joseph W. Shaw",
    "is-part-of": "kaa:people",
-   "see": "http://www.worldcat.org/oclc/489736331",
+   "see": ["http://www.worldcat.org/oclc/489736331","http://utarms.library.utoronto.ca/researchers/joseph-w.-shaw"],
    "viaf": "http://viaf.org/viaf/80260303",
    "year": "kaa:year1963"
+  },{
+   "@id":"kaa:maria-c-shaw",
+   "@type": "kaaont:person",
+   "foaf:name": "Maria C. Shaw",
+   "is-part-of": "kaa:people",
+   "viaf": "http://viaf.org/viaf/46816373"
   },{
    "@id":"kaa:wilma-olch-stern",
    "@type": "kaaont:person",
@@ -140,6 +161,13 @@
    "is-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/303579603",
    "viaf": ["http://viaf.org/viaf/10183217","http://viaf.org/viaf/237380935"]
+  },{
+   "@id":"kaa:diether-thimme",
+   "@type": "kaaont:person",
+   "foaf:name": "Diether Thimme",
+   "is-part-of": "kaa:people",
+   "see": "http://purl.dlib.indiana.edu/iudl/archives/bfc/B35-1979",
+   "viaf": "http://viaf.org/viaf/245219671"
   },{
    "@id":"kaa:douglas-h-ubelaker",
    "@type": "kaaont:person",
