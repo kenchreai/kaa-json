@@ -24,6 +24,7 @@
  "comment": {"@id":"kaaont:comment"},
  "count":{"@id":"kaaont:count"},
  "described-type":{"@id":"dct:format","@type":"@id"},
+ "dct:creator": {"@type":"@id"},
  "description":{"@id":"dct:description"},
  "file":{"@id":"kaaont:file"},
  "is-part-of":{"@id":"dct:isPartOf","@type":"@id"},
