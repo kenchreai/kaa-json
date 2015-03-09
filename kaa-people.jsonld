@@ -136,6 +136,7 @@
    "@id":"kaa:alice-swift-riginos",
    "@type": "kaaont:person",
    "foaf:name": "Alice Swift Riginos",
+   "description": "A member of the 1963 team as a University of Chicago graduate student. Returned in 1964, 1966 and 1968.",
    "is-part-of": "kaa:people",
    "see": "http://archives.chicagotribune.com/1967/07/28/page/43/article/alice-swift-to-wed-in-greece",
    "year": "kaa:year1963"
