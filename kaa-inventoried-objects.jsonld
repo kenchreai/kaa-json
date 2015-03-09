@@ -6643,49 +6643,59 @@
     },
     {
       "@id": "kaahbr:KE0848",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
+      "file": "pagescans/inventory/847-850.PDF",
       "next": "kaahbr:KE0849",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p"
     },
     {
       "@id": "kaahbr:KE0849",
+      "@type": "kaaont:inventory-number",
+      "title": "Kenchreai Harbor Inventoried Object KE 849 (LR Athenian Jug)",
       "count": 1,
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/847-850.PDF",
-      "typology": "kaatyp:p-athenian-gouged",
       "next": "kaahbr:KE0850",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-athenian-gouged"
     },
     {
       "@id": "kaahbr:KE0850",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/847-850.PDF",
       "next": "kaahbr:KE0851",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p"
     },
     {
       "@id": "kaahbr:KE0851",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/851-855.PDF",
         "photography/2011_inventory_photos/IMG_2949.tif"
       ],
       "next": "kaahbr:KE0852",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-ars"
     },
     {
       "@id": "kaahbr:KE0852",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_2946.tif",
+      "file": [
+        "pagescans/inventory/851-855.PDF",
+        "photography/2011_inventory_photos/IMG_2946.tif"],
       "next": "kaahbr:KE0853",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:KE0853",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_2743.tif",
+      "file": [
+        "pagescans/inventory/851-855.PDF",
+        "photography/2011_inventory_photos/IMG_2743.tif"],
       "next": "kaahbr:KE0854",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-ars"
     },
     {
       "@id": "kaahbr:KE0854",
@@ -7127,30 +7137,30 @@
     },
     {
       "@id": "kaahbr:KE0910",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/905-910.PDF",
         "photography/2011_inventory_photos/IMG_2177.tif"
       ],
-      "next": "kaahbr:KE0911",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:KE0911"
     },
     {
       "@id": "kaahbr:KE0911",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/911-918.PDF",
         "photography/2011_inventory_photos/IMG_1824.tif"
       ],
-      "next": "kaahbr:KE0912",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:KE0912"
     },
     {
       "@id": "kaahbr:KE0912",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_1828.tif",
-      "next": "kaahbr:KE0913",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:KE0913"
     },
     {
       "@id": "kaahbr:KE0913",

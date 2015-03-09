@@ -9,8 +9,9 @@
    "file": ["plans/harbor-plan.png","plans/harbor-reconstruction.png"],
    "geo:lat": 37.885,
    "geo:long": 22.9875,
+   "is-part-of": "http://kenchreai.org/kaa",
    "rdfs:seeAlso": "http://pleiades.stoa.org/places/570347",
-   "title": "The Archaeological Site of Kenchreai in Greece"
+   "title": "Description of the Archaeological Site of Kenchreai in Greece"
   },{
    "@id":"kaahbr:area-a",
    "@type":"kaaont:excavation-area",
