@@ -3,7 +3,8 @@
   "@graph": [
     {
       "@id": "kaahbr:inventory-book",
-      "is-part-of": "kaa:harbor"
+      "is-part-of": "kaa:harbor",
+      "title": "Chicago/Indiana Harbor Excavation Inventoried Objects"
     },
     {
       "@id": "kaahbr:KE0001",

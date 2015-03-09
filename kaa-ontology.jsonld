@@ -15,6 +15,10 @@
    "owl:sameAs": "crm:P62_depicts",
    "title":"Depicts"
   },{
+   "@id":"kaaont:excavation-area",
+   "@type":["rdf:Class","rdf:Property"],
+   "title":"Excavation Area"
+  },{
    "@id":"kaaont:excavation-notebook",
    "@type":["rdf:Class","rdf:Property"],
    "title":"Excavation Notebook"
