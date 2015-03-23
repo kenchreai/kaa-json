@@ -753,15 +753,17 @@
     },
     {
       "@id": "kaahbr:ke0090",
-      "is-part-of": "kaahbr:inventory-book",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 90 (Corinthian Aryballos)",
       "file": "pagescans/inventory/90-95.PDF",
+      "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0091",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-corinthian-aryballos"
     },
     {
       "@id": "kaahbr:ke0091",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_2781.png",
+      "file": ["photography/2011_inventory_photos/IMG_2781.png","pagescans/inventory/90-95.PDF"],
       "next": "kaahbr:ke0092",
       "@type": "kaaont:inventory-number"
     },
@@ -4044,6 +4046,8 @@
     },
     {
       "@id": "kaahbr:ke0518",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 518 (Italian Sigillata)",
       "count": 1,
       "is-part-of": "kaahbr:inventory-book",
       "file": [
@@ -4052,7 +4056,6 @@
       ],
       "same": "kaahbr:p0128",
       "next": "kaahbr:ke0519",
-      "@type": "kaaont:inventory-number",
       "typology":"kaatyp:p-sig-it"
     },
     {
@@ -5345,12 +5348,13 @@
     },
     {
       "@id": "kaahbr:ke0679",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 0679 (LR Amphora)",
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/674-680.PDF","photography/2011_inventory_photos/IMG_1505.png"],
       "next": "kaahbr:ke0680",
       "same": "kaahbr:p0185",
-      "typology": "kaatyp:p",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-amphora"
     },
     {
       "@id": "kaahbr:ke0680",
@@ -6310,13 +6314,14 @@
     },
     {
       "@id": "kaahbr:ke0803",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 803 (Right Angle Ceramic Drain)",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/803-807.PDF",
         "photography/2011_inventory_photos/IMG_1238.png"
       ],
-      "next": "kaahbr:ke0804",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke0804"
     },
     {
       "@id": "kaahbr:ke0804",
@@ -6700,7 +6705,7 @@
         "pagescans/inventory/851-855.PDF",
         "photography/2011_inventory_photos/IMG_2743.png"],
       "next": "kaahbr:ke0854",
-      "typology": "kaatyp:p-ars"
+      "typology": "kaatyp:p-cw"
     },
     {
       "@id": "kaahbr:ke0854",
@@ -9641,23 +9646,27 @@
     },
     {
       "@id": "kaahbr:ke1222",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 1222 (Marble Hand)",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/1222-1223.PDF",
         "photography/2011_inventory_photos/IMG_1187.png"
       ],
       "next": "kaahbr:ke1223",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:s"
     },
     {
       "@id": "kaahbr:ke1223",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 1223 (Marble Hand)",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/1222-1223.PDF",
         "photography/2011_inventory_photos/IMG_1188.png"
       ],
       "next": "kaahbr:ke1224",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:s"
     },
     {
       "@id": "kaahbr:ke1224",
@@ -11025,12 +11034,14 @@
     {
       "@id": "kaahbr:ke1395",
       "is-part-of": "kaahbr:inventory-book",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 1395 (LR Athenian Painted Bowl)",
       "file": [
         "pagescans/inventory/1392-1395.PDF",
         "photography/2011_inventory_photos/IMG_2972.png"
       ],
       "next": "kaahbr:ke1396",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-athenian-painted"
     },
     {
       "@id": "kaahbr:ke1396",
@@ -11135,8 +11146,8 @@
       "@id": "kaahbr:ke1409",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
-        "photography/2011_inventory_photos/IMG_0522.png",
-        "photography/2011_inventory_photos/IMG_1939.png"
+        "pagescans/inventory/1405-1411.PDF",
+        "photography/2011_inventory_photos/IMG_0522.png"
       ],
       "same": "kaahbr:s0064",
       "next": "kaahbr:ke1410",
@@ -11764,11 +11775,13 @@
     },
     {
       "@id": "kaahbr:ke1494",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 1494 (Eastern Sigillata A)",
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/1493-1496.PDF",
                "photography/2011_inventory_photos/IMG_2896.png"],
       "next": "kaahbr:ke1495",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-esa"
     },
     {
       "@id": "kaahbr:ke1495",
@@ -17530,6 +17543,7 @@
       "file": [
         "photography/2011_inventory_photos/IMG_1449.png",
         "photography/2011_inventory_photos/IMG_1736.png"
+        
       ],
       "next": "kaahbr:ke2279",
       "@type": "kaaont:inventory-number"
@@ -17564,15 +17578,17 @@
     {
       "@id": "kaahbr:ke2283",
       "@type": "kaaont:inventory-number",
+      "title": "KE 2283 (PRS Hayes Form 3)",
       "file": "photography/2011_inventory_photos/IMG_2958.png",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke2284",
-      "same": "P0728",
+      "same": "kaahbr:P0728",
       "typology": "kaatyp:prs-hayes-3h"
     },
     {
       "@id": "kaahbr:ke2284",
       "@type": "kaaont:inventory-number",
+      "title": "KE 2284 (Late Roman Amphora 3)",
       "file": "photography/2011_inventory_photos/IMG_0491.png",
       "is-part-of": "kaahbr:inventory-book",
       "kaaont:location": "kaahbr:museum-crate-159",

@@ -101,9 +101,14 @@
   },{
    "@id": "kaatyp:p-athenian-gouged",
    "@type": "crm:E55_type",
-   "title": "Athenian Gouged Ware",
+   "title": "Athenian Late Roman Gouged Ware",
    "broader": "kaatyp:p-slipped-fw",
    "see":"http://www.agathe.gr/id/agora/object/p%2034657"
+  },{
+   "@id": "kaatyp:p-athenian-painted",
+   "@type": "crm:E55_type",
+   "title": "Athenian Late Roman Painted Ware",
+   "broader": "kaatyp:p-slipped-fw"
   },{
    "@id": "kaatyp:p-attic-black-figure",
    "@type": "crm:E55_type",
@@ -124,14 +129,24 @@
    "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=39",
    "title": "Beiruit 8 Amphora"
   },{
+   "@id":"kaatyp:p-byz-sgraffito",
+   "@type": "crm:E55_type",
+   "title": "Byzantine Sgraffito"
+  },{
+   "@id": "kaatyp:p-corinthian",
+   "@type": "crm:E55_type",
+   "title": "Corinthian",
+   "broader": "kaatyp:p"
+  },{
+   "@id": "kaatyp:p-corinthian-aryballos",
+   "@type": "crm:E55_type",
+   "title": "Corinthian Aryballos",
+   "broader": "kaatyp:p-corinthian"
+  },{
    "@id": "kaatyp:p-esc",
    "@type": "crm:E55_type",
    "title": "Eastern Sigillata C",
    "broader": "kaatyp:p-slipped-fw"
-  },{
-   "@id":"kaatyp:p-byz-sgraffito",
-   "@type": "crm:E55_type",
-   "title": "Byzantine Sgraffito"
   },{
    "@id": "kaatyp:p-cw",
    "@type": "crm:E55_type",
@@ -142,6 +157,12 @@
    "@type": "crm:E55_type",
    "title": "Phocaean Cooking Ware",
    "broader": "kaatyp:p-cw"
+  },{
+   "@id": "kaatyp:p-esa",
+   "@type": "crm:E55_type",
+   "title": "Eastern Sigillata A",
+   "see": "http://classics.uc.edu/troy/grbpottery/html/esa.html",
+   "broader": "kaatyp:p-slipped-fw"
   },{
    "@id": "kaatyp:p-esc-hayes-1",
    "@type": "crm:E55_type",
