@@ -2626,8 +2626,7 @@
       "@id": "kaahbr:ke0335",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
-        "photography/2011_inventory_photos/IMG_1785.png",
-        "photography/2011_inventory_photos/IMG_1903.png"
+        "photography/2011_inventory_photos/IMG_1785.png"
       ],
       "next": "kaahbr:ke0336",
       "@type": "kaaont:inventory-number"
@@ -3774,8 +3773,7 @@
       "@id": "kaahbr:ke0482",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
-        "photography/2011_inventory_photos/IMG_1944.png",
-        "photography/2011_inventory_photos/IMG_2812.png"
+        "photography/2011_inventory_photos/IMG_1944.png"
       ],
       "next": "kaahbr:ke0483",
       "@type": "kaaont:inventory-number"
@@ -16875,12 +16873,13 @@
     },
     {
       "@id": "kaahbr:ke2183",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 2183 (Middle Roman Amphora 7)",
       "is-part-of": "kaahbr:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_0450.png",
-      "crm:P2_has_type": "kaatyp:p-mra7",
-      "same": "kaahbr:p0625",
       "next": "kaahbr:ke2184",
-      "@type": "kaaont:inventory-number"
+      "same": "kaahbr:p0625",
+      "typology": "kaatyp:p-mra7"
     },
     {
       "@id": "kaahbr:ke2184",
