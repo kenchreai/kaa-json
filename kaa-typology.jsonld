@@ -271,10 +271,15 @@
    "broader": "kaatyp:generic",
    "title": "Sculpture"
   },{
-   "@id":"kaatyp:s-terracotta",
+   "@id":"kaatyp:s-herm",
    "@type": "crm:E55_type",
-   "broader": "kaatyp:s",
-   "title": "Terracotta Figurine"
+   "title": "Herm",
+   "broader": "kaatyp:s"
+  },{
+   "@id":"kaatyp:s-figurine",
+   "@type": "crm:E55_type",
+   "title": "Terracotta Figurine",
+   "broader": "kaatyp:s"
   }
  ]
 }

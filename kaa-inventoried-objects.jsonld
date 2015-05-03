@@ -471,7 +471,7 @@
       "file": ["pagescans/inventory/47-53.PDF","photography/2011_inventory_photos/IMG_1941.png"],
       "same": "kaahbr:s0002",
       "next": "kaahbr:ke0053",
-      "typology": "kaatyp:s-terracotta",
+      "typology": "kaatyp:s-figurine",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -4315,10 +4315,12 @@
     },
     {
       "@id": "kaahbr:ke0551",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 551 (Late Roman Amphora 1)",
       "is-part-of": "kaahbr:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_1292.png",
       "next": "kaahbr:ke0552",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-lra-1"
     },
     {
       "@id": "kaahbr:ke0552",
@@ -4694,11 +4696,12 @@
     },
     {
       "@id": "kaahbr:ke0600",
+      "@type": "kaaont:inventory-number",
+      "title": "kaatyp:s-herm",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_0863.png",
+      "file": ["pagescans/inventory/599-601.PDF","photography/2011_inventory_photos/IMG_0863.png"],
       "same": "kaahbr:s0015",
-      "next": "kaahbr:ke0601",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke0601"
     },
     {
       "@id": "kaahbr:ke0601",
@@ -5464,7 +5467,7 @@
       "file": ["pagescans/inventory/692-696.PDF","photography/2011_inventory_photos/IMG_1936.png"],
       "same": "kaahbr:s0016",
       "next": "kaahbr:ke0694",
-      "typology": "kaatyp:s-terracotta",
+      "typology": "kaatyp:s-figurine",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -9646,7 +9649,8 @@
       "@id": "kaahbr:ke1222",
       "@type": "kaaont:inventory-number",
       "title": "KE 1222 (Marble Hand)",
-      "is-part-of": "kaahbr:inventory-book",
+      "is-part-of": ["kaahbr:inventory-book",
+                    "kaahbr:notebook-page-a-v-182"],
       "file": [
         "pagescans/inventory/1222-1223.PDF",
         "photography/2011_inventory_photos/IMG_1187.png"
@@ -9658,7 +9662,8 @@
       "@id": "kaahbr:ke1223",
       "@type": "kaaont:inventory-number",
       "title": "KE 1223 (Marble Hand)",
-      "is-part-of": "kaahbr:inventory-book",
+      "is-part-of": ["kaahbr:inventory-book",
+                      "kaahbr:notebook-page-a-v-182"],
       "file": [
         "pagescans/inventory/1222-1223.PDF",
         "photography/2011_inventory_photos/IMG_1188.png"
@@ -9670,6 +9675,7 @@
       "@id": "kaahbr:ke1224",
       "is-part-of": [
         "kaahbr:box-a1078",
+        "kaahbr:notebook-page-a-v-182",
         "kaahbr:inventory-book"
       ],
       "file": "pagescans/inventory/1224-1227.PDF",

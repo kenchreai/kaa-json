@@ -1,0 +1,72 @@
+{
+ "@context": "kaa-context.jsonld",
+ "@graph": [
+  {
+   "@id":"crm:P5_has_type",
+   "title":"Typology"
+  },{
+   "@id":"crm:E55_type",
+   "title":"Typological term"
+  },{
+   "@id":"crm:P127_has_broader_term",
+   "title":"Broader typological term"
+  },{
+   "@id":"dct:creator",
+   "title":"Author or Editor"
+  },{
+   "@id":"dct:description",
+   "title":"Description"
+  },{
+   "@id":"dct:isPartOf",
+   "title":"Part of"
+  },{
+   "@id":"dct:title",
+   "title":"Title"
+  },{
+   "@id":"dct:isPartOf",
+   "title":"Part of"
+  },{
+   "@id":"foaf:name",
+   "title":"Name"
+  },{
+    "@id":"geo:lat",
+    "title": "Decimal latitude"
+  },{
+    "@id":"geo:long",
+    "title": "Decimal longitude"
+  },{
+     "@id": "http://lawd.info/ontology/Place",
+     "title": "Place"
+  },{
+   "@id":"owl:sameAs",
+   "title":"Same as"
+  },{
+   "@id":"rdf:type",
+   "title":"Is a"
+  },{
+   "@id":"rdfs:Class",
+   "title":"Descriptive term"
+  },{
+   "@id":"rdfs:Property",
+   "title":"Attribute"
+  },{
+   "@id":"rdfs:Resource",
+   "title":"Web-based archival resource"
+  },{
+   "@id":"rdfs:seeAlso",
+   "title":"See also"
+  },{
+   "@id":"http://purl.org/NET/Claros/vocab#not_after",
+   "title":"Latest date"
+  },{
+   "@id":"http://purl.org/NET/Claros/vocab#not_before",
+   "title":"Earliest date"
+  },{
+   "@id":"xsd:gYear",
+   "title":"Year as text string"
+  },{
+   "@id":"xsd:gYearMonth",
+   "title":"Year and month as text string"
+  }
+ ]
+}
