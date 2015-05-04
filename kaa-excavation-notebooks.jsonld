@@ -28,11 +28,17 @@
    "@id":"kaahbr:notebook-a-v",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A Notebook V",
-   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1964"]
+   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1964"],
+   "next": "kaahbr:notebook-a-vi"
   },{
    "@id":"kaahbr:notebook-a-v",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A Notebook V",
+   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1965"]
+  },{
+   "@id":"kaahbr:notebook-a-vi",
+   "@type":"kaaont:excavation-notebook",
+   "title": "Area A 1965 Notebook VI",
    "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1965"]
   },{
    "@id":"kaahbr:notebook-c-i",
