@@ -3243,6 +3243,7 @@
 {"@id":"kaahbr:notebook-page-a-iv-200","@type":"kaaont:notebook-page"},
 {
  "@id":"kaahbr:notebook-page-a-v-001",
+ "title": "Notebook 1964 Area A V, Page 1",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-001.png",
@@ -3250,6 +3251,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-002",
+ "title": "Notebook 1964 Area A V, Page 2",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-002.png",
@@ -3257,6 +3259,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-003",
+ "title": "Notebook 1964 Area A V, Page 3",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-002.png",
@@ -3264,6 +3267,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-004",
+ "title": "Notebook 1964 Area A V, Page 4",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-003.png",
@@ -3271,6 +3275,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-005",
+ "title": "Notebook 1964 Area A V, Page 5",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-003.png",
@@ -3278,6 +3283,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-006",
+ "title": "Notebook 1964 Area A V, Page 6",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-004.png",
@@ -3285,6 +3291,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-007",
+ "title": "Notebook 1964 Area A V, Page 7",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-004.png",
@@ -3292,6 +3299,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-008",
+ "title": "Notebook 1964 Area A V, Page 8",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-005.png",
@@ -3299,6 +3307,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-009",
+ "title": "Notebook 1964 Area A V, Page 9",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-005.png",
@@ -3306,6 +3315,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-010",
+ "title": "Notebook 1964 Area A V, Page 10",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-006.png",
@@ -3313,6 +3323,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-011",
+ "title": "Notebook 1964 Area A V, Page 11",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-006.png",
@@ -3320,6 +3331,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-012",
+ "title": "Notebook 1964 Area A V, Page 12",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-007.png",
@@ -3327,6 +3339,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-013",
+ "title": "Notebook 1964 Area A V, Page 13",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-007.png",
@@ -3334,6 +3347,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-014",
+ "title": "Notebook 1964 Area A V, Page 14",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-008.png",
@@ -3341,6 +3355,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-015",
+ "title": "Notebook 1964 Area A V, Page 15",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-008.png",
@@ -3348,6 +3363,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-016",
+ "title": "Notebook 1964 Area A V, Page 16",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-009.png",
@@ -3355,6 +3371,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-017",
+ "title": "Notebook 1964 Area A V, Page 17",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-009.png",
@@ -3362,6 +3379,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-018",
+ "title": "Notebook 1964 Area A V, Page 18",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-010.png",
@@ -3369,6 +3387,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-019",
+ "title": "Notebook 1964 Area A V, Page 19",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-010.png",
@@ -3376,6 +3395,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-020",
+ "title": "Notebook 1964 Area A V, Page 20",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-011.png",
@@ -3383,6 +3403,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-021",
+ "title": "Notebook 1964 Area A V, Page 21",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-011.png",
@@ -3390,6 +3411,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-022",
+ "title": "Notebook 1964 Area A V, Page 22",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-012.png",
@@ -3397,6 +3419,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-023",
+ "title": "Notebook 1964 Area A V, Page 23",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-012.png",
@@ -3404,6 +3427,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-024",
+ "title": "Notebook 1964 Area A V, Page 24",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-013.png",
@@ -3411,6 +3435,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-025",
+ "title": "Notebook 1964 Area A V, Page 25",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-013.png",
@@ -3418,6 +3443,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-026",
+ "title": "Notebook 1964 Area A V, Page 26",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-014.png",
@@ -3425,6 +3451,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-027",
+ "title": "Notebook 1964 Area A V, Page 27",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-014.png",
@@ -3432,6 +3459,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-028",
+ "title": "Notebook 1964 Area A V, Page 28",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-015.png",
@@ -3439,6 +3467,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-029",
+ "title": "Notebook 1964 Area A V, Page 29",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-015.png",
@@ -3446,6 +3475,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-030",
+ "title": "Notebook 1964 Area A V, Page 30",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-016.png",
@@ -3453,6 +3483,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-031",
+ "title": "Notebook 1964 Area A V, Page 31",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-016.png",
@@ -3460,6 +3491,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-032",
+ "title": "Notebook 1964 Area A V, Page 32",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-017.png",
@@ -3467,6 +3499,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-033",
+ "title": "Notebook 1964 Area A V, Page 33",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-017.png",
@@ -3474,6 +3507,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-034",
+ "title": "Notebook 1964 Area A V, Page 34",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-018.png",
@@ -3481,6 +3515,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-035",
+ "title": "Notebook 1964 Area A V, Page 35",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-018.png",
@@ -3488,6 +3523,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-036",
+ "title": "Notebook 1964 Area A V, Page 36",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-019.png",
@@ -3495,6 +3531,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-037",
+ "title": "Notebook 1964 Area A V, Page 37",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-019.png",
@@ -3502,6 +3539,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-038",
+ "title": "Notebook 1964 Area A V, Page 38",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-020.png",
@@ -3509,6 +3547,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-039",
+ "title": "Notebook 1964 Area A V, Page 39",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-020.png",
@@ -3516,6 +3555,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-040",
+ "title": "Notebook 1964 Area A V, Page 40",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-021.png",
@@ -3523,6 +3563,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-041",
+ "title": "Notebook 1964 Area A V, Page 41",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-021.png",
@@ -3530,6 +3571,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-042",
+ "title": "Notebook 1964 Area A V, Page 42",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-022.png",
@@ -3537,6 +3579,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-043",
+ "title": "Notebook 1964 Area A V, Page 43",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-022.png",
@@ -3544,6 +3587,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-044",
+ "title": "Notebook 1964 Area A V, Page 44",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-023.png",
@@ -3551,6 +3595,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-045",
+ "title": "Notebook 1964 Area A V, Page 45",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-023.png",
@@ -3558,6 +3603,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-046",
+ "title": "Notebook 1964 Area A V, Page 46",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-024.png",
@@ -3565,6 +3611,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-047",
+ "title": "Notebook 1964 Area A V, Page 47",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-024.png",
@@ -3572,6 +3619,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-048",
+ "title": "Notebook 1964 Area A V, Page 48",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-025.png",
@@ -3579,6 +3627,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-049",
+ "title": "Notebook 1964 Area A V, Page 49",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-025.png",
@@ -3586,6 +3635,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-050",
+ "title": "Notebook 1964 Area A V, Page 50",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-026.png",
@@ -3593,6 +3643,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-051",
+ "title": "Notebook 1964 Area A V, Page 51",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-026.png",
@@ -3600,6 +3651,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-052",
+ "title": "Notebook 1964 Area A V, Page 52",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-027.png",
@@ -3607,6 +3659,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-053",
+ "title": "Notebook 1964 Area A V, Page 53",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-027.png",
@@ -3614,6 +3667,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-054",
+ "title": "Notebook 1964 Area A V, Page 54",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-028.png",
@@ -3621,6 +3675,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-055",
+ "title": "Notebook 1964 Area A V, Page 55",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-028.png",
@@ -3628,6 +3683,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-056",
+ "title": "Notebook 1964 Area A V, Page 56",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-029.png",
@@ -3635,6 +3691,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-057",
+ "title": "Notebook 1964 Area A V, Page 57",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-029.png",
@@ -3642,6 +3699,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-058",
+ "title": "Notebook 1964 Area A V, Page 58",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-030.png",
@@ -3649,6 +3707,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-059",
+ "title": "Notebook 1964 Area A V, Page 59",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-030.png",
@@ -3656,6 +3715,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-060",
+ "title": "Notebook 1964 Area A V, Page 60",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-031.png",
@@ -3663,6 +3723,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-061",
+ "title": "Notebook 1964 Area A V, Page 61",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-031.png",
@@ -3670,6 +3731,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-062",
+ "title": "Notebook 1964 Area A V, Page 62",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-032.png",
@@ -3677,6 +3739,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-063",
+ "title": "Notebook 1964 Area A V, Page 63",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-032.png",
@@ -3684,6 +3747,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-064",
+ "title": "Notebook 1964 Area A V, Page 64",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-033.png",
@@ -3691,6 +3755,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-065",
+ "title": "Notebook 1964 Area A V, Page 65",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-033.png",
@@ -3698,6 +3763,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-066",
+ "title": "Notebook 1964 Area A V, Page 66",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-034.png",
@@ -3705,6 +3771,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-067",
+ "title": "Notebook 1964 Area A V, Page 67",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-034.png",
@@ -3712,6 +3779,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-068",
+ "title": "Notebook 1964 Area A V, Page 68",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-035.png",
@@ -3719,6 +3787,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-069",
+ "title": "Notebook 1964 Area A V, Page 69",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-035.png",
@@ -3726,6 +3795,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-070",
+ "title": "Notebook 1964 Area A V, Page 70",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-036.png",
@@ -3733,6 +3803,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-071",
+ "title": "Notebook 1964 Area A V, Page 71",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-036.png",
@@ -3740,6 +3811,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-072",
+ "title": "Notebook 1964 Area A V, Page 72",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-037.png",
@@ -3747,6 +3819,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-073",
+ "title": "Notebook 1964 Area A V, Page 73",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-037.png",
@@ -3754,6 +3827,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-074",
+ "title": "Notebook 1964 Area A V, Page 74",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-038.png",
@@ -3761,6 +3835,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-075",
+ "title": "Notebook 1964 Area A V, Page 75",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-038.png",
@@ -3768,6 +3843,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-076",
+ "title": "Notebook 1964 Area A V, Page 76",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-039.png",
@@ -3775,6 +3851,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-077",
+ "title": "Notebook 1964 Area A V, Page 77",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-039.png",
@@ -3782,6 +3859,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-078",
+ "title": "Notebook 1964 Area A V, Page 78",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-040.png",
@@ -3789,6 +3867,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-079",
+ "title": "Notebook 1964 Area A V, Page 79",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-040.png",
@@ -3796,6 +3875,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-080",
+ "title": "Notebook 1964 Area A V, Page 80",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-041.png",
@@ -3803,6 +3883,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-081",
+ "title": "Notebook 1964 Area A V, Page 81",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-041.png",
@@ -3810,6 +3891,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-082",
+ "title": "Notebook 1964 Area A V, Page 82",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-042.png",
@@ -3817,6 +3899,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-083",
+ "title": "Notebook 1964 Area A V, Page 83",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-042.png",
@@ -3824,6 +3907,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-084",
+ "title": "Notebook 1964 Area A V, Page 84",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-043.png",
@@ -3831,6 +3915,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-085",
+ "title": "Notebook 1964 Area A V, Page 85",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-043.png",
@@ -3838,6 +3923,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-086",
+ "title": "Notebook 1964 Area A V, Page 86",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-044.png",
@@ -3845,6 +3931,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-087",
+ "title": "Notebook 1964 Area A V, Page 87",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-044.png",
@@ -3852,6 +3939,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-088",
+ "title": "Notebook 1964 Area A V, Page 88",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-045.png",
@@ -3859,6 +3947,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-089",
+ "title": "Notebook 1964 Area A V, Page 89",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-045.png",
@@ -3866,6 +3955,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-090",
+ "title": "Notebook 1964 Area A V, Page 90",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-046.png",
@@ -3873,6 +3963,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-091",
+ "title": "Notebook 1964 Area A V, Page 91",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-046.png",
@@ -3880,6 +3971,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-092",
+ "title": "Notebook 1964 Area A V, Page 92",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-047.png",
@@ -3887,6 +3979,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-093",
+ "title": "Notebook 1964 Area A V, Page 93",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-047.png",
@@ -3894,6 +3987,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-094",
+ "title": "Notebook 1964 Area A V, Page 94",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-048.png",
@@ -3901,6 +3995,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-095",
+ "title": "Notebook 1964 Area A V, Page 95",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-048.png",
@@ -3908,6 +4003,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-096",
+ "title": "Notebook 1964 Area A V, Page 96",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-049.png",
@@ -3915,6 +4011,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-097",
+ "title": "Notebook 1964 Area A V, Page 97",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-049.png",
@@ -3922,6 +4019,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-098",
+ "title": "Notebook 1964 Area A V, Page 98",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-050.png",
@@ -3929,6 +4027,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-099",
+ "title": "Notebook 1964 Area A V, Page 99",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-050.png",
@@ -3936,6 +4035,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-100",
+ "title": "Notebook 1964 Area A V, Page 100",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-051.png",
@@ -3943,6 +4043,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-101",
+ "title": "Notebook 1964 Area A V, Page 101",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-051.png",
@@ -3950,6 +4051,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-102",
+ "title": "Notebook 1964 Area A V, Page 102",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-052.png",
@@ -3957,6 +4059,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-103",
+ "title": "Notebook 1964 Area A V, Page 103",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-052.png",
@@ -3964,6 +4067,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-104",
+ "title": "Notebook 1964 Area A V, Page 104",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-053.png",
@@ -3971,6 +4075,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-105",
+ "title": "Notebook 1964 Area A V, Page 105",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-053.png",
@@ -3978,6 +4083,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-106",
+ "title": "Notebook 1964 Area A V, Page 106",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-054.png",
@@ -3985,6 +4091,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-107",
+ "title": "Notebook 1964 Area A V, Page 107",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-054.png",
@@ -3992,6 +4099,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-108",
+ "title": "Notebook 1964 Area A V, Page 108",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-055.png",
@@ -3999,6 +4107,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-109",
+ "title": "Notebook 1964 Area A V, Page 109",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-055.png",
@@ -4006,6 +4115,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-110",
+ "title": "Notebook 1964 Area A V, Page 110",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-056.png",
@@ -4013,6 +4123,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-111",
+ "title": "Notebook 1964 Area A V, Page 111",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-056.png",
@@ -4020,6 +4131,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-112",
+ "title": "Notebook 1964 Area A V, Page 112",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-057.png",
@@ -4027,6 +4139,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-113",
+ "title": "Notebook 1964 Area A V, Page 113",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-057.png",
@@ -4034,6 +4147,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-114",
+ "title": "Notebook 1964 Area A V, Page 114",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-058.png",
@@ -4041,6 +4155,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-115",
+ "title": "Notebook 1964 Area A V, Page 115",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-058.png",
@@ -4048,6 +4163,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-116",
+ "title": "Notebook 1964 Area A V, Page 116",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-059.png",
@@ -4055,6 +4171,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-117",
+ "title": "Notebook 1964 Area A V, Page 117",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-059.png",
@@ -4062,6 +4179,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-118",
+ "title": "Notebook 1964 Area A V, Page 118",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-060.png",
@@ -4069,6 +4187,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-119",
+ "title": "Notebook 1964 Area A V, Page 119",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-060.png",
@@ -4076,6 +4195,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-120",
+ "title": "Notebook 1964 Area A V, Page 120",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-061.png",
@@ -4083,6 +4203,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-121",
+ "title": "Notebook 1964 Area A V, Page 121",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-061.png",
@@ -4090,6 +4211,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-122",
+ "title": "Notebook 1964 Area A V, Page 122",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-062.png",
@@ -4097,6 +4219,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-123",
+ "title": "Notebook 1964 Area A V, Page 123",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-062.png",
@@ -4104,6 +4227,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-124",
+ "title": "Notebook 1964 Area A V, Page 124",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-063.png",
@@ -4111,6 +4235,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-125",
+ "title": "Notebook 1964 Area A V, Page 125",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-063.png",
@@ -4118,6 +4243,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-126",
+ "title": "Notebook 1964 Area A V, Page 126",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-064.png",
@@ -4125,6 +4251,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-127",
+ "title": "Notebook 1964 Area A V, Page 127",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-064.png",
@@ -4132,6 +4259,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-128",
+ "title": "Notebook 1964 Area A V, Page 128",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-065.png",
@@ -4139,6 +4267,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-129",
+ "title": "Notebook 1964 Area A V, Page 129",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-065.png",
@@ -4146,6 +4275,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-130",
+ "title": "Notebook 1964 Area A V, Page 130",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-066.png",
@@ -4153,6 +4283,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-131",
+ "title": "Notebook 1964 Area A V, Page 131",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-066.png",
@@ -4160,6 +4291,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-132",
+ "title": "Notebook 1964 Area A V, Page 132",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-067.png",
@@ -4167,6 +4299,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-133",
+ "title": "Notebook 1964 Area A V, Page 133",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-067.png",
@@ -4174,6 +4307,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-134",
+ "title": "Notebook 1964 Area A V, Page 134",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-068.png",
@@ -4181,6 +4315,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-135",
+ "title": "Notebook 1964 Area A V, Page 135",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-068.png",
@@ -4188,6 +4323,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-136",
+ "title": "Notebook 1964 Area A V, Page 136",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-069.png",
@@ -4195,6 +4331,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-137",
+ "title": "Notebook 1964 Area A V, Page 137",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-069.png",
@@ -4202,30 +4339,35 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-138",
+ "title": "Notebook 1964 Area A V, Page 138",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "next":"kaahbr:notebook-page-a-v-139"
 },
 {
  "@id":"kaahbr:notebook-page-a-v-139",
+ "title": "Notebook 1964 Area A V, Page 139",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "next":"kaahbr:notebook-page-a-v-140"
 },
 {
  "@id":"kaahbr:notebook-page-a-v-140",
+ "title": "Notebook 1964 Area A V, Page 140",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "next":"kaahbr:notebook-page-a-v-141"
 },
 {
  "@id":"kaahbr:notebook-page-a-v-141",
+ "title": "Notebook 1964 Area A V, Page 141",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "next":"kaahbr:notebook-page-a-v-142"
 },
 {
  "@id":"kaahbr:notebook-page-a-v-142",
+ "title": "Notebook 1964 Area A V, Page 142",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-070.png",
@@ -4233,6 +4375,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-143",
+ "title": "Notebook 1964 Area A V, Page 143",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-070.png",
@@ -4240,6 +4383,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-144",
+ "title": "Notebook 1964 Area A V, Page 144",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-071.png",
@@ -4247,6 +4391,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-145",
+ "title": "Notebook 1964 Area A V, Page 145",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-071.png",
@@ -4254,6 +4399,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-146",
+ "title": "Notebook 1964 Area A V, Page 146",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-072.png",
@@ -4261,6 +4407,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-147",
+ "title": "Notebook 1964 Area A V, Page 147",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-072.png",
@@ -4268,6 +4415,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-148",
+ "title": "Notebook 1964 Area A V, Page 148",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-073.png",
@@ -4275,6 +4423,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-149",
+ "title": "Notebook 1964 Area A V, Page 149",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-073.png",
@@ -4282,6 +4431,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-150",
+ "title": "Notebook 1964 Area A V, Page 150",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-074.png",
@@ -4289,6 +4439,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-151",
+ "title": "Notebook 1964 Area A V, Page 151",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-074.png",
@@ -4296,6 +4447,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-152",
+ "title": "Notebook 1964 Area A V, Page 152",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-075.png",
@@ -4328,6 +4480,7 @@
  "next":"kaahbr:notebook-page-a-v-153"
 },{
  "@id":"kaahbr:notebook-page-a-v-153",
+ "title": "Notebook 1964 Area A V, Page 153",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-077.png",
@@ -4335,6 +4488,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-154",
+ "title": "Notebook 1964 Area A V, Page 154",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-078.png",
@@ -4342,6 +4496,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-155",
+ "title": "Notebook 1964 Area A V, Page 155",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-078.png",
@@ -4349,6 +4504,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-156",
+ "title": "Notebook 1964 Area A V, Page 156",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-079.png",
@@ -4356,6 +4512,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-157",
+ "title": "Notebook 1964 Area A V, Page 157",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-079.png",
@@ -4363,6 +4520,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-158",
+ "title": "Notebook 1964 Area A V, Page 158",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-080.png",
@@ -4370,6 +4528,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-159",
+ "title": "Notebook 1964 Area A V, Page 159",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-080.png",
@@ -4377,6 +4536,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-160",
+ "title": "Notebook 1964 Area A V, Page 160",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-081.png",
@@ -4384,6 +4544,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-161",
+ "title": "Notebook 1964 Area A V, Page 161",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-081.png",
@@ -4391,6 +4552,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-162",
+ "title": "Notebook 1964 Area A V, Page 162",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-082.png",
@@ -4398,6 +4560,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-163",
+ "title": "Notebook 1964 Area A V, Page 163",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-082.png",
@@ -4405,6 +4568,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-164",
+ "title": "Notebook 1964 Area A V, Page 164",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-083.png",
@@ -4412,6 +4576,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-165",
+ "title": "Notebook 1964 Area A V, Page 165",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-083.png",
@@ -4419,6 +4584,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-166",
+ "title": "Notebook 1964 Area A V, Page 166",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-084.png",
@@ -4426,6 +4592,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-167",
+ "title": "Notebook 1964 Area A V, Page 167",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-084.png",
@@ -4433,6 +4600,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-168",
+ "title": "Notebook 1964 Area A V, Page 168",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-085.png",
@@ -4440,6 +4608,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-169",
+ "title": "Notebook 1964 Area A V, Page 169",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-085.png",
@@ -4447,6 +4616,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-170",
+ "title": "Notebook 1964 Area A V, Page 170",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-086.png",
@@ -4454,6 +4624,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-171",
+ "title": "Notebook 1964 Area A V, Page 171",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-086.png",
@@ -4461,6 +4632,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-172",
+ "title": "Notebook 1964 Area A V, Page 172",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-087.png",
@@ -4468,6 +4640,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-173",
+ "title": "Notebook 1964 Area A V, Page 173",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-087.png",
@@ -4475,6 +4648,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-174",
+ "title": "Notebook 1964 Area A V, Page 174",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-088.png",
@@ -4482,6 +4656,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-175",
+ "title": "Notebook 1964 Area A V, Page 175",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-088.png",
@@ -4489,6 +4664,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-176",
+ "title": "Notebook 1964 Area A V, Page 176",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-089.png",
@@ -4496,6 +4672,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-177",
+ "title": "Notebook 1964 Area A V, Page 177",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-089.png",
@@ -4503,6 +4680,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-178",
+ "title": "Notebook 1964 Area A V, Page 178",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-090.png",
@@ -4510,6 +4688,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-179",
+ "title": "Notebook 1964 Area A V, Page 179",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-090.png",
@@ -4517,6 +4696,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-180",
+ "title": "Notebook 1964 Area A V, Page 180",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-091.png",
@@ -4524,6 +4704,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-181",
+ "title": "Notebook 1964 Area A V, Page 181",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-091.png",
@@ -4531,6 +4712,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-182",
+ "title": "Notebook 1964 Area A V, Page 182",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-092.png",
@@ -4538,6 +4720,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-183",
+ "title": "Notebook 1964 Area A V, Page 183",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-092.png",
@@ -4545,6 +4728,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-184",
+ "title": "Notebook 1964 Area A V, Page 184",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-093.png",
@@ -4552,6 +4736,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-185",
+ "title": "Notebook 1964 Area A V, Page 185",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-093.png",
@@ -4559,6 +4744,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-186",
+ "title": "Notebook 1964 Area A V, Page 186",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-094.png",
@@ -4566,6 +4752,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-187",
+ "title": "Notebook 1964 Area A V, Page 187",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-094.png",
@@ -4573,6 +4760,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-188",
+ "title": "Notebook 1964 Area A V, Page 188",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-095.png",
@@ -4580,6 +4768,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-189",
+ "title": "Notebook 1964 Area A V, Page 189",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-095.png",
@@ -4587,6 +4776,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-190",
+ "title": "Notebook 1964 Area A V, Page 190",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-096.png",
@@ -4594,6 +4784,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-191",
+ "title": "Notebook 1964 Area A V, Page 191",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-096.png",
@@ -4601,6 +4792,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-192",
+ "title": "Notebook 1964 Area A V, Page 192",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-097.png",
@@ -4608,6 +4800,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-193",
+ "title": "Notebook 1964 Area A V, Page 193",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-097.png",
@@ -4615,6 +4808,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-194",
+ "title": "Notebook 1964 Area A V, Page 194",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-098.png",
@@ -4622,6 +4816,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-195",
+ "title": "Notebook 1964 Area A V, Page 195",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-098.png",
@@ -4629,6 +4824,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-196",
+ "title": "Notebook 1964 Area A V, Page 196",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-099.png",
@@ -4636,6 +4832,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-197",
+ "title": "Notebook 1964 Area A V, Page 197",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-099.png",
@@ -4643,6 +4840,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-198",
+ "title": "Notebook 1964 Area A V, Page 198",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-100.png",
@@ -4650,6 +4848,7 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-199",
+ "title": "Notebook 1964 Area A V, Page 199",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-100.png",
@@ -4657,13 +4856,14 @@
 },
 {
  "@id":"kaahbr:notebook-page-a-v-200",
+ "title": "Notebook 1964 Area A V, Page 200",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-101.png",
  "next":"kaahbr:notebook-page-a-v-201"
 },
 {
- "@id":"kaahbr:notebook-page-a-vi-inside-front-cover",
+ "@id":"kaahbr:notebook-page-a-vi-000-inside-front-cover",
  "@type":"kaaont:notebook-page",
  "is-part-of":"kaahbr:notebook-a-vi",
  "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-01.png",
