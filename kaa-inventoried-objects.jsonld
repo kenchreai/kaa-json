@@ -9638,7 +9638,10 @@
       "@id": "kaahbr:ke1221",
       "@type": "kaaont:inventory-number",
       "title": "KE 1221 (Marble Statue Base)",
-      "is-part-of": ["kaahbr:area-a","kaahbr:inventory-book"],
+      "is-part-of": ["kaahbr:area-a",
+      				"kaahbr:inventory-book",
+      				"kaahbr:notebook-page-a-v-182",
+      				"kaahbr:notebook-page-a-v-040"],
       "file": "pagescans/inventory/1220-1221.PDF",
       "model": "http://p3d.in/oJZFm",
       "same": "kaahbr:s0054",
@@ -9663,6 +9666,7 @@
       "@type": "kaaont:inventory-number",
       "title": "KE 1223 (Marble Hand)",
       "is-part-of": ["kaahbr:inventory-book",
+                      "kaahbr:notebook-page-a-v-045",
                       "kaahbr:notebook-page-a-v-182"],
       "file": [
         "pagescans/inventory/1222-1223.PDF",
@@ -9675,6 +9679,7 @@
       "@id": "kaahbr:ke1224",
       "is-part-of": [
         "kaahbr:box-a1078",
+        "kaahbr:notebook-page-a-v-045",
         "kaahbr:notebook-page-a-v-182",
         "kaahbr:inventory-book"
       ],

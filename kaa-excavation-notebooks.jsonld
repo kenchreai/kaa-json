@@ -30,6 +30,11 @@
    "title": "Area A Notebook V",
    "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1964"]
   },{
+   "@id":"kaahbr:notebook-a-v",
+   "@type":"kaaont:excavation-notebook",
+   "title": "Area A Notebook V",
+   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1965"]
+  },{
    "@id":"kaahbr:notebook-c-i",
    "@type":"kaaont:excavation-notebook",
    "title": "Area C Notebook I",
@@ -4650,6 +4655,1403 @@
  "is-part-of":"kaahbr:notebook-a-v",
  "file":"pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-101.png",
  "next":"kaahbr:notebook-page-a-v-201"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-inside-front-cover",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-01.png",
+ "next":"kaahbr:notebook-page-a-vi-001"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-001",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-01.png",
+ "next":"kaahbr:notebook-page-a-vi-002"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-002",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "next":"kaahbr:notebook-page-a-vi-003"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-003",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "next":"kaahbr:notebook-page-a-vi-004"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-004",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-02.png",
+ "next":"kaahbr:notebook-page-a-vi-005"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-005",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-02.png",
+ "next":"kaahbr:notebook-page-a-vi-006"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-006",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-03.png",
+ "next":"kaahbr:notebook-page-a-vi-007"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-007",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-03.png",
+ "next":"kaahbr:notebook-page-a-vi-008"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-008",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-04.png",
+ "next":"kaahbr:notebook-page-a-vi-009"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-009",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-04.png",
+ "next":"kaahbr:notebook-page-a-vi-010"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-010",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-05.png",
+ "next":"kaahbr:notebook-page-a-vi-011"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-011",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-05.png",
+ "next":"kaahbr:notebook-page-a-vi-012"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-012",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-06.png",
+ "next":"kaahbr:notebook-page-a-vi-013"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-013",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-06.png",
+ "next":"kaahbr:notebook-page-a-vi-014"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-014",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-07.png",
+ "next":"kaahbr:notebook-page-a-vi-015"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-015",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-07.png",
+ "next":"kaahbr:notebook-page-a-vi-016"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-016",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-08.png",
+ "next":"kaahbr:notebook-page-a-vi-017"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-017",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-08.png",
+ "next":"kaahbr:notebook-page-a-vi-018"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-018",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-09.png",
+ "next":"kaahbr:notebook-page-a-vi-019"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-019",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-09.png",
+ "next":"kaahbr:notebook-page-a-vi-020"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-020",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-10.png",
+ "next":"kaahbr:notebook-page-a-vi-021"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-021",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-10.png",
+ "next":"kaahbr:notebook-page-a-vi-022"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-022",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-11.png",
+ "next":"kaahbr:notebook-page-a-vi-023"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-023",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-11.png",
+ "next":"kaahbr:notebook-page-a-vi-024"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-024",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-12.png",
+ "next":"kaahbr:notebook-page-a-vi-025"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-025",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-12.png",
+ "next":"kaahbr:notebook-page-a-vi-026"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-026",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-13.png",
+ "next":"kaahbr:notebook-page-a-vi-027"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-027",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-13.png",
+ "next":"kaahbr:notebook-page-a-vi-028"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-028",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-14.png",
+ "next":"kaahbr:notebook-page-a-vi-029"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-029",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-14.png",
+ "next":"kaahbr:notebook-page-a-vi-030"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-030",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-15.png",
+ "next":"kaahbr:notebook-page-a-vi-031"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-031",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-15.png",
+ "next":"kaahbr:notebook-page-a-vi-032"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-032",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-16.png",
+ "next":"kaahbr:notebook-page-a-vi-033"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-033",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-16.png",
+ "next":"kaahbr:notebook-page-a-vi-034"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-034",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-17.png",
+ "next":"kaahbr:notebook-page-a-vi-035"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-035",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-17.png",
+ "next":"kaahbr:notebook-page-a-vi-036"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-036",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-18.png",
+ "next":"kaahbr:notebook-page-a-vi-037"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-037",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-18.png",
+ "next":"kaahbr:notebook-page-a-vi-038"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-038",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-19.png",
+ "next":"kaahbr:notebook-page-a-vi-039"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-039",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-19.png",
+ "next":"kaahbr:notebook-page-a-vi-040"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-040",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-20.png",
+ "next":"kaahbr:notebook-page-a-vi-041"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-041",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-20.png",
+ "next":"kaahbr:notebook-page-a-vi-042"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-042",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-21.png",
+ "next":"kaahbr:notebook-page-a-vi-043"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-043",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-21.png",
+ "next":"kaahbr:notebook-page-a-vi-044"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-044",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-22.png",
+ "next":"kaahbr:notebook-page-a-vi-045"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-045",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-22.png",
+ "next":"kaahbr:notebook-page-a-vi-046"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-046",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-23.png",
+ "next":"kaahbr:notebook-page-a-vi-047"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-047",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-23.png",
+ "next":"kaahbr:notebook-page-a-vi-048"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-048",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-24.png",
+ "next":"kaahbr:notebook-page-a-vi-049"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-049",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-24.png",
+ "next":"kaahbr:notebook-page-a-vi-050"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-050",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-25.png",
+ "next":"kaahbr:notebook-page-a-vi-051"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-051",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-25.png",
+ "next":"kaahbr:notebook-page-a-vi-052"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-052",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-26.png",
+ "next":"kaahbr:notebook-page-a-vi-053"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-053",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-26.png",
+ "next":"kaahbr:notebook-page-a-vi-054"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-054",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-27.png",
+ "next":"kaahbr:notebook-page-a-vi-055"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-055",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-27.png",
+ "next":"kaahbr:notebook-page-a-vi-056"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-056",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-28.png",
+ "next":"kaahbr:notebook-page-a-vi-057"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-057",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-28.png",
+ "next":"kaahbr:notebook-page-a-vi-058"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-058",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-29.png",
+ "next":"kaahbr:notebook-page-a-vi-059"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-059",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-29.png",
+ "next":"kaahbr:notebook-page-a-vi-060"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-060",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-30.png",
+ "next":"kaahbr:notebook-page-a-vi-061"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-061",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-30.png",
+ "next":"kaahbr:notebook-page-a-vi-062"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-062",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-31.png",
+ "next":"kaahbr:notebook-page-a-vi-063"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-063",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-31.png",
+ "next":"kaahbr:notebook-page-a-vi-064"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-064",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-32.png",
+ "next":"kaahbr:notebook-page-a-vi-065"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-065",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-32.png",
+ "next":"kaahbr:notebook-page-a-vi-066"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-066",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-33.png",
+ "next":"kaahbr:notebook-page-a-vi-067"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-067",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-33.png",
+ "next":"kaahbr:notebook-page-a-vi-068"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-068",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-34.png",
+ "next":"kaahbr:notebook-page-a-vi-069"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-069",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-34.png",
+ "next":"kaahbr:notebook-page-a-vi-070"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-070",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-35.png",
+ "next":"kaahbr:notebook-page-a-vi-071"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-071",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-35.png",
+ "next":"kaahbr:notebook-page-a-vi-072"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-072",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-36.png",
+ "next":"kaahbr:notebook-page-a-vi-073"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-073",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-36.png",
+ "next":"kaahbr:notebook-page-a-vi-074"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-074",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-37.png",
+ "next":"kaahbr:notebook-page-a-vi-075"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-075",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-37.png",
+ "next":"kaahbr:notebook-page-a-vi-076"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-076",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-38.png",
+ "next":"kaahbr:notebook-page-a-vi-077"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-077",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-38.png",
+ "next":"kaahbr:notebook-page-a-vi-078"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-078",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-39.png",
+ "next":"kaahbr:notebook-page-a-vi-079"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-079",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-39.png",
+ "next":"kaahbr:notebook-page-a-vi-080"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-080",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-40.png",
+ "next":"kaahbr:notebook-page-a-vi-081"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-081",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-40.png",
+ "next":"kaahbr:notebook-page-a-vi-082"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-082",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-41.png",
+ "next":"kaahbr:notebook-page-a-vi-083"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-083",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-41.png",
+ "next":"kaahbr:notebook-page-a-vi-084"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-084",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-42.png",
+ "next":"kaahbr:notebook-page-a-vi-085"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-085",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-42.png",
+ "next":"kaahbr:notebook-page-a-vi-086"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-086",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-43.png",
+ "next":"kaahbr:notebook-page-a-vi-087"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-087",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-43.png",
+ "next":"kaahbr:notebook-page-a-vi-088"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-088",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-44.png",
+ "next":"kaahbr:notebook-page-a-vi-089"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-089",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-44.png",
+ "next":"kaahbr:notebook-page-a-vi-090"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-090",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-45.png",
+ "next":"kaahbr:notebook-page-a-vi-091"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-091",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-45.png",
+ "next":"kaahbr:notebook-page-a-vi-092"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-092",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-46.png",
+ "next":"kaahbr:notebook-page-a-vi-093"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-093",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-46.png",
+ "next":"kaahbr:notebook-page-a-vi-094"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-094",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-47.png",
+ "next":"kaahbr:notebook-page-a-vi-095"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-095",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-47.png",
+ "next":"kaahbr:notebook-page-a-vi-096"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-096",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-48.png",
+ "next":"kaahbr:notebook-page-a-vi-097"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-097",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-48.png",
+ "next":"kaahbr:notebook-page-a-vi-098"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-098",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-49.png",
+ "next":"kaahbr:notebook-page-a-vi-099"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-099",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-49.png",
+ "next":"kaahbr:notebook-page-a-vi-100"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-100",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-50.png",
+ "next":"kaahbr:notebook-page-a-vi-101"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-101",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-50.png",
+ "next":"kaahbr:notebook-page-a-vi-102"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-102",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-51.png",
+ "next":"kaahbr:notebook-page-a-vi-103"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-103",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-51.png",
+ "next":"kaahbr:notebook-page-a-vi-104"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-104",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-52.png",
+ "next":"kaahbr:notebook-page-a-vi-105"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-105",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-52.png",
+ "next":"kaahbr:notebook-page-a-vi-106"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-106",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-53.png",
+ "next":"kaahbr:notebook-page-a-vi-107"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-107",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-53.png",
+ "next":"kaahbr:notebook-page-a-vi-108"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-108",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-54.png",
+ "next":"kaahbr:notebook-page-a-vi-109"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-109",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-54.png",
+ "next":"kaahbr:notebook-page-a-vi-110"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-110",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-55.png",
+ "next":"kaahbr:notebook-page-a-vi-111"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-111",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-55.png",
+ "next":"kaahbr:notebook-page-a-vi-112"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-112",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-56.png",
+ "next":"kaahbr:notebook-page-a-vi-113"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-113",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-56.png",
+ "next":"kaahbr:notebook-page-a-vi-114"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-114",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-57.png",
+ "next":"kaahbr:notebook-page-a-vi-115"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-115",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-57.png",
+ "next":"kaahbr:notebook-page-a-vi-116"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-116",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-58.png",
+ "next":"kaahbr:notebook-page-a-vi-117"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-117",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-58.png",
+ "next":"kaahbr:notebook-page-a-vi-118"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-118",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-59.png",
+ "next":"kaahbr:notebook-page-a-vi-119"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-119",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-59.png",
+ "next":"kaahbr:notebook-page-a-vi-120"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-120",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-60.png",
+ "next":"kaahbr:notebook-page-a-vi-121"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-121",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-60.png",
+ "next":"kaahbr:notebook-page-a-vi-122"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-122",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-61.png",
+ "next":"kaahbr:notebook-page-a-vi-123"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-123",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-61.png",
+ "next":"kaahbr:notebook-page-a-vi-124"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-124",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-62.png",
+ "next":"kaahbr:notebook-page-a-vi-125"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-125",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-62.png",
+ "next":"kaahbr:notebook-page-a-vi-126"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-126",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-63.png",
+ "next":"kaahbr:notebook-page-a-vi-127"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-127",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-63.png",
+ "next":"kaahbr:notebook-page-a-vi-128"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-128",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-64.png",
+ "next":"kaahbr:notebook-page-a-vi-129"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-129",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-64.png",
+ "next":"kaahbr:notebook-page-a-vi-130"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-130",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-65.png",
+ "next":"kaahbr:notebook-page-a-vi-131"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-131",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-65.png",
+ "next":"kaahbr:notebook-page-a-vi-132"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-132",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-66.png",
+ "next":"kaahbr:notebook-page-a-vi-133"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-133",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-66.png",
+ "next":"kaahbr:notebook-page-a-vi-134"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-134",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-67.png",
+ "next":"kaahbr:notebook-page-a-vi-135"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-135",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-67.png",
+ "next":"kaahbr:notebook-page-a-vi-136"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-136",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-68.png",
+ "next":"kaahbr:notebook-page-a-vi-137"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-137",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-68.png",
+ "next":"kaahbr:notebook-page-a-vi-138"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-138",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-69.png",
+ "next":"kaahbr:notebook-page-a-vi-139"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-139",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-69.png",
+ "next":"kaahbr:notebook-page-a-vi-140"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-140",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-70.png",
+ "next":"kaahbr:notebook-page-a-vi-141"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-141",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-70.png",
+ "next":"kaahbr:notebook-page-a-vi-142"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-142",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-71.png",
+ "next":"kaahbr:notebook-page-a-vi-143"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-143",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-71.png",
+ "next":"kaahbr:notebook-page-a-vi-144"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-144",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-72.png",
+ "next":"kaahbr:notebook-page-a-vi-145"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-145",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-72.png",
+ "next":"kaahbr:notebook-page-a-vi-146"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-146",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-73.png",
+ "next":"kaahbr:notebook-page-a-vi-147"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-147",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-73.png",
+ "next":"kaahbr:notebook-page-a-vi-148"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-148",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-74.png",
+ "next":"kaahbr:notebook-page-a-vi-149"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-149",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-74.png",
+ "next":"kaahbr:notebook-page-a-vi-150"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-150",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-75.png",
+ "next":"kaahbr:notebook-page-a-vi-151"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-151",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-75.png",
+ "next":"kaahbr:notebook-page-a-vi-152"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-152",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-76.png",
+ "next":"kaahbr:notebook-page-a-vi-153"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-153",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-76.png",
+ "next":"kaahbr:notebook-page-a-vi-154"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-154",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-77.png",
+ "next":"kaahbr:notebook-page-a-vi-155"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-155",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-77.png",
+ "next":"kaahbr:notebook-page-a-vi-156"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-156",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-78.png",
+ "next":"kaahbr:notebook-page-a-vi-157"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-157",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-78.png",
+ "next":"kaahbr:notebook-page-a-vi-158"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-158",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-79.png",
+ "next":"kaahbr:notebook-page-a-vi-159"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-159",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-79.png",
+ "next":"kaahbr:notebook-page-a-vi-160"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-160",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-80.png",
+ "next":"kaahbr:notebook-page-a-vi-161"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-161",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-80.png",
+ "next":"kaahbr:notebook-page-a-vi-162"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-162",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-81.png",
+ "next":"kaahbr:notebook-page-a-vi-163"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-163",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-81.png",
+ "next":"kaahbr:notebook-page-a-vi-164"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-164",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-82.png",
+ "next":"kaahbr:notebook-page-a-vi-165"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-165",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-82.png",
+ "next":"kaahbr:notebook-page-a-vi-166"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-166",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-83.png",
+ "next":"kaahbr:notebook-page-a-vi-167"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-167",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-83.png",
+ "next":"kaahbr:notebook-page-a-vi-168"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-168",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-84.png",
+ "next":"kaahbr:notebook-page-a-vi-169"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-169",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-84.png",
+ "next":"kaahbr:notebook-page-a-vi-170"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-170",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-85.png",
+ "next":"kaahbr:notebook-page-a-vi-171"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-171",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-85.png",
+ "next":"kaahbr:notebook-page-a-vi-172"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-172",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-86.png",
+ "next":"kaahbr:notebook-page-a-vi-173"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-173",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-86.png",
+ "next":"kaahbr:notebook-page-a-vi-174"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-174",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-87.png",
+ "next":"kaahbr:notebook-page-a-vi-175"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-175",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-87.png",
+ "next":"kaahbr:notebook-page-a-vi-176"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-176",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-88.png",
+ "next":"kaahbr:notebook-page-a-vi-177"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-177",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-88.png",
+ "next":"kaahbr:notebook-page-a-vi-178"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-178",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-89.png",
+ "next":"kaahbr:notebook-page-a-vi-179"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-179",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-89.png",
+ "next":"kaahbr:notebook-page-a-vi-180"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-180",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-90.png",
+ "next":"kaahbr:notebook-page-a-vi-181"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-181",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-90.png",
+ "next":"kaahbr:notebook-page-a-vi-182"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-182",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-91.png",
+ "next":"kaahbr:notebook-page-a-vi-183"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-183",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-91.png",
+ "next":"kaahbr:notebook-page-a-vi-184"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-184",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-92.png",
+ "next":"kaahbr:notebook-page-a-vi-185"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-185",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-92.png",
+ "next":"kaahbr:notebook-page-a-vi-186"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-186",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-93.png",
+ "next":"kaahbr:notebook-page-a-vi-187"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-187",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-93.png",
+ "next":"kaahbr:notebook-page-a-vi-188"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-188",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-94.png",
+ "next":"kaahbr:notebook-page-a-vi-189"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-189",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-94.png",
+ "next":"kaahbr:notebook-page-a-vi-190"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-190",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-95.png",
+ "next":"kaahbr:notebook-page-a-vi-191"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-191",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-95.png",
+ "next":"kaahbr:notebook-page-a-vi-192"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-192",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-96.png",
+ "next":"kaahbr:notebook-page-a-vi-193"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-193",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-96.png",
+ "next":"kaahbr:notebook-page-a-vi-194"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-194",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-97.png",
+ "next":"kaahbr:notebook-page-a-vi-195"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-195",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-97.png",
+ "next":"kaahbr:notebook-page-a-vi-196"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-196",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-98.png",
+ "next":"kaahbr:notebook-page-a-vi-197"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-197",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-98.png",
+ "next":"kaahbr:notebook-page-a-vi-198"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-198",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-99.png",
+ "next":"kaahbr:notebook-page-a-vi-199"
+},
+{
+ "@id":"kaahbr:notebook-page-a-vi-199",
+ "@type":"kaaont:notebook-page",
+ "is-part-of":"kaahbr:notebook-a-vi",
+ "file":"pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-99.png"
 },
 {"@id":"kaahbr:notebook-page-c-i-001","@type":"kaaont:notebook-page"},
 {"@id":"kaahbr:notebook-page-c-i-001","is-part-of":"kaahbr:notebook-c-i"},
