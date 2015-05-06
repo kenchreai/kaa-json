@@ -16,7 +16,7 @@
    "@id":"kaahbr:area-a",
    "@type":"kaaont:excavation-area",
    "title":"Area A",
-   "file": "plans/harbor-plan.png",
+   "file": "plans/area-a.png",
    "is-part-of": "kaa:kenchreai",
    "next": "kaahbr:area-b"
   },{
@@ -234,7 +234,7 @@
    "@type":"kaaont:excavation-area",
    "title":"Area TA",
    "description": "The site of an early imperial tomb built at a distance from the harbor itself. “TA” is short for “Temple of Artemis,” which was the working identification of the remains when work began.",
-   "file": "plans/area-c.png",
+   "file": "plans/area-ta.png",
    "is-part-of": ["kaa:kenchreai", "kaa:month-july-1964", "kaa:month-august-1964","kaa:month-march-1969"]
   }
  ]
