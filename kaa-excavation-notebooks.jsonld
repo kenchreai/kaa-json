@@ -9529,9 +9529,9 @@
  "file":"pagescans/trench-notebooks/notebook-a-viii/notebook-a-viii-1966-file-110.png"
 },
 {
- "@id":"kaahbr:notebook-page-b-i-front-cover-inside",
+ "@id":"kaahbr:notebook-page-b-i-000-front-cover-inside",
  "@type":"kaaont:notebook-page",
- "title":"Notebook B I, Page 0",
+ "title":"Notebook B I, Front Cover Inside",
  "is-part-of":"kaahbr:notebook-b-i",
  "file":"pagescans/trench-notebooks/notebook-b-i/notebook-1963-b-i-file-01.png",
  "next":"kaahbr:notebook-page-b-i-001"
