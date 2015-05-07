@@ -143,6 +143,11 @@
    "title": "Corinthian Aryballos",
    "broader": "kaatyp:p-corinthian"
   },{
+   "@id": "kaatyp:p-corinthian-relief",
+   "@type": "crm:E55_type",
+   "title": "Corinthian Relief Ware",
+   "broader": "kaatyp:p-corinthian"
+  },{
    "@id": "kaatyp:p-esc",
    "@type": "crm:E55_type",
    "title": "Eastern Sigillata C",

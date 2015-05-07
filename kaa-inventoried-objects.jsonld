@@ -190,15 +190,15 @@
     },
     {
       "@id": "kaahbr:ke0018",
-      "is-part-of": "kaahbr:inventory-book",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 18 (Hellenistic Moldmade Bowl)",
       "file": [
         "pagescans/inventory/18-23.PDF",
         "photography/2011_inventory_photos/IMG_2748.png"
       ],
+      "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0019",
-      "title": "KE 18",
-      "typology": "kaatyp:p-hell-moldmade-bowl",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-hell-moldmade-bowl"
     },
     {
       "@id": "kaahbr:ke0019",
@@ -2347,12 +2347,14 @@
     },
     {
       "@id": "kaahbr:ke0299",
-      "is-part-of": "kaahbr:inventory-book",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 299 (Lug-Handled Stone Bowl)",
+      "is-part-of": ["kaahbr:inventory-book",
+                     "kaahbr:notebook-page-b-i-135"],
       "file": ["pagescans/inventory/297-300.PDF","photography/2011_inventory_photos/IMG_0938.png"],
       "next": "kaahbr:ke0300",
       "same:": "kaahbr:MI0074",
-      "typology": "kaatyp:mi-stone-bowl",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:mi-stone-bowl"
     },
     {
       "@id": "kaahbr:ke0300",
@@ -2377,10 +2379,13 @@
     },
     {
       "@id": "kaahbr:ke0302",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 302 (Corinthian Relief Ware)",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_2297.png",
+      "file": ["pagescans/inventory/301-307.PDF",
+               "photography/2011_inventory_photos/IMG_2297.png"],
       "next": "kaahbr:ke0303",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-corinthian-relief"
     },
     {
       "@id": "kaahbr:ke0303",
@@ -7488,6 +7493,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_1419.png",
       "next": "kaahbr:ke0955",
+      "typology": "kaatyp:p-amphora",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -7495,6 +7501,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_1417.png",
       "next": "kaahbr:ke0956",
+      "typology": "kaatyp:p-amphora",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -7505,7 +7512,7 @@
         "photography/2011_inventory_photos/IMG_1434.png"
       ],
       "next": "kaahbr:ke0957",
-      "typology": "kaatyp:l",
+      "typology": "kaatyp:p-amphora",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -10328,23 +10335,23 @@
     },
     {
       "@id": "kaahbr:ke1300",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
-      "next": "kaahbr:ke1301",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke1301"
     },
     {
       "@id": "kaahbr:ke1301",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke1302",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1302",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke1303",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1303",
@@ -10371,168 +10378,168 @@
     },
     {
       "@id": "kaahbr:ke1306",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke1307",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1307",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke1308",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1308",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1304-1308.PDF",
       "next": "kaahbr:ke1309",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1309",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1309-1312.PDF",
       "next": "kaahbr:ke1310",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1310",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_2275.png",
-      "next": "kaahbr:ke1311",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke1311"
     },
     {
       "@id": "kaahbr:ke1311",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke1312",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1312",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1309-1312.PDF",
       "next": "kaahbr:ke1313",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1313",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1313-1317.PDF",
       "next": "kaahbr:ke1314",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1314",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke1315",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1315",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke1316",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1316",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke1317",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1317",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1313-1317.PDF",
       "next": "kaahbr:ke1318",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1318",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1318-1321.PDF",
       "next": "kaahbr:ke1319",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1319",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
-      "next": "kaahbr:ke1320",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke1320"
     },
     {
       "@id": "kaahbr:ke1320",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
-      "next": "kaahbr:ke1321",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke1321"
     },
     {
       "@id": "kaahbr:ke1321",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1318-1321.PDF",
-      "next": "kaahbr:ke1322",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke1322"
     },
     {
       "@id": "kaahbr:ke1322",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/1322-1326.PDF",
         "photography/2011_inventory_photos/IMG_3248.png"
       ],
-      "next": "kaahbr:ke1323",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke1323"
     },
     {
       "@id": "kaahbr:ke1323",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_3072.png",
-      "next": "kaahbr:ke1324",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke1324"
     },
     {
       "@id": "kaahbr:ke1324",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_3064.png",
-      "next": "kaahbr:ke1325",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke1325"
     },
     {
       "@id": "kaahbr:ke1325",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "photography/2011_inventory_photos/IMG_3297.png",
         "photography/2011_inventory_photos/IMG_3298.png"
       ],
-      "next": "kaahbr:ke1326",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke1326"
     },
     {
       "@id": "kaahbr:ke1326",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1322-1326.PDF",
-      "next": "kaahbr:ke1327",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke1327"
     },
     {
       "@id": "kaahbr:ke1327",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1327-1330.PDF",
       "next": "kaahbr:ke1328",
-      "typology": "kaatyp:l",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:l"
     },
     {
       "@id": "kaahbr:ke1328",
@@ -10542,38 +10549,40 @@
     },
     {
       "@id": "kaahbr:ke1329",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
-      "next": "kaahbr:ke1330",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke1330"
     },
     {
       "@id": "kaahbr:ke1330",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/1327-1330.PDF",
         "photography/2011_inventory_photos/IMG_2811.png"
       ],
-      "next": "kaahbr:ke1331",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke1331"
     },
     {
       "@id": "kaahbr:ke1331",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "pagescans/inventory/1331-1336.PDF",
-      "next": "kaahbr:ke1332",
-      "@type": "kaaont:inventory-number"
+      "next": "kaahbr:ke1332"
     },
     {
       "@id": "kaahbr:ke1332",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_1180.png",
+      "file": ["pagescans/inventory/1331-1336.PDF",
+      "photography/2011_inventory_photos/IMG_1180.png"],
       "next": "kaahbr:ke1333",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:ke1333",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_1168.png",
+      "file": ["pagescans/inventory/1331-1336.PDF",
+      "photography/2011_inventory_photos/IMG_1168.png"],
       "next": "kaahbr:ke1334",
       "@type": "kaaont:inventory-number"
     },
@@ -10581,6 +10590,7 @@
       "@id": "kaahbr:ke1334",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
+        "pagescans/inventory/1331-1336.PDF",
         "photography/2011_inventory_photos/IMG_1171.png",
         "photography/2011_inventory_photos/IMG_1181.png"
       ],
@@ -10590,7 +10600,8 @@
     {
       "@id": "kaahbr:ke1335",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_1910.png",
+      "file": ["pagescans/inventory/1331-1336.PDF",
+      "photography/2011_inventory_photos/IMG_1910.png"],
       "same": "kaahbr:s0061",
       "next": "kaahbr:ke1336",
       "@type": "kaaont:inventory-number"
@@ -10604,13 +10615,15 @@
     },
     {
       "@id": "kaahbr:ke1337",
-      "is-part-of": "kaahbr:inventory-book",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 1337 (Italian Sigillata)",
       "file": [
         "pagescans/inventory/1337-1340.PDF",
         "photography/2011_inventory_photos/IMG_1591.png"
       ],
+      "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke1338",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-sig-it"
     },
     {
       "@id": "kaahbr:ke1338",
