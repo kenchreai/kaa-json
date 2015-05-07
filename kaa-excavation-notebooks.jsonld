@@ -51,7 +51,7 @@
    "@id":"kaahbr:notebook-b-i",
    "@type":"kaaont:excavation-notebook",
    "title": "Area B 1963 Notebook I",
-   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1963"]
+   "is-part-of":["kaa:harbor","kaahbr:area-b", "kaa:year1963"]
   },{
    "@id":"kaahbr:notebook-c-i",
    "@type":"kaaont:excavation-notebook",
