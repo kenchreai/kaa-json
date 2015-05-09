@@ -105,6 +105,12 @@
    "see": "http://www.worldcat.org/oclc/489736404",
    "viaf": "http://viaf.org/viaf/35708767"
   },{
+   "@id":"kaa:donald-jackson",
+   "@type": "kaaont:person",
+   "foaf:name": "Donald F. Jackson",
+   "comment": "Supervisor at Area TA.",
+   "is-part-of": ["kaa:people", "kaa:year1964"]
+  },{
    "@id":"kaa:florence-monier",
    "@type": "kaaont:person",
    "foaf:name": "Florence Monier",

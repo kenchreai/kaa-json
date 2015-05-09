@@ -2846,7 +2846,8 @@
     {
       "@id": "kaahbr:ke0362",
       "@type": "kaaont:inventory-number",
-      "is-part-of": "kaahbr:inventory-book",
+      "title": "KE 362 (Late Roman Jug)",
+      "is-part-of": ["kaahbr:inventory-book"],
       "file": "pagescans/inventory/362-367.PDF",
       "next": "kaahbr:ke0363",
       "notebook-page": "kaahbr:notebook-page-a-ii-171",
