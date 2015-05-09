@@ -34,6 +34,7 @@
  "next":{"@id":"http://www.w3.org/TR/html4/types.html#next","@type":"@id"},
  "not-before": "claros:not_before",
  "not-after": "claros:not_after",
+ "notebook-page": "kaaont:notebook-page",
  "observed": {"@id":"kaaont:observed","@type":"@id"},
  "part": "kaaont:part",
  "pages":{"@id":"kaaont:hasPage"},

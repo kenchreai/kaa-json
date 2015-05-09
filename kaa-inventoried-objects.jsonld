@@ -2349,10 +2349,10 @@
       "@id": "kaahbr:ke0299",
       "@type": "kaaont:inventory-number",
       "title": "KE 299 (Lug-Handled Stone Bowl)",
-      "is-part-of": ["kaahbr:inventory-book",
-                     "kaahbr:notebook-page-b-i-135"],
+      "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/297-300.PDF","photography/2011_inventory_photos/IMG_0938.png"],
       "next": "kaahbr:ke0300",
+      "notebook-page": "kaahbr:notebook-page-b-i-135",
       "same:": "kaahbr:MI0074",
       "typology": "kaatyp:mi-stone-bowl"
     },
@@ -9647,11 +9647,11 @@
       "@type": "kaaont:inventory-number",
       "title": "KE 1221 (Marble Statue Base)",
       "is-part-of": ["kaahbr:area-a",
-      				"kaahbr:inventory-book",
-      				"kaahbr:notebook-page-a-v-040",
-      				"kaahbr:notebook-page-a-v-175"],
+      				"kaahbr:inventory-book"],
       "file": "pagescans/inventory/1220-1221.PDF",
       "model": "http://p3d.in/oJZFm",
+      "notebook-page": [ "kaahbr:notebook-page-a-v-040",
+      				"kaahbr:notebook-page-a-v-175"],
       "same": "kaahbr:s0054",
       "next": "kaahbr:ke1222",
       "typology": "kaatyp:s"
@@ -9660,14 +9660,14 @@
       "@id": "kaahbr:ke1222",
       "@type": "kaaont:inventory-number",
       "title": "KE 1222 (Marble Hand)",
-      "is-part-of": ["kaahbr:inventory-book",
-                    "kaahbr:notebook-page-a-v-036",
-                    "kaahbr:notebook-page-a-v-045",
-                    "kaahbr:notebook-page-a-v-182"],
+      "is-part-of": ["kaahbr:inventory-book"],
       "file": [
         "pagescans/inventory/1222-1223.PDF",
         "photography/2011_inventory_photos/IMG_1187.png"
       ],
+      "notebook-page": ["kaahbr:notebook-page-a-v-036",
+                    "kaahbr:notebook-page-a-v-045",
+                    "kaahbr:notebook-page-a-v-182"],
       "next": "kaahbr:ke1223",
       "typology": "kaatyp:s"
     },
@@ -9675,14 +9675,14 @@
       "@id": "kaahbr:ke1223",
       "@type": "kaaont:inventory-number",
       "title": "KE 1223 (Marble Hand)",
-      "is-part-of": ["kaahbr:inventory-book",
-                      "kaahbr:notebook-page-a-v-045",
-                      "kaahbr:notebook-page-a-v-182"],
+      "is-part-of": ["kaahbr:inventory-book"],
       "file": [
         "pagescans/inventory/1222-1223.PDF",
         "photography/2011_inventory_photos/IMG_1188.png"
       ],
       "next": "kaahbr:ke1224",
+      "notebook-page": ["kaahbr:notebook-page-a-v-045",
+                      "kaahbr:notebook-page-a-v-182"],
       "typology": "kaatyp:s"
     },
     {
@@ -9691,12 +9691,12 @@
       "title": "KE 1224 (Marble Paw)",
       "is-part-of": [
         "kaahbr:box-a1078",
-        "kaahbr:notebook-page-a-v-045",
-        "kaahbr:notebook-page-a-v-182",
         "kaahbr:inventory-book"
       ],
       "file": "pagescans/inventory/1224-1227.PDF",
       "model": "http://p3d.in/y9hVe/shadeless",
+      "notebook-page": ["kaahbr:notebook-page-a-v-045",
+        "kaahbr:notebook-page-a-v-182"],
       "same": "kaahbr:s0057",
       "next": "kaahbr:ke1225"
     },

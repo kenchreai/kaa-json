@@ -62,7 +62,7 @@
    "description": "When used as a class, an identifier for a modern calendar month."
   },{
    "@id":"kaaont:notebook-page",
-   "@type":"rdfs:Class",
+   "@type": ["rdfs:Class", "rdfs:Property"],
    "title":"Notebook page"
   },{
    "@id":"kaaont:observed",
