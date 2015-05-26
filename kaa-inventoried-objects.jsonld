@@ -5273,7 +5273,7 @@
       "kaaont:preserved-height": 0.045,
       "same": "kaahbr:p0176",
       "next": "kaahbr:ke0671",
-      "kaaont:published": "kaahbr:kenchreai-vol4-lrb17b"
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb17b"
     },
     {
       "@id": "kaahbr:ke0671",
@@ -5282,7 +5282,7 @@
       "file": "pagescans/inventory/669-673.PDF",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0672",
-      "published": "kaahbr:kenchreai-vol4-lrb-29",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb29",
       "same": "kaahbr:p0177",
       "typology": "kaatyp:p-ars-hayes-84"
     },
@@ -6197,7 +6197,7 @@
       "file": "pagescans/inventory/783-788.PDF",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0788",
-      "published":"kaahbr:kenchreai-vol4-lrb-26",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb26",
       "same": "kaahbr:p0207",
       "typology":"kaatyp:p-ars-hayes-99"
     },
@@ -9887,7 +9887,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/1244-1247.PDF","photography/2011_inventory_photos/IMG_2973.png"],
       "next": "kaahbr:ke1247",
-      "published": "kaahbr:kenchreai-vol4-lrb-27",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb27",
       "same": "kaahbr:p0325",
       "typology":"kaatyp:p-ars-hayes-105"
     },
@@ -9904,7 +9904,7 @@
         "photography/2011_inventory_photos/IMG_2965.png"
       ],
       "next": "kaahbr:ke1248",
-      "published": "kaahbr:kenchreai-vol4-lrb-28",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb28",
       "typology": "kaatyp:p-ars-hayes-104c"
     },
     {
@@ -9974,13 +9974,17 @@
     },
     {
       "@id": "kaahbr:ke1255",
+      "@type": "kaaont:inventory-number",
+      "title": "Ke 1255 (Eastern Sigillata A)",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/1255-1259.PDF",
         "photography/2011_inventory_photos/IMG_0501.png"
       ],
       "next": "kaahbr:ke1256",
-      "@type": "kaaont:inventory-number"
+      "rim-diameter": 15,
+      "subjectnumber": "P 335",
+      "typology": "kaatyp:p-esa"
     },
     {
       "@id": "kaahbr:ke1256",
@@ -11811,11 +11815,15 @@
     },
     {
       "@id": "kaahbr:ke1495",
+      "@type": "kaaont:inventory-number",
+      "title": "Ke 1495 (Eastern Sigillata A Hayes Form 5b)",
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/1493-1496.PDF",
                "photography/2011_inventory_photos/IMG_0503.png"],
       "next": "kaahbr:ke1496",
-      "@type": "kaaont:inventory-number"
+      "subject-number": "P 391",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-er15",
+      "typology": "kaatyp:p-esa-hayes-5b"
     },
     {
       "@id": "kaahbr:ke1496",
@@ -12549,7 +12557,7 @@
       "same": "kaahbr:p0372",
       "next": "kaahbr:ke1592",
       "@type": "kaaont:inventory-number",
-      "published": "kaahbr:kenchreai-vol4-er004"
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-er4"
     },
     {
       "@id": "kaahbr:ke1592",
@@ -13911,9 +13919,11 @@
       "count": 1,
       "next": "kaahbr:ke1779",
       "is-part-of": "kaahbr:inventory-book",
-      "file": "photography/2011_inventory_photos/IMG_0475.png",
+      "photograph": "photography/2011_inventory_photos/IMG_0475.png",
+      "pagescan": "pagescans/inventory/1776-1780.PDF",
+      "subject-number": "P 456",
       "typology":"kaatyp:p-keay-52",
-      "published":"kaahbr:kenchreai-vol4-rc-12"
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-rc12"
     },
     {
       "@id": "kaahbr:ke1779",
@@ -16742,7 +16752,7 @@
       "file": "photography/2011_inventory_photos/IMG_2959.png",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke2162",
-      "published": "kaahbr:kenchreai-vol4-lrb-33",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb33",
       "same": "kaahbr:p0604",
       "typology": "kaatyp:prs-hayes-3c"
     },
@@ -16778,7 +16788,7 @@
       "kaaont:location": "kaahbr:museum-crate-159",
       "same": "kaahbr:p0608",
       "next": "kaahbr:ke2166",
-      "published": "kaahbr:kenchreai-vol4-lrb17"
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb17"
     },
     {
       "@id": "kaahbr:ke2166",
@@ -16813,10 +16823,14 @@
     },
     {
       "@id": "kaahbr:ke2170",
-      "is-part-of": "kaahbr:inventory-book",
+      "@type": "kaaont:inventory-number",
+      "title": "Ke 2170 (Eastern Sigillata A Hayes Form 38)",
       "file": "photography/2011_inventory_photos/IMG_0502.png",
+      "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke2171",
-      "@type": "kaaont:inventory-number"
+      "rim-diameter": 16,
+      "subject-number": "P 612",
+      "typology": "kaatyp:p-esa-hayes-38"
     },
     {
       "@id": "kaahbr:ke2171",
@@ -16883,15 +16897,18 @@
     {
       "@id": "kaahbr:ke2180",
       "is-part-of": "kaahbr:inventory-book",
-      "next": "kaahbr:ke2181",
-      "@type": "kaaont:inventory-number"
+      "@type": "kaaont:inventory-number" ,
+      "next": "kaahbr:ke2181"
     },
     {
       "@id": "kaahbr:ke2181",
+      "title": "Ke 2181 (Eastern Sigilla A Hayes Form 28)",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_0507.png",
       "next": "kaahbr:ke2182",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-esa-hayes-28"
+      
     },
     {
       "@id": "kaahbr:ke2182",
@@ -16915,7 +16932,7 @@
       "file": "photography/2011_inventory_photos/IMG_0446.png",
       "next": "kaahbr:ke2185",
       "@type": "kaaont:inventory-number",
-      "published": "kaahbr:kenchreai-vol4-rc18"
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-rc18"
     },
     {
       "@id": "kaahbr:ke2185",
@@ -16930,7 +16947,7 @@
       "next": "kaahbr:ke2187",
       "is-part-of": "kaahbr:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_0449.png",
-      "published":"kaahbr:kenchreai-vol4-rc-81",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-rc81",
       "same": "kaahbr:p0628"
     },
     {
@@ -17234,6 +17251,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "file": "photography/2011_inventory_photos/IMG_1705.png",
       "next": "kaahbr:ke2230",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-rc17",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -17769,10 +17787,13 @@
     },
     {
       "@id": "kaahbr:ke2306",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 2306 (Eastern Sigillata A Hayes form 12)",
       "is-part-of": "kaahbr:inventory-book",
+      "rim-diameter": 36,
       "file": "photography/2011_inventory_photos/IMG_0512.png",
       "next": "kaahbr:ke2307",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-esa-hayes-12"
     },
     {
       "@id": "kaahbr:ke2307",

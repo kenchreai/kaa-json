@@ -148,11 +148,6 @@
    "title": "Corinthian Relief Ware",
    "broader": "kaatyp:p-corinthian"
   },{
-   "@id": "kaatyp:p-esc",
-   "@type": "crm:E55_type",
-   "title": "Eastern Sigillata C",
-   "broader": "kaatyp:p-slipped-fw"
-  },{
    "@id": "kaatyp:p-cw",
    "@type": "crm:E55_type",
    "title": "Coarse Ware",
@@ -167,6 +162,21 @@
    "@type": "crm:E55_type",
    "title": "Eastern Sigillata A",
    "see": "http://classics.uc.edu/troy/grbpottery/html/esa.html",
+   "broader": "kaatyp:p-slipped-fw"
+  },{
+   "@id": "kaatyp:p-esa-hayes-5b",
+   "@type": "crm:E55_type",
+   "title": "Eastern Sigillata A Hayes Form 5",
+   "broader": "kaatyp:p-esa"
+  },{
+   "@id": "kaatyp:p-esa-hayes-12",
+   "@type": "crm:E55_type",
+   "title": "Eastern Sigillata A Hayes Form 12",
+   "broader": "kaatyp:p-esa"
+  },{
+   "@id": "kaatyp:p-esc",
+   "@type": "crm:E55_type",
+   "title": "Eastern Sigillata C",
    "broader": "kaatyp:p-slipped-fw"
   },{
    "@id": "kaatyp:p-esc-hayes-1",

@@ -21,6 +21,10 @@
    "owl:sameAs": "crm:P62_depicts",
    "title":"Depicts"
   },{
+   "@id":"kaaont:rim-diameter",
+   "@type":["rdfs:Class","rdfs:Property"],
+   "title":"Rim Diameter (cm.)"
+  },{
    "@id":"kaaont:excavation-area",
    "@type":["rdfs:Class","rdfs:Property"],
    "title":"Excavation Area"
@@ -69,11 +73,19 @@
    "@type":"rdfs:Property",
    "title":"Observed"
   },{
+   "@id":"kaaont:pagescan",
+   "@type":"rdfs:Class",
+   "title":"Notebook Page Scan"
+  },{
    "@id":"kaaont:person",
    "@type":"rdfs:Class",
    "title":"Person",
    "description": "An identifier for a person.",
    "owl:sameAs": "foaf:Person"
+  },{
+   "@id":"kaaont:photograph",
+   "@type":"rdfs:Class",
+   "title":"Photograph"
   },{
    "@id":"kaaont:preserved-height",
    "@type":["rdfs:Property"],
@@ -86,7 +98,11 @@
   },{
    "@id":"kaaont:published",
    "@type":["rdfs:Property"],
-   "title":"Published as"
+   "title":"Reference to Publication"
+  },{
+   "@id":"kaaont:published-catalog-number",
+   "@type":["rdfs:Property"],
+   "title":"Published Catalog Number"
   },{
    "@id":"kaaont:year",
    "@type":["rdfs:Class","rdfs:Property"],
