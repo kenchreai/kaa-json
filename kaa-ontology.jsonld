@@ -100,7 +100,7 @@
    "@type":["rdfs:Property"],
    "title":"Reference to Publication"
   },{
-   "@id":"kaaont:published-catalog-number",
+   "@id":"kaaont:published-catalog-entry",
    "@type":["rdfs:Property"],
    "title":"Published Catalog Number"
   },{
