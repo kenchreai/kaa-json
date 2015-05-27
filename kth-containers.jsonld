@@ -3,7 +3,7 @@
 "@graph": [
 {
 "@id":"kaakth:kth-container-01",
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "contains":["kth-sector-epsilon-level-1-1976-08-10","unreadable-tag"],
 "description":"Blue crate filled with usual kth 'lra2+ mix'. One tag present and well-preserved. The bottom of another tag is also in the crate. The number '60' is readable but other characters are incomplete.",
@@ -24,7 +24,7 @@
 ]
 },{
 "@id":"kaakth:kth-container-02",
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "comment":"Wooden tag present but not readable at initial attempt. There is writing here. A wider assortment of amphoras than previously. See below for details and comments. IMPORTANT: this is the container with the perhaps modern black writing on 3 amph body shers, but that bears further inspection.",
 "observed":[
@@ -42,7 +42,7 @@
 ]
 },{
 "@id":"kaakth:kth-container-03",
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"No tag. Pretty standard mix, though see two lr groove rim cookpot.",
 "observed":[
@@ -65,7 +65,7 @@
 },{
 "@id":"kaakth:kth-container-04",
 "contains":"kth-sector-2-1976-08-10",
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Blue crate. Black garbage bag with extensive LR pottery, mostly amphora.",
 "comment":"Pulled and first pass by SFSH on 2014-05-12.",
@@ -98,7 +98,7 @@
 },{
 "@id":"kaakth:kth-container-05",
 "contains":"kaaont:unreadable-tag",
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Blue crate. Predominantly lra-2 mix. Wooden tag is present in two fragments but not readable at present. Stone disk.",
 "comment":"Pulled and first pass by SFSH on 2014-05-14.",
@@ -120,7 +120,7 @@
 },{
 "@id":"kaakth:kth-container-06",
 "contains":"kaaont:no-tag-present",
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Blue crate. Predominantly lra-2 mix. There is a flat fragment of wood in here but likely larger and thicker than the usual wooden tag. IMPORTANT: A clearly modern and well-preserved doorhinge means were not in a clean deposit by any means.",
 "comment":"Pulled and first pass by SFSH on 2014-05-14.",
@@ -134,7 +134,7 @@
 },{
 "@id":"kaakth:kth-container-07",
 "contains":"kaaont:no-tag-present",
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Dark red crate. Predominantly lra-2 mix.",
 "observed":[
@@ -150,7 +150,7 @@
 },{
 "@id":"kaakth:kth-container-08",
 "contains":"kaaont:no-tag-present",
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Dark red crate. Predominantly lra-2 mix.",
 "observed":[
@@ -162,7 +162,7 @@
 },{
 "@id":"kaakth:kth-container-09",
 "contains":"kaakth:kth-sector-epsilon-room-7-1976-08-12",
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Blue crate. Predominantly lra-2 mix. Wooden tag w/pencil, readable. Bottom of crate broken.",
 "observed":[
@@ -177,7 +177,7 @@
 },{
 "@id":"kaakth:kth-container-10",
 "contains":"kaaont:no-tag-present",
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Blue crate. Predominantly lra-2 mix.",
 "observed":[
@@ -193,7 +193,7 @@
 "@id":"kaakth:kth-container-11",
 "contains":["kaakth:kth-sector-epsilon-level-1","kth:kth-sector-beta-level-1"],
 "comment": "Date component of label is \"8-76\" with day not readble.",
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Blue crate. Predominantly lra-2 mix. Stopper?? present. Coarsewares.",
 "observed":[
@@ -216,7 +216,7 @@
 },{
 "@id":"kaakth:kth-container-12",
 "contains":"kaaont:no-tag-present",
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Blue mix. Predominantly lra-2 mix.",
 "observed":[
@@ -232,7 +232,7 @@
 },{
 "@id":"kaakth:kth-container-13",
 "contains":["kaakth:sector-gamma-level-2-room-18","kaakth:unreadable-1976-10-08"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Blue crate. Predominantly lra-2 mix. Two tags which do not seem to match info. O",
 "observed":[
@@ -245,7 +245,7 @@
 },{
 "@id":"kaakth:kth-container-14",
 "contains":["kaaont:kth-sector-epsilon-level-1","kaakth:sector-epsilon-room-7"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Blue crate. Predominantly lra-2 mix. Two tags, different info. Black writing on lra-2 sherds.",
 "observed":[
@@ -256,7 +256,7 @@
 },{
 "@id":"kaakth:kth-container-15",
 "contains":["kaakth:sector-epsilon-level-2-17-07-1976"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Blue crate. Predominantly lra-2 mix. Unidentified amphora rim-neck-handle. Ceramic disk.",
 "observed":[
@@ -270,7 +270,7 @@
 },{
 "@id":"kaakth:kth-container-16",
 "contains":["kaakth:sector-alpha-level-2","kaakth:sector-gamma-room-1-1976-09-01"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Blue crate. Predominantly lra-2 mix. Two readable tags but not possile to distinguish pottery. 1 possible cut stopper. Unidentified E. Med. amphora. Worth looking at. Palestinian/Beirut-ish. Large storage jar with wavey incised lines.",
 "observed":[
@@ -285,7 +285,7 @@
 },{
 "@id":"kaakth:kth-container-17",
 "contains":["kaakth:sector-delta-level-2","kaakth:sector-gamma-level-2","kaakth:sector-epsilon"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -298,8 +298,8 @@
 ]
 },{
 "@id":"kaakth:kth-container-18",
+"@type":"kaaont:kth-container",
 "contains":["kaaont:no-tag"],
-"@type":"kaatyp:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -312,8 +312,8 @@
 ]
 },{
 "@id":"kaakth:kth-container-19",
+"@type":"kaaont:kth-container",
 "contains":[""],
-"@type":"kaatyp:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -323,7 +323,7 @@
 },{
 "@id":"kaakth:kth-container-20",
 "contains":["kaakth:sector-epsilon-level-2-1976-07-17","kaakth:sectordelta-level-2"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -336,7 +336,7 @@
 },{
 "@id":"kaakth:kth-container-21",
 "contains":[""],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -346,7 +346,7 @@
 },{
 "@id":"kaakth:kth-container-22",
 "contains":[""],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -360,7 +360,7 @@
 },{
 "@id":"kaakth:kth-container-23",
 "contains":["kaaont:no-tag"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -375,7 +375,7 @@
 },{
 "@id":"kaakth:kth-container-24",
 "contains":[""],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -388,7 +388,7 @@
 },{
 "@id":"kaakth:kth-container-25",
 "contains":[""],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -403,7 +403,7 @@
 },{
 "@id":"kaakth:kth-container-26",
 "contains":[""],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -417,14 +417,14 @@
 },{
 "@id":"kaakth:kth-container-27",
 "contains":[""],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"1 half of a mortorium; 5 large sherds of a pre-MRA (?) with dipinti; 1 stamp.",
 "observed":[ ]
 },{
 "@id":"kaakth:kth-container-28",
 "contains":[""],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"Near complete profile of lra2.",
 "observed":[ 
@@ -433,7 +433,7 @@
 },{
 "@id":"kaakth:kth-container-29",
 "contains":["kaakth:sector-epsilon-level-2-1976-08-30"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"LR cookwkare, including rim of bowl and base",
 "observed":[ 
@@ -445,7 +445,7 @@
 },{
 "@id":"kaakth:kth-container-30",
 "contains":[""],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'Mostly 2 washed'",
 "observed":[ 
@@ -456,7 +456,7 @@
 },{
 "@id":"kaakth:kth-container-31",
 "contains":["kaakth:sector-delta-level-2"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'LR cookware sherds'",
 "observed":[ 
@@ -470,7 +470,7 @@
 },{
 "@id":"kaakth:kth-container-31-bag",
 "contains":["kaaont:unreadable"],
-"@type":"kaatyp:kth-container-component",
+"@type":"kaaont:kth-container-component",
 "description":"'1 bipedal handle; water damge, found in new bag; LR cookware'",
 "observed":[
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1}
@@ -478,7 +478,7 @@
 },{
 "@id":"kaakth:kth-container-32",
 "contains":["kaakth:sector-alpha-level-2"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'ER (?) toe; 1 sherd Hellenistic FW (?); 1 serd of  early slipped bowl (inside)'",
 "observed":[ 
@@ -487,13 +487,13 @@
 },{
 "@id":"kaakth:kth-container-32-bag",
 "contains":["kaaont:no-information"],
-"@type":"kaatyp:kth-container-component",
+"@type":"kaaont:kth-container-component",
 "description":"'Very early material, classical/Hellenistic R/B FW; 1 sherd ISC; original bag divided into two new bags (the only ones in this container)'",
 "observed":[]
 },{
 "@id":"kaakth:kth-container-33",
 "contains":["kaaont:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'Very large ARS base'",
 "observed":[ 
@@ -513,7 +513,7 @@
 },{
 "@id":"kaakth:kth-container-34",
 "contains":["kaaont:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'two whole LR2 rims: 1 has very fine combing at neck, 1 is water worn; 1 base of R tableware'",
 "observed":[ 
@@ -532,7 +532,7 @@
 },{
 "@id":"kaakth:kth-container-35",
 "contains":["kaakth:sector-alpha-level-1"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 large R cookware base'",
 "observed":[ 
@@ -543,7 +543,7 @@
 },{
 "@id":"kaakth:kth-container-36",
 "contains":["kaakth:sector-gamma-level-2"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'3 sherds of large partially pireced spherical object'",
 "observed":[ 
@@ -557,7 +557,7 @@
 },{
 "@id":"kaakth:kth-container-37",
 "contains":[""],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'2 unreadable tags'",
 "observed":[ 
@@ -576,7 +576,7 @@
 },{
 "@id":"kaakth:kth-container-37-bag",
 "contains":["kaaont:unreadable"],
-"@type":"kaatyp:kth-container-component",
+"@type":"kaaont:kth-container-component",
 "description":"' sherd, rim, ERMR Pontic sigillata; 2 sherds of Roman sigillada (Asia Minor); 2 sherds amphora intentionally cut forming join; base of ERMR slipped tableware (jug bottom?); assorted other sherds tablware'",
 "observed":[
 {"typology":"kaatyp:p-pontic-sig","part":"rim","count": 1}
@@ -584,7 +584,7 @@
 },{
 "@id":"kaakth:kth-container-38",
 "contains":["kaakth:sector-epsilon-level-1","kaaont:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -601,7 +601,7 @@
 },{
 "@id":"kaakth:kth-container-39",
 "contains":["kaakth:sector-epsilon-level-1-1976-08-09","kaakth:sector-epsilon-level-1-1976-08-10","kaakth:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'mostly washed LR2 sherds'",
 "observed":[ 
@@ -615,7 +615,7 @@
 {
 "@id":"kaakth:kth-container-40",
 "contains":["sector-epsilon-level-1","kaakth:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'mostly washed LR2 sherds, many burned (?)'",
 "observed":[ 
@@ -635,7 +635,7 @@
 },{
 "@id":"kaakth:kth-container-41",
 "contains":["kaakth:sector-delta-level-2-1976-08-27","kaakth:sector-epsilon-1976-08-10"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'one MRA4 pinched handle'",
 "observed":[
@@ -649,7 +649,7 @@
 },{
 "@id":"kaakth:kth-container-42",
 "contains":["kaakth:sector-gamma-level-2"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"' 2 sherds of LR cookware 1 with large spot of iron attached (burned?); LR2 handle and rim with several lines of writing (inventory no. KTH-007)'",
 "observed":[ 
@@ -668,7 +668,7 @@
 },{
 "@id":"kaakth:kth-container-43",
 "contains":["kaakth:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 frying pan handle; 1 cookware handle and rim; two small bags of sherds, one with label from Rachi (date: 3-1976)'",
 "observed":[ 
@@ -687,7 +687,7 @@
 },{
 "@id":"kaakth:kth-container-44",
 "contains":["kaakth:sector1beta-level-1","kaaont:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'unreadable tag except for day and year: 3-?-76','1 large rim of LR coarseware; 1 specially fitted (?) stopper; 1 LRA 3 handle'",
 "observed":[ 
@@ -706,7 +706,7 @@
 },{
 "@id":"kaakth:kth-container-45",
 "contains":["kaaont:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -725,7 +725,7 @@
 },{
 "@id":"kaakth:kth-container-46",
 "contains":["kaakth:sector-alpha-level-1","kaakth:sector-alpha-level-1","kaakth:sector-alpha-level-2","kaakth:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 rim LR cookware'",
 "observed":[ 
@@ -744,7 +744,7 @@
 },{
 "@id":"kaakth:kth-container-46-bag",
 "contains":["kaakth:no-information"],
-"@type":"kaatyp:kth-container-component",
+"@type":"kaaont:kth-container-component",
 "description":"'water-worn sherds; 1 iron nail, type XII, partial head and upper part of shank; 1 sherd of vitrified roof tile; 1 ridged handle of LR (?) transport amphora'",
 "observed":[ 
 {"typology":"kaatyp:p-lra-1","part":"rim","count": 1},
@@ -762,7 +762,7 @@
 },{
 "@id":"kaakth:kth-container-47",
 "contains":["kaakth:sector-gamma-level-3"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 water jug rim; non-slipped R tableware; coat check ticket (?); two mdoern nails'",
 "observed":[ 
@@ -781,7 +781,7 @@
 },{
 "@id":"kaakth:kth-container-48",
 "contains":["kaakth:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 rim of water jug; 1 base of R tableware (jug?)'",
 "observed":[ 
@@ -797,7 +797,7 @@
 },{
 "@id":"kaakth:kth-container-49",
 "contains":["kaakth:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 inventoried bag, unreadable number (part of stone screen?); R tableware (1 dish); 1 complete LRA 4 base'",
 "observed":[ 
@@ -817,7 +817,7 @@
 },{
 "@id":"kaakth:kth-container-50",
 "contains":["kaakth:sector-delta-level-2","kaakth:sector-delta-level-2-1976-08-27","kaakth:sector-gamma-level-2"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 jug rim and handle; 1 residual rim of jug; several sherds of R tableware; 3 sherds appear to be cut as if in puzzle, but none join'",
 "observed":[ 
@@ -836,7 +836,7 @@
 },{
 "@id":"kaakth:kth-container-51",
 "contains":["kaakth:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 body sherd LRA 3; R tableware and coarseware; 1 rim of jug (?)'",
 "observed":[ 
@@ -855,7 +855,7 @@
 },{
 "@id":"kaakth:kth-container-52",
 "contains":["kaakth:sector-delta-level-201976-08-27","kaaont:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'Roman cook/courseware; 1 water jug rim and handle(?)'",
 "observed":[ 
@@ -874,7 +874,7 @@
 },{
 "@id":"kaakth:kth-container-53",
 "contains":["kaakth:sector-alpha-level-2"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'Slip generic roman tableware-courseware with rim and handle; very thin LR2 rim'",
 "observed":[ 
@@ -893,7 +893,7 @@
 },{
 "@id":"kaakth:kth-container-54",
 "contains":["kaakth:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'modern iron hinge with 4 small nails attached; bottom of LR4; Roman cookware'",
 "observed":[ 
@@ -912,7 +912,7 @@
 },{
 "@id":"kaakth:kth-container-55",
 "contains":["kaakth:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'Container was mostly inventoried finds given to Phyllis for processing; 1 sherd of slipped tabelware; LR5 complete with joining handle; one modern iron nail'",
 "observed":[ 
@@ -931,7 +931,7 @@
 },{
 "@id":"kaakth:kth-container-56",
 "contains":["kaakth:sector-epsilon-level-1","kaakth:sector-alpha-level-2","kaakth:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'R cookware, rim; 1 modern metal stake'",
 "observed":[ 
@@ -950,7 +950,7 @@
 },{
 "@id":"kaakth:kth-container-57",
 "contains":["kaakth:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 Palestinian cookware handle  (horizontal)'",
 "observed":[ 
@@ -969,7 +969,7 @@
 },{
 "@id":"kaakth:kth-container-58",
 "contains":["kaakth:sector-delta-level-2-1976-08-27"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'Mostly washed LR2'",
 "observed":[ 
@@ -988,13 +988,13 @@
 },{
 "@id":"kaakth:kth-container-59",
 "contains":["kaakth:sector-gamma-level-3"],
-"@type":"kaatyp:kth-container-component",
+"@type":"kaaont:kth-container-component",
 "description":"A few mostly unrecorded bags. This will need a relook in 2015.",
 "observed":[]
 },{
 "@id":"kaakth:kth-container-60",
 "contains":["kaakth:sector-alpha-level-2","kaaont:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'mostly LRA2'",
 "observed":[ 
@@ -1013,7 +1013,7 @@
 },{
 "@id":"kaakth:kth-container-61",
 "contains":["kaakth:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'the LRA1 rim is very large; 1 rim and long thin handle of R cookware (cook pot?); several other sherds of R cookware'",
 "observed":[
@@ -1032,7 +1032,7 @@
 },{
 "@id":"kaakth:kth-container-62",
 "contains":["kaakth:sector-alpha-level-2","kaakth:sector-epsilon-level-1-1976-08-10"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 unidentifieable chip of light amterial; 1 body sherd, instead of incised ridging are painted white rings; unslipped tableware (base and rim); 2 MR3 handles (one with finger-size indentation?); 1 sherd of collander, but holes do not penetrate through the sherd'",
 "observed":[ 
@@ -1051,7 +1051,7 @@
 },{
 "@id":"kaakth:kth-container-63",
 "contains":["kaaont:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 large amphora toe; 1 rim of unslipped tableware (LRC imitation?); many amphora sherds (LRA1?) are burned'",
 "observed":[ 
@@ -1070,13 +1070,13 @@
 },{
 "@id":"kaakth:kth-container-63-bag",
 "contains":["kaaont:unreadable"],
-"@type":"kaatyp:kth-container-component",
+"@type":"kaaont:kth-container-component",
 "description":"'unsure if these sherds come from TH; thre large sherds of bowl lid (?)'",
 "observed":[]
 },{
 "@id":"kaakth:kth-container-64",
 "contains":["kaakth:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 inventoried item, somberero (\"sector gamma - level 2, no. 120\"); 3 cookware rims;  1 sherd of large bowl rim (?); 1 body sherd with many smal black dots '",
 "observed":[ 
@@ -1095,7 +1095,7 @@
 },{
 "@id":"kaakth:kth-container-65",
 "contains":["kaakth:sector-gamma-level-1-1976-05-31"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'several sherds of R cookware'",
 "observed":[ 
@@ -1114,7 +1114,7 @@
 },{
 "@id":"kaakth:kth-container-66",
 "contains":["kaakth:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'rim of large storage container (pontus?)[sic]['pithos??]; 5 rims Roman cookware; 1 sherd of LRA3 (?); 1 stopper made of body sherd; Roman tableware unslipped rim with bulging'",
 "observed":[ 
@@ -1133,7 +1133,7 @@
 },{
 "@id":"kaakth:kth-container-67",
 "contains":["kaakth:sector-delta-level-2"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'on lower rim of LRA2 small is ridging; 1 sherd of sigillata; 1 body sherd with wavy pattern; 1 very large roof tile; 1 chip of marble (?)'",
 "observed":[ 
@@ -1153,7 +1153,7 @@
 },{
 "@id":"kaakth:kth-container-68",
 "contains":["kaakth:sector-alpha-level-2"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 sherd with red slip, bowl base (?) that rests flat, LRC/sigillata (?); 1 sherd with brown-red slip, sigillata (?); 2 body sherds with wavy pattern; 1 base of LRA4; many R coarseware handles and rims'",
 "observed":[ 
@@ -1172,7 +1172,7 @@
 },{
 "@id":"kaakth:kth-container-69",
 "contains":["kaakth:sector-alpha-level-2"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 body sherd with wavy pattern; couple of R coarseware rims; 1 base of E. Sigillata B/C; '",
 "observed":[ 
@@ -1191,7 +1191,7 @@
 },{
 "@id":"kaakth:kth-container-70",
 "contains":["kaakth:sector-gamma-level-2","sector-epsilon-level-1-1976-07-25","kaakth:sector-epsilon-level-1-1976-08-10"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 sherd of sigillata, base (unknown form); 1 body sherd with wavy pattern; 1 small sherd of B-slip fineware'",
 "observed":[ 
@@ -1210,7 +1210,7 @@
 },{
 "@id":"kaakth:kth-container-71",
 "contains":["kaakth:sector-alpha-level-2-1976-08025","kaaont:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'mostly washed sherds, many LRA1 body sherds; most body sherds are brunt; 1 stopper is specially fitted; several R cookware rims/handles; 1 LRA2 body sherd with incisions made before firing'",
 "observed":[ 
@@ -1229,7 +1229,7 @@
 },{
 "@id":"kaakth:kth-container-72",
 "contains":["kaakth:"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -1248,7 +1248,7 @@
 },{
 "@id":"kaakth:kth-container-73",
 "contains":["kaakth:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 rim of an unguenatrium; 1 rim of sigillata (orange slip); 4 joining rims sherds of large lid (?); several R cookware rims; 2 LRA4 toes (one with resin?); 1 R tableware base; 1 R tableware rim; 1 bosy sherd with gouging'",
 "observed":[ 
@@ -1269,7 +1269,7 @@
 },{
 "@id":"kaakth:kth-container-74",
 "contains":["kaakth:sector-delta-1976-08-25"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 LRA4 toe; 2 sherds of slipped R tableware; 1 base of R tableware; 1 sherd of lid (?); 1 sherd of large bowl rim (?); inside 1 sherd of cookware is yellow/orange substance; outside on LRA2 body sherd is black resin'",
 "observed":[ 
@@ -1288,7 +1288,7 @@
 },{
 "@id":"kaakth:kth-container-75",
 "contains":["kaaont:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 sherd of sigillata, orange slip; 1 body sher d leading up to neck with wavy pattern; some several sherds of R cookware'",
 "observed":[ 
@@ -1308,7 +1308,7 @@
 },{
 "@id":"kaakth:kth-container-75-bag",
 "contains":["kaakth:no-information"],
-"@type":"kaatyp:kth-container-component",
+"@type":"kaaont:kth-container-component",
 "description":"'several sherds of H fineware (B-slip); many sherds of R tableware'",
 "observed":[ 
 {"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
@@ -1318,7 +1318,7 @@
 },{
 "@id":"kaakth:kth-container-76",
 "contains":["kaakth:sector-delta-1976-08-25"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 sherd of slipped (red) fineware; 2 cookware rims; 1 micaceous base; 1 spout for pourer'",
 "observed":[ 
@@ -1337,7 +1337,7 @@
 },{
 "@id":"kaakth:kth-container-77",
 "contains":["kaakth:sector-gamma-level-3"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 stopper is cut down base of an amphora; 2 sherds withsymbols (?) gouged before firing'",
 "observed":[ 
@@ -1355,7 +1355,7 @@
 },{
 "@id":"kaakth:kth-container-78",
 "contains":["kaakth:sector-gamma-level-2-1976-08-14"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'3 cookware handles'",
 "observed":[ 
@@ -1374,7 +1374,7 @@
 },{
 "@id":"kaakth:kth-container-79",
 "contains":["kaakth:sector-epsilon-level-1"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'2 sherds of black slip fineware (1 body, 1 handle); 2 inscribedd (?) body sherds; 1 R cookware rim; 1 rim of shallow bowl/plate; 1 base with dark orange slip (fine fabric with white inclusions)'",
 "observed":[ 
@@ -1393,7 +1393,7 @@
 },{
 "@id":"kaakth:kth-container-80",
 "contains":["kaakth:sector-alpha-level-2"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 sherd of oinochoe rim; 1 sherd black and white swirl pattern; 1 sherd with red paint (?); many handles/rims/body sherds of cookware; many handles of unidentified amphora'",
 "observed":[ 
@@ -1412,7 +1412,7 @@
 },{
 "@id":"kaakth:kth-container-81",
 "contains":["kaaont:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 bosy sherd of fineware bowl, orange slip; 1 sherd of fineware, black slip outside/red slip inside (?); several cookware rimes;1 rim of jug (?)'",
 "observed":[ 
@@ -1432,7 +1432,7 @@
 },{
 "@id":"kaakth:kth-container-82",
 "contains":["kaakth:sector-alpha-level-1","sector-epsilon-level-1-1976-08-10"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'2 body sherds of LRA2 with writing have plaster partially covering the markings'",
 "observed":[ 
@@ -1451,7 +1451,7 @@
 },{
 "@id":"kaakth:kth-container-83",
 "contains":["kaakth:sector-delta-level-2-1976-08025"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'2 body sherds with wavy pattern; several cookware sherds; 1 LRA2 writing has plaster partially covering marking; 2nd tag with “Petouli”'",
 "observed":[ 
@@ -1470,7 +1470,7 @@
 },{
 "@id":"kaakth:kth-container-84",
 "contains":["kaaont:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'many sherds of slipped/unslipped tableware; 2 large fragments of terracotta panel (?); 2 marble fragments'",
 "observed":[ 
@@ -1489,7 +1489,7 @@
 },{
 "@id":"kaakth:kth-container-85",
 "contains":["kaaont:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'all washed material; more examples of LRA2 writing covered up by plaster'",
 "observed":[ 
@@ -1508,7 +1508,7 @@
 },{
 "@id":"kaakth:kth-container-86",
 "contains":["kaakth:sector-alpha-level-2" ],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'many small sherds of pre-Roman fineware, black and red slip; many sherds of cookware; 1 rim of middle-Byzantine (?) white/pale-green glaze; many marble'",
 "observed":[ 
@@ -1527,7 +1527,7 @@
 },{
 "@id":"kaakth:kth-container-87",
 "contains":["kaakth:sector-beta-level-2","kaaont:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
@@ -1546,7 +1546,7 @@
 },{
 "@id":"kaakth:kth-container-88",
 "contains":["kaakth:sector-alpha-level-2","sector-gamma-level-1-1976-09-02","kaakth:sector-epsilon-level-1-1976-08-10"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'several sherds of slipped tableware; 1 rim of large bowl; 1 cookware rim'",
 "observed":[ 
@@ -1565,7 +1565,7 @@
 },{
 "@id":"kaakth:kth-container-89",
 "contains":["kaakth:sector-delta-level-2","sector-gamma-level-1","kaaont:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 body sherd with wavy pattern; 1 base of R coarseware'",
 "observed":[ 
@@ -1584,7 +1584,7 @@
 },{
 "@id":"kaakth:kth-container-90",
 "contains":["kaakth:sector-delta-level-2","kaakth:sector-epsilon-level-1"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'many inventoried items: 90, 92, 87, 85, 91, 89, 82, 108 (given to Phyllis); 1 bag of Petouli'",
 "observed":[ 
@@ -1603,7 +1603,7 @@
 },{
 "@id":"kaakth:kth-container-91",
 "contains":["kaakth:sector-epsilon-1976-08-30","kaakth:sector-epsilon-level-1-1978-10-08","kaaont:unreadable"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'2 chips of panel; 1 large base of jug'",
 "observed":[ 
@@ -1622,7 +1622,7 @@
 },{
 "@id":"kaakth:kth-container-92",
 "contains":["kaakth:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 chip of panel; 1 base of jug; all 3 stoppers are burned'",
 "observed":[ 
@@ -1641,7 +1641,7 @@
 },{
 "@id":"kaakth:kth-container-93",
 "contains":["kaakth:no-information"],
-"@type":"kaatyp:kth-container",
+"@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'small body sherds; mostly large ceramic tiles; 6 joining pieces: 0.330 x 0.370 m (depth: 0.038m); 2 joining pieces: 0.097m x 0.167 m (0.025m); 2 joining pieces: '",
 "observed":[]

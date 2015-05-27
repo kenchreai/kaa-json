@@ -37,162 +37,194 @@
    "@id":"kaahbr:trench-c63-i-2",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C63-I-2",
-   "is-part-of": ["kaa:year1963","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:trench-c63-i-3",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C63-I-3",
-   "is-part-of": ["kaa:year1963","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:trench-c63-i-4",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C63-I-4",
-   "is-part-of": ["kaa:year1963","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:trench-c63-i-4extension",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C63-I-4 (extension)",
-   "is-part-of": ["kaa:year1963","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:trench-c63-ii-4",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C63-II-4",
-   "is-part-of": ["kaa:year1963","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:trench-c63-ii-4-extension",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C63-II-4-extension",
-   "is-part-of": ["kaa:year1963","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:trench-c63-ii-5",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C63-II-5",
-   "is-part-of": ["kaa:year1963","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:trench-c63-ii-6",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C63-II-6",
-   "is-part-of": ["kaa:year1963","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:trench-c63-ii-7",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C63-II-7",
-   "is-part-of": ["kaa:year1963","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:trench-c63-ii-8",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C63 II 8",
-   "is-part-of": ["kaa:year1963","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:trench-c63-ii-9",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C63 II 9",
-   "is-part-of": ["kaa:year1963","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:trench-c64-a",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64-A",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:trench-c64-b",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64-B",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:trench-c64-i",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64 I",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:trench-c64-ii",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64 II",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:trench-c64-iii",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64 III",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:trench-c64-iv",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64 IV",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:trench-c64-v",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64 V",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:trench-c64-vi",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64 VI",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:trench-c64-vii",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64 VII",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:trench-c64-viii",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64 VIII",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "kaa:year1964": "year"
   },{
    "@id":"kaahbr:trench-c64-ix",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64 IX",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:trench-c64-xi",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64 XI",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:trench-c64-xii",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64 XII",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:trench-c64seroom",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C64-B",
-   "is-part-of": ["kaa:year1964","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:trench-c66-ext-i1",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C66 Extension I 1",
-   "is-part-of": ["kaa:year1966","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1966"
   },{
    "@id":"kaahbr:trench-c66-ext-i2",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C66 Extension I 2",
-   "is-part-of": ["kaa:year1966","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1966"
   },{
    "@id":"kaahbr:trench-c66-ext-i3",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C66 Extension I 3",
-   "is-part-of": ["kaa:year1966","kaahbr:area-c"]
+   "is-part-of": ["kaa:year1966","kaahbr:area-c"],
+   "year": "kaa:year1966"
   },{
    "@id":"kaahbr:trench-c66-ext-i4",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C66 Extension I 4",
-   "is-part-of": ["kaa:year1966","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1966"
   },{
    "@id":"kaahbr:trench-c66-ext-i5",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C66 Extension I 5",
-   "is-part-of": ["kaa:year1966","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1966"
   },{
    "@id":"kaahbr:trench-c66-ext-i6",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C66 Extension I 6",
-   "is-part-of": ["kaa:year1966","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1966"
   },{
    "@id":"kaahbr:trench-c66-ext-i7",
    "@type":"kaaont:excavation-trench",
    "title":"Trench C66 Extension I 7",
-   "is-part-of": ["kaa:year1966","kaahbr:area-c"]
+   "is-part-of": ["kaahbr:area-c"],
+   "year": "kaa:year1966"
   },{
    "@id":"kaahbr:area-d",
    "@type":"kaaont:excavation-area",

@@ -51,6 +51,6 @@
  "title":{"@id":"dct:title"},
  "typology":{"@id":"crm:P5_has_type","@type":"@id"},
  "viaf":{"@id":"rdfs:seeAlso", "@type":"@id"},
- "year":{"@id":"dct:isPartOf", "@type":"@id"}
+ "year":{"@id":"kaaont:year", "@type":"@id"}
  }
 }
