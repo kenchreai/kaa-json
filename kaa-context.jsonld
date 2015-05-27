@@ -20,7 +20,8 @@
  "kaaont":"http://kenchreai.org/kaa/ontology/",
  "kaatyp":"http://kenchreai.org/kaa/typology/",
  
- "broader":{"@id":"crm:P127_has_broader_term","@type":"@id"},
+ "base-diameter": {"@id":"kaaont:base-diameter"},
+ "broader": {"@id":"crm:P127_has_broader_term","@type":"@id"},
  "comment": {"@id":"kaaont:comment"},
  "count":{"@id":"kaaont:count"},
  "described-type":{"@id":"dct:format","@type":"@id"},
@@ -44,6 +45,7 @@
  "published-catalog-entry": {"@id":"kaaont:published-catalog-entry"},
  "rdfs:seeAlso": {"@type":"@id"},
  "references":{"@id":"dct:references","@type":"@id"},
+ "rim-diameter": {"@id":"kaaont:rim-diameter"},
  "same":{"@id":"owl:sameAs","@type":"@id"},
  "see":{"@id":"rdfs:seeAlso","@type":"@id"},
  "title":{"@id":"dct:title"},

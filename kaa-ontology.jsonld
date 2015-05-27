@@ -107,7 +107,7 @@
    "@id":"kaaont:year",
    "@type":["rdfs:Class","rdfs:Property"],
    "title":"Year",
-   "description": "When used as a class, an identifier for a modern calendar year."
+   "description": "When used as a class, an identifier for a modern calendar year. When used as a property, the year or years with which an identifier is associated."
   }
  ]
 }

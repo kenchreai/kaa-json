@@ -237,10 +237,25 @@
    "title":"Late Roman Amphora 7",
    "broader":"kaatyp:p-amphora"
   },{
+   "@id":"kaatyp:p-pithos",
+   "@type": "crm:E55_type",
+   "title": "Pithos",
+   "broader": "kaatyp:p"
+  },{
    "@id":"kaatyp:p-prs",
    "@type": "crm:E55_type",
    "title": "Phocaean Red Slip",
    "broader": "kaatyp:p-slipped-fw"
+  },{
+   "@id":"kaatyp:p-prs-hayes-3",
+   "@type":"crm:E55_type",
+   "broader": "kaatyp:p-prs",
+   "title": "Phocaean Red-Slip Hayes 3"
+  },{
+   "@id":"kaatyp:p-prs-hayes-4",
+   "@type":"crm:E55_type",
+   "broader": "kaatyp:p-prs",
+   "title": "Phocaean Red-Slip Hayes 3"
   },{
    "@id":"kaatyp:p-prs-hayes-10",
    "@type":"crm:E55_type",
@@ -280,6 +295,11 @@
    "@type":"crm:E55_type",
    "title": "Spatheion",
    "broader": "kaatyp:p-amphora"
+  },{
+   "@id": "kaatyp:p-water-pipe",
+   "@type":"crm:E55_type",
+   "title": "Water Pipe",
+   "broader": "kaatyp:p"
   },{
    "@id":"kaatyp:s",
    "@type": "crm:E55_type",

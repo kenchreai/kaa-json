@@ -4,81 +4,95 @@
    "@id":"kaahbr:notebook-a-i",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A Notebook I",
-   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:month-june-1963"],
-   "next": "kaahbr:notebook-a-ii"
+   "is-part-of":["kaa:harbor","kaahbr:area-a"],
+   "next": "kaahbr:notebook-a-ii",
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:notebook-a-ii",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A Notebook II",
-   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:month-july-1963"],
-   "next": "kaahbr:notebook-a-iii"
+   "is-part-of":["kaa:harbor","kaahbr:area-a"],
+   "next": "kaahbr:notebook-a-iii",
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:notebook-a-iii",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A Notebook III",
-   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1963"],
-   "next": "kaahbr:notebook-a-iv"
+   "is-part-of":["kaa:harbor","kaahbr:area-a"],
+   "next": "kaahbr:notebook-a-iv",
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:notebook-a-iv",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A Notebook IV",
-   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1964"],
-   "next": "kaahbr:notebook-a-v"
+   "is-part-of":["kaa:harbor","kaahbr:area-a"],
+   "next": "kaahbr:notebook-a-v",
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:notebook-a-v",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A Notebook V",
-   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1964"],
-   "next": "kaahbr:notebook-a-vi"
+   "is-part-of":["kaa:harbor","kaahbr:area-a"],
+   "next": "kaahbr:notebook-a-vi",
+   "year": "kaa:year1964"
   },{
    "@id":"kaahbr:notebook-a-vi",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A 1965 Notebook VI",
-   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1965"],
-   "next": "kaahbr:notebook-a-vii"
+   "is-part-of":["kaa:harbor","kaahbr:area-a"],
+   "next": "kaahbr:notebook-a-vii",
+   "year": "kaa:year1965"
   },{
    "@id":"kaahbr:notebook-a-vii",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A 1965 Notebook VII",
-   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1965"],
-   "next": "kaahbr:notebook-a-viii"
+   "is-part-of":["kaa:harbor","kaahbr:area-a"],
+   "next": "kaahbr:notebook-a-viii",
+   "year": "kaa:year1965"
   },{
    "@id":"kaahbr:notebook-a-viii",
    "@type":"kaaont:excavation-notebook",
    "title": "Area A 1966 Notebook VIII",
-   "is-part-of":["kaa:harbor","kaahbr:area-a", "kaa:year1966"]
+   "is-part-of":["kaa:harbor","kaahbr:area-a"],
+   "year": "kaa:year1966"
   },{
    "@id":"kaahbr:notebook-b-i",
    "@type":"kaaont:excavation-notebook",
    "title": "Area B 1963 Notebook I",
-   "is-part-of":["kaa:harbor","kaahbr:area-b", "kaa:year1963"]
+   "is-part-of":["kaa:harbor","kaahbr:area-b"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:notebook-b-ii",
    "@type":"kaaont:excavation-notebook",
    "title": "Area B 1963 Notebook II",
-   "is-part-of":["kaa:harbor","kaahbr:area-b", "kaa:year1963"]
+   "is-part-of":["kaa:harbor","kaahbr:area-b"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:notebook-c-i",
    "@type":"kaaont:excavation-notebook",
    "title": "Area C Notebook I",
    "is-part-of":["kaa:harbor","kaahbr:area-c"],
-   "next": "kaahbr:notebook-c-ii"
+   "next": "kaahbr:notebook-c-ii",
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:notebook-c-ii",
    "@type":"kaaont:excavation-notebook",
    "title": "Area C Notebook II",
    "is-part-of":["kaa:harbor","kaahbr:area-c"],
-   "next": "kaahbr:notebook-c-iii"
+   "next": "kaahbr:notebook-c-iii",
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:notebook-c-iii",
    "@type":"kaaont:excavation-notebook",
    "title": "Area C Notebook III",
-   "is-part-of": ["kaa:harbor","kaahbr:area-c"]
+   "is-part-of": ["kaa:harbor","kaahbr:area-c"],
+   "year": "kaa:year1963"
   },{
    "@id":"kaahbr:notebook-e-i",
    "@type":"kaaont:excavation-notebook",
    "title": "Area E Notebook I",
-   "is-part-of": ["kaa:harbor","kaahbr:area-e"]
+   "is-part-of": ["kaa:harbor","kaahbr:area-e"],
+   "year": "kaa:year1963"
   },{
   "@id":"kaahbr:notebook-page-a-i-001",
   "@type":"kaaont:notebook-page",
