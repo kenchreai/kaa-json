@@ -29,6 +29,11 @@
    "@type":["rdfs:Class","rdfs:Property"],
    "title":"Excavation Area"
   },{
+   "@id":"kaaont:excavation-box",
+   "@type":["rdfs:Class","rdfs:Property"],
+   "title":"Excavation Box",
+   "description": "'Box' as defined in the excavation notebooks. Usually, the number of a box is taken directly from the 'field book number' that was first assigned."
+  },{
    "@id":"kaaont:excavation-notebook",
    "@type":["rdfs:Class","rdfs:Property"],
    "title":"Excavation Notebook"
@@ -36,6 +41,10 @@
    "@id":"kaaont:excavation-trench",
    "@type":["rdfs:Class","rdfs:Property"],
    "title":"Excavation Trench"
+  },{
+   "@id":"kaaont:field-book-number",
+   "@type":["rdfs:Class","rdfs:Property"],
+   "title":"Field Book Number"
   },{
    "@id":"kaaont:file",
    "@type":"rdfs:Property",
