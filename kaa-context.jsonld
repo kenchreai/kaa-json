@@ -28,6 +28,7 @@
  "dct:creator": {"@type":"@id"},
  "description":{"@id":"dct:description"},
  "file":{"@id":"kaaont:file"},
+ "has-part": {"@id": "dct:isPartOf", "@type": "@id"},
  "is-part-of":{"@id":"dct:isPartOf","@type":"@id"},
  "kth-sector":{"@id":"kaaont:inKthSector","@type":"@id"},
  "kth-level":{"@id":"kaaont:inKthLevel","@type":"@id"},

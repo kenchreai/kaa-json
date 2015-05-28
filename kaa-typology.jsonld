@@ -152,6 +152,11 @@
    "title": "Phocaean Cooking Ware",
    "broader": "kaatyp:p-cw"
   },{
+   "@id": "kaatyp:p-cw-mr-flanged-casserole",
+   "@type": "crm:E55_type",
+   "title": "Phocaean Cooking Ware",
+   "broader": "kaatyp:p-cw"
+  },{
    "@id": "kaatyp:p-esa",
    "@type": "crm:E55_type",
    "title": "Eastern Sigillata A",
@@ -179,12 +184,19 @@
    "broader": "kaatyp:p-esc",
    "not-before": 150,
    "not-after": 300
-  }, {
+  },{
    "@id":"kaatyp:p-keay-52",
    "@type":"crm:E55_type",
    "title": "Keay 52 Amphora",
+   "broader": "kaatyp:p-amphora",
    "not-before": 350,
    "not-after": 600
+  },{
+   "@id":"kaatyp:p-kenchreai-4-rc-10",
+   "@type":"crm:E55_type",
+   "title": "Kenchreai IV RC10 Amphora",
+   "broader": "kaatyp:p-amphora",
+   "description": "A two-handled with concave base that is found regionally in the Corinthia and Argolid. At Kenchreai, this is the form of the vessels found in the sc-called “Isis Temple Cellar”."
   },{
    "@id":"kaatyp:p-slipped-fw",
    "@type":"crm:E55_type",
@@ -279,6 +291,34 @@
    "@type": "crm:E55_type",
    "title": "Italian Sigillata",
    "broader": "kaatyp:p-slipped-fw"
+   },{
+   "@id": "kaatyp:p-sig-it-conspectus-18",
+   "@type": "crm:E55_type",
+   "title": "Italian Sigillata Conspectus Form 18",
+   "broader": "kaatyp:p-sig-it",
+   "not-after": 40,
+   "not-before": -20
+   },{
+   "@id": "kaatyp:p-sig-it-conspectus-18.1",
+   "@type": "crm:E55_type",
+   "title": "Italian Sigillata Conspectus Form 18.1",
+   "broader": "kaatyp:p-sig-it-conspectus-18",
+   "not-after": 40,
+   "not-before": -20
+   },{
+   "@id": "kaatyp:p-sig-it-conspectus-18.3",
+   "@type": "crm:E55_type",
+   "title": "Italian Sigillata Conspectus Form 18.3",
+   "broader": "kaatyp:p-sig-it-conspectus-18",
+   "not-after": 40,
+   "not-before": -20
+   },{
+   "@id": "kaatyp:p-sig-it-conspectus-18.2",
+   "@type": "crm:E55_type",
+   "title": "Italian Sigillata Conspectus Form 18.2",
+   "broader": "kaatyp:p-sig-it-conspectus-18",
+   "not-after": 40,
+   "not-before": -20
    },{
    "@id":"kaatyp:p-small-handled-stopper",
    "@type": "crm:E55_type",

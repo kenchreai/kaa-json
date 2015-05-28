@@ -670,6 +670,7 @@
       "pagescan": "pagescans/inventory/78-81.PDF",
       "typology": "kaatyp:l",
       "next": "kaahbr:ke0079",
+      "subjectnumber": "L 16",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -4047,26 +4048,25 @@
     {
       "@id": "kaahbr:ke0518",
       "@type": "kaaont:inventory-number",
-      "title": "KE 518 (Italian Sigillata)",
+      "title": "KE 518 (Italian Sigillata Conspectus 18.2)",
+      "basediameter": 21,
       "count": 1,
+      "height": 5,
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
-        "pagescans/inventory/515-519.PDF",
-        "photography/2011_inventory_photos/IMG_0454.png"
-      ],
-      "same": "kaahbr:p0128",
       "next": "kaahbr:ke0519",
-      "typology":"kaatyp:p-sig-it"
+      "pagescan": "pagescans/inventory/515-519.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_0454.png",
+      "rimdiameter": 47,
+      "subject-number": "P 128",
+      "typology":"kaatyp:p-sig-it-conspectus-18.2"
     },
     {
       "@id": "kaahbr:ke0519",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
-        "pagescans/inventory/515-519.PDF",
-        "photography/2011_inventory_photos/IMG_2903.png"
-      ],
       "next": "kaahbr:ke0520",
-      "@type": "kaaont:inventory-number"
+      "pagescan": "pagescans/inventory/515-519.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_2903.png"
     },
     {
       "@id": "kaahbr:ke0520",
@@ -13929,57 +13929,68 @@
       "photograph": "photography/2011_inventory_photos/IMG_1258.png",
       "next": "kaahbr:ke1780",
       "@type": "kaaont:inventory-number"
-    },
-    {
+    },{
       "@id": "kaahbr:ke1780",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/1776-1780.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_0483.png",
       "next": "kaahbr:ke1781",
       "@type": "kaaont:inventory-number"
-    },
-    {
+    },{
       "@id": "kaahbr:ke1781",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 1781 (Kenchreai IV RC10 Amphora)",
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
-        "pagescans/inventory/1781-1785.PDF",
-        "photography/2011_inventory_photos/IMG_0484.png"
-      ],
+      "modern-chronology": "kaa:day1966-07-06",
+      "pagescan": "pagescans/inventory/1781-1785.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_0484.png",
       "next": "kaahbr:ke1782",
-      "@type": "kaaont:inventory-number"
-    },
-    {
+      "subject-number": "P 459",
+      "typology": "kaatyp:p-kenchreai-iv-rc-10"
+    },{
       "@id": "kaahbr:ke1782",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 1782 (Kenchreai IV RC10 Amphora)",
+      "height": 46,
       "is-part-of": "kaahbr:inventory-book",
-      "photograph": "photography/2011_inventory_photos/IMG_0472.png",
+      "modern-chronology": "kaa:day1966-07-06",
       "next": "kaahbr:ke1783",
-      "@type": "kaaont:inventory-number"
-    },
-    {
+      "pagescan": "pagescans/inventory/1781-1785.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_0472.png",
+      "subject-number": "P 460",
+      "typology": "kaatyp:p-kenchreai-iv-rc-10"
+    },{
       "@id": "kaahbr:ke1783",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 1783 (Kenchreai IV RC10 Amphora)",
+      "height": 46.5,
       "is-part-of": "kaahbr:inventory-book",
-      "photograph": "photography/2011_inventory_photos/IMG_0485.png",
       "next": "kaahbr:ke1784",
-      "@type": "kaaont:inventory-number"
-    },
-    {
+      "modern-chronology": "kaa:day1966-07-11",
+      "pagescan": "pagescans/inventory/1781-1785.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_0485.png",
+      "subject-number": "P 461",
+      "typology": "kaatyp:p-kenchreai-iv-rc-10"
+    },{
       "@id": "kaahbr:ke1784",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 1784 (Kenchreai IV RC10 Amphora)",
+      "height": 47.5,
+      "modern-chronology": "kaa:day1966-07-06",
+      "pagescan": "pagescans/inventory/1781-1785.PDF",
       "is-part-of": "kaahbr:inventory-book",
-      "photograph": "photography/2011_inventory_photos/IMG_0476.png",
       "next": "kaahbr:ke1785",
-      "@type": "kaaont:inventory-number"
-    },
-    {
+      "photograph": "photography/2011_inventory_photos/IMG_0476.png",
+      "subject-number": "P 462",
+      "typology": "kaatyp:p-kenchreai-iv-rc-10"
+    },{
       "@id": "kaahbr:ke1785",
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
-        "pagescans/inventory/1781-1785.PDF",
-        "photography/2011_inventory_photos/IMG_0482.png"
-      ],
+      "pagescan": "pagescans/inventory/1781-1785.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_0482.png",
       "next": "kaahbr:ke1786",
       "@type": "kaaont:inventory-number"
-    },
-    {
+    },{
       "@id": "kaahbr:ke1786",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
@@ -13988,8 +13999,7 @@
       ],
       "next": "kaahbr:ke1787",
       "@type": "kaaont:inventory-number"
-    },
-    {
+    },{
       "@id": "kaahbr:ke1787",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_2161.png",

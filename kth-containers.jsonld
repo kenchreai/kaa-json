@@ -650,6 +650,7 @@
 "@id":"kaakth:kth-container-42",
 "contains":["kaakth:sector-gamma-level-2"],
 "@type":"kaaont:kth-container",
+"has-part": "kaakth:kth007",
 "is-part-of": "kaa:threpsiades",
 "description":"' 2 sherds of LR cookware 1 with large spot of iron attached (burned?); LR2 handle and rim with several lines of writing (inventory no. KTH-007)'",
 "observed":[ 
@@ -701,7 +702,8 @@
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
 {"typology":"kaatyp:p-ars","part":"rim","count": 0},
 {"typology":"kaatyp:p-prs","part":"rim","count": 0},
-{"typology":"kaatyp:p-small-handled-stopper","count":6}
+{"typology":"kaatyp:p-small-handled-stopper","count":6},
+{"typology":"kaatyp:p-cw-mr-flanged-casserole", "part":"rim", "count": 1}
 ]
 },{
 "@id":"kaakth:kth-container-45",
@@ -887,7 +889,7 @@
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 5},
 {"typology":"kaatyp:p-ars","part":"rim","count": 1},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
+{"typology":"kaatyp:p-prs", "form": "kaatyp:prs-hayes-3f", "part":"rim","count": 1, "comment": "inventory this"},
 {"typology":"kaatyp:p-small-handled-stopper","count":7}
 ]
 },{
