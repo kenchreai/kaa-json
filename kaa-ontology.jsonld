@@ -50,6 +50,11 @@
    "@type":"rdfs:Property",
    "title":"Media file"
   },{
+   "@id":"kaaont:height",
+   "@type":"rdfs:Property",
+   "title":"Height (cm)",
+   "description": "The height of an object or other entity when that is known. If height only partially preserved, use kaaont:preserved-height."
+  },{
    "@id":"kaaont:inventory-book-description",
    "@type":"rdfs:Class",
    "title":"Inventory book description"

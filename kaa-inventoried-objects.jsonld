@@ -4056,6 +4056,7 @@
       "next": "kaahbr:ke0519",
       "pagescan": "pagescans/inventory/515-519.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_0454.png",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-er1",
       "rim-diameter": 47,
       "subject-number": "P 128",
       "typology":"kaatyp:p-sig-it-conspectus-18.2"
@@ -5252,24 +5253,21 @@
       "title": "KE 0670",
       "count": 1,
       "base-diameter":  10.5,
-      "typology": "kaatyp:p-esc-hayes-1",
       "count": 1,
       "is-part-of": [
         "kaahbr:box-e0121",
         "kaahbr:inventory-book"
       ],
-      "file": [
-        "pagescans/inventory/669-673.PDF",
-        "photography/2011_inventory_photos/IMG_0498.png"
-      ],
+      "pagescans": "pagescans/inventory/669-673.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_0498.png",
       "kaaont:depicts": "Grape cluster",
       "kaaont:inventory-book-description": "EIIXI. Diam foot: 0.105<br/>h(frag): 0.045m.<br>Ring foot piece from a large+ heavy red-glazed foot<br/>Strawberry stamp on center of the interior.",
       "kaaont:inventory-book-sketch": true,
-      "kaaont:location": "kaahbr:museum-crate-159",
-      "kaaont:preserved-height": 0.045,
-      "same": "kaahbr:p0176",
       "next": "kaahbr:ke0671",
-      "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb17b"
+      "preserved-height": 4.5,
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb17b",
+      "subject-number": "P 176",
+      "typology": "kaatyp:p-esc-hayes-1"
     },
     {
       "@id": "kaahbr:ke0671",
@@ -5356,6 +5354,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/674-680.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_1505.png",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-rc22e",
       "next": "kaahbr:ke0680",
       "rim-diameter": 14.6,
       "writing": true,
@@ -9974,13 +9973,12 @@
     {
       "@id": "kaahbr:ke1255",
       "@type": "kaaont:inventory-number",
-      "title": "Ke 1255 (Eastern Sigillata A)",
+      "title": "KE 1255 (Eastern Sigillata A)",
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
-        "pagescans/inventory/1255-1259.PDF",
-        "photography/2011_inventory_photos/IMG_0501.png"
-      ],
+      "pagescan": "pagescans/inventory/1255-1259.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_0501.png",
       "next": "kaahbr:ke1256",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-er28",
       "rim-diameter": 15,
       "subjectnumber": "P 335",
       "typology": "kaatyp:p-esa"
@@ -11817,8 +11815,8 @@
       "@type": "kaaont:inventory-number",
       "title": "Ke 1495 (Eastern Sigillata A Hayes Form 5b)",
       "is-part-of": "kaahbr:inventory-book",
-      "file": ["pagescans/inventory/1493-1496.PDF",
-               "photography/2011_inventory_photos/IMG_0503.png"],
+      "pagescan": "pagescans/inventory/1493-1496.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_0503.png",
       "next": "kaahbr:ke1496",
       "subject-number": "P 391",
       "published-catalog-entry": "kaahbr:kenchreai-vol4-er15",
@@ -13933,11 +13931,11 @@
       "count": 1,
       "next": "kaahbr:ke1779",
       "is-part-of": ["kaahbr:inventory-book","kaahbr:fountain-court-side-room"],
-      "photograph": "photography/2011_inventory_photos/IMG_0475.png",
       "pagescan": "pagescans/inventory/1776-1780.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_0475.png",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-rc12",
       "subject-number": "P 456",
-      "typology":"kaatyp:p-keay-52",
-      "published-catalog-entry": "kaahbr:kenchreai-vol4-rc12"
+      "typology":"kaatyp:p-keay-52"
     },
     {
       "@id": "kaahbr:ke1779",
@@ -13986,6 +13984,7 @@
       "modern-chronology": "kaa:day1966-07-11",
       "pagescan": "pagescans/inventory/1781-1785.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_0485.png",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-rc10c",
       "subject-number": "P 461",
       "typology": "kaatyp:p-kenchreai-iv-rc-10"
     },{
@@ -13993,11 +13992,12 @@
       "@type": "kaaont:inventory-number",
       "title": "KE 1784 (Kenchreai IV RC10 Amphora)",
       "height": 47.5,
-      "modern-chronology": "kaa:day1966-07-06",
-      "pagescan": "pagescans/inventory/1781-1785.PDF",
       "is-part-of": "kaahbr:inventory-book",
+      "modern-chronology": "kaa:day1966-07-06",
       "next": "kaahbr:ke1785",
+      "pagescan": "pagescans/inventory/1781-1785.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_0476.png",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-rc10g",
       "subject-number": "P 462",
       "typology": "kaatyp:p-kenchreai-iv-rc-10"
     },{
@@ -16801,17 +16801,15 @@
     {
       "@id": "kaahbr:ke2165",
       "@type": "kaaont:inventory-number",
+      "title": "KE 2165 (ESC Hayes 1)",
       "count": 1,
-      "typology": "kaatyp:p-esc-hayes-1",
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
-        "photography/2011_inventory_photos/IMG_0499.png",
-        "photography/2011_inventory_photos/IMG_0500.png"
-      ],
-      "kaaont:location": "kaahbr:museum-crate-159",
-      "same": "kaahbr:p0608",
+      "photograph": ["photography/2011_inventory_photos/IMG_0499.png",
+                     "photography/2011_inventory_photos/IMG_0500.png"],
+      "subject-number": "P 608",
       "next": "kaahbr:ke2166",
-      "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb17"
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb17",
+      "typology": "kaatyp:p-esc-hayes-1"
     },
     {
       "@id": "kaahbr:ke2166",
@@ -16851,6 +16849,7 @@
       "photograph": "photography/2011_inventory_photos/IMG_0502.png",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke2171",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-er19a",
       "rim-diameter": 16,
       "subject-number": "P 612",
       "typology": "kaatyp:p-esa-hayes-38"
@@ -17659,7 +17658,6 @@
       "title": "KE 2284 (Late Roman Amphora 3)",
       "photograph": "photography/2011_inventory_photos/IMG_0491.png",
       "is-part-of": "kaahbr:inventory-book",
-      "kaaont:location": "kaahbr:museum-crate-159",
       "same": "kaahbr:p0729",
       "next": "kaahbr:ke2285",
       "published": "kaahbr:kenchreai-vol4-page124",
