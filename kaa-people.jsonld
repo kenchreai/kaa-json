@@ -197,6 +197,14 @@
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/92759009"
   },{
+   "@id":"kaa:kalliopi-kristalli-votsi",
+   "@type": "kaaont:person",
+   "foaf:name": "Kalliopi Kristalli-Votsi",
+   "description": "Responsible for the excavations of the Threpsiades property in 1976.",
+   "is-part-of": "kaa:people",
+   "modern-chronology": "kaa:year1976",
+   "see": "Kristalli-Votsi, K. 1984. “Ἐφορεία Κλασικῶν Ἀρχαιοτήτων Ναυπλίου· Νόμος Κορινθίας, Κεγχρεές.” Archaiologikon Deltion 31 (B’1, 1976): 64–65."
+  },{
    "@id":"kaa:hector-williams",
    "@type": "kaaont:person",
    "foaf:name": "Hector Williams",

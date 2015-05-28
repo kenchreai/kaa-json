@@ -198,6 +198,12 @@
    "broader": "kaatyp:p-amphora",
    "description": "A two-handled with concave base that is found regionally in the Corinthia and Argolid. At Kenchreai, this is the form of the vessels found in the sc-called “Isis Temple Cellar”."
   },{
+   "@id":"kaatyp:p-kenchreai-4-rc-22e",
+   "@type":"crm:E55_type",
+   "title": "Kenchreai IV RC22e Amphora",
+   "broader": "kaatyp:p-amphora",
+   "description": "In Kenchreai IV, catalog entry RC 22 is mixed and takes in a variety of sherds with dipinti. As a typological identification, “RC 22e” refers to the hard-fired, white slipped form illustrated on plate 29 of Kenchreai IV. See Slane and Sanders (2005) “Late Roman Horizons” no. 2-17."
+  },{
    "@id":"kaatyp:p-slipped-fw",
    "@type":"crm:E55_type",
    "title":"Slipped Tablewares",

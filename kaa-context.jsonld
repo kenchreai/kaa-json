@@ -33,6 +33,7 @@
  "kth-sector":{"@id":"kaaont:inKthSector","@type":"@id"},
  "kth-level":{"@id":"kaaont:inKthLevel","@type":"@id"},
  "model":{"@id":"kaaont:model","@type":"@id"},
+ "modern-chronology":{"@id":"kaaont:modern-chronology","@type":"@id"},
  "next":{"@id":"http://www.w3.org/TR/html4/types.html#next","@type":"@id"},
  "not-before": "claros:not_before",
  "not-after": "claros:not_after",
@@ -52,6 +53,7 @@
  "title":{"@id":"dct:title"},
  "typology":{"@id":"crm:P5_has_type","@type":"@id"},
  "viaf":{"@id":"rdfs:seeAlso", "@type":"@id"},
+ "writing": "kaaont:writing",
  "year":{"@id":"kaaont:year", "@type":"@id"}
  }
 }

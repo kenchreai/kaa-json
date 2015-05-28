@@ -4049,14 +4049,14 @@
       "@id": "kaahbr:ke0518",
       "@type": "kaaont:inventory-number",
       "title": "KE 518 (Italian Sigillata Conspectus 18.2)",
-      "basediameter": 21,
+      "base-diameter": 21,
       "count": 1,
       "height": 5,
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0519",
       "pagescan": "pagescans/inventory/515-519.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_0454.png",
-      "rimdiameter": 47,
+      "rim-diameter": 47,
       "subject-number": "P 128",
       "typology":"kaatyp:p-sig-it-conspectus-18.2"
     },
@@ -5251,7 +5251,7 @@
       "@type": "kaaont:inventory-number",
       "title": "KE 0670",
       "count": 1,
-      "kaaont:base-diameter":  0.105,
+      "base-diameter":  10.5,
       "typology": "kaatyp:p-esc-hayes-1",
       "count": 1,
       "is-part-of": [
@@ -5352,12 +5352,15 @@
     {
       "@id": "kaahbr:ke0679",
       "@type": "kaaont:inventory-number",
-      "title": "KE 0679 (LR Amphora)",
+      "title": "KE 0679 (Kenchreai IV RC22e Amphora)",
       "is-part-of": "kaahbr:inventory-book",
-      "file": ["pagescans/inventory/674-680.PDF","photography/2011_inventory_photos/IMG_1505.png"],
+      "pagescan": "pagescans/inventory/674-680.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_1505.png",
       "next": "kaahbr:ke0680",
-      "same": "kaahbr:p0185",
-      "typology": "kaatyp:p-amphora"
+      "rim-diameter": 14.6,
+      "writing": true,
+      "subject-number": "P 185",
+      "typology": "kaatyp:p-kenchreai-4-rc-22e"
     },
     {
       "@id": "kaahbr:ke0680",
@@ -12087,17 +12090,31 @@
     },
     {
       "@id": "kaahbr:ke1529",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 1529 (Late Roman Amphora 1)",
+      "height-preserved": 11,
       "is-part-of": "kaahbr:inventory-book",
-      "photograph": "photography/2011_inventory_photos/IMG_1520.png",
+      "modern-chronology": "day1963-08-01",
       "next": "kaahbr:ke1530",
-      "@type": "kaaont:inventory-number"
+      "pagescan": "pagescans/inventory/1527-1533.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_1520.png",
+      "rim-diameter": 9,
+      "subject-number": "P 406",
+      "typology": "kaatyp:p-lra-1",
+      "writing": true
     },
     {
       "@id": "kaahbr:ke1530",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 1530 (Late Roman Amphora 1)",
+      "writing": true,
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:p0407",
+      "modern-chronology": "kaa:day1963-08-01",
       "next": "kaahbr:ke1531",
-      "@type": "kaaont:inventory-number"
+      "pagescan": "pagescans/inventory/1527-1533.PDF",
+      "rim-diameter": 8.6,
+      "subject-number": "P 407",
+      "typology": "kaatyp:p-lra-1"
     },
     {
       "@id": "kaahbr:ke1531",
