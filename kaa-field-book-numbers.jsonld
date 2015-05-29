@@ -5,11 +5,11 @@
       "@id": "kaahbr:field-book-number-c-0001",
       "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
       "title": "Field book number 1 (Excavation Box 1)",
-      "is-part-of": "kaahbr:notebook-page-c-i-003"
+      "is-part-of": ["kaahbr:notebook-page-c-i-003", "kaahbr:notebook-page-c-i-008"]
     },{
       "@id": "kaahbr:field-book-number-c-0002",
       "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "is-part-of": "kaahbr:notebook-page-c-i-003"
+      "is-part-of": ["kaahbr:notebook-page-c-i-003", "kaahbr:notebook-page-c-i-008"]
     },{
       "@id": "kaahbr:field-book-number-c-0003",
       "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
@@ -23,6 +23,566 @@
       "@type": ["kaaont:field-book-number", "kaaont:inventory-number"],
       "is-part-of": "kaahbr:notebook-page-c-i-003",
       "owl:sameAs": "kaahbr:ke0078"
+    },{
+      "@id": "kaahbr:field-book-number-c-0011",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-007", "kaahbr:notebook-page-c-i-009"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0016",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-008", "kaahbr:notebook-page-c-i-164"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0017",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-008", "kaahbr:notebook-page-c-i-164"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0018",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-008", "kaahbr:notebook-page-c-i-164"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0021",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-163"
+    },{
+      "@id": "kaahbr:field-book-number-c-0022",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-163"
+    },{
+      "@id": "kaahbr:field-book-number-c-0024",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-162"
+    },{
+      "@id": "kaahbr:field-book-number-c-0025",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-162"
+    },{
+      "@id": "kaahbr:field-book-number-c-0026",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-162"
+    },{
+      "@id": "kaahbr:field-book-number-c-0037",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-160"
+    },{
+      "@id": "kaahbr:field-book-number-c-0038",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-160"
+    },{
+      "@id": "kaahbr:field-book-number-c-0039",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-160"
+    },{
+      "@id": "kaahbr:field-book-number-c-0040",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-160"
+    },{
+      "@id": "kaahbr:field-book-number-c-0046",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-158"
+    },{
+      "@id": "kaahbr:field-book-number-c-0049",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-158"
+    },{
+      "@id": "kaahbr:field-book-number-c-0050",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-158"
+    },{
+      "@id": "kaahbr:field-book-number-c-0051",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-158"
+    },{
+      "@id": "kaahbr:field-book-number-c-0052",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-157"
+    },{
+      "@id": "kaahbr:field-book-number-c-0053",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-157"
+    },{
+      "@id": "kaahbr:field-book-number-c-0056",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-157"
+    },{
+      "@id": "kaahbr:field-book-number-c-0057",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-157"
+    },{
+      "@id": "kaahbr:field-book-number-c-0059",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-156"
+    },{
+      "@id": "kaahbr:field-book-number-c-0062",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-155"
+    },{
+      "@id": "kaahbr:field-book-number-c-0063",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-155"
+    },{
+      "@id": "kaahbr:field-book-number-c-0063a",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-019"
+    },{
+      "@id": "kaahbr:field-book-number-c-0064",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-155"
+    },{
+      "@id": "kaahbr:field-book-number-c-0065",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-155"
+    },{
+      "@id": "kaahbr:field-book-number-c-0066",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-155"
+    },{
+      "@id": "kaahbr:field-book-number-c-0066a",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-155"
+    },{
+      "@id": "kaahbr:field-book-number-c-0067",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-017", "kaahbr:notebook-page-c-i-155"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0068",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-154"
+    },{
+      "@id": "kaahbr:field-book-number-c-0070",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-154"
+    },{
+      "@id": "kaahbr:field-book-number-c-0075",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-153"
+    },{
+      "@id": "kaahbr:field-book-number-c-0075a",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-153"
+    },{
+      "@id": "kaahbr:field-book-number-c-0079",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-152"
+    },{
+      "@id": "kaahbr:field-book-number-c-0080",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-152"
+    },{
+      "@id": "kaahbr:field-book-number-c-0081",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-152"
+    },{
+      "@id": "kaahbr:field-book-number-c-0084",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-150"
+    },{
+      "@id": "kaahbr:field-book-number-c-0084a",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-150"
+    },{
+      "@id": "kaahbr:field-book-number-c-0085",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-150"
+    },{
+      "@id": "kaahbr:field-book-number-c-0086",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-150"
+    },{
+      "@id": "kaahbr:field-book-number-c-0088",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-149"
+    },{
+      "@id": "kaahbr:field-book-number-c-0089",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-149"
+    },{
+      "@id": "kaahbr:field-book-number-c-0091",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-148"
+    },{
+      "@id": "kaahbr:field-book-number-c-0093",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-148"
+    },{
+      "@id": "kaahbr:field-book-number-c-0096",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-147"
+    },{
+      "@id": "kaahbr:field-book-number-c-0097",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-147"
+    },{
+      "@id": "kaahbr:field-book-number-c-0100",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-147"
+    },{
+      "@id": "kaahbr:field-book-number-c-0102",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-146"
+    },{
+      "@id": "kaahbr:field-book-number-c-0103",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-146"
+    },{
+      "@id": "kaahbr:field-book-number-c-0104",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-146"
+    },{
+      "@id": "kaahbr:field-book-number-c-0104a",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-146"
+    },{
+      "@id": "kaahbr:field-book-number-c-0105",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-146"
+    },{
+      "@id": "kaahbr:field-book-number-c-0110",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-145"
+    },{
+      "@id": "kaahbr:field-book-number-c-0114",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-143"
+    },{
+      "@id": "kaahbr:field-book-number-c-0115",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-143"
+    },{
+      "@id": "kaahbr:field-book-number-c-0119",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-142"
+    },{
+      "@id": "kaahbr:field-book-number-c-0120",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-142"
+    },{
+      "@id": "kaahbr:field-book-number-c-0121",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-142"
+    },{
+      "@id": "kaahbr:field-book-number-c-0123",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-141"
+    },{
+      "@id": "kaahbr:field-book-number-c-0124",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-141"
+    },{
+      "@id": "kaahbr:field-book-number-c-0124a",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-141"
+    },{
+      "@id": "kaahbr:field-book-number-c-0125",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-141"
+    },{
+      "@id": "kaahbr:field-book-number-c-0126",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-140"
+    },{
+      "@id": "kaahbr:field-book-number-c-0128",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-140"
+    },{
+      "@id": "kaahbr:field-book-number-c-0129",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-140"
+    },{
+      "@id": "kaahbr:field-book-number-c-0130",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-140"
+    },{
+      "@id": "kaahbr:field-book-number-c-0131",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-139"
+    },{
+      "@id": "kaahbr:field-book-number-c-0132",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-139"
+    },{
+      "@id": "kaahbr:field-book-number-c-0133",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-139"
+    },{
+      "@id": "kaahbr:field-book-number-c-0138",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-138"
+    },{
+      "@id": "kaahbr:field-book-number-c-0139",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-138"
+    },{
+      "@id": "kaahbr:field-book-number-c-0140",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-039", "kaahbr:notebook-page-c-i-137"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0140a",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-039"
+    },{
+      "@id": "kaahbr:field-book-number-c-0141",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-041", "kaahbr:notebook-page-c-i-137"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0142",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-041", "kaahbr:notebook-page-c-i-137"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0143",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-043", "kaahbr:notebook-page-c-i-137"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0144",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-043", "kaahbr:notebook-page-c-i-137"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0145",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-043", "kaahbr:notebook-page-c-i-137"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0146",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-044", "kaahbr:notebook-page-c-i-136"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0147",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-044", "kaahbr:notebook-page-c-i-136"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0148",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-039", "kaahbr:notebook-page-c-i-136"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0148a",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-039"
+    },{
+      "@id": "kaahbr:field-book-number-c-0149",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-039", "kaahbr:notebook-page-c-i-136"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0150",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-045"
+    },{
+      "@id": "kaahbr:field-book-number-c-0151",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-135"
+    },{
+      "@id": "kaahbr:field-book-number-c-0152",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-135"
+    },{
+      "@id": "kaahbr:field-book-number-c-0155",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-135"
+    },{
+      "@id": "kaahbr:field-book-number-c-0156",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-134"
+    },{
+      "@id": "kaahbr:field-book-number-c-0159",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-134"
+    },{
+      "@id": "kaahbr:field-book-number-c-0160",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-133"
+    },{
+      "@id": "kaahbr:field-book-number-c-0161",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-133"
+    },{
+      "@id": "kaahbr:field-book-number-c-0164",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-049", "kaahbr:notebook-page-c-i-132"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0165",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-051"
+    },{
+      "@id": "kaahbr:field-book-number-c-0166",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-052"
+    },{
+      "@id": "kaahbr:field-book-number-c-0167",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-132"
+    },{
+      "@id": "kaahbr:field-book-number-c-0168",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-052", "kaahbr:notebook-page-c-i-132"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0169",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-054"
+    },{
+      "@id": "kaahbr:field-book-number-c-0170",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-056", "kaahbr:notebook-page-c-i-131"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0171",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-054", "kaahbr:notebook-page-c-i-056"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0174",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-051", "kaahbr:notebook-page-c-i-130"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0175",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-051", "kaahbr:notebook-page-c-i-130"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0179",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-051", "kaahbr:notebook-page-c-i-129"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0180",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-053", "kaahbr:notebook-page-c-i-129"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0181",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-056", "kaahbr:notebook-page-c-i-129"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0184",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-064", "kaahbr:notebook-page-c-i-127"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0188",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-126"
+    },{
+      "@id": "kaahbr:field-book-number-c-0191",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-066"
+    },{
+      "@id": "kaahbr:field-book-number-c-0192",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-066"
+    },{
+      "@id": "kaahbr:field-book-number-c-0196",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-065", "kaahbr:notebook-page-c-i-124"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0198",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-065", "kaahbr:notebook-page-c-i-124"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0206",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-072", "kaahbr:notebook-page-c-i-121"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0207",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-121"
+    },{
+      "@id": "kaahbr:field-book-number-c-0211",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-120"
+    },{
+      "@id": "kaahbr:field-book-number-c-0214",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-070", "kaahbr:notebook-page-c-i-119"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0217",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-118"
+    },{
+      "@id": "kaahbr:field-book-number-c-0221",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-071", "kaahbr:notebook-page-c-i-076", "kaahbr:notebook-page-c-i-117"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0221a",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-076"
+    },{
+      "@id": "kaahbr:field-book-number-c-0229",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-115"
+    },{
+      "@id": "kaahbr:field-book-number-c-0230",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-115"
+    },{
+      "@id": "kaahbr:field-book-number-c-0232",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-114"
+    },{
+      "@id": "kaahbr:field-book-number-c-0233",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-080", "kaahbr:notebook-page-c-i-114"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0235",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-113"
+    },{
+      "@id": "kaahbr:field-book-number-c-0237",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-076", "kaahbr:notebook-page-c-i-113"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0239",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-082"
+    },{
+      "@id": "kaahbr:field-book-number-c-0242",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-076", "kaahbr:notebook-page-c-i-112"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0243",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-079", "kaahbr:notebook-page-c-i-112"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0246",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-085", "kaahbr:notebook-page-c-i-111"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0247",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-085", "kaahbr:notebook-page-c-i-111"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0500",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-092", "kaahbr:notebook-page-c-i-111"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0501",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-111"
+    },{
+      "@id": "kaahbr:field-book-number-c-0502",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-110"
+    },{
+      "@id": "kaahbr:field-book-number-c-0507",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-096", "kaahbr:notebook-page-c-i-108"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0508",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-108"
+    },{
+      "@id": "kaahbr:field-book-number-c-0509",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-108"
+    },{
+      "@id": "kaahbr:field-book-number-c-0515",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": ["kaahbr:notebook-page-c-i-096", "kaahbr:notebook-page-c-i-107"]
+    },{
+      "@id": "kaahbr:field-book-number-c-0516",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-106"
+    },{
+      "@id": "kaahbr:field-book-number-c-0518",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-106"
+    },{
+      "@id": "kaahbr:field-book-number-c-0518",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-106"
+    },{
+      "@id": "kaahbr:field-book-number-c-0519",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-106"
     }
- ]
+  ]
 }
