@@ -103,6 +103,11 @@
    "title":"Notebook Page Scan",
    "description": "The relative file path of an image file, usually a PDF or PNG."
   },{
+   "@id":"kaaont:part",
+   "@type":"rdfs:Class",
+   "title":"Part",
+   "description": "The part of an object being described."
+  },{
    "@id":"kaaont:person",
    "@type":"rdfs:Class",
    "title":"Person",
