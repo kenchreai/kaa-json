@@ -134,6 +134,13 @@
    "see": "http://en.wikipedia.org/wiki/1970",
    "xsd:gYear": "1970"
   },{
+   "@id":"kaa:year1976",
+   "@type": "kaaont:year",
+   "title": "Nineteen Seventy-Six",
+   "is-part-of": "kaa:modern-chronology",
+   "see": "http://en.wikipedia.org/wiki/1976",
+   "xsd:gYear": "1970"
+  },{
    "@id":"kaa:year2013",
    "@type": "kaaont:year",
    "title": "Two-Thousand Thirteen",

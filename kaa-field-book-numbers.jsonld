@@ -1,0 +1,28 @@
+{
+  "@context": "kaa-context.jsonld",
+  "@graph": [
+    {
+      "@id": "kaahbr:field-book-number-c-0001",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "title": "Field book number 1 (Excavation Box 1)",
+      "is-part-of": "kaahbr:notebook-page-c-i-003"
+    },{
+      "@id": "kaahbr:field-book-number-c-0002",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-003"
+    },{
+      "@id": "kaahbr:field-book-number-c-0003",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-003"
+    },{
+      "@id": "kaahbr:field-book-number-c-0004",
+      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "is-part-of": "kaahbr:notebook-page-c-i-003"
+    },{
+      "@id": "kaahbr:field-book-number-c-0005",
+      "@type": ["kaaont:field-book-number", "kaaont:inventory-number"],
+      "is-part-of": "kaahbr:notebook-page-c-i-003",
+      "owl:sameAs": "kaahbr:ke0078"
+    }
+ ]
+}
