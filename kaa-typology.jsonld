@@ -38,10 +38,21 @@
    "broader": "kaatyp:generic",
    "title": "Pottery"
   },{
+   "@id":"kaatyp:p-unclassified",
+   "@type": "crm:E55_type",
+   "broader": "kaatyp:generic",
+   "title": "Pottery"
+  },{
    "@id":"kaatyp:p-amphora",
    "@type": "crm:E55_type",
    "title": "Amphora",
    "broader": "kaatyp:p"
+  },{
+   "@id":"kaatyp:p-amphora-unclassified",
+   "@type": "crm:E55_type",
+   "title": "Amphora",
+   "broader": "kaatyp:p",
+   "description": "The use of this “type” indicates either that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification."
   },{
    "@id": "kaatyp:p-ars",
    "@type": "crm:E55_type",
@@ -137,6 +148,11 @@
    "title": "Corinthian Aryballos",
    "broader": "kaatyp:p-corinthian"
   },{
+   "@id": "kaatyp:p-corinthian-lekane",
+   "@type": "crm:E55_type",
+   "title": "Corinthian Aryballos",
+   "broader": "kaatyp:p-corinthian"
+  },{
    "@id": "kaatyp:p-corinthian-relief",
    "@type": "crm:E55_type",
    "title": "Corinthian Relief Ware",
@@ -157,11 +173,27 @@
    "title": "Phocaean Cooking Ware",
    "broader": "kaatyp:p-cw"
   },{
+   "@id": "kaatyp:p-ephesian-grayware",
+   "@type": "crm:E55_type",
+   "title": "Ephesian Grayware",
+   "broader": "kaatyp:p-slipped-fw"
+  },{
+   "@id": "kaatyp:p-ephesian-grayware-platter",
+   "@type": "crm:E55_type",
+   "title": "Ephesian Grayware Platter",
+   "broader": "kaatyp:p-ephesian-grayware"
+  },{
    "@id": "kaatyp:p-esa",
    "@type": "crm:E55_type",
    "title": "Eastern Sigillata A",
    "see": "http://classics.uc.edu/troy/grbpottery/html/esa.html",
    "broader": "kaatyp:p-slipped-fw"
+  },{
+   "@id": "kaatyp:p-esa-mold-decorated-vessel",
+   "@type": "crm:E55_type",
+   "title": "Eastern Sigillata A Mold Decorated Vessel",
+   "description": "Placeholder for body sherds with molded decoration that are not assignable to a particular ESA form.",
+   "broader": "kaatyp:p-esa"
   },{
    "@id": "kaatyp:p-esa-hayes-5b",
    "@type": "crm:E55_type",
@@ -259,6 +291,21 @@
    "title": "Phocaean Red Slip",
    "broader": "kaatyp:p-slipped-fw"
   },{
+   "@id":"kaatyp:p-prs-hayes-1",
+   "@type":"crm:E55_type",
+   "broader": "kaatyp:p-prs",
+   "title": "Phocaean Red-Slip Hayes 1"
+  },{
+   "@id":"kaatyp:p-prs-hayes-1a",
+   "@type":"crm:E55_type",
+   "broader": "kaatyp:p-prs-hayes-1",
+   "title": "Phocaean Red-Slip Hayes 1a"
+  },{
+   "@id":"kaatyp:p-prs-hayes-3",
+   "@type":"crm:E55_type",
+   "broader": "kaatyp:p-prs-hayes-1",
+   "title": "Phocaean Red-Slip Hayes 1b"
+  },{
    "@id":"kaatyp:p-prs-hayes-3",
    "@type":"crm:E55_type",
    "broader": "kaatyp:p-prs",
@@ -296,7 +343,14 @@
    "@id": "kaatyp:p-sig-it",
    "@type": "crm:E55_type",
    "title": "Italian Sigillata",
-   "broader": "kaatyp:p-slipped-fw"
+   "broader": "kaatyp:p-slipped-fw",
+   "description": "Roman-period red slipped table vessels produced in Italy from the late 1st century BC into the 2nd AD."
+   },{
+   "@id": "kaatyp:p-sig-it-unclassified",
+   "@type": "crm:E55_type",
+   "title": "Italian Sigillata",
+   "broader": "kaatyp:p-sig-it",
+   "description": "The use of this “type” indicates either that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification."
    },{
    "@id": "kaatyp:p-sig-it-conspectus-18",
    "@type": "crm:E55_type",

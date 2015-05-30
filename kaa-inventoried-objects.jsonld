@@ -21,7 +21,7 @@
     {
       "@id": "kaahbr:ke0002",
       "@type": "kaaont:inventory-number",
-      "title": "KE 2",
+      "title": "KE 2 (Architectural Fragment)",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/1-3.PDF",
       "is-part-of": ["kaahbr:inventory-book","kaahbr:area-c"],
@@ -38,7 +38,7 @@
       "is-part-of": ["kaahbr:inventory-book","kaahbr:area-b"],
       "next": "kaahbr:ke0004",
       "same": "kaahbr:p0001",
-      "typology":"kaatyp:p"
+      "typology":"kaatyp:p-unclassified"
     },
     {
       "@id": "kaahbr:ke0004",
@@ -51,32 +51,30 @@
     },
     {
       "@id": "kaahbr:ke0005",
+      "title": "KE 5",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/4-7.PDF",
       "next": "kaahbr:ke0006",
-      "title": "KE 5",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:ke0006",
+      "title": "KE 6",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/4-7.PDF",
       "next": "kaahbr:ke0007",
-      "title": "KE 6",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:ke0007",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 7 (Trefoil Rim Jug)",
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
-        "pagescans/inventory/4-7.PDF",
-        "photography/2011_inventory_photos/IMG_2821.png"
-      ],
-      "kaaont:typological_string": "Near Phocaean cookware",
       "next": "kaahbr:ke0008",
-      "title": "KE 7",
-      "typology":"kaatyp:p",
-      "@type": "kaaont:inventory-number"
+      "pagescan": "pagescans/inventory/4-7.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_2821.png",
+      "typology":"kaatyp:p-unclassified",
+      "typology-comment": "Near Phocaean cookware."
     },
     {
       "@id": "kaahbr:ke0008",
@@ -85,7 +83,7 @@
         "photography/2011_inventory_photos/IMG_2840.png"
       ],
       "is-part-of": "kaahbr:inventory-book",
-      "typology": "kaatyp:p-sig-it",
+      "typology": "kaatyp:p-sig-it-unclassified",
       "count": 1,
       "next": "kaahbr:ke0009",
       "title": "KE 8",
@@ -130,7 +128,7 @@
       ],
       "next": "kaahbr:ke0013",
       "title": "KE 12",
-      "typology": "kaatyp:p-sig-it",
+      "typology": "kaatyp:p-sig-it-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -173,7 +171,7 @@
       "photograph": "photography/2011_inventory_photos/IMG_1733.png",
       "next": "kaahbr:ke0017",
       "title": "KE 16",
-      "typology": "kaatyp:p",
+      "typology": "kaatyp:p-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -252,6 +250,7 @@
       "@id": "kaahbr:ke0025",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0026",
+      "pagescan": "pagescans/inventory/24-28.PDF",
       "typology": "kaatyp:l",
       "@type": "kaaont:inventory-number"
     },
@@ -259,6 +258,7 @@
       "@id": "kaahbr:ke0026",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0027",
+      "pagescan": "pagescans/inventory/24-28.PDF",
       "typology": "kaatyp:l",
       "@type": "kaaont:inventory-number"
     },
@@ -266,6 +266,7 @@
       "@id": "kaahbr:ke0027",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0028",
+      "pagescan": "pagescans/inventory/24-28.PDF",
       "typology": "kaatyp:l",
       "typology": "kaatyp:l",
       "@type": "kaaont:inventory-number"
@@ -286,7 +287,7 @@
         "photography/2011_inventory_photos/IMG_1406.png"
       ],
       "next": "kaahbr:ke0030",
-      "typology": "kaatyp:p-amphora",
+      "typology": "kaatyp:p-amphora-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -970,13 +971,16 @@
     },
     {
       "@id": "kaahbr:ke0119",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 119 (ESA Molded Bowl or Chalice)",
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
-        "pagescans/inventory/119-121.PDF",
-        "photography/2011_inventory_photos/IMG_1703.png"
-      ],
       "next": "kaahbr:ke0120",
-      "@type": "kaaont:inventory-number"
+      "pagescan":"pagescans/inventory/119-121.PDF",
+      "part": "body",
+      "photograph": "photography/2011_inventory_photos/IMG_1703.png",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-er35",
+      "subject-number": "P 27",
+      "typology": "kaatyp:p-esa-mold-decorated-vessel"
     },
     {
       "@id": "kaahbr:ke0120",
@@ -985,7 +989,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/119-121.PDF","photography/2011_inventory_photos/IMG_1683.png"],
       "next": "kaahbr:ke0121",
-      "typology": "kaatyp:p"
+      "typology": "kaatyp:p-unclassified"
     },
     {
       "@id": "kaahbr:ke0121",
@@ -2848,7 +2852,7 @@
       "pagescan": "pagescans/inventory/362-367.PDF",
       "next": "kaahbr:ke0363",
       "notebook-page": "kaahbr:notebook-page-a-ii-171",
-      "typology": "kaatyp:p"
+      "typology": "kaatyp:p-unclassified"
     },
     {
       "@id": "kaahbr:ke0363",
@@ -5268,7 +5272,7 @@
         "photography/2011_inventory_photos/IMG_2266.png"
       ],
       "next": "kaahbr:ke0670",
-      "typology": "kaatyp:p"
+      "typology": "kaatyp:p-unclassified"
     },
     {
       "@id": "kaahbr:ke0670",
@@ -5284,7 +5288,7 @@
       "pagescans": "pagescans/inventory/669-673.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_0498.png",
       "kaaont:depicts": "Grape cluster",
-      "kaaont:inventory-book-description": "EIIXI. Diam foot: 0.105<br/>h(frag): 0.045m.<br>Ring foot piece from a large+ heavy red-glazed foot<br/>Strawberry stamp on center of the interior.",
+      "notebook-text": "EIIXI. Diam foot: 0.105<br/>h(frag): 0.045m.<br>Ring foot piece from a large+ heavy red-glazed foot<br/>Strawberry stamp on center of the interior.",
       "kaaont:inventory-book-sketch": true,
       "next": "kaahbr:ke0671",
       "preserved-height": 4.5,
@@ -5319,14 +5323,14 @@
         "photography/2011_inventory_photos/IMG_1478.png"
       ],
       "next": "kaahbr:ke0674",
-      "typology": "kaatyp:p-amphora"
+      "typology": "kaatyp:p-amphora-unclassified"
     },
     {
       "@id": "kaahbr:ke0674",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/674-680.PDF",
       "next": "kaahbr:ke0675",
-      "typology": "kaatyp:p",
+      "typology": "kaatyp:p-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -5334,7 +5338,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/674-680.PDF","photography/2011_inventory_photos/IMG_1460.png"],
       "next": "kaahbr:ke0676",
-      "typology": "kaatyp:p-amphora",
+      "typology": "kaatyp:p-amphora-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -5355,7 +5359,7 @@
         "pagescans/inventory/674-680.PDF",
         "photography/2011_inventory_photos/IMG_1532.png"],
       "next": "kaahbr:ke0678",
-      "typology": "kaatyp:p-amphora",
+      "typology": "kaatyp:p-amphora-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -5367,7 +5371,7 @@
         "photography/2011_inventory_photos/IMG_1801.png"
       ],
       "next": "kaahbr:ke0679",
-      "typology": "kaatyp:p-amphora",
+      "typology": "kaatyp:p-amphora-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -5502,7 +5506,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/692-696.PDF","photography/2011_inventory_photos/IMG_1398.png"],
       "next": "kaahbr:ke0695",
-      "typology": "kaatyp:p-amphora",
+      "typology": "kaatyp:p-amphora-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -6080,7 +6084,7 @@
         "photography/2011_inventory_photos/IMG_2283.png"
       ],
       "next": "kaahbr:ke0770",
-      "typology": "kaatyp:p",
+      "typology": "kaatyp:p-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -6685,7 +6689,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/847-850.PDF",
       "next": "kaahbr:ke0849",
-      "typology": "kaatyp:p"
+      "typology": "kaatyp:p-unclassified"
     },
     {
       "@id": "kaahbr:ke0849",
@@ -6703,7 +6707,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/847-850.PDF",
       "next": "kaahbr:ke0851",
-      "typology": "kaatyp:p"
+      "typology": "kaatyp:p-unclassified"
     },
     {
       "@id": "kaahbr:ke0851",
@@ -7515,7 +7519,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1419.png",
       "next": "kaahbr:ke0955",
-      "typology": "kaatyp:p-amphora",
+      "typology": "kaatyp:p-amphora-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -7523,7 +7527,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1417.png",
       "next": "kaahbr:ke0956",
-      "typology": "kaatyp:p-amphora",
+      "typology": "kaatyp:p-amphora-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -7534,7 +7538,7 @@
         "photography/2011_inventory_photos/IMG_1434.png"
       ],
       "next": "kaahbr:ke0957",
-      "typology": "kaatyp:p-amphora",
+      "typology": "kaatyp:p-amphora-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -9509,7 +9513,7 @@
         "pagescans/inventory/1201-1204.PDF",
         "photography/2011_inventory_photos/IMG_2792.png"],
       "next": "kaahbr:ke1203",
-      "typology": "kaatyp:p",
+      "typology": "kaatyp:p-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -9519,7 +9523,7 @@
         "pagescans/inventory/1201-1204.PDF",
         "photography/2011_inventory_photos/IMG_1385.png"],
       "next": "kaahbr:ke1204",
-      "typology": "kaatyp:p",
+      "typology": "kaatyp:p-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -9540,7 +9544,7 @@
         "photography/2011_inventory_photos/IMG_2277.png"
       ],
       "next": "kaahbr:ke1206",
-      "typology": "kaatyp:p",
+      "typology": "kaatyp:p-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -9548,7 +9552,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_2296.png",
       "next": "kaahbr:ke1207",
-      "typology": "kaatyp:p",
+      "typology": "kaatyp:p-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -9556,7 +9560,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_2286.png",
       "next": "kaahbr:ke1208",
-      "typology": "kaatyp:p",
+      "typology": "kaatyp:p-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -9582,7 +9586,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1367.png",
       "next": "kaahbr:ke1211",
-      "typology": "kaatyp:p-amphora",
+      "typology": "kaatyp:p-amphora-unclassified",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -10648,7 +10652,7 @@
       ],
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke1338",
-      "typology": "kaatyp:p-sig-it"
+      "typology": "kaatyp:p-sig-it-unclassified"
     },
     {
       "@id": "kaahbr:ke1338",
@@ -10860,7 +10864,7 @@
         "pagescans/inventory/1362-1365.PDF",
         "photography/2011_inventory_photos/IMG_2841.png"
       ],
-      "typology": "kaatyp:p",
+      "typology": "kaatyp:p-unclassified",
       "next": "kaahbr:ke1366",
       "@type": "kaaont:inventory-number"
     },
@@ -11752,6 +11756,7 @@
     {
       "@id": "kaahbr:ke1484",
       "is-part-of": "kaahbr:inventory-book",
+      "pagescan": "pagescans/inventory/1483-1487.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_1511.png",
       "next": "kaahbr:ke1485",
       "@type": "kaaont:inventory-number"
@@ -11759,16 +11764,26 @@
     {
       "@id": "kaahbr:ke1485",
       "is-part-of": "kaahbr:inventory-book",
+      "pagescan": "pagescans/inventory/1483-1487.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_2884.png",
       "next": "kaahbr:ke1486",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:ke1486",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 1486 (Corinthian Lekane)",
       "is-part-of": "kaahbr:inventory-book",
+      "notebook-text": "Frag. rim of large bowl. Light yellow, well-levigated Corinthian fabric. Painted decor. of black triangles with red borders, reserved strip between.",
+      "pagescan": "pagescans/inventory/1483-1487.PDF",
+      "part": "rim",
       "photograph": "photography/2011_inventory_photos/IMG_1725.png",
+      "preserved-height": 2.4,
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-gr45",
+      "rim-diameter": 27,
       "next": "kaahbr:ke1487",
-      "@type": "kaaont:inventory-number"
+      "subject-number": "P 382",
+      "typology": "kaatyp:p-corinthian-lekane"
     },
     {
       "@id": "kaahbr:ke1487",
@@ -16498,12 +16513,15 @@
       "@id": "kaahbr:ke2119",
       "@type": "kaaont:inventory-number",
       "title": "KE 2119 (Ephesian Grayware Platter)",
+      "description": "Large platter with rounded rim triangular in profile. A common “Ephesian” form. Micaceous gray fabric. Darker slip extant only in a few patches under and near rim.",
+      "height": 2,
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke2120",
       "photograph": "photography/2011_inventory_photos/IMG_1693.png",
       "published-catalog-entry": "kaahbr:kenchreai-vol4-er52a",
       "rim-diameter": 43.6,
-      "subject-number": "P 564"
+      "subject-number": "P 564",
+      "typology": "kaatyp:p-fw-ephesian-gray-platter"
     },
     {
       "@id": "kaahbr:ke2120",
@@ -16799,11 +16817,13 @@
     {
       "@id": "kaahbr:ke2161",
       "@type": "kaaont:inventory-number",
-      "photograph": "photography/2011_inventory_photos/IMG_2959.png",
+      "title": "KE 2161 (Phokaian Red Slip Hayes form 3C)",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke2162",
+      "part": ["rim","base"],
+      "photograph": "photography/2011_inventory_photos/IMG_2959.png",
       "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb33",
-      "same": "kaahbr:p0604",
+      "subject-number": "P 604",
       "typology": "kaatyp:prs-hayes-3c"
     },
     {
@@ -16815,9 +16835,16 @@
     },
     {
       "@id": "kaahbr:ke2163",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 2163 (Phokaian Red Slip Hayes 1B)",
+      "description": "Incorrectly identified as plain tableware in Kenchreai IV. While the slip is thin and worn, the current identification is secure.",
+      "height": 6,
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke2164",
-      "@type": "kaaont:inventory-number"
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-rc51b",
+      "rim-diameter": 19,
+      "subject-number": "P 606",
+      "typology": "kaatyp:p-prs-hayes-1b"
     },
     {
       "@id": "kaahbr:ke2164",
@@ -16867,7 +16894,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "file": ["photography/2011_inventory_photos/IMG_2887.png", "pagescans/inventory/Inventory_Book_2_90.png"],
       "next": "kaahbr:ke2170",
-      "typology": "kaatyp:p"
+      "typology": "kaatyp:p-unclassified"
     },
     {
       "@id": "kaahbr:ke2170",
@@ -17325,9 +17352,17 @@
     },
     {
       "@id": "kaahbr:ke2231",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 2163 (Phokaian Red Slip Hayes form 1A)",
+      "description": "Incorrectly identified as ESC in Kenchreai IV.",
+      "height": 5.5,
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke2232",
-      "@type": "kaaont:inventory-number"
+      "part": ["rim","base"],
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb19",
+      "rim-diameter": 31,
+      "subject-number": "P 675",
+      "typology": "kaatyp:p-prs-hayes-1a"
     },
     {
       "@id": "kaahbr:ke2232",

@@ -39,6 +39,7 @@
  "not-before": "claros:not_before",
  "not-after": "claros:not_after",
  "notebook-page": {"@id":"kaaont:notebook-page", "@type": "@id"},
+ "notebook-text": {"@id":"kaaont:notebook-text"},
  "observed": {"@id":"kaaont:observed","@type":"@id"},
  "part": "kaaont:part",
  "pages":{"@id":"kaaont:hasPage"},
@@ -53,6 +54,7 @@
  "see":{"@id":"rdfs:seeAlso","@type":"@id"},
  "title":{"@id":"dct:title"},
  "typology":{"@id":"crm:P5_has_type","@type":"@id"},
+ "typology-comment":{"@id":"kaaont:typology-comment"},
  "viaf":{"@id":"rdfs:seeAlso", "@type":"@id"},
  "writing": "kaaont:writing",
  "year":{"@id":"kaaont:year", "@type":"@id"}

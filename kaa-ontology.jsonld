@@ -94,6 +94,11 @@
    "@type": ["rdfs:Class", "rdfs:Property"],
    "title":"Notebook page"
   },{
+   "@id":"kaaont:notebook-text",
+   "@type": ["rdfs:Class", "rdfs:Property"],
+   "title":"Notebook text",
+   "description": "Transcribed text from a notebook, not necessarily a complete transcript."
+  },{
    "@id":"kaaont:observed",
    "@type":"rdfs:Property",
    "title":"Observed"
@@ -101,7 +106,7 @@
    "@id":"kaaont:pagescan",
    "@type":"rdfs:Class",
    "title":"Notebook Page Scan",
-   "description": "The relative file path of an image file, usually a PDF or PNG."
+   "description": "The relative file path of the scanned image of a notebook or other page, usually a PDF or PNG."
   },{
    "@id":"kaaont:part",
    "@type":"rdfs:Class",
@@ -135,6 +140,11 @@
    "@type":["rdfs:Property"],
    "title":"Published Catalog Number",
    "description": "An abbreviation or link to the publication of an object or other entity as part of a catalog."
+  },{
+   "@id":"kaaont:typology-comment",
+   "@type":["rdfs:Property"],
+   "title":"Typological Comment",
+   "description": "A comment related to typology. Used to qualify an identification or when uncertainty is warranted."
   },{
    "@id":"kaaont:writing",
    "@type":["rdfs:Property"],
