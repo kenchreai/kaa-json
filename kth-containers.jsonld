@@ -46,7 +46,7 @@
 "is-part-of": "kaa:threpsiades",
 "description":"No tag. Pretty standard mix, though see two lr groove rim cookpot.",
 "observed":[
-{"typology":"kaatyp:p-ars","part":"base","count":1,"comment":"low ring foot, rounded profile. D ware."},
+{"typology":"kaatyp:p-ars-unclassified","part":"base","count":1,"comment":"low ring foot, rounded profile. D ware."},
 {"typology":"kaatyp:p-prs-hayes-10a","part":"rim","count":1},
 {"typology":"kaatyp:p-lra-1","part":"rim","count":1},
 {"typology":"kaatyp:p-lra-1","part":"body-sherd"},
@@ -70,10 +70,9 @@
 "description":"Blue crate. Black garbage bag with extensive LR pottery, mostly amphora.",
 "comment":"Pulled and first pass by SFSH on 2014-05-12.",
 "observed":[
-{"typology":"kaatyp:p-ars-hayes-67","part":"rim","count":0},
-{"typology":"kaatyp:p-ars","part":"rim","count":1,"comment":"Small bowl, cf. Hayes 80b/99."},
+{"typology":"kaatyp:p-ars-hayes-67","part":"rim","count":1},
+{"typology":"kaatyp:p-ars-unclassified","part":"rim","count":1,"comment":"Small bowl, cf. Hayes 80b/99."},
 {"same-as":"kaakth:KTH0003","typology":"kaatyp:p-prs-hayes-10c","part":"rim","count":1},
-{"typology":"kaatyp:p-small-handled-stopper","count":0},
 {"typology":"kaatyp:p-lra-1","part":"body-sherd","count":2,"comment":"One sherd from near base. One with panel riding so higher up body."},
 {"typology":"kaatyp:p-lra-2","part":"rim","count":4},
 {"typology":"kaatyp:p-lra-2","part":"handle","count":10},
@@ -84,8 +83,6 @@
 {"typology":"kaatyp:p-lra-2-small","part":"handle","count":10},
 {"typology":"kaatyp:p-lra-4","part":"handle","count":2},
 {"typology":"kaatyp:p-lra-4","part":"body-sherd","count":1,"comment":"Pitch lining on interior."},
-{"typology":"kaatyp:p-lra-5","part":"rim","count":0},
-{"typology":"kaatyp:p-lra-5","part":"body-sherd","count":0},
 {"typology":"kaatyp:samos-cistern-amphora","part":"handle","count":1},
 {"typology":"kaatyp:p-amphora","comment":"One large unidentified amphora handle, large oval with central ridge. Other smaller handles, possible lra-2. About 5+ more unidentified amphora body sherds."},
 {"typology":"kaatyp:cookware","part":"lid","uncertain":"lid","count":2,"comment":"Somewhat similar to domed Palestinian casserole but fabric is wrong, too gritty. Thin piece towards center has relatively fine combing. There is another sherd that could be associated with this fabric but is in slightly different fabric and fired to gray."},
@@ -181,7 +178,6 @@
 "is-part-of": "kaa:threpsiades",
 "description":"Blue crate. Predominantly lra-2 mix.",
 "observed":[
-{"typology":"kaatyp:p-lra-2","part":"rim","count":0},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count":3},
 {"typology":"kaatyp:p-small-handled-stopper","count":2},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count":1},
@@ -223,7 +219,6 @@
 {"typology":"kaatyp:p-lra-2","part":"rim","count":6},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count":2},
 {"typology":"kaatyp:p-small-handled-stopper","count":5},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count":0},
 {"typology":"kaatyp:p-lra-1","part":"rim","count":1},
 {"typology":"kaatyp:p-lra-5","part":"rim","count":1},
 {"typology-note":"Cookware rims."},
@@ -237,9 +232,6 @@
 "description":"Blue crate. Predominantly lra-2 mix. Two tags which do not seem to match info. O",
 "observed":[
 {"typology":"kaatyp:p-lra-2","part":"rim","count":5},
-{"typology":"kaatyp:p-lra-2-small","part":"rim","count":0},
-{"typology":"kaatyp:p-small-handled-stopper","count":0},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count":0},
 {"typology":"kaatyp:p-amphora-lra-2-black-writing","part":"body-sherd","count":1,"comment":"Perhaps another."}
 ]
 },{
@@ -279,8 +271,7 @@
 {"typology":"kaatyp:p-lra-1","part":"rim","count":3},
 {"typology":"kaatyp:p-lra-2","part":"rim","count":3},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count":1, "comment":"W/distinct interior channel on rim."},
-{"typology":"kaatyp:p-small-handled-stopper","count":1},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count":0}
+{"typology":"kaatyp:p-small-handled-stopper","count":1}
 ]
 },{
 "@id":"kaakth:kth-container-17",
@@ -464,7 +455,7 @@
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2-writing","body":"rim","count": 2},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 2},
-{"typology":"kaatyp:p-ars","part":"rim","count": 1},
+{"typology":"kaatyp:p-ars-unclassified","part":"rim","count": 1},
 {"typology":"kaatyp:p-small-handled-stopper","count":2}
 ]
 },{
@@ -497,16 +488,12 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'Very large ARS base'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 5},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 4},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 1},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
-{"typology":"kaatyp:p-ars","part":"rim","count": 1},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
+{"typology":"kaatyp:p-ars-unclassified","part":"rim","count": 1},
 {"typology":"kaatyp:p-small-handled-stopper","count":2},
 {"typology":"kaatyp:g","count":1}
 ]
@@ -517,16 +504,10 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'two whole LR2 rims: 1 has very fine combing at neck, 1 is water worn; 1 base of R tableware'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 4},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 4},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 2},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 4},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":3}
 ]
 },{
@@ -561,17 +542,9 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'2 unreadable tags'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 2},
-{"typology":"kaatyp:p-lra-2-small","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 2},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 0},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 1},
-{"typology":"kaatyp:p-small-handled-stopper","count":0}
+{"typology":"kaatyp:p-prs","part":"rim","count": 1}
 ]
 },{
 "@id":"kaakth:kth-container-37-bag",
@@ -590,12 +563,7 @@
 "observed":[ 
 {"typology":"kaatyp:p-lra-1","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 3},
-{"typology":"kaatyp:p-lra-2-small","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 1},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 0},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
-{"typology":"kaatyp:p-small-handled-stopper","count":0},
 {"typology":"kaatyp:human-bone"}
 ]
 },{
@@ -619,15 +587,9 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'mostly washed LR2 sherds, many burned (?)'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 5},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 2},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 0},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
 {"typology":"kaatyp:p-prs","part":"rim","count": 1},
 {"typology":"kaatyp:p-small-handled-stopper","count":1},
 {"typology":"kaatyp:metal-nail","count": 1}
@@ -643,7 +605,7 @@
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 11},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 2},
-{"typology":"kaatyp:p-ars","part":"rim","count": 1},
+{"typology":"kaatyp:p-ars-unclassified","part":"rim","count": 1},
 {"typology":"kaatyp:p-small-handled-stopper","count":1}
 ]
 },{
@@ -654,17 +616,10 @@
 "is-part-of": "kaa:threpsiades",
 "description":"' 2 sherds of LR cookware 1 with large spot of iron attached (burned?); LR2 handle and rim with several lines of writing (inventory no. KTH-007)'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 5},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 8},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 9},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
-{"typology":"kaatyp:p-funnel","part":"profile","count": 1},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
-{"typology":"kaatyp:p-small-handled-stopper","count":0}
+{"typology":"kaatyp:p-funnel","part":"profile","count": 1}
 ]
 },{
 "@id":"kaakth:kth-container-43",
@@ -677,12 +632,8 @@
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 3},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 2},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":1}
 ]
 },{
@@ -692,16 +643,10 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'unreadable tag except for day and year: 3-?-76','1 large rim of LR coarseware; 1 specially fitted (?) stopper; 1 LRA 3 handle'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
 {"typology":"kaatyp:p-lra-3","part":"handle","count": 1},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":6},
 {"typology":"kaatyp:p-cw-mr-flanged-casserole", "part":"rim", "count": 1}
 ]
@@ -712,17 +657,11 @@
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 4},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 2},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 2},
-{"typology":"kaatyp:p-ars","part":"rim","count": 1},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
-{"typology":"kaatyp:p-small-handled-stopper","count":0}
+{"typology":"kaatyp:p-ars-unclassified","part":"rim","count": 1}
 ]
 },{
 "@id":"kaakth:kth-container-46",
@@ -731,16 +670,10 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'1 rim LR cookware'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 6},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 40},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":2}
 ]
 },{
@@ -750,16 +683,9 @@
 "description":"'water-worn sherds; 1 iron nail, type XII, partial head and upper part of shank; 1 sherd of vitrified roof tile; 1 ridged handle of LR (?) transport amphora'",
 "observed":[ 
 {"typology":"kaatyp:p-lra-1","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-2","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
-{"typology":"kaatyp:p-ars-hayes-105","part":"base","count": 1},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
-{"typology":"kaatyp:p-small-handled-stopper","count":0}
+{"typology":"kaatyp:p-ars-hayes-105","part":"base","count": 1}
 ]
 },{
 "@id":"kaakth:kth-container-47",
@@ -772,12 +698,9 @@
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 5},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 6},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 2},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 8},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":7}
 ]
 },{
@@ -791,9 +714,6 @@
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 4},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 6},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1}
 ]
 },{
@@ -806,13 +726,10 @@
 {"typology":"kaatyp:p-lra-1","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 4},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-4","part":"base","count": 1},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 4},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
 {"typology":"kaatyp:p-prs-hayes-10a","part":"rim","count": 1},
 {"typology":"kaatyp:p-small-handled-stopper","count":2}
 ]
@@ -823,17 +740,11 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'1 jug rim and handle; 1 residual rim of jug; several sherds of R tableware; 3 sherds appear to be cut as if in puzzle, but none join'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 3},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 4},
-{"typology":"kaatyp:p-ars-hayes-105","part":"rim","count": 1},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
-{"typology":"kaatyp:p-small-handled-stopper","count":0}
+{"typology":"kaatyp:p-ars-hayes-105","part":"rim","count": 1}
 ]
 },{
 "@id":"kaakth:kth-container-51",
@@ -842,16 +753,10 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'1 body sherd LRA 3; R tableware and coarseware; 1 rim of jug (?)'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 6},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 3},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 10},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":1}
 ]
 },{
@@ -861,15 +766,9 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'Roman cook/courseware; 1 water jug rim and handle(?)'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 5},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 2},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 6},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
 {"typology":"kaatyp:p-prs-hayes-10a","part":"rim","count": 1},
 {"typology":"kaatyp:p-small-handled-stopper","count":1}
 ]
@@ -880,15 +779,11 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'Slip generic roman tableware-courseware with rim and handle; very thin LR2 rim'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 5},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 5},
-{"typology":"kaatyp:p-ars","part":"rim","count": 1},
+{"typology":"kaatyp:p-ars-unclassified","part":"rim","count": 1},
 {"typology":"kaatyp:p-prs", "form": "kaatyp:prs-hayes-3f", "part":"rim","count": 1, "comment": "inventory this"},
 {"typology":"kaatyp:p-small-handled-stopper","count":7}
 ]
@@ -903,12 +798,8 @@
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 1},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":4}
 ]
 },{
@@ -921,13 +812,8 @@
 {"typology":"kaatyp:p-lra-1","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 3},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":9}
 ]
 },{
@@ -937,17 +823,12 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'R cookware, rim; 1 modern metal stake'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 8},
-{"typology":"kaatyp:p-lra-2-small","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 2},
 {"typology":"kaatyp:p-lra-3","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 2},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 2},
-{"typology":"kaatyp:p-small-handled-stopper","count":0}
+{"typology":"kaatyp:p-prs","part":"rim","count": 2}
 ]
 },{
 "@id":"kaakth:kth-container-57",
@@ -959,13 +840,7 @@
 {"typology":"kaatyp:p-lra-1","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 5},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 3},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 2},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":2}
 ]
 },{
@@ -975,16 +850,9 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'Mostly washed LR2'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 13},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 3},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 0},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":2}
 ]
 },{
@@ -1000,16 +868,9 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'mostly LRA2'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":3}
 ]
 },{
@@ -1022,13 +883,7 @@
 {"typology":"kaatyp:p-lra-1","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 5},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 4},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 6},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":1}
 ]
 },{
@@ -1038,16 +893,11 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'1 unidentifieable chip of light amterial; 1 body sherd, instead of incised ridging are painted white rings; unslipped tableware (base and rim); 2 MR3 handles (one with finger-size indentation?); 1 sherd of collander, but holes do not penetrate through the sherd'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 6},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 5},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 1},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 3},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":4}
 ]
 },{
@@ -1061,13 +911,8 @@
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 4},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 3},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
-{"typology":"kaatyp:p-small-handled-stopper","count":0}
+{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 3}
 ]
 },{
 "@id":"kaakth:kth-container-63-bag",
@@ -1082,16 +927,12 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'1 inventoried item, somberero (\"sector gamma - level 2, no. 120\"); 3 cookware rims;  1 sherd of large bowl rim (?); 1 body sherd with many smal black dots '",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 9},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 3},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 3},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 3},
 {"typology":"kaatyp:p-ars-hayes-105","part":"rim","count": 1},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count": 2}
 ]
 },{
@@ -1104,13 +945,7 @@
 {"typology":"kaatyp:p-lra-1","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 3},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 0},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":9}
 ]
 },{
@@ -1123,12 +958,10 @@
 {"typology":"kaatyp:p-lra-1","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 13},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
 {"typology":"kaatyp:p-lra-3","part":"body","count": 1},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 2},
-{"typology":"kaatyp:p-ars","part":"rim","count": 1},
+{"typology":"kaatyp:p-ars-unclassified","part":"rim","count": 1},
 {"typology":"kaatyp:p-prs","part":"rim","count": 1},
 {"typology":"kaatyp:p-small-handled-stopper","count":5}
 ]
@@ -1143,13 +976,9 @@
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 6},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 3},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 4},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs-hayes-10c","part":"rim","count": 0},
-{"typology":"kaatyp:p-small-handled-stopper","count":0},
+{"typology":"kaatyp:p-prs-hayes-10c","part":"rim","count": 1},
 {"typology":"kaatyp:p-funnel","count": 1}
 ]
 },{
@@ -1158,18 +987,15 @@
 "@type":"kaaont:kth-container",
 "is-part-of": "kaa:threpsiades",
 "description":"'1 sherd with red slip, bowl base (?) that rests flat, LRC/sigillata (?); 1 sherd with brown-red slip, sigillata (?); 2 body sherds with wavy pattern; 1 base of LRA4; many R coarseware handles and rims'",
-"observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-2","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-2-small","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 0},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
-{"typology":"kaatyp:p-small-handled-stopper","count":0}
+"observed":[
+{"typology":"kaatyp:p-lra-1","part":"rim","count": 1},
+{"typology":"kaatyp:p-lra-2","part":"rim","count": 7},
+{"typology":"kaatyp:p-lra-2-small","part":"rim","count": 4},
+{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 2},
+{"typology":"kaatyp:p-lra-4","part":"rim","count": 4},
+{"typology":"kaatyp:p-lra-5","part":"rim","count": 3},
+{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 12},
+{"typology":"kaatyp:p-small-handled-stopper","count":1}
 ]
 },{
 "@id":"kaakth:kth-container-69",
@@ -1178,17 +1004,11 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'1 body sherd with wavy pattern; couple of R coarseware rims; 1 base of E. Sigillata B/C; '",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 6},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 3},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 0},
 {"typology":"kaatyp:p-ars-hayes-104-type","part":"base","count": 1},
-{"typology":"kaatyp:p-prs","part":"base","count": 1},
-{"typology":"kaatyp:p-small-handled-stopper","count":0}
+{"typology":"kaatyp:p-prs","part":"base","count": 1}
 ]
 },{
 "@id":"kaakth:kth-container-70",
@@ -1197,16 +1017,10 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'1 sherd of sigillata, base (unknown form); 1 body sherd with wavy pattern; 1 small sherd of B-slip fineware'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 2},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 4},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":2}
 ]
 },{
@@ -1216,16 +1030,12 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'mostly washed sherds, many LRA1 body sherds; most body sherds are brunt; 1 stopper is specially fitted; several R cookware rims/handles; 1 LRA2 body sherd with incisions made before firing'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 5},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 3},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":8}
 ]
 },{
@@ -1235,17 +1045,6 @@
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-2","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-2-small","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 0},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
-{"typology":"kaatyp:p-small-handled-stopper","count":0}
 ]
 },{
 "@id":"kaakth:kth-container-73",
@@ -1254,16 +1053,14 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'1 rim of an unguenatrium; 1 rim of sigillata (orange slip); 4 joining rims sherds of large lid (?); several R cookware rims; 2 LRA4 toes (one with resin?); 1 R tableware base; 1 R tableware rim; 1 bosy sherd with gouging'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 9},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 8},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 1},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 6},
 {"typology":"kaatyp:p-ars-hayes-105-type","part":"base","count": 1},
-{"typology":"kaatyp:p-ars","count": 1},
+{"typology":"kaatyp:p-ars-unclassified","count": 1},
 {"typology":"kaatyp:p-prs-hayes-10a","part":"rim","count": 2},
 {"typology":"kaatyp:p-prs","count": 1},
 {"typology":"kaatyp:p-small-handled-stopper","count":8}
@@ -1275,16 +1072,11 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'1 LRA4 toe; 2 sherds of slipped R tableware; 1 base of R tableware; 1 sherd of lid (?); 1 sherd of large bowl rim (?); inside 1 sherd of cookware is yellow/orange substance; outside on LRA2 body sherd is black resin'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 5},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":3}
 ]
 },{
@@ -1294,16 +1086,10 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'1 sherd of sigillata, orange slip; 1 body sher d leading up to neck with wavy pattern; some several sherds of R cookware'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 2},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":13},
 {"typology":"kaatyp:p-lamp","part": "handle", "count": 1}
 ]
@@ -1313,8 +1099,6 @@
 "@type":"kaaont:kth-container-component",
 "description":"'several sherds of H fineware (B-slip); many sherds of R tableware'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-2","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1}
 ]
 },{
@@ -1324,16 +1108,11 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'1 sherd of slipped (red) fineware; 2 cookware rims; 1 micaceous base; 1 spout for pourer'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 6},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 5},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 1},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 3},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":1}
 ]
 },{
@@ -1347,8 +1126,6 @@
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 5},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 4},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
 {"typology":"kaatyp:p-small-handled-stopper","count": 6},
@@ -1362,15 +1139,9 @@
 "description":"'3 cookware handles'",
 "observed":[ 
 {"typology":"kaatyp:p-lra-1","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-2","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-2-small","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 2},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 2},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs-hayes-10c","part":"rim","count": 0},
+{"typology":"kaatyp:p-prs-hayes-10c","part":"rim","count": 1},
 {"typology":"kaatyp:p-small-handled-stopper","count":1}
 ]
 },{
@@ -1384,12 +1155,7 @@
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 7},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 6},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":4}
 ]
 },{
@@ -1407,8 +1173,6 @@
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 2},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 6},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":1}
 ]
 },{
@@ -1418,17 +1182,12 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'1 bosy sherd of fineware bowl, orange slip; 1 sherd of fineware, black slip outside/red slip inside (?); several cookware rimes;1 rim of jug (?)'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 9},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 3},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 0},
-{"typology":"kaatyp:p-ars","count": 1},
+{"typology":"kaatyp:p-ars-unclassified","count": 1},
 {"typology":"kaatyp:p-ars-hayes-105-type","part":"base","count": 1},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":5}
 ]
 },{
@@ -1442,12 +1201,8 @@
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 7},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 2},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 2},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 6},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":2}
 ]
 },{
@@ -1461,12 +1216,7 @@
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 7},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 2},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 0},
 {"typology":"kaatyp:p-ars-hayes-105","part":"rim","count": 2},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":3}
 ]
 },{
@@ -1476,16 +1226,9 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'many sherds of slipped/unslipped tableware; 2 large fragments of terracotta panel (?); 2 marble fragments'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-2","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 2},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs-hayes-10c","part":"rim","count": 0},
+{"typology":"kaatyp:p-prs-hayes-10c","part":"rim","count": 1},
 {"typology":"kaatyp:p-small-handled-stopper","count":2}
 ]
 },{
@@ -1495,15 +1238,9 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'all washed material; more examples of LRA2 writing covered up by plaster'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 5},
-{"typology":"kaatyp:p-lra-2-small","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 18},
 {"typology":"kaatyp:p-lra-3","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 0},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
 {"typology":"kaatyp:p-prs","part":"rim","count": 1},
 {"typology":"kaatyp:p-small-handled-stopper","count":20}
 ]
@@ -1517,13 +1254,8 @@
 {"typology":"kaatyp:p-lra-1","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 7},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-5","part":"rim","count": 6},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":1}
 ]
 },{
@@ -1533,16 +1265,11 @@
 "is-part-of": "kaa:threpsiades",
 "description":"",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 5},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 5},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 6},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":6}
 ]
 },{
@@ -1556,11 +1283,8 @@
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 6},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 2},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 2},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 4},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
 {"typology":"kaatyp:p-prs-hayes-10a","part":"rim","count": 1},
 {"typology":"kaatyp:p-small-handled-stopper","count":8}
 ]
@@ -1575,13 +1299,8 @@
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 3},
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 15},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
-{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 2},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
-{"typology":"kaatyp:p-small-handled-stopper","count":0}
+{"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 2}
 ]
 },{
 "@id":"kaakth:kth-container-90",
@@ -1590,16 +1309,9 @@
 "is-part-of": "kaa:threpsiades",
 "description":"'many inventoried items: 90, 92, 87, 85, 91, 89, 82, 108 (given to Phyllis); 1 bag of Petouli'",
 "observed":[ 
-{"typology":"kaatyp:p-lra-1","part":"rim","count": 0},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 6},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 5},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 2},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":15}
 ]
 },{
@@ -1612,13 +1324,7 @@
 {"typology":"kaatyp:p-lra-1","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-2","part":"rim","count": 4},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-2-writing","part":"body","count": 0},
-{"typology":"kaatyp:p-lra-3","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-4","part":"rim","count": 0},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 1},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":3}
 ]
 },{
@@ -1634,10 +1340,7 @@
 {"typology":"kaatyp:p-lra-2-writing","part":"body","count": 1},
 {"typology":"kaatyp:p-lra-3","part":"rim","count": 1},
 {"typology":"kaatyp:p-lra-4","part":"rim","count": 1},
-{"typology":"kaatyp:p-lra-5","part":"rim","count": 0},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count": 2},
-{"typology":"kaatyp:p-ars","part":"rim","count": 0},
-{"typology":"kaatyp:p-prs","part":"rim","count": 0},
 {"typology":"kaatyp:p-small-handled-stopper","count":3}
 ]
 },{

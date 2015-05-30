@@ -52,12 +52,18 @@
    "@type": "crm:E55_type",
    "title": "Unclassified Amphora",
    "broader": "kaatyp:p",
-   "description": "The use of this “type” indicates either that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification."
+   "description": "The use of this “type” indicates that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification."
   },{
    "@id": "kaatyp:p-ars",
    "@type": "crm:E55_type",
    "title": "African Red Slip",
    "broader": "kaatyp:p-slipped-fw"
+  },{
+   "@id": "kaatyp:p-ars-unclassified",
+   "@type": "crm:E55_type",
+   "description": "The use of this “type” indicates that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification.",
+   "title": "Unclassified African Red Slip",
+   "broader": "kaatyp:p-ars"
   },{
    "@id": "kaatyp:p-ars-hayes-67",
    "@type": "crm:E55_type",
