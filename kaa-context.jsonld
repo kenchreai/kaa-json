@@ -50,7 +50,7 @@
  "published-catalog-entry": {"@id":"kaaont:published-catalog-entry"},
  "references":{"@id":"dct:references","@type":"@id"},
  "rim-diameter": {"@id":"kaaont:rim-diameter"},
- "same":{"@id":"owl:sameAs","@type":"@id"},
+ "same-as":{"@id":"kaaont:same-as","@type":"@id"},
  "see":{"@id":"rdfs:seeAlso","@type":"@id"},
  "title":{"@id":"dct:title"},
  "typology":{"@id":"crm:P5_has_type","@type":"@id"},

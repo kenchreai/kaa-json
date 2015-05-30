@@ -15,7 +15,7 @@
       "next": "kaahbr:ke0002",
       "pagescan": "pagescans/inventory/1-3.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_0523.png",
-      "same": "kaahbr:s0001",
+      "subject-number": "S 1",
       "typology":"kaatyp:s"
     },
     {
@@ -37,7 +37,7 @@
       "pagescan": "pagescans/inventory/1-3.PDF",
       "is-part-of": ["kaahbr:inventory-book","kaahbr:area-b"],
       "next": "kaahbr:ke0004",
-      "same": "kaahbr:p0001",
+      "subject-number": "P 1",
       "typology":"kaatyp:p-unclassified"
     },
     {
@@ -339,7 +339,7 @@
         "photography/2011_inventory_photos/IMG_3021.png"
       ],
       "next": "kaahbr:ke0036",
-      "same": "kaahbr:gl0002",
+      "subject-number": "Gl 2",
       "typology": "kaatyp:gl",
       "@type": "kaaont:inventory-number"
     },
@@ -466,7 +466,7 @@
       "@id": "kaahbr:ke0052",
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/47-53.PDF","photography/2011_inventory_photos/IMG_1941.png"],
-      "same": "kaahbr:s0002",
+      "subject-number": "S 2",
       "next": "kaahbr:ke0053",
       "typology": "kaatyp:s-figurine",
       "@type": "kaaont:inventory-number"
@@ -660,7 +660,7 @@
         "pagescans/inventory/73-77.PDF",
         "photography/2011_inventory_photos/IMG_1925.png"
       ],
-      "same": "kaahbr:s0003",
+      "subject-number": "S 3",
       "next": "kaahbr:ke0078",
       "typology": "kaatyp:s",
       "@type": "kaaont:inventory-number"
@@ -1389,7 +1389,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/171-175.PDF"],
       "next": "kaahbr:ke0173",
-      "same": "kaahbr:l0048",
+      "subject-number": "L 48",
       "typology": "kaatyp:l",
       "@type": "kaaont:inventory-number"
     },
@@ -1397,7 +1397,7 @@
       "@id": "kaahbr:ke0173",
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/171-175.PDF","photography/2011_inventory_photos/IMG_1934.png"],
-      "same": "kaahbr:s0004",
+      "subject-number": "S 4",
       "next": "kaahbr:ke0174",
       "@type": "kaaont:inventory-number"
     },
@@ -1867,7 +1867,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/233-236.PDF",
       "model": "http://p3d.in/pJKgf/shadeless",
-      "same": "kaahbr:l0061",
+      "subject-number": "L 61",
       "next": "kaahbr:ke0236",
       "typology": "kaatyp:l",
       "@type": "kaaont:inventory-number"
@@ -2364,7 +2364,7 @@
         "pagescans/inventory/297-300.PDF",
         "photography/2011_inventory_photos/IMG_1884.png"
       ],
-      "same": "kaahbr:s0005",
+      "subject-number": "S 5",
       "next": "kaahbr:ke0301",
       "@type": "kaaont:inventory-number"
     },
@@ -2438,7 +2438,7 @@
       "@id": "kaahbr:ke0309",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1938.png",
-      "same": "kaahbr:s0006",
+      "subject-number": "S 6",
       "next": "kaahbr:ke0310",
       "@type": "kaaont:inventory-number"
     },
@@ -2723,7 +2723,7 @@
       "@id": "kaahbr:ke0346",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1891.png",
-      "same": "kaahbr:s0006A",
+      "subject-number": "S 6A",
       "next": "kaahbr:ke0347",
       "@type": "kaaont:inventory-number"
     },
@@ -2773,7 +2773,7 @@
     {
       "@id": "kaahbr:ke0352",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:mI0095",
+      "subject-number": "Mi 95",
       "next": "kaahbr:ke0353",
       "@type": "kaaont:inventory-number"
     },
@@ -2791,14 +2791,14 @@
         "photography/2011_inventory_photos/IMG_1895.png",
         "photography/2011_inventory_photos/IMG_1896.png"
       ],
-      "same": "kaahbr:s0007",
+      "subject-number": "S 7",
       "next": "kaahbr:ke0355",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:ke0355",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:s0008",
+      "subject-number": "S 8",
       "next": "kaahbr:ke0356",
       "@type": "kaaont:inventory-number"
     },
@@ -2958,7 +2958,7 @@
     {
       "@id": "kaahbr:ke0377",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:s0009",
+      "subject-number": "S 9",
       "next": "kaahbr:ke0378",
       "@type": "kaaont:inventory-number"
     },
@@ -2969,7 +2969,7 @@
         "pagescans/inventory/374-378.PDF",
         "photography/2011_inventory_photos/IMG_0862.png"
       ],
-      "same": "kaahbr:s0010",
+      "subject-number": "S 10",
       "next": "kaahbr:ke0379",
       "@type": "kaaont:inventory-number"
     },
@@ -3162,7 +3162,7 @@
       "@id": "kaahbr:ke0403",
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/401-406.PDF","photography/2011_inventory_photos/IMG_1935.png"],
-      "same": "kaahbr:s0011",
+      "subject-number": "S 11",
       "next": "kaahbr:ke0404",
       "@type": "kaaont:inventory-number"
     },
@@ -3764,7 +3764,7 @@
     {
       "@id": "kaahbr:ke0480",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:s0011A",
+      "subject-number": "S 11A",
       "next": "kaahbr:ke0481",
       "@type": "kaaont:inventory-number"
     },
@@ -3772,7 +3772,7 @@
       "@id": "kaahbr:ke0481",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1920.png",
-      "same": "kaahbr:s0012",
+      "subject-number": "S 12",
       "next": "kaahbr:ke0482",
       "@type": "kaaont:inventory-number"
     },
@@ -3800,7 +3800,7 @@
         "pagescans/inventory/484-488.PDF",
         "photography/2011_inventory_photos/IMG_0713.png"
       ],
-      "same": "kaahbr:aR0045",
+      "subject-number": "Ar 45",
       "next": "kaahbr:ke0485",
       "@type": "kaaont:inventory-number"
     },
@@ -3998,7 +3998,7 @@
       "@id": "kaahbr:ke0510",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/510-514.PDF",
-      "same": "kaahbr:s0013",
+      "subject-number": "S 13",
       "next": "kaahbr:ke0511",
       "@type": "kaaont:inventory-number"
     },
@@ -4392,7 +4392,7 @@
       "@id": "kaahbr:ke0558",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/558-562.PDF",
-      "same": "kaahbr:l0132",
+      "subject-number": "L 132",
       "next": "kaahbr:ke0559",
       "typology": "kaatyp:l",
       "@type": "kaaont:inventory-number"
@@ -4409,7 +4409,7 @@
       "@id": "kaahbr:ke0560",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_0861.png",
-      "same": "kaahbr:s0014",
+      "subject-number": "S 14",
       "next": "kaahbr:ke0561",
       "@type": "kaaont:inventory-number"
     },
@@ -4723,7 +4723,7 @@
       "title": "kaatyp:s-herm",
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/599-601.PDF","photography/2011_inventory_photos/IMG_0863.png"],
-      "same": "kaahbr:s0015",
+      "subject-number": "S 15",
       "next": "kaahbr:ke0601"
     },
     {
@@ -4992,7 +4992,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/634-637.pdf",
       "next": "kaahbr:ke0635",
-      "same": "kaahbr:l0158",
+      "subject-number": "L 158",
       "typology": "kaatyp:l",
       "@type": "kaaont:inventory-number"
     },
@@ -5304,7 +5304,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0672",
       "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb29",
-      "same": "kaahbr:p0177",
+      "subject-number": "P 177",
       "typology": "kaatyp:p-ars-hayes-84"
     },
     {
@@ -5496,7 +5496,7 @@
       "@id": "kaahbr:ke0693",
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/692-696.PDF","photography/2011_inventory_photos/IMG_1936.png"],
-      "same": "kaahbr:s0016",
+      "subject-number": "S 16",
       "next": "kaahbr:ke0694",
       "typology": "kaatyp:s-figurine",
       "@type": "kaaont:inventory-number"
@@ -5670,7 +5670,7 @@
         "photography/2011_inventory_photos/IMG_1232.png"
       ],
       "next": "kaahbr:ke0717",
-      "same": "MI0153",
+      "subject-number": "MI 153",
       "typology": "kaatyp:p-rooftile",
       "@type": "kaaont:inventory-number"
     },
@@ -6012,7 +6012,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/758-763.PDF","photography/2011_inventory_photos/IMG_1579.png"],
       "next": "kaahbr:ke0761",
-      "same": "kaahbr:p0195",
+      "subject-number": "P 195",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -6140,7 +6140,7 @@
       "@id": "kaahbr:ke0777",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/775-777.PDF",
-      "same": "kaahbr:s0017",
+      "subject-number": "S 17",
       "next": "kaahbr:ke0778",
       "@type": "kaaont:inventory-number"
     },
@@ -6151,7 +6151,7 @@
         "pagescans/inventory/778-782.PDF",
         "photography/2011_inventory_photos/IMG_1919.png"
       ],
-      "same": "kaahbr:s0018",
+      "subject-number": "S 18",
       "next": "kaahbr:ke0779",
       "@type": "kaaont:inventory-number"
     },
@@ -6223,7 +6223,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0788",
       "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb26",
-      "same": "kaahbr:p0207",
+      "subject-number": "P 207",
       "typology":"kaatyp:p-ars-hayes-99"
     },
     {
@@ -6485,7 +6485,7 @@
       "@id": "kaahbr:ke0821",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1927.png",
-      "same": "kaahbr:s0019",
+      "subject-number": "S 19",
       "next": "kaahbr:ke0822",
       "@type": "kaaont:inventory-number"
     },
@@ -6493,14 +6493,14 @@
       "@id": "kaahbr:ke0822",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1928.png",
-      "same": "kaahbr:s0020",
+      "subject-number": "S 20",
       "next": "kaahbr:ke0823",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:ke0823",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:s0021",
+      "subject-number": "S 21",
       "next": "kaahbr:ke0824",
       "@type": "kaaont:inventory-number"
     },
@@ -6863,7 +6863,7 @@
         "pagescans/inventory/865-868.PDF",
         "photography/2011_inventory_photos/IMG_1940.png"
       ],
-      "same": "kaahbr:s0022",
+      "subject-number": "S 22",
       "next": "kaahbr:ke0869",
       "@type": "kaaont:inventory-number"
     },
@@ -7147,7 +7147,7 @@
       "@id": "kaahbr:ke0905",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/905-910.PDF",
-      "same": "kaahbr:s0023",
+      "subject-number": "S 23",
       "next": "kaahbr:ke0906",
       "@type": "kaaont:inventory-number"
     },
@@ -7277,7 +7277,7 @@
       "@id": "kaahbr:ke0922",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1893.png",
-      "same": "kaahbr:s0024",
+      "subject-number": "S 24",
       "next": "kaahbr:ke0923",
       "@type": "kaaont:inventory-number"
     },
@@ -7285,7 +7285,7 @@
       "@id": "kaahbr:ke0923",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1926.png",
-      "same": "kaahbr:s0025",
+      "subject-number": "S 25",
       "next": "kaahbr:ke0924",
       "@type": "kaaont:inventory-number"
     },
@@ -7293,7 +7293,7 @@
       "@id": "kaahbr:ke0924",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/919-924.PDF",
-      "same": "kaahbr:s0026",
+      "subject-number": "S 26",
       "next": "kaahbr:ke0925",
       "@type": "kaaont:inventory-number"
     },
@@ -7370,7 +7370,7 @@
       "@id": "kaahbr:ke0935",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/935-937.PDF",
-      "same": "kaahbr:l0222",
+      "subject-number": "L 222",
       "next": "kaahbr:ke0936",
       "typology": "kaatyp:l",
       "@type": "kaaont:inventory-number"
@@ -7573,7 +7573,7 @@
       "@id": "kaahbr:ke0961",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/961-964.PDF",
-      "same": "kaahbr:l0244",
+      "subject-number": "L 244",
       "next": "kaahbr:ke0962",
       "typology": "kaatyp:l",
       "@type": "kaaont:inventory-number"
@@ -7868,7 +7868,7 @@
       "@id": "kaahbr:ke1000",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/998-1000.PDF",
-      "same": "kaahbr:s0027",
+      "subject-number": "S 27",
       "next": "kaahbr:ke1001",
       "@type": "kaaont:inventory-number"
     },
@@ -7879,7 +7879,7 @@
         "pagescans/inventory/1001-1003.PDF",
         "photography/2011_inventory_photos/IMG_1892.png"
       ],
-      "same": "kaahbr:s0028",
+      "subject-number": "S 28",
       "next": "kaahbr:ke1002",
       "@type": "kaaont:inventory-number"
     },
@@ -7887,7 +7887,7 @@
       "@id": "kaahbr:ke1002",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1886.png",
-      "same": "kaahbr:s0029",
+      "subject-number": "S 29",
       "next": "kaahbr:ke1003",
       "@type": "kaaont:inventory-number"
     },
@@ -7908,7 +7908,7 @@
         "pagescans/inventory/1004-1006.PDF",
         "photography/2011_inventory_photos/IMG_1898.png"
       ],
-      "same": "kaahbr:s0031",
+      "subject-number": "S 31",
       "next": "kaahbr:ke1005",
       "@type": "kaaont:inventory-number"
     },
@@ -7916,7 +7916,7 @@
       "@id": "kaahbr:ke1005",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1937.png",
-      "same": "kaahbr:s0032",
+      "subject-number": "S 32",
       "next": "kaahbr:ke1006",
       "@type": "kaaont:inventory-number"
     },
@@ -7927,7 +7927,7 @@
         "pagescans/inventory/1004-1006.PDF",
         "photography/2011_inventory_photos/IMG_1889.png"
       ],
-      "same": "kaahbr:s0033",
+      "subject-number": "S 33",
       "next": "kaahbr:ke1007",
       "@type": "kaaont:inventory-number"
     },
@@ -7938,14 +7938,14 @@
         "pagescans/inventory/1007-1009.PDF",
         "photography/2011_inventory_photos/IMG_1915.png"
       ],
-      "same": "kaahbr:s0034",
+      "subject-number": "S 34",
       "next": "kaahbr:ke1008",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:ke1008",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:s0035",
+      "subject-number": "S 35",
       "next": "kaahbr:ke1009",
       "@type": "kaaont:inventory-number"
     },
@@ -7956,7 +7956,7 @@
         "pagescans/inventory/1007-1009.PDF",
         "photography/2011_inventory_photos/IMG_1888.png"
       ],
-      "same": "kaahbr:s0036",
+      "subject-number": "S 36",
       "next": "kaahbr:ke1010",
       "@type": "kaaont:inventory-number"
     },
@@ -7967,14 +7967,14 @@
         "pagescans/inventory/1010-1013.PDF",
         "photography/2011_inventory_photos/IMG_1904.png"
       ],
-      "same": "kaahbr:s0037",
+      "subject-number": "S 37",
       "next": "kaahbr:ke1011",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:ke1011",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:s0038",
+      "subject-number": "S 38",
       "next": "kaahbr:ke1012",
       "@type": "kaaont:inventory-number"
     },
@@ -7982,7 +7982,7 @@
       "@id": "kaahbr:ke1012",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1931.png",
-      "same": "kaahbr:s0039",
+      "subject-number": "S 39",
       "next": "kaahbr:ke1013",
       "@type": "kaaont:inventory-number"
     },
@@ -8452,7 +8452,7 @@
       "@id": "kaahbr:ke1069",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1900.png",
-      "same": "kaahbr:s0040",
+      "subject-number": "S 40",
       "next": "kaahbr:ke1070",
       "@type": "kaaont:inventory-number"
     },
@@ -8460,7 +8460,7 @@
       "@id": "kaahbr:ke1070",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/1067-1070.PDF",
-      "same": "kaahbr:s0041",
+      "subject-number": "S 41",
       "next": "kaahbr:ke1071",
       "@type": "kaaont:inventory-number"
     },
@@ -8471,7 +8471,7 @@
         "pagescans/inventory/1071-1074.PDF",
         "photography/2011_inventory_photos/IMG_1887.png"
       ],
-      "same": "kaahbr:s0042",
+      "subject-number": "S 42",
       "next": "kaahbr:ke1072",
       "@type": "kaaont:inventory-number"
     },
@@ -9248,7 +9248,7 @@
         "pagescans/inventory/1170-1173.PDF",
         "photography/2011_inventory_photos/IMG_1911.png"
       ],
-      "same": "kaahbr:s0043",
+      "subject-number": "S 43",
       "next": "kaahbr:ke1171",
       "@type": "kaaont:inventory-number"
     },
@@ -9256,7 +9256,7 @@
       "@id": "kaahbr:ke1171",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1907.png",
-      "same": "kaahbr:s0044",
+      "subject-number": "S 44",
       "next": "kaahbr:ke1172",
       "@type": "kaaont:inventory-number"
     },
@@ -9264,7 +9264,7 @@
       "@id": "kaahbr:ke1172",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1902.png",
-      "same": "kaahbr:s0045",
+      "subject-number": "S 45",
       "next": "kaahbr:ke1173",
       "@type": "kaaont:inventory-number"
     },
@@ -9275,7 +9275,7 @@
         "pagescans/inventory/1170-1173.PDF",
         "photography/2011_inventory_photos/IMG_1914.png"
       ],
-      "same": "kaahbr:s0046",
+      "subject-number": "S 46",
       "next": "kaahbr:ke1174",
       "@type": "kaaont:inventory-number"
     },
@@ -9283,7 +9283,7 @@
       "@id": "kaahbr:ke1174",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/1174-1177.PDF",
-      "same": "kaahbr:s0047",
+      "subject-number": "S 47",
       "next": "kaahbr:ke1175",
       "@type": "kaaont:inventory-number"
     },
@@ -9291,7 +9291,7 @@
       "@id": "kaahbr:ke1175",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1916.png",
-      "same": "kaahbr:s0048",
+      "subject-number": "S 48",
       "next": "kaahbr:ke1176",
       "@type": "kaaont:inventory-number"
     },
@@ -9299,7 +9299,7 @@
       "@id": "kaahbr:ke1176",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1921.png",
-      "same": "kaahbr:s0049",
+      "subject-number": "S 49",
       "next": "kaahbr:ke1177",
       "@type": "kaaont:inventory-number"
     },
@@ -9310,7 +9310,7 @@
         "pagescans/inventory/1174-1177.PDF",
         "photography/2011_inventory_photos/IMG_1923.png"
       ],
-      "same": "kaahbr:s0050",
+      "subject-number": "S 50",
       "next": "kaahbr:ke1178",
       "@type": "kaaont:inventory-number"
     },
@@ -9492,7 +9492,7 @@
         "pagescans/inventory/1197-1200.PDF",
         "photography/2011_inventory_photos/IMG_1917.png"
       ],
-      "same": "kaahbr:s0051",
+      "subject-number": "S 51",
       "next": "kaahbr:ke1201",
       "@type": "kaaont:inventory-number"
     },
@@ -9663,7 +9663,7 @@
         "pagescans/inventory/1220-1221.PDF",
         "pagescans/inventory/1220-1221.PDF"
       ],
-      "same": "kaahbr:s0053",
+      "subject-number": "S 53",
       "next": "kaahbr:ke1221",
       "@type": "kaaont:inventory-number"
     },
@@ -9677,7 +9677,7 @@
       "model": "http://p3d.in/oJZFm",
       "notebook-page": [ "kaahbr:notebook-page-a-v-040",
       				"kaahbr:notebook-page-a-v-175"],
-      "same": "kaahbr:s0054",
+      "subject-number": "S 54",
       "next": "kaahbr:ke1222",
       "typology": "kaatyp:s"
     },
@@ -9722,13 +9722,13 @@
       "model": "http://p3d.in/y9hVe/shadeless",
       "notebook-page": ["kaahbr:notebook-page-a-v-045",
         "kaahbr:notebook-page-a-v-182"],
-      "same": "kaahbr:s0057",
+      "subject-number": "S 57",
       "next": "kaahbr:ke1225"
     },
     {
       "@id": "kaahbr:ke1225",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:s0058",
+      "subject-number": "S 58",
       "next": "kaahbr:ke1226",
       "@type": "kaaont:inventory-number"
     },
@@ -9913,7 +9913,7 @@
       "file": ["pagescans/inventory/1244-1247.PDF","photography/2011_inventory_photos/IMG_2973.png"],
       "next": "kaahbr:ke1247",
       "published-catalog-entry": "kaahbr:kenchreai-vol4-lrb27",
-      "same": "kaahbr:p0325",
+      "subject-number": "P 325",
       "typology":"kaatyp:p-ars-hayes-105"
     },
     {
@@ -10145,7 +10145,7 @@
       "@id": "kaahbr:ke1272",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/1268-1272.PDF",
-      "same": "kaahbr:s0059",
+      "subject-number": "S 59",
       "next": "kaahbr:ke1273",
       "@type": "kaaont:inventory-number"
     },
@@ -10631,7 +10631,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "file": ["pagescans/inventory/1331-1336.PDF",
       "photography/2011_inventory_photos/IMG_1910.png"],
-      "same": "kaahbr:s0061",
+      "subject-number": "S 61",
       "next": "kaahbr:ke1336",
       "@type": "kaaont:inventory-number"
     },
@@ -10685,7 +10685,7 @@
     {
       "@id": "kaahbr:ke1342",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:s0062",
+      "subject-number": "S 62",
       "next": "kaahbr:ke1343",
       "@type": "kaaont:inventory-number"
     },
@@ -10816,7 +10816,7 @@
       "@id": "kaahbr:ke1359",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1913.png",
-      "same": "kaahbr:s0063",
+      "subject-number": "S 63",
       "next": "kaahbr:ke1360",
       "@type": "kaaont:inventory-number"
     },
@@ -11203,7 +11203,7 @@
         "pagescans/inventory/1405-1411.PDF",
         "photography/2011_inventory_photos/IMG_0522.png"
       ],
-      "same": "kaahbr:s0064",
+      "subject-number": "S 64",
       "next": "kaahbr:ke1410",
       "@type": "kaaont:inventory-number"
     },
@@ -11961,7 +11961,7 @@
         "pagescans/inventory/1504-1507.PDF",
         "photography/2011_inventory_photos/IMG_1929.png"
       ],
-      "same": "kaahbr:s0065",
+      "subject-number": "S 65",
       "next": "kaahbr:ke1508",
       "@type": "kaaont:inventory-number"
     },
@@ -12407,7 +12407,7 @@
       "@id": "kaahbr:ke1566",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/1566-1573.PDF",
-      "same": "kaahbr:s0067",
+      "subject-number": "S 67",
       "next": "kaahbr:ke1567",
       "@type": "kaaont:inventory-number"
     },
@@ -12417,14 +12417,14 @@
       "count": 1,
       "pagescan": "pagescans/inventory/1566-1573.PDF",
       "is-part-of": "kaahbr:inventory-book",
-      "same":"kaahbr:P0429",
+      "subject-number": "P 429",
       "next": "kaahbr:ke1568",
       "typology":"kaatyp:p-ars-hayes-52"
     },
     {
       "@id": "kaahbr:ke1568",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:s0068",
+      "subject-number": "S 68",
       "next": "kaahbr:ke1569",
       "@type": "kaaont:inventory-number",
       "pagescan": "pagescans/inventory/1566-1573.PDF"
@@ -12437,7 +12437,7 @@
         "photography/2011_inventory_photos/IMG_1909.png",
         "pagescans/inventory/1566-1573.PDF"
         ],
-      "same": "kaahbr:s0069",
+      "subject-number": "S 69",
       "next": "kaahbr:ke1570"
     },
     {
@@ -12481,7 +12481,7 @@
         "pagescans/inventory/1574-1578.PDF",
         "photography/2011_inventory_photos/IMG_1933.png"
       ],
-      "same": "kaahbr:s0070",
+      "subject-number": "S 70",
       "next": "kaahbr:ke1575",
       "@type": "kaaont:inventory-number"
     },
@@ -12588,7 +12588,7 @@
         "photography/2011_inventory_photos/IMG_1906.png",
         "photography/2011_inventory_photos/IMG_3288.png"
       ],
-      "same": "kaahbr:s0072",
+      "subject-number": "S 72",
       "next": "kaahbr:ke1590",
       "@type": "kaaont:inventory-number"
     },
@@ -12603,7 +12603,7 @@
       "@id": "kaahbr:ke1591",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/1588-1595.PDF",
-      "same": "kaahbr:p0372",
+      "subject-number": "P 372",
       "next": "kaahbr:ke1592",
       "@type": "kaaont:inventory-number",
       "published-catalog-entry": "kaahbr:kenchreai-vol4-er4"
@@ -12726,7 +12726,7 @@
       "@id": "kaahbr:ke1609",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1932.png",
-      "same": "kaahbr:s0074",
+      "subject-number": "S 74",
       "next": "kaahbr:ke1610",
       "@type": "kaaont:inventory-number"
     },
@@ -12895,7 +12895,7 @@
       "@id": "kaahbr:ke1632",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1953.png",
-      "same": "kaahbr:s0075",
+      "subject-number": "S 75",
       "next": "kaahbr:ke1633",
       "@type": "kaaont:inventory-number"
     },
@@ -12909,7 +12909,7 @@
     {
       "@id": "kaahbr:ke1634",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:s0076",
+      "subject-number": "S 76",
       "next": "kaahbr:ke1635",
       "@type": "kaaont:inventory-number"
     },
@@ -13452,7 +13452,7 @@
     {
       "@id": "kaahbr:ke1709",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:s0077",
+      "subject-number": "S 77",
       "next": "kaahbr:ke1710",
       "@type": "kaaont:inventory-number"
     },
@@ -14372,7 +14372,7 @@
         "photography/2011_inventory_photos/IMG_1177.png"
       ],
       "model": "http://p3d.in/LbBsj/shadeless",
-      "same": "kaahbr:aR0096",
+      "subject-number": "Ar 96",
       "next": "kaahbr:ke1829",
       "@type": "kaaont:inventory-number"
     },
@@ -14424,7 +14424,7 @@
         "pagescans/inventory/1835-1840.PDF",
         "photography/2011_inventory_photos/IMG_2278.png"
       ],
-      "same": "kaahbr:s0071",
+      "subject-number": "S 71",
       "next": "kaahbr:ke1836",
       "@type": "kaaont:inventory-number"
     },
@@ -14506,7 +14506,7 @@
       "@id": "kaahbr:ke1846",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1922.png",
-      "same": "kaahbr:s0078",
+      "subject-number": "S 78",
       "next": "kaahbr:ke1847",
       "@type": "kaaont:inventory-number"
     },
@@ -14592,7 +14592,7 @@
     {
       "@id": "kaahbr:ke1857",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:s0079",
+      "subject-number": "S 79",
       "next": "kaahbr:ke1858",
       "@type": "kaaont:inventory-number"
     },
@@ -15001,7 +15001,7 @@
       "@id": "kaahbr:ke1910",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1930.png",
-      "same": "kaahbr:s0081",
+      "subject-number": "S 81",
       "next": "kaahbr:ke1911",
       "@type": "kaaont:inventory-number"
     },
@@ -15063,7 +15063,7 @@
     {
       "@id": "kaahbr:ke1917",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:s0082",
+      "subject-number": "S 82",
       "next": "kaahbr:ke1918",
       "@type": "kaaont:inventory-number"
     },
@@ -15071,7 +15071,7 @@
       "@id": "kaahbr:ke1918",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1190.png",
-      "same": "kaahbr:s0083",
+      "subject-number": "S 83",
       "next": "kaahbr:ke1919",
       "@type": "kaaont:inventory-number"
     },
@@ -15371,7 +15371,7 @@
       "@id": "kaahbr:ke1960",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1890.png",
-      "same": "kaahbr:s0084",
+      "subject-number": "S 84",
       "next": "kaahbr:ke1961",
       "@type": "kaaont:inventory-number"
     },
@@ -16999,7 +16999,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_0450.png",
       "next": "kaahbr:ke2184",
-      "same": "kaahbr:p0625",
+      "subject-number": "P 625",
       "typology": "kaatyp:p-mra7"
     },
     {
@@ -17039,7 +17039,7 @@
         "photography/2011_inventory_photos/IMG_0451.png",
         "photography/2011_inventory_photos/IMG_0452.png"
       ],
-      "same": "kaahbr:p0629",
+      "subject-number": "P 629",
       "next": "kaahbr:ke2188",
       "@type": "kaaont:inventory-number"
     },
@@ -17724,7 +17724,7 @@
       "photograph": "photography/2011_inventory_photos/IMG_2958.png",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke2284",
-      "same": "kaahbr:P0728",
+      "subject-number": "P 728",
       "typology": "kaatyp:prs-hayes-3h"
     },
     {
@@ -17733,7 +17733,7 @@
       "title": "KE 2284 (Late Roman Amphora 3)",
       "photograph": "photography/2011_inventory_photos/IMG_0491.png",
       "is-part-of": "kaahbr:inventory-book",
-      "same": "kaahbr:p0729",
+      "subject-number": "P 729",
       "next": "kaahbr:ke2285",
       "published": "kaahbr:kenchreai-vol4-page124",
       "typology": "kaatyp:lra-3"

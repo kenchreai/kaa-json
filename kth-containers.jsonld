@@ -11,7 +11,7 @@
 "observed":[
 {"typology":"kaatyp:p-byz-sgraffito","count":1,"intrusive": true },
 {"typology":"kaatyp:x-hell-black-slip","count":2,"comment":"1 body sherd, 1 basin rim","residual":true},
-{"same":"kaakth:KTH0001","typology":"kaatyp:p-prs-hayes-10a","count":1, "ldm":true,"to-be-drawn":true},
+{"same-as":"kaakth:KTH0001","typology":"kaatyp:p-prs-hayes-10a","count":1, "ldm":true,"to-be-drawn":true},
 {"typology":"kaatyp:p-ars-hayes-67","part":"rim","count":1,"comment":"Missing outer edge of rim but countable."},
 {"typology":"kaatyp:p-lra-1","part":"rim","count":1},
 {"typology":"kaatyp:p-lra-1","part":"body-sherd","count":3,"comment":"There may be more."},
@@ -29,7 +29,7 @@
 "comment":"Wooden tag present but not readable at initial attempt. There is writing here. A wider assortment of amphoras than previously. See below for details and comments. IMPORTANT: this is the container with the perhaps modern black writing on 3 amph body shers, but that bears further inspection.",
 "observed":[
 {"typology":"kaatyp:p-ars-hayes-105","qualification":"base-type","part":"base","count":1,"comment":"Triangular in profile, groove on outer face."},
-{"same":"kaakth:KTH0002","typology":"kaaty:p-spatheion","part":"neck-rim","count":1,"comment":"Upper neck and handle stubs preserved.","to-be-drawn":true},
+{"same-as":"kaakth:KTH0002","typology":"kaaty:p-spatheion","part":"neck-rim","count":1,"comment":"Upper neck and handle stubs preserved.","to-be-drawn":true},
 {"typology":"kaatyp:p-lra-1","part":"rim-neck","count":4,"comment":"One near full circumference from two joining pieces. Handles also present"},
 {"typology":"kaatyp:p-almagro-51","qualification":"typology","count":1,"comment":"With rounded top and banded rim of Almagro 51. Small sherd. Earlier Tripolitanian? Clearly not lra-1."},
 {"typology":"kaatyp:p-lra-2","part":"rim","count":2,"comment":"And many body sherds."},
@@ -50,9 +50,9 @@
 {"typology":"kaatyp:p-prs-hayes-10a","part":"rim","count":1},
 {"typology":"kaatyp:p-lra-1","part":"rim","count":1},
 {"typology":"kaatyp:p-lra-1","part":"body-sherd"},
-{"same":"kaakth:KTH0005","typology":"kaatyp:p-lra-2","part":"neck-rim-handle","count":1,"to-be-drawn":true}, 
+{"same-as":"kaakth:KTH0005","typology":"kaatyp:p-lra-2","part":"neck-rim-handle","count":1,"to-be-drawn":true}, 
 {"typology":"kaatyp:p-lra-2","part":"rim","count":4},
-{"same":"kaakth:KTH0006","typology":"kaatyp:p-lra-2-small","part":"rim-handle-neck","count":1},
+{"same-as":"kaakth:KTH0006","typology":"kaatyp:p-lra-2-small","part":"rim-handle-neck","count":1},
 {"typology":"kaatyp:p-lra-2-small","part":"rim-handle-neck","count":1},
 {"typology":"kaatyp:p-lra-2-small","part":"handle-neck","count":2},
 {"typology":"kaatyp:p-lra-2-small","part":"rim","count":1},
@@ -72,7 +72,7 @@
 "observed":[
 {"typology":"kaatyp:p-ars-hayes-67","part":"rim","count":0},
 {"typology":"kaatyp:p-ars","part":"rim","count":1,"comment":"Small bowl, cf. Hayes 80b/99."},
-{"same":"kaakth:KTH0003","typology":"kaatyp:p-prs-hayes-10c","part":"rim","count":1},
+{"same-as":"kaakth:KTH0003","typology":"kaatyp:p-prs-hayes-10c","part":"rim","count":1},
 {"typology":"kaatyp:p-small-handled-stopper","count":0},
 {"typology":"kaatyp:p-lra-1","part":"body-sherd","count":2,"comment":"One sherd from near base. One with panel riding so higher up body."},
 {"typology":"kaatyp:p-lra-2","part":"rim","count":4},
@@ -143,7 +143,7 @@
 {"typology":"kaatyp:p-small-handled-stopper","count":19},
 {"typology":"kaatyp:p-lra-4","part":"rim","count":1},
 {"typology":"kaatyp:p-amphora-palestinian","part":"handle","count":2},
-{"same":"KTH004","typology":"kaatyp:p-palestinian-string-cut-casserole","part":"rim-handle","count":1},
+{"same-as":"KTH004","typology":"kaatyp:p-palestinian-string-cut-casserole","part":"rim-handle","count":1},
 {"typology-note":"Aqaba amphora? Nice selection of coarsewares in including jug with wave-incision. And spouted? jug."},
 {"typology":"kaatyp:p-prs","part":"base"}
 ]
