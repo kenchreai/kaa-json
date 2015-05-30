@@ -38,11 +38,6 @@
    "broader": "kaatyp:generic",
    "title": "Pottery"
   },{
-   "@id":"kaatyp:p-unclassified",
-   "@type": "crm:E55_type",
-   "broader": "kaatyp:generic",
-   "title": "Unclassified Pottery"
-  },{
    "@id":"kaatyp:p-amphora",
    "@type": "crm:E55_type",
    "title": "Amphora",
@@ -255,32 +250,42 @@
    "@id":"kaatyp:p-lra-1",
    "@type":"crm:E55_type",
    "title":"Late Roman Amphora 1",
-   "broader":"kaatyp:p-amphora"
-  },{
+   "broader":"kaatyp:p-amphora",
+   "description": "Late Roman amphora form produced in both Cilicia and Cyprus. The form appears in a variety of fabrics.",
+   "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=236"
+     },{
    "@id":"kaatyp:p-lra-2",
    "@type":"crm:E55_type",
    "title":"Late Roman Amphora 2",
-   "broader":"kaatyp:p-amphora"
+   "broader":"kaatyp:p-amphora",
+   "description": "Late Roman amphora form produced in the Aegean. The Argolid is a well-known producing region of the form and LRA2's are abundant at Kenchreai.",
+   "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=239" 
   },{
    "@id":"kaatyp:p-lra-2-small",
    "@type":"crm:E55_type",
    "title":"Late Roman Amphora 2 Small",
-   "broader":"kaatyp:p-amphora"
+   "broader":"kaatyp:p-amphora",
+   "description": "Small variant of LRA 2."
   },{
    "@id":"kaatyp:p-lra-3",
    "@type":"crm:E55_type",
    "title":"Late Roman Amphora 3",
-   "broader":"kaatyp:p-amphora"
+   "broader":"kaatyp:p-amphora",
+   "description": "Also known as “Micaceous Water Jar,” this form is the successor of Middle Roman Amphora 3. Distinct by its thin walls that show wide, spiralling ridges and by its micaceous brown fabric.",
+   "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=240"
   },{
    "@id":"kaatyp:p-lra-4",
    "@type":"crm:E55_type",
    "title":"Late Roman Amphora 4",
-   "broader":"kaatyp:p-amphora"
+   "broader":"kaatyp:p-amphora",
+   "description": "Late Roman amphora form produced in southern Palestine. Also known as “Almagro 54” and “Gaza Amphora” among other names.",
+   "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=16"
   },{
    "@id":"kaatyp:p-lra-5",
    "@type":"crm:E55_type",
    "title":"Late Roman Amphora 5",
-   "broader":"kaatyp:p-amphora"
+   "broader":"kaatyp:p-amphora",
+   "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=267"
   },{
    "@id":"kaatyp:p-lra-6",
    "@type":"crm:E55_type",
@@ -339,13 +344,19 @@
   },{
    "@id":"kaatyp:p-prs-hayes-10b",
    "@type":"crm:E55_type",
-   "broader": "kaatyp:p-prs",
-   "title": "Phocaean Red-Slip Hayes 10b"
+   "title": "Phocaean Red-Slip Hayes 10b",
+   "broader": "kaatyp:p-prs"
   },{
    "@id":"kaatyp:p-prs-hayes-10c",
    "@type":"crm:E55_type",
+   "title": "Phocaean Red-Slip Hayes 10c",
+   "broader": "kaatyp:p-prs"
+  },{
+   "@id":"kaatyp:p-prs-unclassified",
+   "@type":"crm:E55_type",
+   "title": "Unclassified Phocaean Red-Slip",
    "broader": "kaatyp:p-prs",
-   "title": "Phocaean Red-Slip Hayes 10c"
+   "description": "The use of this “type” indicates that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification."
   },{
    "@id": "kaatyp:p-rooftile",
    "@type": "crm:E55_type",
@@ -356,12 +367,6 @@
    "title": "Italian Sigillata",
    "broader": "kaatyp:p-slipped-fw",
    "description": "Roman-period red slipped table vessels produced in Italy from the late 1st century BC into the 2nd AD."
-   },{
-   "@id": "kaatyp:p-sig-it-unclassified",
-   "@type": "crm:E55_type",
-   "title": "Unclassified Italian Sigillata",
-   "broader": "kaatyp:p-sig-it",
-   "description": "The use of this “type” indicates either that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification."
    },{
    "@id": "kaatyp:p-sig-it-conspectus-18",
    "@type": "crm:E55_type",
@@ -391,6 +396,12 @@
    "not-after": 40,
    "not-before": -20
    },{
+   "@id": "kaatyp:p-sig-it-unclassified",
+   "@type": "crm:E55_type",
+   "title": "Unclassified Italian Sigillata",
+   "broader": "kaatyp:p-sig-it",
+   "description": "The use of this “type” indicates either that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification."
+   },{
    "@id":"kaatyp:p-small-handled-stopper",
    "@type": "crm:E55_type",
    "title": "Small handled amphora stopper",
@@ -401,6 +412,11 @@
    "@type":"crm:E55_type",
    "title": "Spatheion",
    "broader": "kaatyp:p-amphora"
+  },{
+   "@id":"kaatyp:p-unclassified",
+   "@type": "crm:E55_type",
+   "broader": "kaatyp:generic",
+   "title": "Unclassified Pottery"
   },{
    "@id": "kaatyp:p-water-pipe",
    "@type":"crm:E55_type",

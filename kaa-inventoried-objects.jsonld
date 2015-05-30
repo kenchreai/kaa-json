@@ -78,6 +78,8 @@
     },
     {
       "@id": "kaahbr:ke0008",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 8 (Italian Sigillata?)",
       "file": [
         "pagescans/inventory/8-12.PDF",
         "photography/2011_inventory_photos/IMG_2840.png"
@@ -86,8 +88,6 @@
       "typology": "kaatyp:p-sig-it-unclassified",
       "count": 1,
       "next": "kaahbr:ke0009",
-      "title": "KE 8",
-      "@type": "kaaont:inventory-number",
       "kaaont:note": "Attribution on basis of photo and inventory description."
     },
     {
@@ -120,6 +120,8 @@
     },
     {
       "@id": "kaahbr:ke0012",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 12 (Italian Sigillata)",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/8-12.PDF",
@@ -127,14 +129,12 @@
         "photography/2011_inventory_photos/IMG_2895.png"
       ],
       "next": "kaahbr:ke0013",
-      "title": "KE 12",
-      "typology": "kaatyp:p-sig-it-unclassified",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-sig-it-unclassified"
     },
     {
       "@id": "kaahbr:ke0013",
       "@type": "kaaont:inventory-number",
-      "title": "KE 13",
+      "title": "KE 13 (Glass)",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/13-17.PDF",
@@ -157,12 +157,12 @@
     },
     {
       "@id": "kaahbr:ke0015",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 15 (Black Figure)",
       "is-part-of": "kaahbr:inventory-book",
       "pagescan": "pagescans/inventory/13-17.PDF",
       "next": "kaahbr:ke0016",
-      "title": "KE 15",
-      "typology": "kaatyp:p-attic-black-figure",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-attic-black-figure"
     },
     {
       "@id": "kaahbr:ke0016",
@@ -281,14 +281,15 @@
     },
     {
       "@id": "kaahbr:ke0029",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 29 (Stamped Amphora)",
       "is-part-of": "kaahbr:inventory-book",
       "file": [
         "pagescans/inventory/29-34.PDF",
         "photography/2011_inventory_photos/IMG_1406.png"
       ],
       "next": "kaahbr:ke0030",
-      "typology": "kaatyp:p-amphora-unclassified",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-amphora-unclassified"
     },
     {
       "@id": "kaahbr:ke0030",
@@ -2390,10 +2391,12 @@
     },
     {
       "@id": "kaahbr:ke0303",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 303 (Stamped Phokaian Red Slip)",
       "is-part-of": "kaahbr:inventory-book",
-      "photograph": "photography/2011_inventory_photos/IMG_2941.png",
       "next": "kaahbr:ke0304",
-      "@type": "kaaont:inventory-number"
+      "photograph": "photography/2011_inventory_photos/IMG_2941.png",
+      "typology": "kaatyp:p-prs-unclassified"
     },
     {
       "@id": "kaahbr:ke0304",
