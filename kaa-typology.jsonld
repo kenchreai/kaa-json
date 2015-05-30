@@ -41,7 +41,7 @@
    "@id":"kaatyp:p-unclassified",
    "@type": "crm:E55_type",
    "broader": "kaatyp:generic",
-   "title": "Pottery"
+   "title": "Unclassified Pottery"
   },{
    "@id":"kaatyp:p-amphora",
    "@type": "crm:E55_type",
@@ -79,21 +79,21 @@
    "@id": "kaatyp:p-ars-hayes-104a",
    "@type": "crm:E55_type",
    "title": "African Red-Slip Hayes 104a",
-   "broader": "kaatyp:p-ars-hayes-104",
+   "broader": ["kaatyp:p-ars","kaatyp:p-ars-hayes-104"],
    "not-before": 500,
    "not-after": 580
   },{
    "@id": "kaatyp:p-ars-hayes-104b",
    "@type": "crm:E55_type",
    "title": "African Red-Slip Hayes 104b",
-   "broader": "kaatyp:p-ars-hayes-104",
+   "broader": ["kaatyp:p-ars","kaatyp:p-ars-hayes-104"],
    "not-before": 570,
    "not-after": 600
   },{
    "@id": "kaatyp:p-ars-hayes-104c",
    "@type": "crm:E55_type",
    "title": "African Red-Slip Hayes 104c",
-   "broader": "kaatyp:p-ars-hayes-104",
+   "broader": ["kaatyp:p-ars","kaatyp:p-ars-hayes-104"],
    "not-before": 550,
    "not-after": 625
   },{
@@ -205,6 +205,11 @@
    "title": "Eastern Sigillata A Hayes Form 12",
    "broader": "kaatyp:p-esa"
   },{
+   "@id": "kaatyp:p-esa-hayes-50",
+   "@type": "crm:E55_type",
+   "title": "Eastern Sigillata A Hayes Form 50",
+   "broader": "kaatyp:p-esa"
+  },{
    "@id": "kaatyp:p-esc",
    "@type": "crm:E55_type",
    "title": "Eastern Sigillata C",
@@ -228,7 +233,7 @@
    "@type":"crm:E55_type",
    "title": "Kenchreai IV RC10 Amphora",
    "broader": "kaatyp:p-amphora",
-   "description": "A two-handled with concave base that is found regionally in the Corinthia and Argolid. At Kenchreai, this is the form of the vessels found in the sc-called “Isis Temple Cellar”."
+   "description": "A two-handled amphora with concave base that is found regionally in the Corinthia and Argolid. At Kenchreai, this is the form of the vessels found in the sc-called “Isis Temple Cellar”."
   },{
    "@id":"kaatyp:p-kenchreai-4-rc-22e",
    "@type":"crm:E55_type",
