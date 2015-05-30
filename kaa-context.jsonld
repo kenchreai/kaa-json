@@ -52,6 +52,7 @@
  "rim-diameter": {"@id":"kaaont:rim-diameter"},
  "same-as":{"@id":"kaaont:same-as","@type":"@id"},
  "see":{"@id":"rdfs:seeAlso","@type":"@id"},
+ "subject-number": {"@id":"kaaont:subject-number"},
  "title":{"@id":"dct:title"},
  "typology":{"@id":"crm:P5_has_type","@type":"@id"},
  "typology-comment":{"@id":"kaaont:typology-comment"},

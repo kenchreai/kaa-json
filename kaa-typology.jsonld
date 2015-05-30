@@ -50,7 +50,7 @@
   },{
    "@id":"kaatyp:p-amphora-unclassified",
    "@type": "crm:E55_type",
-   "title": "Amphora",
+   "title": "Unclassified Amphora",
    "broader": "kaatyp:p",
    "description": "The use of this “type” indicates either that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification."
   },{
@@ -348,7 +348,7 @@
    },{
    "@id": "kaatyp:p-sig-it-unclassified",
    "@type": "crm:E55_type",
-   "title": "Italian Sigillata",
+   "title": "Unclassified Italian Sigillata",
    "broader": "kaatyp:p-sig-it",
    "description": "The use of this “type” indicates either that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification."
    },{

@@ -138,13 +138,19 @@
   },{
    "@id":"kaaont:published-catalog-entry",
    "@type":["rdfs:Property"],
-   "title":"Published Catalog Number",
+   "title":"Published Catalog Entry",
    "description": "An abbreviation or link to the publication of an object or other entity as part of a catalog."
   },{
    "@id":"kaaont:same-as",
    "@type":["rdfs:Property"],
    "title":"Same as",
    "description": "Indicates that an identified entity has also been assigned another identifier. An example is the relationship between a Notebook Field Number (NFN) and an Inventory Number. The NFN will be said to be the “same-as” the Inventory Number",
+   "owl:sameAs": "owl:sameAs"
+  },{
+   "@id":"kaaont:subject-number",
+   "@type":["rdfs:Property"],
+   "title":"Subject number",
+   "description": "An identifier assigned to inventoried objects consisting of a capital letter that indicates the type of object - e.g., Pottery, Stone, Glass, etc. - and an integer that uniquely identifies the piece and which is assigned in series. It is additional to the Inventory Number.",
    "owl:sameAs": "owl:sameAs"
   },{
    "@id":"kaaont:typology-comment",
