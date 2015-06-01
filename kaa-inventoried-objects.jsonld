@@ -2750,20 +2750,16 @@
     {
       "@id": "kaahbr:ke0349",
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
-        "pagescans/inventory/349-356.PDF",
-        "photography/2011_inventory_photos/IMG_2980.png"
-      ],
+      "pagescan": "pagescans/inventory/349-356.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_2980.png",
       "next": "kaahbr:ke0350",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:ke0350",
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
-        "photography/2011_inventory_photos/IMG_0939.png",
-        "photography/2011_inventory_photos/IMG_3015.png"
-      ],
+      "pagescan": "pagescans/inventory/349-356.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_3015.png",
       "next": "kaahbr:ke0351",
       "@type": "kaaont:inventory-number"
     },
@@ -2771,6 +2767,7 @@
       "@id": "kaahbr:ke0351",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0352",
+      "pagescan": "pagescans/inventory/349-356.PDF",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -2778,6 +2775,7 @@
       "is-part-of": "kaahbr:inventory-book",
       "subject-number": "Mi 95",
       "next": "kaahbr:ke0353",
+      "pagescan": "pagescans/inventory/349-356.PDF",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -2785,25 +2783,29 @@
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_1954.png",
       "next": "kaahbr:ke0354",
+      "pagescan": "pagescans/inventory/349-356.PDF",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:ke0354",
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
+      "photograph": [
         "photography/2011_inventory_photos/IMG_1895.png",
         "photography/2011_inventory_photos/IMG_1896.png"
       ],
+      "pagescan": "pagescans/inventory/349-356.PDF",
       "subject-number": "S 7",
       "next": "kaahbr:ke0355",
       "@type": "kaaont:inventory-number"
     },
     {
       "@id": "kaahbr:ke0355",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 355",
       "is-part-of": "kaahbr:inventory-book",
-      "subject-number": "S 8",
       "next": "kaahbr:ke0356",
-      "@type": "kaaont:inventory-number"
+      "pagescan": "pagescans/inventory/349-356.PDF",
+      "subject-number": "S 8"
     },
     {
       "@id": "kaahbr:ke0356",
@@ -3849,6 +3851,7 @@
     {
       "@id": "kaahbr:ke0490",
       "is-part-of": "kaahbr:inventory-book",
+      "pagescan": "pagescans/inventory/489-494.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_1482.png",
       "next": "kaahbr:ke0491",
       "@type": "kaaont:inventory-number"
@@ -3856,6 +3859,7 @@
     {
       "@id": "kaahbr:ke0491",
       "is-part-of": "kaahbr:inventory-book",
+      "pagescan": "pagescans/inventory/489-494.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_2942.png",
       "next": "kaahbr:ke0492",
       "@type": "kaaont:inventory-number"
@@ -3863,6 +3867,7 @@
     {
       "@id": "kaahbr:ke0492",
       "is-part-of": "kaahbr:inventory-book",
+      "pagescan": "pagescans/inventory/489-494.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_2936.png",
       "next": "kaahbr:ke0493",
       "@type": "kaaont:inventory-number"
@@ -3871,6 +3876,7 @@
       "@id": "kaahbr:ke0493",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0494",
+      "pagescan": "pagescans/inventory/489-494.PDF",
       "@type": "kaaont:inventory-number"
     },
     {
@@ -3896,15 +3902,21 @@
     },
     {
       "@id": "kaahbr:ke0496",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 496",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0497",
-      "@type": "kaaont:inventory-number"
+      "pagescan": "pagescans/inventory/495-498.PDF"
     },
     {
       "@id": "kaahbr:ke0497",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 497",
+      "comment": "Subject number Ar 50 was also assigned to Ke 561.",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke0498",
-      "@type": "kaaont:inventory-number"
+      "pagescan": "pagescans/inventory/495-498.PDF",
+      "subject-number": "Ar 50"
     },
     {
       "@id": "kaahbr:ke0498",
@@ -4418,10 +4430,13 @@
     },
     {
       "@id": "kaahbr:ke0561",
+      "@type": "kaaont:inventory-number",
+      "comment": "Ar 50 was also assigned to Ke 497.",
       "is-part-of": "kaahbr:inventory-book",
+      "pagescan": "pagescans/inventory/558-562.PDF",
       "photograph": "photography/2011_inventory_photos/IMG_0746.png",
       "next": "kaahbr:ke0562",
-      "@type": "kaaont:inventory-number"
+      "subject-number": "Ar 50"
     },
     {
       "@id": "kaahbr:ke0562",
@@ -5172,14 +5187,15 @@
     },
     {
       "@id": "kaahbr:ke0657",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 657 (Obsidian Blade)",
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
-        "pagescans/inventory/656-661.pdf",
-        "photography/2011_inventory_photos/IMG_1764.png",
-        "photography/2011_inventory_photos/IMG_3047.png"
-      ],
       "next": "kaahbr:ke0658",
-      "@type": "kaaont:inventory-number"
+      "processing": "With bone needles",
+      "pagescan": "pagescans/inventory/656-661.pdf",
+      "photograph": "photography/2011_inventory_photos/IMG_1764.png",
+      "subject-number": "Mi 143",
+      "typology": "kaatyp:lithic-obsidian-blade"
     },
     {
       "@id": "kaahbr:ke0658",
@@ -6806,23 +6822,28 @@
     },
     {
       "@id": "kaahbr:ke0862",
+      "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
+      "next": "kaahbr:ke0863",
+      "photography": [
         "photography/2011_inventory_photos/IMG_2733.png",
         "photography/2011_inventory_photos/IMG_2734.png"
       ],
-      "next": "kaahbr:ke0863",
-      "@type": "kaaont:inventory-number"
+      "pagescan": "pagescans/inventory/861-864.PDF"
     },
     {
       "@id": "kaahbr:ke0863",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 863 (Ottoman? Jar)",
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
+      "next": "kaahbr:ke0864",
+      "pagescan": "pagescans/inventory/861-864.PDF",
+      "photograph": [
         "photography/2011_inventory_photos/IMG_0489.png",
         "photography/2011_inventory_photos/IMG_0490.png"
       ],
-      "next": "kaahbr:ke0864",
-      "@type": "kaaont:inventory-number"
+      "subject-number": "P 243a",
+      "typology": "kaatyp:p-ottoman"
     },
     {
       "@id": "kaahbr:ke0864",
@@ -10562,8 +10583,8 @@
       "@id": "kaahbr:ke1326",
       "@type": "kaaont:inventory-number",
       "is-part-of": "kaahbr:inventory-book",
-      "pagescan": "pagescans/inventory/1322-1326.PDF",
-      "next": "kaahbr:ke1327"
+      "next": "kaahbr:ke1327",
+      "pagescan": "pagescans/inventory/1322-1326.PDF"
     },
     {
       "@id": "kaahbr:ke1327",
@@ -10575,9 +10596,20 @@
     },
     {
       "@id": "kaahbr:ke1328",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 1328 (Italian Sigillata Conspectus form 4.4)",
+      "base-diameter": 8.8,
+      "description": "Nearly whole vessel, missing section of rim and other chips.",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke1329",
-      "@type": "kaaont:inventory-number"
+      "pagescan": "pagescans/inventory/1327-1330.PDF",
+      "published-catalog-entry": "kaahbr:kenchreai-vol4-er10",
+      "rim-diameter": 17.5,
+      "subject-number": "P 364",
+      "typology": ["kaatyp:p-sig-it-conspectus-4", "kaatyp:p-sig-it-stamp-cva-608-3"],
+      "writing": true,
+      "writing-transcription": "ZWI"
+      
     },
     {
       "@id": "kaahbr:ke1329",
@@ -11844,10 +11876,10 @@
     {
       "@id": "kaahbr:ke1494",
       "@type": "kaaont:inventory-number",
-      "title": "KE 1494 (Eastern Sigillata A)",
+      "title": "KE 1494 (Eastern Sigillata A Hayes form 50)",
       "is-part-of": "kaahbr:inventory-book",
-      "file": ["pagescans/inventory/1493-1496.PDF",
-               "photography/2011_inventory_photos/IMG_2896.png"],
+      "pagescan": "pagescans/inventory/1493-1496.PDF",
+      "photograph": "photography/2011_inventory_photos/IMG_2896.png",
       "next": "kaahbr:ke1495",
       "typology": "kaatyp:p-esa-hayes-50"
     },
@@ -13969,6 +14001,7 @@
     {
       "@id": "kaahbr:ke1778",
       "@type": "kaaont:inventory-number",
+      "title": "KE 1778 (Keay 52 S. Italian Amphora)",
       "count": 1,
       "next": "kaahbr:ke1779",
       "is-part-of": ["kaahbr:inventory-book","kaahbr:fountain-court-side-room"],
@@ -16570,13 +16603,18 @@
     },
     {
       "@id": "kaahbr:ke2126",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 2126 (Athenian Gouged Ware Jug)",
+      "count": 1,
+      "count-parts": 3,
       "is-part-of": "kaahbr:inventory-book",
-      "file": [
+      "part": ["handle", "body"],
+      "photograph": [
         "photography/2011_inventory_photos/IMG_0492.png",
         "photography/2011_inventory_photos/IMG_0493.png"
       ],
       "next": "kaahbr:ke2127",
-      "@type": "kaaont:inventory-number"
+      "typology": "kaatyp:p-athenian-gouged-ware-jug"
     },
     {
       "@id": "kaahbr:ke2127",
@@ -16813,9 +16851,12 @@
     },
     {
       "@id": "kaahbr:ke2160",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 2160 (ESC Hayes form 1)",
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke2161",
-      "@type": "kaaont:inventory-number"
+      "subject-number": "P 603",
+      "typology": "kaatyp:p-esc-hayes-1"
     },
     {
       "@id": "kaahbr:ke2161",
@@ -17430,16 +17471,31 @@
     },
     {
       "@id": "kaahbr:ke2241",
+      "@type": "kaaont:inventory-number",
+      "title":"KE 2241 (Middle Roman Amphora 3)",
+      "handle-width": 5.0,
       "is-part-of": "kaahbr:inventory-book",
       "next": "kaahbr:ke2242",
-      "@type": "kaaont:inventory-number"
+      "pagescan": "pagescans/inventory/Inventory_Book_2_136.png",
+      "part": ["rim","neck","handle"],
+      "rim-diameter": 6.8,
+      "subject-number": "P 685",
+      "typology": "kaatyp:p-mra-3"
+      
     },
     {
       "@id": "kaahbr:ke2242",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 2242 (Middle Roman Amphora 3)",
+      "handle-width": 4.9,
       "is-part-of": "kaahbr:inventory-book",
-      "photograph": "photography/2011_inventory_photos/IMG_1674.png",
       "next": "kaahbr:ke2243",
-      "@type": "kaaont:inventory-number"
+      "pagescan": "pagescans/inventory/Inventory_Book_2_137.png",
+      "part": ["rim","neck","handle"],
+      "photograph": "photography/2011_inventory_photos/IMG_1674.png",
+      "rim-diameter": 6.9,
+      "subject-number": "P 686",
+      "typology": "kaatyp:p-mra-3"
     },
     {
       "@id": "kaahbr:ke2243",
@@ -17715,10 +17771,11 @@
     },
     {
       "@id": "kaahbr:ke2282",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 2282 (Late Roman Amphora 3)",
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_0494.png",
-      "next": "kaahbr:ke2283",
-      "@type": "kaaont:inventory-number"
+      "subject-number": "P 727"
     },
     {
       "@id": "kaahbr:ke2283",
@@ -17739,7 +17796,7 @@
       "subject-number": "P 729",
       "next": "kaahbr:ke2285",
       "published": "kaahbr:kenchreai-vol4-page124",
-      "typology": "kaatyp:lra-3"
+      "typology": "kaatyp:p-lra-3"
     },
     {
       "@id": "kaahbr:ke2285",

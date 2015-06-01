@@ -16,6 +16,11 @@
    "title":"Count",
    "description": "The number of objects or other discrete entities described by any entry in KAA."
   },{
+   "@id":"kaaont:count-parts",
+   "@type":"rdfs:Property",
+   "title":"Count",
+   "description": "The number of pieces, sherds or other parts that make up the extant part of an object. Should be accompanied by kaaont:count, which will likely have a value of 1."
+  },{
    "@id":"kaaont:depicts",
    "@type":["rdfs:Class","rdfs:Property"],
    "owl:sameAs": "crm:P62_depicts",

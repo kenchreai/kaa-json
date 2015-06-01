@@ -13,15 +13,15 @@
    "broader": "kaatyp:generic",
    "title":"Glass"
   },{
-   "@id":"kaatyp:excavation-trench",
-   "@type":"crm:E55_type",
-   "broader": "kaatyp:generic",
-   "title":"Excavation Trench"
-  },{
    "@id":"kaatyp:l",
    "@type": "crm:E55_type",
    "broader": "kaatyp:generic",
    "title": "Lamp"
+  },{
+   "@id":"kaatyp:lithic-obsidian-blade",
+   "@type": "crm:E55_type",
+   "broader": "kaatyp:generic",
+   "title": "Obsidian Blade"
   },{
    "@id":"kaatyp:mi",
    "@type": "crm:E55_type",
@@ -110,6 +110,11 @@
    "title": "Athenian Late Roman Gouged Ware",
    "broader": "kaatyp:p-slipped-fw",
    "see":"http://www.agathe.gr/id/agora/object/p%2034657"
+  },{
+   "@id": "kaatyp:p-athenian-gouged-jug",
+   "@type": "crm:E55_type",
+   "title": "Athenian Late Roman Gouged Ware Jug",
+   "broader": "kaatyp:p-athenian-gouged"
   },{
    "@id": "kaatyp:p-athenian-painted",
    "@type": "crm:E55_type",
@@ -228,7 +233,8 @@
    "title": "Keay 52 Amphora",
    "broader": "kaatyp:p-amphora",
    "not-before": 350,
-   "not-after": 600
+   "not-after": 600,
+   "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=161"
   },{
    "@id":"kaatyp:p-kenchreai-4-rc-10",
    "@type":"crm:E55_type",
@@ -296,6 +302,17 @@
    "@type":"crm:E55_type",
    "title":"Late Roman Amphora 7",
    "broader":"kaatyp:p-amphora"
+  },{
+   "@id":"kaatyp:p-mra-3",
+   "@type":"crm:E55_type",
+   "title":"Midle Roman Amphora 3",
+   "broader":"kaatyp:p-amphora"
+  },{
+   "@id":"kaatyp:p-ottoman",
+   "@type": "crm:E55_type",
+   "title": "Ottoman Pottery",
+   "broader": "kaatyp:p",
+   "description": "Placeholder for preliminary identification of a vessel as Ottoman by chronology."
   },{
    "@id":"kaatyp:p-pithos",
    "@type": "crm:E55_type",
@@ -368,6 +385,13 @@
    "broader": "kaatyp:p-slipped-fw",
    "description": "Roman-period red slipped table vessels produced in Italy from the late 1st century BC into the 2nd AD."
    },{
+   "@id": "kaatyp:p-sig-it-conspectus-4",
+   "@type": "crm:E55_type",
+   "title": "Italian Sigillata Conspectus Form 4",
+   "broader": "kaatyp:p-sig-it",
+   "not-after": 20,
+   "not-before": -20
+   },{
    "@id": "kaatyp:p-sig-it-conspectus-18",
    "@type": "crm:E55_type",
    "title": "Italian Sigillata Conspectus Form 18",
@@ -375,26 +399,28 @@
    "not-after": 40,
    "not-before": -20
    },{
-   "@id": "kaatyp:p-sig-it-conspectus-18.1",
-   "@type": "crm:E55_type",
-   "title": "Italian Sigillata Conspectus Form 18.1",
-   "broader": "kaatyp:p-sig-it-conspectus-18",
-   "not-after": 40,
-   "not-before": -20
-   },{
-   "@id": "kaatyp:p-sig-it-conspectus-18.3",
-   "@type": "crm:E55_type",
-   "title": "Italian Sigillata Conspectus Form 18.3",
-   "broader": "kaatyp:p-sig-it-conspectus-18",
-   "not-after": 40,
-   "not-before": -20
-   },{
    "@id": "kaatyp:p-sig-it-conspectus-18.2",
    "@type": "crm:E55_type",
    "title": "Italian Sigillata Conspectus Form 18.2",
-   "broader": "kaatyp:p-sig-it-conspectus-18",
+   "broader": ["kaatyp:p-sig-it","kaatyp:p-sig-it-conspectus-18"],
    "not-after": 40,
    "not-before": -20
+   },{
+   "@id": "kaatyp:p-sig-it-stamp",
+   "@type": "crm:E55_type",
+   "title": "Italian Sigillata Stamp",
+   "broader": ["kaatyp:p-sig-it"],
+   "comment": "Corinthus of Pozzuoli",
+   "not-after": 35,
+   "not-before": 1
+   },{
+   "@id": "kaatyp:p-sig-it-stamp-cva-608-3",
+   "@type": "crm:E55_type",
+   "title": "Italian Sigillata CVA Stamp 608.3",
+   "broader": ["kaatyp:p-sig-it-stamp"],
+   "comment": "Corinthus of Pozzuoli",
+   "not-after": 35,
+   "not-before": 1
    },{
    "@id": "kaatyp:p-sig-it-unclassified",
    "@type": "crm:E55_type",
