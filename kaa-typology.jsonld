@@ -149,6 +149,11 @@
    "title": "Corinthian",
    "broader": "kaatyp:p"
   },{
+   "@id": "kaatyp:p-corinthian-a",
+   "@type": "crm:E55_type",
+   "title": "Corinthian Type A Amphora",
+   "broader": ["kaatyp:p-corinthian", "kaatyp:p-amphora"]
+  },{
    "@id": "kaatyp:p-corinthian-aryballos",
    "@type": "crm:E55_type",
    "title": "Corinthian Aryballos",

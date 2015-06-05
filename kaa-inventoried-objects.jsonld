@@ -18619,6 +18619,22 @@
       "is-part-of": "kaahbr:inventory-book",
       "photograph": "photography/2011_inventory_photos/IMG_2025.png",
       "@type": "kaaont:inventory-number"
+    },
+    {
+      "@id": "kaahbr:ke2403",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 2403 (Corinthian A Amphora)",
+      "is-part-of": "kaahbr:inventory-book",
+      "description": "Inventoried in 2015. From a box labelled, “Fragments of amphorae. No information or tag.” The many marine accretions on all surfaces indicate an underwater findspot.",
+      "typology": "kaatyp:p-corinthian-a"
+    },
+    {
+      "@id": "kaahbr:ke2404",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 2404",
+      "is-part-of": ["kaahbr:inventory-book","kaahbr:field-book-number-ta-0008"],
+      "description": "Temporary note: Inventoried and drawn in 2015. From TA Field Book Number/Excavation Box 8 and 9. With context pottery (140).",
+      "typology": "kaatyp:p-unclassified"
     }
   ]
 }
