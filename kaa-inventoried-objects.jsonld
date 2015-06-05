@@ -18633,7 +18633,7 @@
       "@type": "kaaont:inventory-number",
       "title": "KE 2404",
       "is-part-of": ["kaahbr:inventory-book","kaahbr:field-book-number-ta-0008"],
-      "description": "Temporary note: Inventoried and drawn in 2015. From TA Field Book Number/Excavation Box 8 and 9. With context pottery (140).",
+      "description": "Temporary note: Inventoried and drawn in 2015. From 1969 TA Field Book Number/Excavation Box 8 and 9. With context pottery (140).",
       "typology": "kaatyp:p-unclassified"
     }
   ]

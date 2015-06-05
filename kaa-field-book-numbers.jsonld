@@ -655,44 +655,44 @@
       "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
       "is-part-of": "kaahbr:notebook-page-c-i-106"
     },{
-      "@id": "kaahbr:field-book-number-ta-0002",
+      "@id": "kaahbr:field-book-number-d-x1-0002",
       "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "title": "Field book number TA 2 (Excavation Box 2)",
+      "title": "Field book number D X1 #2 (Excavation Box 2)",
       "is-part-of": ["kaahbr:notebook-area-ta"],
       "description-finds": "Single medium plastic bag. 1 Megarian bowl rim and 1 body sherd are clearly late 3rd/2nd BC. The other thinly slipped, local fabric black slip vessels are likely also Hellenistic. Similarly dated amphora rim, cooking fabric rims and large jug handle."
-    },{ "@id": "kaahbr:field-book-number-ta-0003",
+    },{ "@id": "kaahbr:field-book-number-ta-1969-0003",
       "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "title": "Field book number TA 4 (Excavation Box 4)",
+      "title": "Field book number TA 1969 3 (Excavation Box 3)",
       "is-part-of": ["kaahbr:notebook-area-ta"],
       "description-finds": "Single large plastic bag with other small bags inside. LR lamp handle. LRA2-Small neck/handle and non-joining rim; rim of a long-spouted funnel; numerous combed body sherds of full-sized LRA2. 1 residual black-slip Cl/Hell base. Bronze tube. 1 coin."
-    },{ "@id": "kaahbr:field-book-number-ta-0004",
+    },{ "@id": "kaahbr:field-book-number-ta-1969-0004",
       "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
       "title": "Field book number TA 4 (Excavation Box 4)",
       "is-part-of": ["kaahbr:notebook-area-ta"],
       "description-finds": "Single medium plastic bag of predominantly mixed Roman material. 1 green glass fragment, mostly flat, some unevenness, a pronounced dimple, not very modern. Eastern Sigillata C Loeschke 19, body sherd of MR/LR red-slipped vessel (ESC/LRC?), MR hollow water-jar two in plain fabric, LR jug base, ridged and combed body sherds."
     },
-    { "@id": "kaahbr:field-book-number-ta-0005",
+    { "@id": "kaahbr:field-book-number-ta-1969-0005",
       "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
       "title": "Field book number TA 5 (Excavation Box 5)",
       "is-part-of": ["kaahbr:notebook-area-ta"],
       "description-finds": "Single medium plastic bag. Single MRA3-type base in brown, micaceous fabric. Other unwashed coarse ware body sherds."
     },
-    { "@id": "kaahbr:field-book-number-ta-0006",
+    { "@id": "kaahbr:field-book-number-ta-1969-0006",
       "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "title": "Field book number TA 6 (Excavation Box 6)",
+      "title": "Field book number TA 1969 6 (Excavation Box 6)",
       "is-part-of": ["kaahbr:notebook-area-ta"],
-      "description-finds": "Single medium plastic bag. 1 MR/LR deep bowl rim; 1 MR/LR incurved rim basin; 1 lid. More chronologically diagnostic are the 5+ combed/ridged amphora body sherd; 3 LRA1 body sherds. So a late Roman mix, no finewares"
+      "description-finds": "Single medium plastic bag. 1 MR/LR deep bowl rim; 1 MR/LR incurved rim basin; 1 lid. More chronologically diagnostic are the 5+ combed/ridged amphora body sherd; 3 LRA1 body sherds. So a late Roman mix, no finewares."
     },{
-      "@id": "kaahbr:field-book-number-ta-0008",
+      "@id": "kaahbr:field-book-number-trench-mt2-0008",
       "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "title": "Field book number TA 8 (Excavation Box 8)",
+      "title": "Field book number Trench MT 2 8 (Excavation Box 8)",
       "is-part-of": ["kaahbr:notebook-area-ta"],
       "mixed-with": "kaahbr:field-book-number-a-0009",
       "description-finds": "Single medium plastic bag. 1 small Corinthian(?) archaic/classical driking cup with band of painted triangular decoration. 1 Late Classical Attic black-figure Krater fragment with partially extant head in profile facing left; another Attic black-figure sherd with lower hem of garment, large krater base. Other plain and fine Cl/Hell drinking/serving vessels. Context not clean as there are ER red-slip bases and one very small PRS base."
     },{
-      "@id": "kaahbr:field-book-number-ta-0009",
+      "@id": "kaahbr:field-book-number-trench-mt2-0009",
       "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "title": "Field book number TA 9 (Excavation Box 9)",
+      "title": "Field book number Trench MT 2 9 (Excavation Box 9)",
       "is-part-of": ["kaahbr:notebook-area-ta"],
       "mixed-with": "kaahbr:field-book-number-a-0008"
     }
