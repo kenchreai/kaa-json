@@ -688,7 +688,7 @@
       "title": "Field book number Trench MT 2 8 (Excavation Box 8)",
       "is-part-of": ["kaahbr:notebook-area-ta"],
       "mixed-with": "kaahbr:field-book-number-a-0009",
-      "description-finds": "Single medium plastic bag. 1 small Corinthian(?) archaic/classical driking cup with band of painted triangular decoration. 1 Late Classical Attic black-figure Krater fragment with partially extant head in profile facing left; another Attic black-figure sherd with lower hem of garment, large krater base. Other plain and fine Cl/Hell drinking/serving vessels. Context not clean as there are ER red-slip bases and one very small PRS base."
+      "description-finds": "Single medium plastic bag. 1 small Corinthian(?) archaic/classical driking cup with band of painted triangular decoration. 1 Late Classical Attic red-figure Krater fragment with partially extant head in profile facing left; another Attic red-figure sherd with lower hem of garment, large krater base. Other plain and fine Cl/Hell drinking/serving vessels. Context not clean as there are ER red-slip bases and one very small PRS base."
     },{
       "@id": "kaahbr:field-book-number-trench-mt2-0009",
       "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],

@@ -18617,6 +18617,7 @@
     {
       "@id": "kaahbr:ke2402",
       "is-part-of": "kaahbr:inventory-book",
+      "next": "kaahbr:ke2403",
       "photograph": "photography/2011_inventory_photos/IMG_2025.png",
       "@type": "kaaont:inventory-number"
     },
@@ -18626,6 +18627,7 @@
       "title": "KE 2403 (Corinthian A Amphora)",
       "is-part-of": "kaahbr:inventory-book",
       "description": "Inventoried in 2015. From a box labelled, “Fragments of amphorae. No information or tag.” The many marine accretions on all surfaces indicate an underwater findspot.",
+      "next": "kaahbr:ke2404",
       "typology": "kaatyp:p-corinthian-a"
     },
     {
@@ -18633,8 +18635,17 @@
       "@type": "kaaont:inventory-number",
       "title": "KE 2404",
       "is-part-of": ["kaahbr:inventory-book","kaahbr:field-book-number-ta-0008"],
-      "description": "Temporary note: Inventoried and drawn in 2015. From 1969 TA Field Book Number/Excavation Box 8 and 9. With context pottery (140).",
+      "description": "Temporary note: Inventoried and drawn in 2015. From “Trench MT 2” Field Book Number/Excavation Box 8 and 9. With context pottery (140).",
+      "next": "kaahbr:ke2405",
       "typology": "kaatyp:p-unclassified"
+    },
+    {
+      "@id": "kaahbr:ke2405",
+      "@type": "kaaont:inventory-number",
+      "title": "KE 2405",
+      "is-part-of": ["kaahbr:inventory-book"],
+      "description": "Temporary note: Previously uninventoried RC10 amphora. Inventoried in 2015.",
+      "typology": "kaatyp:p-kenchreai-4-rc-10"
     }
   ]
 }

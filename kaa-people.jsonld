@@ -77,6 +77,12 @@
    "viaf": "http://viaf.org/viaf/195628890",
    "year": "kaa:year1963"
   },{
+   "@id":"kaa:phyllis-graham",
+   "@type": "kaaont:person",
+   "foaf:name": "Phyllis Graham",
+   "is-part-of": "kaa:people",
+   "year": "kaa:2015"
+  },{
    "@id":"kaa:john-g-hawthorne",
    "@type": "kaaont:person",
    "foaf:name": "John G. Hawthorne",
