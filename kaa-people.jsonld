@@ -81,7 +81,7 @@
    "@type": "kaaont:person",
    "foaf:name": "Phyllis Graham",
    "is-part-of": "kaa:people",
-   "year": "kaa:2015"
+   "year": "kaa:year2015"
   },{
    "@id":"kaa:john-g-hawthorne",
    "@type": "kaaont:person",

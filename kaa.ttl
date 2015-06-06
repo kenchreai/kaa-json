@@ -46,10 +46,6 @@ kaakth:kth-container-81
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
-        kaaont:observed  [ kaaont:count     3 ;
-                           kaaont:part      "body" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-writing
-                         ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-4
@@ -61,6 +57,10 @@ kaakth:kth-container-81
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "base" ;
                            crm:P5_has_type  kaatyp:p-ars-hayes-105-type
+                         ] ;
+        kaaont:observed  [ kaaont:count     3 ;
+                           kaaont:part      "body" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-writing
                          ] ;
         kaaont:observed  [ kaaont:count     5 ;
                            crm:P5_has_type  kaatyp:p-small-handled-stopper
@@ -417,35 +417,35 @@ kaahbr:notebook-page-b-ii-200
 
 kaakth:kth-container-07
         a                kaaont:kth-container ;
-        kaaont:observed  [ kaaont:count     19 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim-handle" ;
+                           kaaont:same-as   <http://localhost:8000/KTH004> ;
+                           crm:P5_has_type  kaatyp:p-palestinian-string-cut-casserole
                          ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "handle" ;
                            crm:P5_has_type  kaatyp:p-amphora-palestinian
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "Other necks, handles and many body sherds." ;
-                           kaaont:count     6 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
                          ] ;
         kaaont:observed  []  ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-4
                          ] ;
+        kaaont:observed  [ kaaont:part      "base" ;
+                           crm:P5_has_type  kaatyp:p-prs
+                         ] ;
         kaaont:observed  [ kaaont:comment   "Other necks, handles and many body sherds." ;
                            kaaont:count     2 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
-        kaaont:observed  [ kaaont:part      "base" ;
-                           crm:P5_has_type  kaatyp:p-prs
+        kaaont:observed  [ kaaont:comment   "Other necks, handles and many body sherds." ;
+                           kaaont:count     6 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2
                          ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim-handle" ;
-                           kaaont:same-as   <http://localhost:8000/KTH004> ;
-                           crm:P5_has_type  kaatyp:p-palestinian-string-cut-casserole
+        kaaont:observed  [ kaaont:count     19 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
                          ] ;
         dct:description  "Dark red crate. Predominantly lra-2 mix." ;
         dct:isPartOf     kaa:threpsiades .
@@ -555,6 +555,11 @@ kaahbr:ke0245  a           kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0246 .
 
+kaahbr:ke1149  a      kaaont:inventory-number ;
+        dct:isPartOf  kaahbr:inventory-book ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:ke1150 .
+
 kaahbr:notebook-page-a-v-191
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-096.png" ;
@@ -562,11 +567,6 @@ kaahbr:notebook-page-a-v-191
         dct:title        "Notebook 1964 Area A V, Page 191" ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-v-192 .
-
-kaahbr:ke1149  a      kaaont:inventory-number ;
-        dct:isPartOf  kaahbr:inventory-book ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:ke1150 .
 
 kaahbr:ke0055  a      kaaont:inventory-number ;
         kaaont:file   "photography/2011_inventory_photos/IMG_0821.png" , "photography/2011_inventory_photos/IMG_0831.png" ;
@@ -631,23 +631,18 @@ kaahbr:notebook-page-a-vi-156
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-vi-157 .
 
-kaahbr:notebook-page-a-iv-195
-        a                kaaont:notebook-page ;
-        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-iv/A%20IV%201964%20original%20scan_Page_100.png" ;
-        dct:isPartOf     kaahbr:notebook-a-iv ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-a-iv-196 .
-
 kaahbr:ke0797  a      kaaont:inventory-number ;
         kaaont:file   "pagescans/inventory/793-797.PDF" , "photography/2011_inventory_photos/IMG_1248.png" ;
         dct:isPartOf  kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0798 .
 
-kaatyp:p-corinthian-a
-        a                          crm:E55_type ;
-        dct:title                  "Corinthian Type A Amphora" ;
-        crm:P127_has_broader_term  kaatyp:p-corinthian , kaatyp:p-amphora .
+kaahbr:notebook-page-a-iv-195
+        a                kaaont:notebook-page ;
+        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-iv/A%20IV%201964%20original%20scan_Page_100.png" ;
+        dct:isPartOf     kaahbr:notebook-a-iv ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-a-iv-196 .
 
 kaahbr:notebook-page-c-ii-037
         a                kaaont:notebook-page ;
@@ -661,6 +656,11 @@ kaahbr:ke1941  a      kaaont:inventory-number ;
         dct:isPartOf  kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1942 .
+
+kaatyp:p-corinthian-a
+        a                          crm:E55_type ;
+        dct:title                  "Corinthian Type A Amphora" ;
+        crm:P127_has_broader_term  kaatyp:p-corinthian , kaatyp:p-amphora .
 
 kaahbr:ke1751  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_2245.png" ;
@@ -803,21 +803,36 @@ kaahbr:notebook-page-b-ii-145
 kaakth:kth-container-02
         a                kaaont:kth-container ;
         kaaont:comment   "Wooden tag present but not readable at initial attempt. There is writing here. A wider assortment of amphoras than previously. See below for details and comments. IMPORTANT: this is the container with the perhaps modern black writing on 3 amph body shers, but that bears further inspection." ;
+        kaaont:observed  [ kaaont:comment   "Upper neck and handle stubs preserved." ;
+                           kaaont:count     1 ;
+                           kaaont:part      "neck-rim" ;
+                           kaaont:same-as   kaakth:KTH0002 ;
+                           crm:P5_has_type  <kaaty:p-spatheion>
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "With rounded top and banded rim of Almagro 51. Small sherd. Earlier Tripolitanian? Clearly not lra-1." ;
+                           kaaont:count     1 ;
+                           crm:P5_has_type  kaatyp:p-almagro-51
+                         ] ;
+        kaaont:observed  [ kaaont:count     2 ;
+                           crm:P5_has_type  kaatyp:p-rooftile
+                         ] ;
         kaaont:observed  [ kaaont:comment   "Triangular in profile, groove on outer face." ;
                            kaaont:count     1 ;
                            kaaont:part      "base" ;
                            crm:P5_has_type  kaatyp:p-ars-hayes-105
                          ] ;
-        kaaont:observed  [ kaaont:count     2 ;
-                           crm:P5_has_type  kaatyp:p-rooftile
-                         ] ;
         kaaont:observed  [ kaaont:comment   "Since these forms don't really have necks, 'part' indicates presence of 1 handle and extensive portion of body. Rim chipped away. Multiple joining sherds. Very light fabric and pale coating." ;
                            kaaont:part      "neck-handle" ;
                            crm:P5_has_type  kaatyp:p-lra-5
                          ] ;
-        kaaont:observed  [ kaaont:comment   "With rounded top and banded rim of Almagro 51. Small sherd. Earlier Tripolitanian? Clearly not lra-1." ;
-                           kaaont:count     1 ;
-                           crm:P5_has_type  kaatyp:p-almagro-51
+        kaaont:observed  [ kaaont:comment  "And other parts, count approximate." ;
+                           kaaont:count    4 ;
+                           kaaont:part     "rim"
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "Non-joining. One with drip marks." ;
+                           kaaont:count     2 ;
+                           kaaont:part      "body-sherd" ;
+                           crm:P5_has_type  kaatyp:p-lr-unguentarium
                          ] ;
         kaaont:observed  [ kaaont:comment   "And many body sherds." ;
                            kaaont:count     2 ;
@@ -834,23 +849,8 @@ kaakth:kth-container-02
                            kaaont:part      "rim-neck" ;
                            crm:P5_has_type  kaatyp:p-lra-1
                          ] ;
-        kaaont:observed  [ kaaont:comment   "Upper neck and handle stubs preserved." ;
-                           kaaont:count     1 ;
-                           kaaont:part      "neck-rim" ;
-                           kaaont:same-as   kaakth:KTH0002 ;
-                           crm:P5_has_type  <kaaty:p-spatheion>
-                         ] ;
-        kaaont:observed  [ kaaont:comment  "And other parts, count approximate." ;
-                           kaaont:count    4 ;
-                           kaaont:part     "rim"
-                         ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            crm:P5_has_type  kaatyp:p-small-handled-stopper
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "Non-joining. One with drip marks." ;
-                           kaaont:count     2 ;
-                           kaaont:part      "body-sherd" ;
-                           crm:P5_has_type  kaatyp:p-lr-unguentarium
                          ] ;
         dct:isPartOf     kaa:threpsiades .
 
@@ -861,18 +861,18 @@ kaahbr:notebook-page-a-vi-119
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-vi-120 .
 
-kaahbr:notebook-page-a-i-199
-        a             kaaont:notebook-page ;
-        dct:isPartOf  kaahbr:notebook-a-i ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-a-i-200 .
-
 kaahbr:notebook-page-e-i-084
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-e-i/E-I-1963_Page_43.png" ;
         dct:isPartOf     kaahbr:notebook-e-i ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-e-i-085 .
+
+kaahbr:notebook-page-a-i-199
+        a             kaaont:notebook-page ;
+        dct:isPartOf  kaahbr:notebook-a-i ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-a-i-200 .
 
 kaahbr:ke1904  a         kaaont:inventory-number ;
         kaaont:pagescan  "pagescans/inventory/1904-1907.PDF" ;
@@ -1799,35 +1799,35 @@ kaahbr:notebook-page-a-ii-156
 
 kaakth:kth-container-77
         a                kaaont:kth-container ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-amphora-palestinian
-                         ] ;
-        kaaont:observed  [ kaaont:count     4 ;
-                           kaaont:part      "body" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-writing
-                         ] ;
         kaaont:observed  [ kaaont:count     6 ;
                            crm:P5_has_type  kaatyp:p-small-handled-stopper
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-5
                          ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
+        kaaont:observed  [ kaaont:count     4 ;
+                           kaaont:part      "body" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-writing
+                         ] ;
         kaaont:observed  [ kaaont:count     1 ;
-                           crm:P5_has_type  kaatyp:p-cut-amphora-stopper
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-1
                          ] ;
         kaaont:observed  [ kaaont:count     5 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-amphora-palestinian
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-1
+                           crm:P5_has_type  kaatyp:p-lra-5
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           crm:P5_has_type  kaatyp:p-cut-amphora-stopper
                          ] ;
         dct:description  "'1 stopper is cut down base of an amphora; 2 sherds withsymbols (?) gouged before firing'" ;
         dct:isPartOf     kaa:threpsiades .
@@ -3102,6 +3102,12 @@ kaahbr:notebook-page-a-vii-005
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-vii-006 .
 
+kaa:year2012  a       kaaont:year ;
+        rdfs:seeAlso  <http://en.wikipedia.org/wiki/2012> ;
+        dct:isPartOf  kaa:modern-chronology ;
+        dct:title     "Two-Thousand Twelve" ;
+        xsd:gYear     "2012" .
+
 kaahbr:notebook-page-a-viii-019
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-viii/notebook-a-viii-1966-file-010.png" ;
@@ -3422,16 +3428,16 @@ kaa:month-may-1963  a   kaaont:month ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaa:year1964 .
 
+kaahbr:field-book-number-c-0121
+        a             kaaont:field-book-number , kaaont:excavation-box ;
+        dct:isPartOf  kaahbr:notebook-page-c-i-142 ;
+        dct:title     "Field Book Number C 121" .
+
 kaahbr:ke0931  a         kaaont:inventory-number ;
         kaaont:pagescan  "pagescans/inventory/928-931.PDF" ;
         dct:isPartOf     kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0932 .
-
-kaahbr:field-book-number-c-0121
-        a             kaaont:field-book-number , kaaont:excavation-box ;
-        dct:isPartOf  kaahbr:notebook-page-c-i-142 ;
-        dct:title     "Field Book Number C 121" .
 
 kaahbr:notebook-page-a-vi-100
         a                kaaont:notebook-page ;
@@ -3734,36 +3740,36 @@ kaahbr:notebook-page-a-ii-147
 
 kaakth:kth-container-68
         a                kaaont:kth-container ;
-        kaaont:observed  [ kaaont:count     4 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
-                         ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            crm:P5_has_type  kaatyp:p-small-handled-stopper
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-1
                          ] ;
         kaaont:observed  [ kaaont:count     7 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2
                          ] ;
-        kaaont:observed  [ kaaont:count     12 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-amphora-palestinian
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-1
+                         ] ;
+        kaaont:observed  [ kaaont:count     4 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
+                         ] ;
+        kaaont:observed  [ kaaont:count     3 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-5
                          ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "body" ;
                            crm:P5_has_type  kaatyp:p-lra-2-writing
                          ] ;
+        kaaont:observed  [ kaaont:count     12 ;
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-amphora-palestinian
+                         ] ;
         kaaont:observed  [ kaaont:count     4 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-4
-                         ] ;
-        kaaont:observed  [ kaaont:count     3 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-5
                          ] ;
         dct:description  "'1 sherd with red slip, bowl base (?) that rests flat, LRC/sigillata (?); 1 sherd with brown-red slip, sigillata (?); 2 body sherds with wavy pattern; 1 base of LRA4; many R coarseware handles and rims'" ;
         dct:isPartOf     kaa:threpsiades .
@@ -4291,15 +4297,15 @@ kaahbr:notebook-page-a-vi-003
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-vi-004 .
 
+kaatyp:p-spatheion  a              crm:E55_type ;
+        dct:title                  "Spatheion" ;
+        crm:P127_has_broader_term  kaatyp:p-amphora .
+
 kaahbr:ke1738  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_2160.png" ;
         dct:isPartOf       kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1739 .
-
-kaatyp:p-spatheion  a              crm:E55_type ;
-        dct:title                  "Spatheion" ;
-        crm:P127_has_broader_term  kaatyp:p-amphora .
 
 kaahbr:notebook-page-b-i-167
         a                kaaont:notebook-page ;
@@ -5337,7 +5343,7 @@ kaa:year1976  a       kaaont:year ;
         rdfs:seeAlso  <http://en.wikipedia.org/wiki/1976> ;
         dct:isPartOf  kaa:modern-chronology ;
         dct:title     "Nineteen Seventy-Six" ;
-        xsd:gYear     "1970" .
+        xsd:gYear     "1976" .
 
 kaahbr:notebook-page-a-ii-003
         a                kaaont:notebook-page ;
@@ -5511,19 +5517,19 @@ kaahbr:ke1998  a      kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1999 .
 
-kaahbr:notebook-page-c-ii-144
-        a                kaaont:notebook-page ;
-        kaaont:pagescan  "pagescans/trench-notebooks/notebook-c-ii/C%20II%201963_Page_48.png" ;
-        dct:isPartOf     kaahbr:notebook-c-ii ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-c-ii-145 .
-
 kaahbr:notebook-page-a-vi-073
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-36.png" ;
         dct:isPartOf     kaahbr:notebook-a-vi ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-vi-074 .
+
+kaahbr:notebook-page-c-ii-144
+        a                kaaont:notebook-page ;
+        kaaont:pagescan  "pagescans/trench-notebooks/notebook-c-ii/C%20II%201963_Page_48.png" ;
+        dct:isPartOf     kaahbr:notebook-c-ii ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-c-ii-145 .
 
 kaahbr:notebook-page-e-i-159
         a                kaaont:notebook-page ;
@@ -5666,6 +5672,12 @@ kaahbr:ke0867  a           kaaont:inventory-number ;
         crm:P5_has_type    kaatyp:p-sig-gallic ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0868 .
+
+kaa:year1971  a       kaaont:year ;
+        rdfs:seeAlso  <http://en.wikipedia.org/wiki/1971> ;
+        dct:isPartOf  kaa:modern-chronology ;
+        dct:title     "Nineteen Seventy-One" ;
+        xsd:gYear     "1971" .
 
 kaahbr:notebook-page-e-i-191
         a                kaaont:notebook-page ;
@@ -5974,12 +5986,8 @@ kaahbr:notebook-page-a-ii-133
 kaakth:kth-container-54
         a                kaaont:kth-container ;
         kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-amphora-palestinian
                          ] ;
         kaaont:observed  [ kaaont:count     4 ;
                            crm:P5_has_type  kaatyp:p-small-handled-stopper
@@ -5988,13 +5996,17 @@ kaakth:kth-container-54
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-1
                          ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
+                         ] ;
         kaaont:observed  [ kaaont:count     3 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-amphora-palestinian
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "body" ;
@@ -6246,17 +6258,17 @@ kaahbr:ke1539  a      kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1540 .
 
-kaa:donald-jackson  a   kaaont:person ;
-        kaaont:comment  "Supervisor at Area TA." ;
-        dct:isPartOf    kaa:people , kaa:year1964 ;
-        foaf:name       "Donald F. Jackson" .
-
 kaahbr:ke0445  a         kaaont:inventory-number ;
         kaaont:pagescan  "pagescans/inventory/444-448.PDF" ;
         dct:isPartOf     kaahbr:inventory-book ;
         crm:P5_has_type  kaatyp:l ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0446 .
+
+kaa:donald-jackson  a   kaaont:person ;
+        kaaont:comment  "Supervisor at Area TA." ;
+        dct:isPartOf    kaa:people , kaa:year1964 ;
+        foaf:name       "Donald F. Jackson" .
 
 kaahbr:notebook-page-a-iii-098
         a                kaaont:notebook-page ;
@@ -6506,27 +6518,27 @@ kaahbr:notebook-page-a-vi-129
 
 kaakth:kth-container-12
         a                kaaont:kth-container ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-5
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-1
-                         ] ;
         kaaont:observed  [ kaaont:count     6 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2
                          ] ;
-        kaaont:observed  [ kaaont:count     5 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+        kaaont:observed  []  ;
+        kaaont:observed  []  ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-5
                          ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
-        kaaont:observed  []  ;
-        kaaont:observed  []  ;
+        kaaont:observed  [ kaaont:count     5 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-1
+                         ] ;
         dct:description  "Blue mix. Predominantly lra-2 mix." ;
         dct:isPartOf     kaa:threpsiades .
 
@@ -7277,16 +7289,16 @@ kaahbr:notebook-page-e-i-187
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-e-i-188 .
 
+kaahbr:field-book-number-c-0103
+        a             kaaont:field-book-number , kaaont:excavation-box ;
+        dct:isPartOf  kaahbr:notebook-page-c-i-146 ;
+        dct:title     "Field Book Number C 103" .
+
 kaahbr:ke0913  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_1760.png" ;
         dct:isPartOf       kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0914 .
-
-kaahbr:field-book-number-c-0103
-        a             kaaont:field-book-number , kaaont:excavation-box ;
-        dct:isPartOf  kaahbr:notebook-page-c-i-146 ;
-        dct:title     "Field Book Number C 103" .
 
 kaahbr:ke1817  a      kaaont:inventory-number ;
         dct:isPartOf  kaahbr:inventory-book ;
@@ -7756,9 +7768,8 @@ kaahbr:notebook-page-a-vi-199
 
 kaakth:kth-container-82
         a                kaaont:kth-container ;
-        kaaont:observed  [ kaaont:count     7 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
+        kaaont:observed  [ kaaont:count     2 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
                          ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "rim" ;
@@ -7768,20 +7779,21 @@ kaakth:kth-container-82
                            kaaont:part      "handle" ;
                            crm:P5_has_type  kaatyp:p-amphora-palestinian
                          ] ;
-        kaaont:observed  [ kaaont:count     2 ;
+        kaaont:observed  [ kaaont:count     7 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
-                         ] ;
-        kaaont:observed  [ kaaont:count     2 ;
-                           kaaont:part      "body" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-writing
+                           crm:P5_has_type  kaatyp:p-lra-2
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-1
                          ] ;
         kaaont:observed  [ kaaont:count     2 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+                           kaaont:part      "body" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-writing
+                         ] ;
+        kaaont:observed  [ kaaont:count     2 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
                          ] ;
         dct:description  "'2 body sherds of LRA2 with writing have plaster partially covering the markings'" ;
         dct:isPartOf     kaa:threpsiades .
@@ -7811,18 +7823,18 @@ kaahbr:field-book-number-c-0080
         dct:isPartOf  kaahbr:notebook-page-c-i-152 ;
         dct:title     "Field Book Number C 80" .
 
-kaahbr:ke1794  a         kaaont:inventory-number ;
-        dct:isPartOf     kaahbr:inventory-book ;
-        crm:P5_has_type  kaatyp:l ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:ke1795 .
-
 kaahbr:notebook-page-c-ii-130
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-c-ii/C%20II%201963_Page_41.png" ;
         dct:isPartOf     kaahbr:notebook-c-ii ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-c-ii-131 .
+
+kaahbr:ke1794  a         kaaont:inventory-number ;
+        dct:isPartOf     kaahbr:inventory-book ;
+        crm:P5_has_type  kaatyp:l ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:ke1795 .
 
 kaahbr:notebook-page-b-ii-016
         a                kaaont:notebook-page ;
@@ -8499,6 +8511,33 @@ kaakth:kth-container-03
         kaaont:observed  [ kaaont:count     1 ;
                            crm:P5_has_type  kaatyp:p-small-handled-stopper
                          ] ;
+        kaaont:observed  [ kaaont:part      "body-sherd" ;
+                           crm:P5_has_type  kaatyp:p-lra-1
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-5
+                         ] ;
+        kaaont:observed  [ kaaont:count     2 ;
+                           kaaont:part      "handle-neck" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
+                         ] ;
+        kaaont:observed  [ kaaont:count     4 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "3 toes, one samos cistern?" ;
+                           crm:P5_has_type  kaatyp:p-amphora
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "low ring foot, rounded profile. D ware." ;
+                           kaaont:count     1 ;
+                           kaaont:part      "base" ;
+                           crm:P5_has_type  kaatyp:p-ars-unclassified
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim-handle-neck" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
+                         ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "neck-rim-handle" ;
                            kaaont:same-as   kaakth:KTH0005 ;
@@ -8506,14 +8545,19 @@ kaakth:kth-container-03
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-5
+                           crm:P5_has_type  kaatyp:lr-cookpot-groove-rim
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-prs-hayes-10a
                          ] ;
         kaaont:observed  [ kaaont:comment   "Pierced handle, two groves." ;
                            kaaont:count     1 ;
                            kaaont:part      "handle" ;
                            crm:P5_has_type  kaatyp:l
                          ] ;
-        kaaont:observed  [ kaaont:part      "body-sherd" ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-1
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
@@ -8521,40 +8565,8 @@ kaakth:kth-container-03
                            kaaont:same-as   kaakth:KTH0006 ;
                            crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
-        kaaont:observed  [ kaaont:comment   "low ring foot, rounded profile. D ware." ;
-                           kaaont:count     1 ;
-                           kaaont:part      "base" ;
-                           crm:P5_has_type  kaatyp:p-ars-unclassified
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "3 toes, one samos cistern?" ;
-                           crm:P5_has_type  kaatyp:p-amphora
-                         ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-prs-hayes-10a
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-1
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:lr-cookpot-groove-rim
-                         ] ;
-        kaaont:observed  [ kaaont:count     4 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
-                         ] ;
-        kaaont:observed  [ kaaont:count     2 ;
-                           kaaont:part      "handle-neck" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim-handle-neck" ;
                            crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
         dct:description  "No tag. Pretty standard mix, though see two lr groove rim cookpot." ;
@@ -9861,15 +9873,12 @@ kaahbr:notebook-page-a-ii-152
 
 kaakth:kth-container-73
         a                kaaont:kth-container ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           crm:P5_has_type  kaatyp:p-prs
-                         ] ;
-        kaaont:observed  [ kaaont:count     8 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
-                         ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-prs-hayes-10a
+                         ] ;
+        kaaont:observed  [ kaaont:count     8 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "base" ;
@@ -9879,21 +9888,9 @@ kaakth:kth-container-73
                            kaaont:part      "body" ;
                            crm:P5_has_type  kaatyp:p-lra-2-writing
                          ] ;
-        kaaont:observed  [ kaaont:count     2 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
-                         ] ;
         kaaont:observed  [ kaaont:count     9 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2
-                         ] ;
-        kaaont:observed  [ kaaont:count     8 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-5
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            crm:P5_has_type  kaatyp:p-ars-unclassified
@@ -9901,6 +9898,21 @@ kaakth:kth-container-73
         kaaont:observed  [ kaaont:count     6 ;
                            kaaont:part      "handle" ;
                            crm:P5_has_type  kaatyp:p-amphora-palestinian
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           crm:P5_has_type  kaatyp:p-prs
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-5
+                         ] ;
+        kaaont:observed  [ kaaont:count     8 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
+                         ] ;
+        kaaont:observed  [ kaaont:count     2 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
                          ] ;
         dct:description  "'1 rim of an unguenatrium; 1 rim of sigillata (orange slip); 4 joining rims sherds of large lid (?); several R cookware rims; 2 LRA4 toes (one with resin?); 1 R tableware base; 1 R tableware rim; 1 bosy sherd with gouging'" ;
         dct:isPartOf     kaa:threpsiades .
@@ -11804,12 +11816,9 @@ kaahbr:notebook-page-a-ii-143
 
 kaakth:kth-container-64
         a                kaaont:kth-container ;
-        kaaont:observed  [ kaaont:count     2 ;
+        kaaont:observed  [ kaaont:count     3 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
-                         ] ;
-        kaaont:observed  [ kaaont:count     2 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+                           crm:P5_has_type  kaatyp:p-lra-5
                          ] ;
         kaaont:observed  [ kaaont:count     3 ;
                            kaaont:part      "handle" ;
@@ -11817,19 +11826,22 @@ kaakth:kth-container-64
                          ] ;
         kaaont:observed  [ kaaont:count     3 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-5
-                         ] ;
-        kaaont:observed  [ kaaont:count     9 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
+                           crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-ars-hayes-105
                          ] ;
-        kaaont:observed  [ kaaont:count     3 ;
+        kaaont:observed  [ kaaont:count     9 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
+                           crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
+        kaaont:observed  [ kaaont:count     2 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
+                         ] ;
+        kaaont:observed  [ kaaont:count     2 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
                          ] ;
         dct:description  "'1 inventoried item, somberero (\"sector gamma - level 2, no. 120\"); 3 cookware rims;  1 sherd of large bowl rim (?); 1 body sherd with many smal black dots '" ;
         dct:isPartOf     kaa:threpsiades .
@@ -12312,19 +12324,19 @@ kaahbr:notebook-page-a-viii-103
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-viii-104 .
 
-kaahbr:notebook-page-a-ii-101
-        a                kaaont:notebook-page ;
-        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-ii/A%20II%201963_Page_051.png" ;
-        dct:isPartOf     kaahbr:notebook-a-ii ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-a-ii-102 .
-
 kaahbr:notebook-page-a-vi-139
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-69.png" ;
         dct:isPartOf     kaahbr:notebook-a-vi ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-vi-140 .
+
+kaahbr:notebook-page-a-ii-101
+        a                kaaont:notebook-page ;
+        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-ii/A%20II%201963_Page_051.png" ;
+        dct:isPartOf     kaahbr:notebook-a-ii ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-a-ii-102 .
 
 kaakth:kth-container-22
         a                kaaont:kth-container ;
@@ -12523,13 +12535,6 @@ kaahbr:ke2290  a           kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke2291 .
 
-kaahbr:notebook-page-a-i-042
-        a                kaaont:notebook-page ;
-        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-i/A%20I%201963_Page_022.png" ;
-        dct:isPartOf     kaahbr:notebook-a-i ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-a-i-043 .
-
 kaahbr:notebook-page-b-i-126
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-b-i/notebook-1963-b-i-file-59.png" ;
@@ -12537,6 +12542,13 @@ kaahbr:notebook-page-b-i-126
         dct:title        "Notebook B I, Page 126" ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-b-i-127 .
+
+kaahbr:notebook-page-a-i-042
+        a                kaaont:notebook-page ;
+        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-i/A%20I%201963_Page_022.png" ;
+        dct:isPartOf     kaahbr:notebook-a-i ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-a-i-043 .
 
 kaahbr:ke0603  a         kaaont:inventory-number ;
         kaaont:pagescan  "pagescans/inventory/602-606.PDF" ;
@@ -13513,21 +13525,9 @@ kaakth:kth-container-92
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-4
                          ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-3
-                         ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "handle" ;
                            crm:P5_has_type  kaatyp:p-amphora-palestinian
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "body" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-writing
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-1
                          ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "rim" ;
@@ -13536,6 +13536,18 @@ kaakth:kth-container-92
         kaaont:observed  [ kaaont:count     4 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-3
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-1
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "body" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-writing
                          ] ;
         kaaont:observed  [ kaaont:count     3 ;
                            crm:P5_has_type  kaatyp:p-small-handled-stopper
@@ -13836,18 +13848,18 @@ kaahbr:ke1387  a         kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1388 .
 
+kaahbr:notebook-page-e-i-118
+        a             kaaont:notebook-page ;
+        dct:isPartOf  kaahbr:notebook-e-i ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-e-i-119 .
+
 kaahbr:notebook-c-i  a  kaaont:excavation-notebook ;
         kaaont:year   kaa:year1963 ;
         dct:isPartOf  kaa:harbor , kaahbr:area-c ;
         dct:title     "Area C Notebook I" ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-c-ii .
-
-kaahbr:notebook-page-e-i-118
-        a             kaaont:notebook-page ;
-        dct:isPartOf  kaahbr:notebook-e-i ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-e-i-119 .
 
 kaahbr:ke0293  a         kaaont:inventory-number ;
         kaaont:pagescan  "pagescans/inventory/292-296.PDF" ;
@@ -14887,11 +14899,6 @@ kaa:beverley-adamsheck
         dct:isPartOf  kaa:people ;
         foaf:name     "Beverley Adamsheck" .
 
-kaahbr:ke2017  a      kaaont:inventory-number ;
-        dct:isPartOf  kaahbr:inventory-book ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:ke2018 .
-
 kaahbr:notebook-page-a-vii-020
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vii/notebook-a-vii-1965-file-10.png" ;
@@ -14899,6 +14906,11 @@ kaahbr:notebook-page-a-vii-020
         dct:title        "Notebook A VII, Page 20" ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-vii-021 .
+
+kaahbr:ke2017  a      kaaont:inventory-number ;
+        dct:isPartOf  kaahbr:inventory-book ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:ke2018 .
 
 kaahbr:notebook-page-b-ii-096
         a                kaaont:notebook-page ;
@@ -15016,14 +15028,6 @@ kaahbr:notebook-page-e-i-016
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-e-i-017 .
 
-kaahbr:notebook-page-a-vii-192
-        a                kaaont:notebook-page ;
-        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vii/notebook-a-vii-1965-file-91.png" ;
-        dct:isPartOf     kaahbr:notebook-a-vii ;
-        dct:title        "Notebook A VII, Page 192" ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-a-vii-193 .
-
 kaahbr:ke2189  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_1448.png" ;
         dct:isPartOf       kaahbr:inventory-book ;
@@ -15035,6 +15039,14 @@ kaahbr:ke0191  a         kaaont:inventory-number ;
         dct:isPartOf     kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0192 .
+
+kaahbr:notebook-page-a-vii-192
+        a                kaaont:notebook-page ;
+        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vii/notebook-a-vii-1965-file-91.png" ;
+        dct:isPartOf     kaahbr:notebook-a-vii ;
+        dct:title        "Notebook A VII, Page 192" ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-a-vii-193 .
 
 kaahbr:ke1095  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_2186.png" ;
@@ -15244,32 +15256,32 @@ kaahbr:notebook-page-a-ii-167
 
 kaakth:kth-container-88
         a                kaaont:kth-container ;
-        kaaont:observed  [ kaaont:count     2 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
-                         ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-1
                          ] ;
-        kaaont:observed  [ kaaont:count     4 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-amphora-palestinian
+        kaaont:observed  [ kaaont:count     2 ;
+                           kaaont:part      "body" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-writing
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-prs-hayes-10a
                          ] ;
-        kaaont:observed  [ kaaont:count     1 ;
+        kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
+                           crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
         kaaont:observed  [ kaaont:count     8 ;
                            crm:P5_has_type  kaatyp:p-small-handled-stopper
                          ] ;
-        kaaont:observed  [ kaaont:count     2 ;
-                           kaaont:part      "body" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-writing
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
+                         ] ;
+        kaaont:observed  [ kaaont:count     4 ;
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-amphora-palestinian
                          ] ;
         kaaont:observed  [ kaaont:count     6 ;
                            kaaont:part      "rim" ;
@@ -15871,17 +15883,17 @@ kaahbr:ke1378  a         kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1379 .
 
-kaahbr:notebook-page-e-i-109
-        a             kaaont:notebook-page ;
-        dct:isPartOf  kaahbr:notebook-e-i ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-e-i-110 .
-
 kaahbr:trench-c63-i-2
         a             kaaont:excavation-trench ;
         kaaont:year   kaa:year1963 ;
         dct:isPartOf  kaahbr:area-c ;
         dct:title     "Trench C63-I-2" .
+
+kaahbr:notebook-page-e-i-109
+        a             kaaont:notebook-page ;
+        dct:isPartOf  kaahbr:notebook-e-i ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-e-i-110 .
 
 kaahbr:ke0284  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_2999.png" ;
@@ -15970,29 +15982,29 @@ kaahbr:ke1790  a           kaaont:inventory-number ;
 
 kaakth:kth-container-09
         a                kaaont:kth-container ;
+        kaaont:observed  []  ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
+                           crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
-        kaaont:observed  []  ;
         kaaont:observed  [ kaaont:count     4 ;
                            kaaont:part      "handle" ;
                            crm:P5_has_type  kaatyp:p-amphora-palestinian
                          ] ;
-        kaaont:observed  [ kaaont:count     1 ;
+        kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
+                           crm:P5_has_type  kaatyp:p-lra-1
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
                          ] ;
         kaaont:observed  [ kaaont:count     5 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
-                         ] ;
-        kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-1
+                           crm:P5_has_type  kaatyp:p-lra-4
                          ] ;
         dct:description  "Blue crate. Predominantly lra-2 mix. Wooden tag w/pencil, readable. Bottom of crate broken." ;
         dct:isPartOf     kaa:threpsiades .
@@ -16328,87 +16340,6 @@ kaahbr:notebook-page-c-ii-071
 kaakth:kth-container-04
         a                kaaont:kth-container ;
         kaaont:comment   "Pulled and first pass by SFSH on 2014-05-12." ;
-        kaaont:observed  [ kaaont:comment   "just the > 5cm. pieces. There are likely more chips in the box." ;
-                           kaaont:count     3 ;
-                           crm:P5_has_type  kaatyp:rooftile
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "cut down to circle." ;
-                           kaaont:count     2 ;
-                           kaaont:part      "stopper" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "Many, ~90% of box is LRA2 bf." ;
-                           kaaont:part      "body-sherd" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "Somewhat similar to domed Palestinian casserole but fabric is wrong, too gritty. Thin piece towards center has relatively fine combing. There is another sherd that could be associated with this fabric but is in slightly different fabric and fired to gray." ;
-                           kaaont:count     2 ;
-                           kaaont:part      "lid" ;
-                           crm:P5_has_type  kaatyp:cookware
-                         ] ;
-        kaaont:observed  [ kaaont:count     2 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "Pitch lining on interior." ;
-                           kaaont:count     1 ;
-                           kaaont:part      "body-sherd" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
-                         ] ;
-        kaaont:observed  [ kaaont:count     10 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
-                         ] ;
-        kaaont:observed  [ kaaont:count     4 ;
-                           kaaont:part      "neck-rim-handle" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
-                         ] ;
-        kaaont:observed  [ kaaont:count     10 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "Red-brown fabric, only just visibly coarse, tiny 'quartz' inclusions." ;
-                           kaaont:part      "neck-handle" ;
-                           crm:P5_has_type  kaatyp:cookware-jug
-                         ] ;
-        kaaont:observed  [ kaaont:count     2 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "Small bowl, cf. Hayes 80b/99." ;
-                           kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-ars-unclassified
-                         ] ;
-        kaaont:observed  [ kaaont:count     4 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:samos-cistern-amphora
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "One sherd from near base. One with panel riding so higher up body." ;
-                           kaaont:count     2 ;
-                           kaaont:part      "body-sherd" ;
-                           crm:P5_has_type  kaatyp:p-lra-1
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "One large unidentified amphora handle, large oval with central ridge. Other smaller handles, possible lra-2. About 5+ more unidentified amphora body sherds." ;
-                           crm:P5_has_type  kaatyp:p-amphora
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-ars-hayes-67
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           kaaont:same-as   kaakth:KTH0003 ;
-                           crm:P5_has_type  kaatyp:p-prs-hayes-10c
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "Smaller than J. Rife's Isthmia volume piece." ;
-                           kaaont:part      "base" ;
-                           crm:P5_has_type  kaatyp:lr-button-toe-juglet
-                         ] ;
         kaaont:observed  [ kaaont:comment   "Coated buff exterior. Pale orange/pink fabric." ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:coarseware-globular-pot
@@ -16416,6 +16347,87 @@ kaakth:kth-container-04
         kaaont:observed  [ kaaont:comment   "In regional lra-2 fabric." ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:coarseware-large-bowl
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "Somewhat similar to domed Palestinian casserole but fabric is wrong, too gritty. Thin piece towards center has relatively fine combing. There is another sherd that could be associated with this fabric but is in slightly different fabric and fired to gray." ;
+                           kaaont:count     2 ;
+                           kaaont:part      "lid" ;
+                           crm:P5_has_type  kaatyp:cookware
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           kaaont:same-as   kaakth:KTH0003 ;
+                           crm:P5_has_type  kaatyp:p-prs-hayes-10c
+                         ] ;
+        kaaont:observed  [ kaaont:count     2 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
+                         ] ;
+        kaaont:observed  [ kaaont:count     4 ;
+                           kaaont:part      "neck-rim-handle" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-ars-hayes-67
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "One sherd from near base. One with panel riding so higher up body." ;
+                           kaaont:count     2 ;
+                           kaaont:part      "body-sherd" ;
+                           crm:P5_has_type  kaatyp:p-lra-1
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "Smaller than J. Rife's Isthmia volume piece." ;
+                           kaaont:part      "base" ;
+                           crm:P5_has_type  kaatyp:lr-button-toe-juglet
+                         ] ;
+        kaaont:observed  [ kaaont:count     10 ;
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
+                         ] ;
+        kaaont:observed  [ kaaont:count     4 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "Small bowl, cf. Hayes 80b/99." ;
+                           kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-ars-unclassified
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "Red-brown fabric, only just visibly coarse, tiny 'quartz' inclusions." ;
+                           kaaont:part      "neck-handle" ;
+                           crm:P5_has_type  kaatyp:cookware-jug
+                         ] ;
+        kaaont:observed  [ kaaont:count     10 ;
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "Many, ~90% of box is LRA2 bf." ;
+                           kaaont:part      "body-sherd" ;
+                           crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "cut down to circle." ;
+                           kaaont:count     2 ;
+                           kaaont:part      "stopper" ;
+                           crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "Pitch lining on interior." ;
+                           kaaont:count     1 ;
+                           kaaont:part      "body-sherd" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:samos-cistern-amphora
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "just the > 5cm. pieces. There are likely more chips in the box." ;
+                           kaaont:count     3 ;
+                           crm:P5_has_type  kaatyp:rooftile
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "One large unidentified amphora handle, large oval with central ridge. Other smaller handles, possible lra-2. About 5+ more unidentified amphora body sherds." ;
+                           crm:P5_has_type  kaatyp:p-amphora
+                         ] ;
+        kaaont:observed  [ kaaont:count     2 ;
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
                          ] ;
         dct:description  "Blue crate. Black garbage bag with extensive LR pottery, mostly amphora." ;
         dct:isPartOf     kaa:threpsiades .
@@ -16450,13 +16462,6 @@ kaahbr:ke1716  a         kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1717 .
 
-kaahbr:notebook-page-a-i-061
-        a                kaaont:notebook-page ;
-        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-i/A%20I%201963_Page_031.png" ;
-        dct:isPartOf     kaahbr:notebook-a-i ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-a-i-062 .
-
 kaahbr:notebook-page-b-i-145
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-b-i/notebook-1963-b-i-file-68.png" ;
@@ -16464,6 +16469,13 @@ kaahbr:notebook-page-b-i-145
         dct:title        "Notebook B I, Page 145" ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-b-i-146 .
+
+kaahbr:notebook-page-a-i-061
+        a                kaaont:notebook-page ;
+        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-i/A%20I%201963_Page_031.png" ;
+        dct:isPartOf     kaahbr:notebook-a-i ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-a-i-062 .
 
 kaahbr:ke0622  a      kaaont:inventory-number ;
         kaaont:file   "pagescans/inventory/617-622.pdf" , "photography/2011_inventory_photos/IMG_1516.png" ;
@@ -17674,13 +17686,6 @@ kaahbr:ke1234  a           kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1235 .
 
-kaahbr:notebook-page-a-vii-141
-        a             kaaont:notebook-page ;
-        dct:isPartOf  kaahbr:notebook-a-vii ;
-        dct:title     "Notebook A VII, Page 141" ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-a-vii-142 .
-
 kaahbr:ke2138  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_1394.png" ;
         dct:isPartOf       kaahbr:inventory-book ;
@@ -17692,6 +17697,13 @@ kaahbr:ke0140  a      kaaont:inventory-number ;
         dct:isPartOf  kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0141 .
+
+kaahbr:notebook-page-a-vii-141
+        a             kaaont:notebook-page ;
+        dct:isPartOf  kaahbr:notebook-a-vii ;
+        dct:title     "Notebook A VII, Page 141" ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-a-vii-142 .
 
 kaahbr:ke1044  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_1392.png" ;
@@ -18137,17 +18149,17 @@ kaahbr:ke1591  a                        kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1592 .
 
-kaahbr:ke0808  a      kaaont:inventory-number ;
-        kaaont:file   "pagescans/inventory/808-811.PDF" , "photography/2011_inventory_photos/IMG_0759.png" ;
-        dct:isPartOf  kaahbr:inventory-book ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:ke0809 .
-
 kaahbr:notebook-page-e-i-132
         a             kaaont:notebook-page ;
         dct:isPartOf  kaahbr:notebook-e-i ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-e-i-133 .
+
+kaahbr:ke0808  a      kaaont:inventory-number ;
+        kaaont:file   "pagescans/inventory/808-811.PDF" , "photography/2011_inventory_photos/IMG_0759.png" ;
+        dct:isPartOf  kaahbr:inventory-book ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:ke0809 .
 
 kaahbr:ke0618  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_1421.png" ;
@@ -18438,6 +18450,12 @@ kaahbr:ke1707  a           kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1708 .
 
+kaahbr:ke0613  a      kaaont:inventory-number ;
+        kaaont:file   "pagescans/inventory/612-616.PDF" , "photography/2011_inventory_photos/IMG_2831.png" ;
+        dct:isPartOf  kaahbr:inventory-book ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:ke0614 .
+
 kaahbr:notebook-page-b-i-136
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-b-i/notebook-1963-b-i-file-64.png" ;
@@ -18445,12 +18463,6 @@ kaahbr:notebook-page-b-i-136
         dct:title        "Notebook B I, Page 136" ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-b-i-137 .
-
-kaahbr:ke0613  a      kaaont:inventory-number ;
-        kaaont:file   "pagescans/inventory/612-616.PDF" , "photography/2011_inventory_photos/IMG_2831.png" ;
-        dct:isPartOf  kaahbr:inventory-book ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:ke0614 .
 
 kaahbr:notebook-page-a-i-052
         a                kaaont:notebook-page ;
@@ -18685,6 +18697,12 @@ kaahbr:notebook-page-a-vii-007
         dct:title        "Notebook A VII, Page 7" ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-vii-008 .
+
+kaa:year2014  a       kaaont:year ;
+        rdfs:seeAlso  <http://en.wikipedia.org/wiki/2014> ;
+        dct:isPartOf  kaa:modern-chronology ;
+        dct:title     "Two-Thousand Fourteen" ;
+        xsd:gYear     "2014" .
 
 kaahbr:field-book-number-c-0508
         a             kaaont:field-book-number , kaaont:excavation-box ;
@@ -20164,6 +20182,10 @@ kaakth:kth-container-23
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2
                          ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
+                         ] ;
         kaaont:observed  [ kaaont:count     5 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-1
@@ -20178,15 +20200,11 @@ kaakth:kth-container-23
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-5
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
+                           crm:P5_has_type  kaatyp:p-lra-5
                          ] ;
         dct:description  "" ;
         dct:isPartOf     kaa:threpsiades .
@@ -20391,6 +20409,13 @@ kaahbr:ke2291  a           kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke2292 .
 
+kaahbr:ke0604  a         kaaont:inventory-number ;
+        kaaont:pagescan  "pagescans/inventory/602-606.PDF" ;
+        dct:isPartOf     kaahbr:inventory-book ;
+        crm:P5_has_type  kaatyp:l ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:ke0605 .
+
 kaahbr:notebook-page-b-i-127
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-b-i/notebook-1963-b-i-file-59.png" ;
@@ -20398,13 +20423,6 @@ kaahbr:notebook-page-b-i-127
         dct:title        "Notebook B I, Page 127" ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-b-i-128 .
-
-kaahbr:ke0604  a         kaaont:inventory-number ;
-        kaaont:pagescan  "pagescans/inventory/602-606.PDF" ;
-        dct:isPartOf     kaahbr:inventory-book ;
-        crm:P5_has_type  kaatyp:l ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:ke0605 .
 
 kaahbr:notebook-page-a-i-043
         a                kaaont:notebook-page ;
@@ -20928,17 +20946,17 @@ kaahbr:notebook-page-a-ii-005
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-ii-006 .
 
-kaahbr:field-book-number-c-0114
-        a             kaaont:field-book-number , kaaont:excavation-box ;
-        dct:isPartOf  kaahbr:notebook-page-c-i-143 ;
-        dct:title     "Field Book Number C 114" .
-
 kaahbr:ke0924  a               kaaont:inventory-number ;
         kaaont:pagescan        "pagescans/inventory/919-924.PDF" ;
         kaaont:subject-number  "S 26" ;
         dct:isPartOf           kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0925 .
+
+kaahbr:field-book-number-c-0114
+        a             kaaont:field-book-number , kaaont:excavation-box ;
+        dct:isPartOf  kaahbr:notebook-page-c-i-143 ;
+        dct:title     "Field Book Number C 114" .
 
 kaahbr:ke1828  a               kaaont:inventory-number ;
         kaaont:file            "pagescans/inventory/1828-1834.PDF" , "photography/2011_inventory_photos/IMG_1177.png" ;
@@ -21361,6 +21379,12 @@ kaahbr:ke1253  a      kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1254 .
 
+kaahbr:ke2157  a           kaaont:inventory-number ;
+        kaaont:photograph  "photography/2011_inventory_photos/IMG_1374.png" ;
+        dct:isPartOf       kaahbr:inventory-book ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:ke2158 .
+
 kaahbr:notebook-page-a-vii-160
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vii/notebook-a-vii-1965-file-75.png" ;
@@ -21368,12 +21392,6 @@ kaahbr:notebook-page-a-vii-160
         dct:title        "Notebook A VII, Page 160" ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-vii-161 .
-
-kaahbr:ke2157  a           kaaont:inventory-number ;
-        kaaont:photograph  "photography/2011_inventory_photos/IMG_1374.png" ;
-        dct:isPartOf       kaahbr:inventory-book ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:ke2158 .
 
 kaahbr:ke1063  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_2730.png" ;
@@ -22746,14 +22764,6 @@ kaahbr:notebook-page-c-ii-002
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-c-ii-003 .
 
-kaahbr:notebook-page-b-i-095
-        a                kaaont:notebook-page ;
-        kaaont:pagescan  "pagescans/trench-notebooks/notebook-b-i/notebook-1963-b-i-file-48.png" ;
-        dct:isPartOf     kaahbr:notebook-b-i ;
-        dct:title        "Notebook B I, Page 95" ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-b-i-096 .
-
 kaahbr:ke1666  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_2121.png" ;
         dct:isPartOf       kaahbr:inventory-book ;
@@ -22763,6 +22773,14 @@ kaahbr:ke1666  a           kaaont:inventory-number ;
 kaaont:preserved-height
         a          rdfs:Property ;
         dct:title  "Preserved height (cm.)" .
+
+kaahbr:notebook-page-b-i-095
+        a                kaaont:notebook-page ;
+        kaaont:pagescan  "pagescans/trench-notebooks/notebook-b-i/notebook-1963-b-i-file-48.png" ;
+        dct:isPartOf     kaahbr:notebook-b-i ;
+        dct:title        "Notebook B I, Page 95" ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-b-i-096 .
 
 kaahbr:ke0572  a         kaaont:inventory-number ;
         kaaont:pagescan  "pagescans/inventory/570-573.PDF" ;
@@ -23534,9 +23552,25 @@ kaahbr:notebook-page-a-ii-126
 
 kaakth:kth-container-47
         a                kaaont:kth-container ;
+        kaaont:observed  [ kaaont:count     6 ;
+                           kaaont:part      "body" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-writing
+                         ] ;
+        kaaont:observed  [ kaaont:count     2 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-1
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
+                         ] ;
         kaaont:observed  [ kaaont:count     5 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
+        kaaont:observed  [ kaaont:count     8 ;
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-amphora-palestinian
                          ] ;
         kaaont:observed  [ kaaont:count     3 ;
                            kaaont:part      "rim" ;
@@ -23546,24 +23580,8 @@ kaakth:kth-container-47
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-5
                          ] ;
-        kaaont:observed  [ kaaont:count     6 ;
-                           kaaont:part      "body" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-writing
-                         ] ;
-        kaaont:observed  [ kaaont:count     2 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-1
-                         ] ;
-        kaaont:observed  [ kaaont:count     8 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-amphora-palestinian
-                         ] ;
         kaaont:observed  [ kaaont:count     7 ;
                            crm:P5_has_type  kaatyp:p-small-handled-stopper
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
                          ] ;
         dct:description  "'1 water jug rim; non-slipped R tableware; coat check ticket (?); two mdoern nails'" ;
         dct:isPartOf     kaa:threpsiades .
@@ -24084,16 +24102,30 @@ kaahbr:notebook-page-c-ii-072
 kaakth:kth-container-05
         a                kaaont:kth-container ;
         kaaont:comment   "Pulled and first pass by SFSH on 2014-05-14." ;
-        kaaont:observed  [ kaaont:comment   "W/handles, a good neck, and the usual many body sherds." ;
-                           kaaont:count     5 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
+        kaaont:observed  [ kaaont:comment   "Large portion of combed shoulder w/handle stub. Shows form is here." ;
+                           kaaont:count     1 ;
+                           kaaont:part      "neck-handle" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
         kaaont:observed  [ kaaont:comment          "Very large diameter. 1/2 preserved. Somewhat unusual tooling on outer face of ring base. Definiteyl warrants cataloging for publication." ;
                            kaaont:count            1 ;
                            kaaont:part             "base" ;
                            kaaont:to-be-cataloged  true ;
                            crm:P5_has_type         kaatyp:p-ars-hayes-105
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "W/handles, a good neck, and the usual many body sherds." ;
+                           kaaont:count     5 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "base" ;
+                           crm:P5_has_type  kaatyp:g
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "Flat base, spiral up conical body. Record pics taken." ;
+                           kaaont:count     1 ;
+                           kaaont:part      "toe" ;
+                           crm:P5_has_type  kaatyp:p-amphora-beirut-8
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
@@ -24104,42 +24136,28 @@ kaakth:kth-container-05
                            kaaont:part      "knob" ;
                            crm:P5_has_type  kaatyp:lid
                          ] ;
-        kaaont:observed  [ kaaont:comment   "Large portion of combed shoulder w/handle stub. Shows form is here." ;
-                           kaaont:count     1 ;
-                           kaaont:part      "neck-handle" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
+        kaaont:observed  [ kaaont:comment   "W/ at least 3 handles and some body sherds." ;
+                           kaaont:count     2 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-5
                          ] ;
-        kaaont:observed  [ kaaont:comment   "W/1 large bf from lower part of vessel." ;
+        kaaont:observed  [ kaaont:comment   "In two joining pieces. W/body sherds and 1 handle. Bf's perhaps from same vessel??" ;
                            kaaont:count     1 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-mra-7
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
                          ] ;
         kaaont:observed  [ kaaont:comment   "W/handles and bf's. Drawable if this turns out to be best preserved lra-1 neck." ;
                            kaaont:count     1 ;
                            kaaont:part      "rim-neck-handle" ;
                            crm:P5_has_type  kaatyp:p-lra-1
                          ] ;
-        kaaont:observed  [ kaaont:comment   "Flat base, spiral up conical body. Record pics taken." ;
-                           kaaont:count     1 ;
-                           kaaont:part      "toe" ;
-                           crm:P5_has_type  kaatyp:p-amphora-beirut-8
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "base" ;
-                           crm:P5_has_type  kaatyp:g
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "W/ at least 3 handles and some body sherds." ;
-                           kaaont:count     2 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-5
-                         ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            crm:P5_has_type  kaatyp:p-small-handled-stopper
                          ] ;
-        kaaont:observed  [ kaaont:comment   "In two joining pieces. W/body sherds and 1 handle. Bf's perhaps from same vessel??" ;
+        kaaont:observed  [ kaaont:comment   "W/1 large bf from lower part of vessel." ;
                            kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-mra-7
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
@@ -24166,15 +24184,15 @@ kaahbr:ke1907  a         kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1908 .
 
-kaahbr:field-book-number-c-0003
-        a             kaaont:field-book-number , kaaont:excavation-box ;
-        dct:isPartOf  kaahbr:notebook-page-c-i-003 ;
-        dct:title     "Field Book Number C 3" .
-
 kaahbr:ke0813  a      kaaont:inventory-number ;
         dct:isPartOf  kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0814 .
+
+kaahbr:field-book-number-c-0003
+        a             kaaont:field-book-number , kaaont:excavation-box ;
+        dct:isPartOf  kaahbr:notebook-page-c-i-003 ;
+        dct:title     "Field Book Number C 3" .
 
 kaahbr:ke1717  a         kaaont:inventory-number ;
         dct:isPartOf     kaahbr:inventory-book ;
@@ -25977,23 +25995,8 @@ kaahbr:notebook-page-a-ii-112
 kaakth:kth-container-33
         a                kaaont:kth-container ;
         kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "body" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-writing
-                         ] ;
-        kaaont:observed  [ kaaont:count     2 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
-                         ] ;
-        kaaont:observed  [ kaaont:count     4 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-ars-unclassified
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-amphora-palestinian
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            crm:P5_has_type  kaatyp:g
@@ -26003,8 +26006,23 @@ kaakth:kth-container-33
                            crm:P5_has_type  kaatyp:p-lra-2
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-amphora-palestinian
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-ars-unclassified
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "body" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-writing
+                         ] ;
+        kaaont:observed  [ kaaont:count     2 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
+                         ] ;
+        kaaont:observed  [ kaaont:count     4 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
         dct:description  "'Very large ARS base'" ;
         dct:isPartOf     kaa:threpsiades .
@@ -26112,6 +26130,14 @@ kaahbr:ke1175  a               kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1176 .
 
+kaahbr:notebook-page-a-vii-082
+        a                kaaont:notebook-page ;
+        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vii/notebook-a-vii-1965-file-41.png" ;
+        dct:isPartOf     kaahbr:notebook-a-vii ;
+        dct:title        "Notebook A VII, Page 82" ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-a-vii-083 .
+
 kaahbr:ke2079  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_0468.png" ;
         dct:isPartOf       kaahbr:inventory-book ;
@@ -26124,14 +26150,6 @@ kaahbr:ke0081  a         kaaont:inventory-number ;
         crm:P5_has_type  kaatyp:l ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0082 .
-
-kaahbr:notebook-page-a-vii-082
-        a                kaaont:notebook-page ;
-        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vii/notebook-a-vii-1965-file-41.png" ;
-        dct:isPartOf     kaahbr:notebook-a-vii ;
-        dct:title        "Notebook A VII, Page 82" ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-a-vii-083 .
 
 kaahbr:notebook-page-c-iii-154
         a                kaaont:notebook-page ;
@@ -26465,14 +26483,6 @@ kaahbr:notebook-page-a-v-143
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-v-144 .
 
-kaahbr:notebook-page-a-vii-008
-        a                kaaont:notebook-page ;
-        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vii/notebook-a-vii-1965-file-04.png" ;
-        dct:isPartOf     kaahbr:notebook-a-vii ;
-        dct:title        "Notebook A VII, Page 8" ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-a-vii-009 .
-
 kaahbr:ke0007  a                 kaaont:inventory-number ;
         kaaont:pagescan          "pagescans/inventory/4-7.PDF" ;
         kaaont:photograph        "photography/2011_inventory_photos/IMG_2821.png" ;
@@ -26482,6 +26492,20 @@ kaahbr:ke0007  a                 kaaont:inventory-number ;
         crm:P5_has_type          kaatyp:p-unclassified ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0008 .
+
+kaahbr:notebook-page-a-vii-008
+        a                kaaont:notebook-page ;
+        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vii/notebook-a-vii-1965-file-04.png" ;
+        dct:isPartOf     kaahbr:notebook-a-vii ;
+        dct:title        "Notebook A VII, Page 8" ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-a-vii-009 .
+
+kaa:year2015  a       kaaont:year ;
+        rdfs:seeAlso  <http://en.wikipedia.org/wiki/2015> ;
+        dct:isPartOf  kaa:modern-chronology ;
+        dct:title     "Two-Thousand Fifteen" ;
+        xsd:gYear     "2015" .
 
 kaahbr:field-book-number-c-0509
         a             kaaont:field-book-number , kaaont:excavation-box ;
@@ -26501,14 +26525,14 @@ kaahbr:trench-c64seroom
         dct:isPartOf  kaahbr:area-c ;
         dct:title     "Trench C64-B" .
 
-kaahbr:field-book-number-c-0129
-        a             kaaont:field-book-number , kaaont:excavation-box ;
-        dct:isPartOf  kaahbr:notebook-page-c-i-140 .
-
 kaahbr:ke0939  a      kaaont:inventory-number ;
         dct:isPartOf  kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0940 .
+
+kaahbr:field-book-number-c-0129
+        a             kaaont:field-book-number , kaaont:excavation-box ;
+        dct:isPartOf  kaahbr:notebook-page-c-i-140 .
 
 kaahbr:notebook-page-a-vi-108
         a                kaaont:notebook-page ;
@@ -27055,17 +27079,17 @@ kaahbr:notebook-page-a-iii-030
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-iii-031 .
 
-kaahbr:trench-c63-ii-4-extension
-        a             kaaont:excavation-trench ;
-        kaaont:year   kaa:year1963 ;
-        dct:isPartOf  kaahbr:area-c ;
-        dct:title     "Trench C63-II-4-extension" .
-
 kaahbr:ke0137  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_3008.png" ;
         dct:isPartOf       kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0138 .
+
+kaahbr:trench-c63-ii-4-extension
+        a             kaaont:excavation-trench ;
+        kaaont:year   kaa:year1963 ;
+        dct:isPartOf  kaahbr:area-c ;
+        dct:title     "Trench C63-II-4-extension" .
 
 kaahbr:notebook-page-a-vii-138
         a             kaaont:notebook-page ;
@@ -27421,24 +27445,9 @@ kaahbr:notebook-page-a-ii-145
 
 kaakth:kth-container-66
         a                kaaont:kth-container ;
-        kaaont:observed  [ kaaont:count     13 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
-                         ] ;
-        kaaont:observed  [ kaaont:count     3 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-1
-                         ] ;
         kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-prs
-                         ] ;
-        kaaont:observed  [ kaaont:count     5 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-ars-unclassified
+                           kaaont:part      "body" ;
+                           crm:P5_has_type  kaatyp:p-lra-3
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
@@ -27446,15 +27455,30 @@ kaakth:kth-container-66
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "body" ;
-                           crm:P5_has_type  kaatyp:p-lra-3
+                           crm:P5_has_type  kaatyp:p-prs
                          ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "handle" ;
                            crm:P5_has_type  kaatyp:p-amphora-palestinian
+                         ] ;
+        kaaont:observed  [ kaaont:count     13 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-ars-unclassified
+                         ] ;
+        kaaont:observed  [ kaaont:count     3 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-1
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
+                         ] ;
+        kaaont:observed  [ kaaont:count     5 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
                          ] ;
         dct:description  "'rim of large storage container (pontus?)[sic]['pithos??]; 5 rims Roman cookware; 1 sherd of LRA3 (?); 1 stopper made of body sherd; Roman tableware unslipped rim with bulging'" ;
         dct:isPartOf     kaa:threpsiades .
@@ -29464,18 +29488,18 @@ kaahbr:ke0485  a      kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0486 .
 
+kaahbr:ke1389  a         kaaont:inventory-number ;
+        dct:isPartOf     kaahbr:inventory-book ;
+        crm:P5_has_type  kaatyp:l ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:ke1390 .
+
 kaahbr:notebook-page-c-i-142
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-c-i/C%20I%201963_Page_72.png" ;
         dct:isPartOf     kaahbr:notebook-c-i ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-c-i-143 .
-
-kaahbr:ke1389  a         kaaont:inventory-number ;
-        dct:isPartOf     kaahbr:inventory-book ;
-        crm:P5_has_type  kaatyp:l ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:ke1390 .
 
 dct:isPartOf  dct:title  "Part of" .
 
@@ -31405,16 +31429,12 @@ kaakth:kth-container-48
         dct:description  "'1 rim of water jug; 1 base of R tableware (jug?)'" ;
         dct:isPartOf     kaa:threpsiades .
 
-kaahbr:field-book-number-c-0046
-        a             kaaont:field-book-number , kaaont:excavation-box ;
-        dct:isPartOf  kaahbr:notebook-page-c-i-158 ;
-        dct:title     "Field Book Number C 46" .
-
-kaahbr:ke0856  a      kaaont:inventory-number ;
-        kaaont:file   "pagescans/inventory/856-860.pdf" , "photography/2011_inventory_photos/IMG_1418.png" ;
-        dct:isPartOf  kaahbr:inventory-book ;
+kaahbr:notebook-page-e-i-180
+        a                kaaont:notebook-page ;
+        kaaont:pagescan  "pagescans/trench-notebooks/notebook-e-i/E-I-1963_Page_70.png" ;
+        dct:isPartOf     kaahbr:notebook-e-i ;
         <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:ke0857 .
+                kaahbr:notebook-page-e-i-181 .
 
 kaa:year1960  a       kaaont:year ;
         rdfs:seeAlso  <http://en.wikipedia.org/wiki/1960> ;
@@ -31424,12 +31444,16 @@ kaa:year1960  a       kaaont:year ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaa:year1961 .
 
-kaahbr:notebook-page-e-i-180
-        a                kaaont:notebook-page ;
-        kaaont:pagescan  "pagescans/trench-notebooks/notebook-e-i/E-I-1963_Page_70.png" ;
-        dct:isPartOf     kaahbr:notebook-e-i ;
+kaahbr:ke0856  a      kaaont:inventory-number ;
+        kaaont:file   "pagescans/inventory/856-860.pdf" , "photography/2011_inventory_photos/IMG_1418.png" ;
+        dct:isPartOf  kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-e-i-181 .
+                kaahbr:ke0857 .
+
+kaahbr:field-book-number-c-0046
+        a             kaaont:field-book-number , kaaont:excavation-box ;
+        dct:isPartOf  kaahbr:notebook-page-c-i-158 ;
+        dct:title     "Field Book Number C 46" .
 
 kaahbr:notebook-page-a-vi-025
         a                kaaont:notebook-page ;
@@ -31573,9 +31597,28 @@ kaakth:kth-container-80
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-1
                          ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "body" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-writing
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
+                         ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-5
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-3
+                         ] ;
+        kaaont:observed  [ kaaont:count     6 ;
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-amphora-palestinian
                          ] ;
         kaaont:observed  [ kaaont:count     7 ;
                            kaaont:part      "rim" ;
@@ -31584,25 +31627,6 @@ kaakth:kth-container-80
         kaaont:observed  [ kaaont:count     9 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
-                         ] ;
-        kaaont:observed  [ kaaont:count     6 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-amphora-palestinian
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "body" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-writing
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-3
                          ] ;
         dct:description  "'1 sherd of oinochoe rim; 1 sherd black and white swirl pattern; 1 sherd with red paint (?); many handles/rims/body sherds of cookware; many handles of unidentified amphora'" ;
         dct:isPartOf     kaa:threpsiades .
@@ -31615,18 +31639,18 @@ kaahbr:notebook-page-a-v-023
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-v-024 .
 
-kaahbr:ke1982  a      kaaont:inventory-number ;
-        kaaont:file   "pagescans/inventory/1978-1982.PDF" , "photography/2011_inventory_photos/IMG_0849.png" ;
-        dct:isPartOf  kaahbr:inventory-book ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:ke1983 .
-
 kaahbr:notebook-page-c-ii-078
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-c-ii/C%20II%201963_Page_40.png" ;
         dct:isPartOf     kaahbr:notebook-c-ii ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-c-ii-079 .
+
+kaahbr:ke1982  a      kaaont:inventory-number ;
+        kaaont:file   "pagescans/inventory/1978-1982.PDF" , "photography/2011_inventory_photos/IMG_0849.png" ;
+        dct:isPartOf  kaahbr:inventory-book ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:ke1983 .
 
 kaahbr:ke1792  a         kaaont:inventory-number ;
         kaaont:pagescan  "pagescans/inventory/1786-1792.PDF" ;
@@ -31649,7 +31673,7 @@ kaahbr:notebook-page-b-ii-014
                 kaahbr:notebook-page-b-ii-015 .
 
 kaa:phyllis-graham  a  kaaont:person ;
-        kaaont:year   kaa:2015 ;
+        kaaont:year   kaa:year2015 ;
         dct:isPartOf  kaa:people ;
         foaf:name     "Phyllis Graham" .
 
@@ -31775,24 +31799,13 @@ kaahbr:notebook-page-a-ii-122
 
 kaakth:kth-container-43
         a                kaaont:kth-container ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-5
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
-                         ] ;
         kaaont:observed  [ kaaont:count     3 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
-                         ] ;
-        kaaont:observed  [ kaaont:count     2 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-1
+                           crm:P5_has_type  kaatyp:p-lra-5
                          ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "handle" ;
@@ -31801,6 +31814,17 @@ kaakth:kth-container-43
         kaaont:observed  [ kaaont:count     3 ;
                            kaaont:part      "body" ;
                            crm:P5_has_type  kaatyp:p-lra-2-writing
+                         ] ;
+        kaaont:observed  [ kaaont:count     2 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-1
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
                          ] ;
         dct:description  "'1 frying pan handle; 1 cookware handle and rim; two small bags of sherds, one with label from Rachi (date: 3-1976)'" ;
         dct:isPartOf     kaa:threpsiades .
@@ -32012,16 +32036,16 @@ kaahbr:ke1908  a         kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1909 .
 
-kaahbr:field-book-number-c-0004
-        a             kaaont:field-book-number , kaaont:excavation-box ;
-        dct:isPartOf  kaahbr:notebook-page-c-i-003 ;
-        dct:title     "Field Book Number C 4" .
-
 kaahbr:ke0814  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_0517.png" ;
         dct:isPartOf       kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0815 .
+
+kaahbr:field-book-number-c-0004
+        a             kaaont:field-book-number , kaaont:excavation-box ;
+        dct:isPartOf  kaahbr:notebook-page-c-i-003 ;
+        dct:title     "Field Book Number C 4" .
 
 kaahbr:ke1718  a         kaaont:inventory-number ;
         dct:isPartOf     kaahbr:inventory-book ;
@@ -32323,26 +32347,9 @@ kaahbr:field-book-number-c-0139
 
 kaakth:kth-container-01
         a                kaaont:kth-container ;
-        kaaont:observed  [ kaaont:comment   "Range of size but all thicker than mini-lra-2 rims. There are full-size lra-2 handles here as well." ;
-                           kaaont:count     8 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
-                         ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-1
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "This crate does not have any well-preserved lra-2-small neck-handles." ;
-                           kaaont:count     2 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
-                         ] ;
-        kaaont:observed  [ kaaont:count     11 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
-                         ] ;
-        kaaont:observed  [ kaaont:count     3 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
         kaaont:observed  [ kaaont:comment   "There may be more." ;
                            kaaont:count     3 ;
@@ -32352,23 +32359,40 @@ kaakth:kth-container-01
         kaaont:observed  [ kaaont:count     1 ;
                            crm:P5_has_type  kaatyp:p-byz-sgraffito
                          ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:same-as   kaakth:KTH0001 ;
-                           crm:P5_has_type  kaatyp:p-prs-hayes-10a
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "body-sherd" ;
-                           crm:P5_has_type  kaatyp:p-lra-3
-                         ] ;
         kaaont:observed  [ kaaont:comment   "Missing outer edge of rim but countable." ;
                            kaaont:count     1 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-ars-hayes-67
                          ] ;
-        kaaont:observed  []  ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:same-as   kaakth:KTH0001 ;
+                           crm:P5_has_type  kaatyp:p-prs-hayes-10a
+                         ] ;
         kaaont:observed  [ kaaont:comment   "1 body sherd, 1 basin rim" ;
                            kaaont:count     2 ;
                            crm:P5_has_type  kaatyp:x-hell-black-slip
+                         ] ;
+        kaaont:observed  [ kaaont:count     3 ;
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "This crate does not have any well-preserved lra-2-small neck-handles." ;
+                           kaaont:count     2 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "body-sherd" ;
+                           crm:P5_has_type  kaatyp:p-lra-3
+                         ] ;
+        kaaont:observed  []  ;
+        kaaont:observed  [ kaaont:count     11 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "Range of size but all thicker than mini-lra-2 rims. There are full-size lra-2 handles here as well." ;
+                           kaaont:count     8 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2
                          ] ;
         dct:description  "Blue crate filled with usual kth 'lra2+ mix'. One tag present and well-preserved. The bottom of another tag is also in the crate. The number '60' is readable but other characters are incomplete." ;
         dct:isPartOf     kaa:threpsiades .
@@ -33128,19 +33152,19 @@ kaahbr:notebook-page-a-v-056
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-v-057 .
 
-kaahbr:notebook-page-c-ii-161
-        a                kaaont:notebook-page ;
-        kaaont:pagescan  "pagescans/trench-notebooks/notebook-c-ii/C%20II%201963_Page_56.png" ;
-        dct:isPartOf     kaahbr:notebook-c-ii ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-c-ii-162 .
-
 kaahbr:notebook-page-a-vi-090
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-45.png" ;
         dct:isPartOf     kaahbr:notebook-a-vi ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-vi-091 .
+
+kaahbr:notebook-page-c-ii-161
+        a                kaaont:notebook-page ;
+        kaaont:pagescan  "pagescans/trench-notebooks/notebook-c-ii/C%20II%201963_Page_56.png" ;
+        dct:isPartOf     kaahbr:notebook-c-ii ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-c-ii-162 .
 
 kaahbr:notebook-page-b-ii-047
         a                kaaont:notebook-page ;
@@ -33246,19 +33270,19 @@ kaahbr:ke1236  a      kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1237 .
 
-kaahbr:ke0142  a         kaaont:inventory-number ;
-        kaaont:pagescan  "pagescans/inventory/141-144.PDF" ;
-        dct:isPartOf     kaahbr:inventory-book ;
-        crm:P5_has_type  kaatyp:l ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:ke0143 .
-
 kaahbr:notebook-page-a-vii-143
         a             kaaont:notebook-page ;
         dct:isPartOf  kaahbr:notebook-a-vii ;
         dct:title     "Notebook A VII, Page 143" ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-vii-144 .
+
+kaahbr:ke0142  a         kaaont:inventory-number ;
+        kaaont:pagescan  "pagescans/inventory/141-144.PDF" ;
+        dct:isPartOf     kaahbr:inventory-book ;
+        crm:P5_has_type  kaatyp:l ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:ke0143 .
 
 kaahbr:ke1046  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_1432.png" ;
@@ -33346,6 +33370,12 @@ kaahbr:ke0884  a           kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0885 .
 
+kaahbr:ke1788  a         kaaont:inventory-number ;
+        dct:isPartOf     kaahbr:inventory-book ;
+        crm:P5_has_type  kaatyp:l ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:ke1789 .
+
 kaahbr:notebook-page-a-vi-053
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-26.png" ;
@@ -33358,12 +33388,6 @@ kaahbr:notebook-page-c-ii-124
         dct:isPartOf  kaahbr:notebook-c-ii ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-c-ii-125 .
-
-kaahbr:ke1788  a         kaaont:inventory-number ;
-        dct:isPartOf     kaahbr:inventory-book ;
-        crm:P5_has_type  kaatyp:l ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:ke1789 .
 
 kaahbr:ke0694  a         kaaont:inventory-number ;
         kaaont:file      "pagescans/inventory/692-696.PDF" , "photography/2011_inventory_photos/IMG_1398.png" ;
@@ -33666,9 +33690,9 @@ kaahbr:notebook-page-a-vi-188
 
 kaakth:kth-container-71
         a                kaaont:kth-container ;
-        kaaont:observed  [ kaaont:count     5 ;
-                           kaaont:part      "body" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-writing
+        kaaont:observed  [ kaaont:count     3 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
@@ -33676,22 +33700,22 @@ kaakth:kth-container-71
                          ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
+                           crm:P5_has_type  kaatyp:p-lra-4
                          ] ;
-        kaaont:observed  [ kaaont:count     8 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+        kaaont:observed  [ kaaont:count     5 ;
+                           kaaont:part      "body" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-writing
                          ] ;
         kaaont:observed  [ kaaont:count     3 ;
                            kaaont:part      "handle" ;
                            crm:P5_has_type  kaatyp:p-amphora-palestinian
                          ] ;
+        kaaont:observed  [ kaaont:count     8 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+                         ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
-                         ] ;
-        kaaont:observed  [ kaaont:count     3 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
+                           crm:P5_has_type  kaatyp:p-lra-2
                          ] ;
         dct:description  "'mostly washed sherds, many LRA1 body sherds; most body sherds are brunt; 1 stopper is specially fitted; several R cookware rims/handles; 1 LRA2 body sherd with incisions made before firing'" ;
         dct:isPartOf     kaa:threpsiades .
@@ -35226,38 +35250,38 @@ kaakth:kth-container-67
         a                kaaont:kth-container ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
+                           crm:P5_has_type  kaatyp:p-lra-1
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-ars-unclassified
+                         ] ;
+        kaaont:observed  [ kaaont:count     6 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
+        kaaont:observed  [ kaaont:count     3 ;
+                           kaaont:part      "body" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-writing
                          ] ;
         kaaont:observed  [ kaaont:count     3 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2-small
-                         ] ;
-        kaaont:observed  [ kaaont:count     4 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-amphora-palestinian
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-prs-hayes-10c
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-ars-unclassified
-                         ] ;
-        kaaont:observed  [ kaaont:count     3 ;
-                           kaaont:part      "body" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-writing
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
                            crm:P5_has_type  kaatyp:p-funnel
                          ] ;
-        kaaont:observed  [ kaaont:count     6 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
-                         ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-1
+                           crm:P5_has_type  kaatyp:p-lra-4
+                         ] ;
+        kaaont:observed  [ kaaont:count     4 ;
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-amphora-palestinian
                          ] ;
         dct:description  "'on lower rim of LRA2 small is ridging; 1 sherd of sigillata; 1 body sherd with wavy pattern; 1 very large roof tile; 1 chip of marble (?)'" ;
         dct:isPartOf     kaa:threpsiades .
@@ -35268,16 +35292,16 @@ kaahbr:ke1969  a           kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke1970 .
 
-kaahbr:field-book-number-c-0065
-        a             kaaont:field-book-number , kaaont:excavation-box ;
-        dct:isPartOf  kaahbr:notebook-page-c-i-155 ;
-        dct:title     "Field Book Number C 65" .
-
 kaahbr:ke0875  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_2113.png" ;
         dct:isPartOf       kaahbr:inventory-book ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0876 .
+
+kaahbr:field-book-number-c-0065
+        a             kaaont:field-book-number , kaaont:excavation-box ;
+        dct:isPartOf  kaahbr:notebook-page-c-i-155 ;
+        dct:title     "Field Book Number C 65" .
 
 kaahbr:notebook-page-a-vi-044
         a                kaaont:notebook-page ;
@@ -35754,30 +35778,30 @@ kaakth:kth-container-25
         a                kaaont:kth-container ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-5
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-prs-hayes-3
-                         ] ;
-        kaaont:observed  [ kaaont:count     4 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-prs-hayes-10a
                          ] ;
-        kaaont:observed  [ kaaont:count     3 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+        kaaont:observed  [ kaaont:count     2 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
+                         ] ;
+        kaaont:observed  [ kaaont:count     4 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2
                          ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "handle" ;
                            crm:P5_has_type  kaatyp:p-amphora-palestinian
                          ] ;
-        kaaont:observed  [ kaaont:count     2 ;
+        kaaont:observed  [ kaaont:count     3 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
+                           crm:P5_has_type  kaatyp:p-lra-5
                          ] ;
         dct:description  "" ;
         dct:isPartOf     kaa:threpsiades .
@@ -37093,12 +37117,6 @@ kaahbr:notebook-page-a-vii-125
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-vii-126 .
 
-kaahbr:ke1028  a      kaaont:inventory-number ;
-        kaaont:file   "pagescans/inventory/1028-1032.PDF" , "photography/2011_inventory_photos/IMG_1989.png" ;
-        dct:isPartOf  kaahbr:inventory-book ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:ke1029 .
-
 kaahbr:notebook-page-a-v-070
         a                kaaont:notebook-page ;
         kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-v/notebook-a-v-1964-page-036.png" ;
@@ -37106,6 +37124,12 @@ kaahbr:notebook-page-a-v-070
         dct:title        "Notebook 1964 Area A V, Page 70" ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-v-071 .
+
+kaahbr:ke1028  a      kaaont:inventory-number ;
+        kaaont:file   "pagescans/inventory/1028-1032.PDF" , "photography/2011_inventory_photos/IMG_1989.png" ;
+        dct:isPartOf  kaahbr:inventory-book ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:ke1029 .
 
 kaahbr:notebook-page-a-viii-139
         a                kaaont:notebook-page ;
@@ -37488,13 +37512,16 @@ kaahbr:notebook-page-a-ii-132
 
 kaakth:kth-container-53
         a                kaaont:kth-container ;
+        kaaont:observed  [ kaaont:count     5 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-ars-unclassified
+                           crm:P5_has_type  kaatyp:p-lra-4
                          ] ;
-        kaaont:observed  [ kaaont:count     5 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-amphora-palestinian
+        kaaont:observed  [ kaaont:count     7 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
                          ] ;
         kaaont:observed  [ kaaont:comment   "inventory this" ;
                            kaaont:count     1 ;
@@ -37507,14 +37534,11 @@ kaakth:kth-container-53
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
+                           crm:P5_has_type  kaatyp:p-ars-unclassified
                          ] ;
         kaaont:observed  [ kaaont:count     5 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2
-                         ] ;
-        kaaont:observed  [ kaaont:count     7 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-amphora-palestinian
                          ] ;
         dct:description  "'Slip generic roman tableware-courseware with rim and handle; very thin LR2 rim'" ;
         dct:isPartOf     kaa:threpsiades .
@@ -38026,33 +38050,17 @@ kaakth:kth-container-11
         kaaont:comment   "Date component of label is \"8-76\" with day not readble." ;
         kaaont:observed  <kth:kth-sector-beta-level-1> , <kth:kth-sector-epsilon-level-1> ;
         kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "toe" ;
-                           crm:P5_has_type  kaatyp:p-lra-3
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-4
-                         ] ;
-        kaaont:observed  [ kaaont:count     8 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-amphora-palestinian
-                         ] ;
-        kaaont:observed  []  ;
-        kaaont:observed  [ kaaont:count     8 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-2-small
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-1
-                         ] ;
-        kaaont:observed  [ kaaont:comment   "Some stoppers in perfect shape, largish and well formed." ;
-                           kaaont:count     24 ;
-                           crm:P5_has_type  kaatyp:p-small-handled-stopper
                          ] ;
         kaaont:observed  [ kaaont:count     4 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2
+                         ] ;
+        kaaont:observed  []  ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "toe" ;
+                           crm:P5_has_type  kaatyp:p-lra-3
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "base" ;
@@ -38061,6 +38069,22 @@ kaakth:kth-container-11
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-5
+                         ] ;
+        kaaont:observed  [ kaaont:count     8 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-2-small
+                         ] ;
+        kaaont:observed  [ kaaont:comment   "Some stoppers in perfect shape, largish and well formed." ;
+                           kaaont:count     24 ;
+                           crm:P5_has_type  kaatyp:p-small-handled-stopper
+                         ] ;
+        kaaont:observed  [ kaaont:count     8 ;
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-amphora-palestinian
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-1
                          ] ;
         dct:description  "Blue crate. Predominantly lra-2 mix. Stopper?? present. Coarsewares." ;
         dct:isPartOf     kaa:threpsiades .
@@ -38369,9 +38393,12 @@ kaahbr:notebook-page-a-ii-035
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:notebook-page-a-ii-036 .
 
-kaahbr:field-book-number-c-0144
-        a             kaaont:field-book-number , kaaont:excavation-box ;
-        dct:isPartOf  kaahbr:notebook-page-c-i-043 , kaahbr:notebook-page-c-i-137 .
+kaahbr:notebook-page-a-vi-123
+        a                kaaont:notebook-page ;
+        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-61.png" ;
+        dct:isPartOf     kaahbr:notebook-a-vi ;
+        <http://www.w3.org/TR/html4/types.html#next>
+                kaahbr:notebook-page-a-vi-124 .
 
 kaahbr:ke0954  a           kaaont:inventory-number ;
         kaaont:photograph  "photography/2011_inventory_photos/IMG_1419.png" ;
@@ -38380,12 +38407,9 @@ kaahbr:ke0954  a           kaaont:inventory-number ;
         <http://www.w3.org/TR/html4/types.html#next>
                 kaahbr:ke0955 .
 
-kaahbr:notebook-page-a-vi-123
-        a                kaaont:notebook-page ;
-        kaaont:pagescan  "pagescans/trench-notebooks/notebook-a-vi/notebook-a-vi-1965-file-61.png" ;
-        dct:isPartOf     kaahbr:notebook-a-vi ;
-        <http://www.w3.org/TR/html4/types.html#next>
-                kaahbr:notebook-page-a-vi-124 .
+kaahbr:field-book-number-c-0144
+        a             kaaont:field-book-number , kaaont:excavation-box ;
+        dct:isPartOf  kaahbr:notebook-page-c-i-043 , kaahbr:notebook-page-c-i-137 .
 
 kaahbr:ke1858  a      kaaont:inventory-number ;
         dct:isPartOf  kaahbr:inventory-book ;
@@ -39194,28 +39218,16 @@ kaahbr:notebook-page-b-ii-052
 
 kaakth:kth-container-49
         a                kaaont:kth-container ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-1
-                         ] ;
-        kaaont:observed  [ kaaont:count     4 ;
-                           kaaont:part      "handle" ;
-                           crm:P5_has_type  kaatyp:p-amphora-palestinian
-                         ] ;
         kaaont:observed  [ kaaont:count     4 ;
                            kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-lra-2-small
                          ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
-                         ] ;
-        kaaont:observed  [ kaaont:count     1 ;
-                           kaaont:part      "base" ;
-                           crm:P5_has_type  kaatyp:p-lra-4
-                         ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            crm:P5_has_type  kaatyp:p-small-handled-stopper
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-5
                          ] ;
         kaaont:observed  [ kaaont:count     2 ;
                            kaaont:part      "rim" ;
@@ -39223,11 +39235,23 @@ kaakth:kth-container-49
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
+                         ] ;
+        kaaont:observed  [ kaaont:count     4 ;
+                           kaaont:part      "handle" ;
+                           crm:P5_has_type  kaatyp:p-amphora-palestinian
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "rim" ;
                            crm:P5_has_type  kaatyp:p-prs-hayes-10a
                          ] ;
         kaaont:observed  [ kaaont:count     1 ;
                            kaaont:part      "rim" ;
-                           crm:P5_has_type  kaatyp:p-lra-5
+                           crm:P5_has_type  kaatyp:p-lra-1
+                         ] ;
+        kaaont:observed  [ kaaont:count     1 ;
+                           kaaont:part      "base" ;
+                           crm:P5_has_type  kaatyp:p-lra-4
                          ] ;
         dct:description  "'1 inventoried bag, unreadable number (part of stone screen?); R tableware (1 dish); 1 complete LRA 4 base'" ;
         dct:isPartOf     kaa:threpsiades .
