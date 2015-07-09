@@ -9698,7 +9698,7 @@
       "is-part-of": ["kaahbr:area-a",
       				"kaahbr:inventory-book"],
       "pagescan": "pagescans/inventory/1220-1221.PDF",
-      "model": "http://p3d.in/oJZFm",
+      "model": ["http://p3d.in/oJZFm", "https://p3d.in/NwAYN"],
       "notebook-page": [ "kaahbr:notebook-page-a-v-040",
       				"kaahbr:notebook-page-a-v-175"],
       "subject-number": "S 54",
