@@ -1,0 +1,519 @@
+@prefix : <http://kenchreai.org/kaa/> .
+@prefix kaa: <http://kenchreai.org/kaa/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix claros: <http://purl.org/NET/Claros/vocab#> .
+@prefix kaahbr: <http://kenchreai.org/kaa/harbor/> .
+@prefix kaakth: <http://kenchreai.org/kaa/threpsiades/> .
+@prefix kaaont: <http://kenchreai.org/kaa/ontology/> .
+@prefix kaatyp: <http://kenchreai.org/kaa/typology/> .
+@base <http://kenchreai.org/kaa/> .
+
+<http://kenchreai.org/kaa/> rdf:type owl:Ontology ;
+                            
+                            rdfs:label "Kenchreai Archaeological Archive OWL Ontology" ;
+                            
+                            rdfs:comment "Classes, properties and individuals used to describe maerials int the Kenchreai Archaeological Archive (KAA). This ontology is very much under construction." .
+
+
+#################################################################
+#
+#    Object Properties
+#
+#################################################################
+
+
+###  http://kenchreai.org/kaa/previous
+
+kaa:previous rdf:type owl:ObjectProperty ;
+             
+             owl:inverseOf kaaont:next .
+
+
+
+###  http://kenchreai.org/kaa/ontology/associated-with-year
+
+kaaont:associated-with-year rdf:type owl:ObjectProperty ;
+                            
+                            rdfs:label "Associated with year" ;
+                            
+                            owl:inverseOf kaaont:has-logical-part ;
+                            
+                            rdfs:subPropertyOf kaaont:has-year ,
+                                               kaaont:is-logical-part-of .
+
+
+
+###  http://kenchreai.org/kaa/ontology/broader
+
+kaaont:broader rdf:type owl:ObjectProperty ,
+                        owl:TransitiveProperty ;
+               
+               rdfs:label "Broader" ;
+               
+               rdfs:subPropertyOf kaaont:is-logical-part-of ;
+               
+               rdfs:domain kaaont:typology-item .
+
+
+
+###  http://kenchreai.org/kaa/ontology/has-logical-part
+
+kaaont:has-logical-part rdf:type owl:ObjectProperty ;
+                        
+                        rdfs:label "Has logical part" ;
+                        
+                        rdfs:subPropertyOf kaaont:has-part ;
+                        
+                        owl:inverseOf kaaont:is-logical-part-of .
+
+
+
+###  http://kenchreai.org/kaa/ontology/has-part
+
+kaaont:has-part rdf:type owl:ObjectProperty ;
+                
+                rdfs:label "Has Part" ;
+                
+                owl:inverseOf kaaont:is-part-of .
+
+
+
+###  http://kenchreai.org/kaa/ontology/has-physical-part
+
+kaaont:has-physical-part rdf:type owl:ObjectProperty ;
+                         
+                         rdfs:label "Has physical part" ;
+                         
+                         rdfs:subPropertyOf kaaont:has-part ;
+                         
+                         owl:inverseOf kaaont:is-physical-part-of .
+
+
+
+###  http://kenchreai.org/kaa/ontology/has-published-catalog-entry
+
+kaaont:has-published-catalog-entry rdf:type owl:ObjectProperty ;
+                                   
+                                   rdfs:label "Published catalog entry" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/has-year
+
+kaaont:has-year rdf:type owl:ObjectProperty ;
+                
+                rdfs:label "Year" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/is-logical-part-of
+
+kaaont:is-logical-part-of rdf:type owl:ObjectProperty ;
+                          
+                          rdfs:label "Logical part of" ;
+                          
+                          rdfs:subPropertyOf kaaont:is-part-of .
+
+
+
+###  http://kenchreai.org/kaa/ontology/is-part-of
+
+kaaont:is-part-of rdf:type owl:ObjectProperty ;
+                  
+                  rdfs:label "Is Part Of" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/is-physical-part-of
+
+kaaont:is-physical-part-of rdf:type owl:ObjectProperty ;
+                           
+                           rdfs:label "Physical part of" ;
+                           
+                           rdfs:subPropertyOf kaaont:is-part-of .
+
+
+
+###  http://kenchreai.org/kaa/ontology/modern-chronology
+
+kaaont:modern-chronology rdf:type owl:ObjectProperty ;
+                         
+                         rdfs:label "Modern chronology" ;
+                         
+                         rdfs:comment "Used to indicate the modern chronology of an entity. This often means the date of discovery or date work was undertaken." .
+
+
+
+###  http://kenchreai.org/kaa/ontology/narrower
+
+kaaont:narrower rdf:type owl:ObjectProperty ,
+                         owl:TransitiveProperty ;
+                
+                rdfs:label "Narrower" ;
+                
+                owl:inverseOf kaaont:broader ;
+                
+                rdfs:subPropertyOf kaaont:has-logical-part .
+
+
+
+###  http://kenchreai.org/kaa/ontology/next
+
+kaaont:next rdf:type owl:ObjectProperty .
+
+
+
+###  http://kenchreai.org/kaa/ontology/on-notebook-page
+
+kaaont:on-notebook-page rdf:type owl:ObjectProperty ;
+                        
+                        rdfs:label "On notebook page" ;
+                        
+                        owl:inverseOf kaaont:has-logical-part ;
+                        
+                        rdfs:subPropertyOf kaaont:is-logical-part-of .
+
+
+
+###  http://kenchreai.org/kaa/ontology/references
+
+kaaont:references rdf:type owl:ObjectProperty ;
+                  
+                  owl:inverseOf kaaont:referred-to-by .
+
+
+
+###  http://kenchreai.org/kaa/ontology/referred-to-by
+
+kaaont:referred-to-by rdf:type owl:ObjectProperty .
+
+
+
+###  http://kenchreai.org/kaa/ontology/same-as
+
+kaaont:same-as rdf:type owl:ObjectProperty ,
+                        owl:SymmetricProperty ;
+               
+               rdfs:label "Same as" ;
+               
+               rdfs:subPropertyOf kaaont:has-logical-part .
+
+
+
+###  http://kenchreai.org/kaa/ontology/typological-identification
+
+kaaont:typological-identification rdf:type owl:ObjectProperty ;
+                                  
+                                  rdfs:label "Typological identification" ;
+                                  
+                                  owl:inverseOf kaaont:has-logical-part ;
+                                  
+                                  rdfs:subPropertyOf kaaont:is-logical-part-of ;
+                                  
+                                  rdfs:range kaaont:typology-item .
+
+
+
+###  http://kenchreai.org/kaa/ontology/viaf
+
+kaaont:viaf rdf:type owl:ObjectProperty ;
+            
+            rdfs:label "VIAF Id" .
+
+
+
+
+
+#################################################################
+#
+#    Data properties
+#
+#################################################################
+
+
+###  http://kenchreai.org/kaa/rim-diameter
+
+kaa:rim-diameter rdf:type owl:DatatypeProperty ;
+                 
+                 rdfs:label "Rim diameter" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/base-diameter
+
+kaaont:base-diameter rdf:type owl:DatatypeProperty ;
+                     
+                     rdfs:label "Base Diameter" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/comment
+
+kaaont:comment rdf:type owl:DatatypeProperty ;
+               
+               rdfs:label "Comment" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/count
+
+kaaont:count rdf:type owl:DatatypeProperty ;
+             
+             rdfs:label "Count" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/count-parts
+
+kaaont:count-parts rdf:type owl:DatatypeProperty ;
+                   
+                   rdfs:label "Count of parts" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/depicts
+
+kaaont:depicts rdf:type owl:DatatypeProperty ;
+               
+               rdfs:label "Depicts" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/discarded
+
+kaaont:discarded rdf:type owl:DatatypeProperty ;
+                 
+                 rdfs:label "Discarded" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/file
+
+kaaont:file rdf:type owl:DatatypeProperty ;
+            
+            rdfs:label "File" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/height
+
+kaaont:height rdf:type owl:DatatypeProperty ;
+              
+              rdfs:label "Height" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/inventory-book-description
+
+kaaont:inventory-book-description rdf:type owl:DatatypeProperty ;
+                                  
+                                  rdfs:label "Inventory book description" ;
+                                  
+                                  rdfs:comment "Text of the description as transcribed from the Inventory Book." .
+
+
+
+###  http://kenchreai.org/kaa/ontology/inventory-book-sketch
+
+kaaont:inventory-book-sketch rdf:type owl:DatatypeProperty ;
+                             
+                             rdfs:label "Inventory Book Sketch" ;
+                             
+                             rdfs:comment "Boolean value indicating the presence of a sketch in the Inventory Book." ;
+                             
+                             rdfs:range xsd:boolean .
+
+
+
+###  http://kenchreai.org/kaa/ontology/model
+
+kaaont:model rdf:type owl:DatatypeProperty ;
+             
+             rdfs:label "3D Model" ;
+             
+             rdfs:comment "URL of 3D model." ;
+             
+             rdfs:range xsd:anyURI .
+
+
+
+###  http://kenchreai.org/kaa/ontology/month
+
+kaaont:month rdf:type owl:DatatypeProperty .
+
+
+
+###  http://kenchreai.org/kaa/ontology/name
+
+kaaont:name rdf:type owl:DatatypeProperty ;
+            
+            rdfs:label "Name" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/notebook-transcription
+
+kaaont:notebook-transcription rdf:type owl:DatatypeProperty ;
+                              
+                              rdfs:label "Notebook transcription" ;
+                              
+                              rdfs:range xsd:string .
+
+
+
+###  http://kenchreai.org/kaa/ontology/pagescan
+
+kaaont:pagescan rdf:type owl:DatatypeProperty ;
+                
+                rdfs:label "Pagescan" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/photograph
+
+kaaont:photograph rdf:type owl:DatatypeProperty ;
+                  
+                  rdfs:label "Photograph" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/preserved-height
+
+kaaont:preserved-height rdf:type owl:DatatypeProperty ;
+                        
+                        rdfs:label "Preserved height" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/subject-number
+
+kaaont:subject-number rdf:type owl:DatatypeProperty ;
+                      
+                      rdfs:label "Subject number" .
+
+
+
+
+
+#################################################################
+#
+#    Classes
+#
+#################################################################
+
+
+###  http://kenchreai.org/kaa/ontology/collection-of-related-entities
+
+kaaont:collection-of-related-entities rdf:type owl:Class ;
+                                      
+                                      rdfs:label "Collection of related entities" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/excavation-area
+
+kaaont:excavation-area rdf:type owl:Class ;
+                       
+                       rdfs:label "Excavation Area" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/excavation-box
+
+kaaont:excavation-box rdf:type owl:Class ;
+                      
+                      rdfs:label "Excavation box" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/excavation-notebook
+
+kaaont:excavation-notebook rdf:type owl:Class ;
+                           
+                           rdfs:label "Excavation notebook" ;
+                           
+                           rdfs:subClassOf kaaont:notebook .
+
+
+
+###  http://kenchreai.org/kaa/ontology/field-book-number
+
+kaaont:field-book-number rdf:type owl:Class ;
+                         
+                         rdfs:label "Field book number" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/inventory-number
+
+kaaont:inventory-number rdf:type owl:Class ;
+                        
+                        rdfs:label "Inventory Number" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/kth-container
+
+kaaont:kth-container rdf:type owl:Class .
+
+
+
+###  http://kenchreai.org/kaa/ontology/notebook
+
+kaaont:notebook rdf:type owl:Class ;
+                
+                rdfs:label "Notebook" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/notebook-page
+
+kaaont:notebook-page rdf:type owl:Class ;
+                     
+                     rdfs:label "Notebook Page" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/person
+
+kaaont:person rdf:type owl:Class ;
+              
+              rdfs:label "Person" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/project
+
+kaaont:project rdf:type owl:Class ;
+               
+               rdfs:label "Project" ;
+               
+               rdfs:comment "Any set of closely related efforts to investigate the site of Kenchreai or nearby areas." .
+
+
+
+###  http://kenchreai.org/kaa/ontology/typology-item
+
+kaaont:typology-item rdf:type owl:Class ;
+                     
+                     rdfs:label "Typology Item" ;
+                     
+                     rdfs:comment "An entry in the KAA Typology." .
+
+
+
+###  http://kenchreai.org/kaa/ontology/year
+
+kaaont:year rdf:type owl:Class ;
+            
+            rdfs:label "Year" .
+
+
+
+
+###  Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net
+
