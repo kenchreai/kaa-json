@@ -12,31 +12,31 @@
    "@type": "kaaont:project",
    "title": "The Chicago/Indiana Harbor Excavations",
    "description": "Identifiers for records, other archival materials and ongoing work related to the Chicago/Indiana Excavations at Kenchreai",
-   "is-part-of": "http://kenchreai.org/kaa"
+   "is-logical-part-of": "http://kenchreai.org/kaa"
   },{
    "@id":"kaa:modern-chronology",
-   "@type": "rdfs:Resource",
+   "@type": "kaaont:collection-of-related-entities",
    "title": "Modern Chronology",
    "description": "Identifiers associated with the modern chronology of archaeological work at Kenchreai.",
-   "is-part-of": "http://kenchreai.org/kaa"
+   "is-logical-part-of": "http://kenchreai.org/kaa"
   },{
    "@id":"kaa:people",
-   "@type": "rdfs:Resource",
+   "@type": "kaaont:collection-of-related-entities",
    "title": "People Associated with Kenchreai",
    "description": "Identifiers for people associated with archaeological work at Kenchreai.",
-   "is-part-of": "http://kenchreai.org/kaa"
+   "is-logical-part-of": "http://kenchreai.org/kaa"
   },{
    "@id":"kaa:threpsiades",
    "@type": "kaaont:project",
    "title": "The Threpsiades Property Excavations",
    "description": "Identifiers for records, other archival materials and ongoing work related to the excavations in the Threpsiades Property at Kenchreai",
-   "is-part-of": "http://kenchreai.org/kaa"
+   "is-logical-part-of": "http://kenchreai.org/kaa"
   },{
    "@id":"kaa:typology",
-   "@type": "rdfs:Resource",
+   "@type": "kaaont:collection-of-related-entities",
    "title": "Archaeological Typologies",
-   "description": "Identifiers associated with the typologies used to describe objects and other discovered or describe during archaeological work at Kenchreai.",
-   "is-part-of": "http://kenchreai.org/kaa"
+   "description": "Typological terms used to describe objects identified during archaeological work at Kenchreai.",
+   "is-logical-part-of": "http://kenchreai.org/kaa"
   }
  ]
 }

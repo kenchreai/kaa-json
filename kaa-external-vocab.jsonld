@@ -3,70 +3,82 @@
  "@graph": [
   {
    "@id":"crm:P5_has_type",
-   "title":"Typology"
+   "label":"Typology"
   },{
    "@id":"crm:E55_type",
-   "title":"Typological term"
+   "label":"Typological term"
   },{
    "@id":"crm:P127_has_broader_term",
-   "title":"Broader typological term"
+   "label":"Broader typological term"
   },{
    "@id":"dct:creator",
-   "title":"Author or Editor"
+   "label":"Author or Editor"
   },{
    "@id":"dct:description",
-   "title":"Description"
+   "label":"Description"
   },{
    "@id":"dct:isPartOf",
-   "title":"Part of"
+   "label":"Part of"
   },{
    "@id":"dct:title",
-   "title":"Title"
+   "label":"Title"
   },{
    "@id":"dct:isPartOf",
-   "title":"Part of"
+   "label":"Part of"
   },{
    "@id":"foaf:name",
-   "title":"Name"
+   "label":"Name"
   },{
     "@id":"geo:lat",
-    "title": "Decimal latitude"
+    "label": "Decimal latitude"
   },{
     "@id":"geo:long",
-    "title": "Decimal longitude"
+    "label": "Decimal longitude"
   },{
      "@id": "http://lawd.info/ontology/Place",
-     "title": "Place"
+     "label": "Place"
+  },{
+   "@id":"owl:Class",
+   "label": "Descriptive term"
   },{
    "@id":"owl:sameAs",
-   "title":"Same as"
+   "label":"Same as"
   },{
    "@id":"rdf:type",
-   "title":"Is a"
+   "label":"Is a"
+  },{
+   "@id":"rdfs:comment",
+   "label":"Description"
   },{
    "@id":"rdfs:Class",
-   "title":"Descriptive term"
+   "label":"Descriptive term"
+  },{
+   "@id":"rdfs:label",
+   "label":"Label"
   },{
    "@id":"rdfs:Property",
-   "title":"Attribute"
+   "label":"Attribute"
   },{
    "@id":"rdfs:Resource",
-   "title":"Web-based archival resource"
+   "label":"Web-based archival resource"
   },{
    "@id":"rdfs:seeAlso",
-   "title":"See also"
+   "label":"See also"
+  },{
+   "@id": "rdfs:subPropertyOf",
+   "label": "Subproperty of"
   },{
    "@id":"http://purl.org/NET/Claros/vocab#not_after",
-   "title":"Latest date"
+   "label":"Latest date"
   },{
    "@id":"http://purl.org/NET/Claros/vocab#not_before",
-   "title":"Earliest date"
+   "label":"Earliest date"
   },{
    "@id":"xsd:gYear",
-   "title":"Year as text string"
+   "label":"Year as text string"
   },{
    "@id":"xsd:gYearMonth",
-   "title":"Year and month as text string"
+   "label":"Year and month as text string"
   }
  ]
 }
