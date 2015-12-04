@@ -41,6 +41,9 @@
    "@id":"owl:Class",
    "label": "Descriptive term"
   },{
+    "@id": "http://www.w3.org/2002/07/owl#inverseOf",
+    "label": "Inverse of"
+  },{
    "@id":"owl:sameAs",
    "label":"Same as"
   },{

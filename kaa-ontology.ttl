@@ -10,13 +10,13 @@
 @prefix kaakth: <http://kenchreai.org/kaa/threpsiades/> .
 @prefix kaaont: <http://kenchreai.org/kaa/ontology/> .
 @prefix kaatyp: <http://kenchreai.org/kaa/typology/> .
-@base <http://kenchreai.org/kaa/> .
+@base <http://kenchreai.org/kaa/ontology> .
 
-<http://kenchreai.org/kaa/> rdf:type owl:Ontology ;
-                            
-                            rdfs:label "Kenchreai Archaeological Archive OWL Ontology" ;
-                            
-                            rdfs:comment "Classes, properties and individuals used to describe maerials int the Kenchreai Archaeological Archive (KAA). This ontology is very much under construction." .
+<http://kenchreai.org/kaa/ontology> rdf:type owl:Ontology ;
+                                    
+                                    rdfs:label "Kenchreai Archaeological Archive OWL Ontology" ;
+                                    
+                                    rdfs:comment "Classes, properties and individuals used to describe maerials int the Kenchreai Archaeological Archive (KAA). This ontology is very much under construction." .
 
 
 #################################################################
@@ -107,6 +107,18 @@ kaaont:has-published-catalog-entry rdf:type owl:ObjectProperty ;
 kaaont:has-year rdf:type owl:ObjectProperty ;
                 
                 rdfs:label "Year" .
+
+
+
+###  http://kenchreai.org/kaa/ontology/in-excavation-trench
+
+kaaont:in-excavation-trench rdf:type owl:ObjectProperty ;
+                            
+                            rdfs:label "In excavation trench" ;
+                            
+                            owl:inverseOf kaaont:has-physical-part ;
+                            
+                            rdfs:subPropertyOf kaaont:is-physical-part-of .
 
 
 
@@ -437,6 +449,12 @@ kaaont:excavation-notebook rdf:type owl:Class ;
                            rdfs:label "Excavation notebook" ;
                            
                            rdfs:subClassOf kaaont:notebook .
+
+
+
+###  http://kenchreai.org/kaa/ontology/excavation-trench
+
+kaaont:excavation-trench rdf:type owl:Class .
 
 
 
