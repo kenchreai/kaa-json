@@ -3,248 +3,282 @@
  "@graph": [
   {
    "@id":"kaatyp:generic",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label": "KAA typology generic term",
    "description": "The starting point of the KAA typology.",
    "is-logical-part-of": "kaa:typology"
   },{
+   "@id":"kaatyp:ar",
+   "@type":"typology-item",
+   "broader": "kaatyp:generic",
+   "label":"Architectural piece or fragment"
+  },{
+   "@id":"kaatyp:ar-marble",
+   "@type":"typology-item",
+   "broader": "kaatyp:ar",
+   "label":"Architectural piece or fragment (Marble)"
+  },{
+   "@id":"kaatyp:ar-terracotta-antefix",
+   "@type":"typology-item",
+   "broader": "kaatyp:ar",
+   "label":"Terracotta antefix"
+  },{
    "@id":"kaatyp:gl",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "broader": "kaatyp:generic",
    "label":"Glass"
   },{
+   "@id":"kaatyp:gl-bead",
+   "@type":"typology-item",
+   "broader": "kaatyp:gl",
+   "label":"Glass bead"
+  },{
    "@id":"kaatyp:jewelry",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "broader": "kaatyp:generic",
    "label":"Jewelry"
   },{
+   "@id":"kaatyp:jewelry-bracelet",
+   "@type":"typology-item",
+   "broader": "kaatyp:jewelry",
+   "label":"Bracelet"
+  },{
    "@id":"kaatyp:jewelry-earring",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "broader": "kaatyp:jewelry",
    "label":"Earring"
   },{
    "@id":"kaatyp:l",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "broader": "kaatyp:generic",
    "label": "Lamp"
   },{
+   "@id":"kaatyp:l-ars",
+   "@type": "typology-item",
+   "broader": "kaatyp:;l",
+   "label": "African Red-Slip Lamp"
+  },{
    "@id":"kaatyp:lithic-obsidian-blade",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "broader": "kaatyp:generic",
    "label": "Obsidian Blade"
   },{
    "@id":"kaatyp:mi",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "broader": "kaatyp:generic",
    "label": "Miscellaneous"
   },{
+   "@id":"kaatyp:mi-mosaic-fragment",
+   "@type": "typology-item",
+   "broader": "kaatyp:mi",
+   "label": "Mosaic Fragment"
+  },{
    "@id":"kaatyp:mi-stone-bowl",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "broader": "kaatyp:mi",
    "label": "Stone Bowl"
   },{
    "@id":"kaatyp:p",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "broader": "kaatyp:generic",
    "label": "Pottery"
   },{
    "@id":"kaatyp:p-amphora",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Amphora",
    "broader": "kaatyp:p"
   },{
    "@id":"kaatyp:p-amphora-unclassified",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Unclassified Amphora",
    "broader": "kaatyp:p",
-   "description": "The use of this “type” indicates that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification."
+   "comment": "The use of this “type” can indicate that the record is incomplete and will be improved, that the form is currently unidentified, or that the sherd does not support further identification."
   },{
    "@id": "kaatyp:p-ars",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "African Red Slip",
    "broader": "kaatyp:p-slipped-fw"
   },{
    "@id": "kaatyp:p-ars-unclassified",
-   "@type": "kaaont:typology-item",
-   "description": "The use of this “type” indicates that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification.",
+   "@type": "typology-item",
+   "comment": "The use of this “type” can indicate that the record is incomplete and will be improved, that the form is currently unidentified, or that the sherd does not support further identification.",
    "label": "Unclassified African Red Slip",
    "broader": "kaatyp:p-ars"
   },{
    "@id": "kaatyp:p-ars-hayes-67",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "African Red-Slip Hayes 67",
    "broader": "kaatyp:p-ars"
   },{
    "@id": "kaatyp:p-ars-hayes-84",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "African Red-Slip Hayes 84",
    "broader": "kaatyp:p-ars"
   },{
    "@id": "kaatyp:p-ars-hayes-104",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "African Red-Slip Hayes 104",
    "broader": "kaatyp:p-ars",
    "not-before": 500,
    "not-after": 625
   },{
    "@id": "kaatyp:p-ars-hayes-104a",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "African Red-Slip Hayes 104a",
-   "broader": ["kaatyp:p-ars","kaatyp:p-ars-hayes-104"],
+   "broader": ["kaatyp:p-ars-hayes-104"],
    "not-before": 500,
    "not-after": 580
   },{
    "@id": "kaatyp:p-ars-hayes-104b",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "African Red-Slip Hayes 104b",
-   "broader": ["kaatyp:p-ars","kaatyp:p-ars-hayes-104"],
+   "broader": ["kaatyp:p-ars-hayes-104"],
    "not-before": 570,
    "not-after": 600
   },{
    "@id": "kaatyp:p-ars-hayes-104c",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "African Red-Slip Hayes 104c",
-   "broader": ["kaatyp:p-ars","kaatyp:p-ars-hayes-104"],
+   "broader": ["kaatyp:p-ars-hayes-104"],
    "not-before": 550,
    "not-after": 625
   },{
    "@id": "kaatyp:p-ars-hayes-105",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "African Red-Slip Hayes 105",
    "broader": "kaatyp:p-ars",
    "not-before": 580,
    "not-after": 675
   },{
    "@id": "kaatyp:p-athenian-gouged",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Athenian Late Roman Gouged Ware",
    "broader": "kaatyp:p-slipped-fw",
    "see":"http://www.agathe.gr/id/agora/object/p%2034657"
   },{
    "@id": "kaatyp:p-athenian-gouged-jug",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Athenian Late Roman Gouged Ware Jug",
    "broader": "kaatyp:p-athenian-gouged"
   },{
    "@id": "kaatyp:p-athenian-painted",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Athenian Late Roman Painted Ware",
    "broader": "kaatyp:p-slipped-fw"
   },{
    "@id": "kaatyp:p-attic-black-figure",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Attic Black Figure",
    "broader": "kaatyp:p-fw"
   },{
    "@id": "kaatyp:p-attic-red-figure",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Attic Red Figure",
    "broader": "kaatyp:p-fw"
   },{
    "@id":"kaatyp:p-amphora-beirut-8",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "broader":"kaatyp:p-amphora",
    "not-before": 450,
    "not-after": 650,
-   "origin": "misc:beirut",
    "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=39",
    "label": "Beiruit 8 Amphora"
   },{
    "@id":"kaatyp:p-byz-sgraffito",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Byzantine Sgraffito"
   },{
    "@id": "kaatyp:p-corinthian",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Corinthian",
    "broader": "kaatyp:p"
   },{
    "@id": "kaatyp:p-corinthian-a",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Corinthian Type A Amphora",
    "broader": ["kaatyp:p-corinthian", "kaatyp:p-amphora"]
   },{
    "@id": "kaatyp:p-corinthian-aryballos",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Corinthian Aryballos",
    "broader": "kaatyp:p-corinthian"
   },{
    "@id": "kaatyp:p-corinthian-lekane",
-   "@type": "kaaont:typology-item",
-   "label": "Corinthian Aryballos",
+   "@type": "typology-item",
+   "label": "Corinthian Lekane",
    "broader": "kaatyp:p-corinthian"
   },{
    "@id": "kaatyp:p-corinthian-relief",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Corinthian Relief Ware",
    "broader": "kaatyp:p-corinthian"
   },{
    "@id": "kaatyp:p-cw",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Coarse Ware",
    "broader": "kaatyp:p"
   },{
    "@id": "kaatyp:p-cw-phocaean-cookware",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Phocaean Cooking Ware",
    "broader": "kaatyp:p-cw"
   },{
    "@id": "kaatyp:p-cw-mr-flanged-casserole",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Phocaean Cooking Ware",
    "broader": "kaatyp:p-cw"
   },{
    "@id": "kaatyp:p-ephesian-grayware",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Ephesian Grayware",
    "broader": "kaatyp:p-slipped-fw"
   },{
    "@id": "kaatyp:p-ephesian-grayware-platter",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Ephesian Grayware Platter",
    "broader": "kaatyp:p-ephesian-grayware"
   },{
    "@id": "kaatyp:p-esa",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Eastern Sigillata A",
    "see": "http://classics.uc.edu/troy/grbpottery/html/esa.html",
    "broader": "kaatyp:p-slipped-fw"
   },{
    "@id": "kaatyp:p-esa-mold-decorated-vessel",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Eastern Sigillata A Mold Decorated Vessel",
    "description": "Placeholder for body sherds with molded decoration that are not assignable to a particular ESA form.",
    "broader": "kaatyp:p-esa"
   },{
    "@id": "kaatyp:p-esa-hayes-5b",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Eastern Sigillata A Hayes Form 5",
    "broader": "kaatyp:p-esa"
   },{
    "@id": "kaatyp:p-esa-hayes-12",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Eastern Sigillata A Hayes Form 12",
    "broader": "kaatyp:p-esa"
   },{
    "@id": "kaatyp:p-esa-hayes-50",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Eastern Sigillata A Hayes Form 50",
    "broader": "kaatyp:p-esa"
   },{
    "@id": "kaatyp:p-esc",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Eastern Sigillata C",
    "broader": "kaatyp:p-slipped-fw"
   },{
    "@id": "kaatyp:p-esc-hayes-1",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Eastern Sigillata C Form Hayes 1",
    "broader": "kaatyp:p-esc",
    "not-before": 150,
    "not-after": 300
   },{
    "@id":"kaatyp:p-keay-52",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label": "Keay 52 Amphora",
    "broader": "kaatyp:p-amphora",
    "not-before": 350,
@@ -252,172 +286,188 @@
    "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=161"
   },{
    "@id":"kaatyp:p-kenchreai-4-rc-10",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label": "Kenchreai IV RC10 Amphora",
    "broader": "kaatyp:p-amphora",
    "description": "A two-handled amphora with concave base that is found regionally in the Corinthia and Argolid. At Kenchreai, this is the form of the vessels found in the sc-called “Isis Temple Cellar”."
   },{
    "@id":"kaatyp:p-kenchreai-4-rc-22e",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label": "Kenchreai IV RC22e Amphora",
    "broader": "kaatyp:p-amphora",
    "description": "In Kenchreai IV, catalog entry RC 22 is mixed and takes in a variety of sherds with dipinti. As a typological identification, “RC 22e” refers to the hard-fired, white slipped form illustrated on plate 29 of Kenchreai IV. See Slane and Sanders (2005) “Late Roman Horizons” no. 2-17."
   },{
    "@id":"kaatyp:p-slipped-fw",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label":"Slipped Tablewares",
    "broader":"kaatyp:p"
   },{
    "@id":"kaatyp:p-lra-1",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label":"Late Roman Amphora 1",
    "broader":"kaatyp:p-amphora",
    "description": "Late Roman amphora form produced in both Cilicia and Cyprus. The form appears in a variety of fabrics.",
    "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=236"
      },{
    "@id":"kaatyp:p-lra-2",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label":"Late Roman Amphora 2",
    "broader":"kaatyp:p-amphora",
    "description": "Late Roman amphora form produced in the Aegean. The Argolid is a well-known producing region of the form and LRA2's are abundant at Kenchreai.",
    "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=239" 
   },{
    "@id":"kaatyp:p-lra-2-small",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label":"Late Roman Amphora 2 Small",
    "broader":"kaatyp:p-amphora",
    "description": "Small variant of LRA 2."
   },{
    "@id":"kaatyp:p-lra-3",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label":"Late Roman Amphora 3",
    "broader":"kaatyp:p-amphora",
    "description": "Also known as “Micaceous Water Jar,” this form is the successor of Middle Roman Amphora 3. Distinct by its thin walls that show wide, spiralling ridges and by its micaceous brown fabric.",
    "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=240"
   },{
    "@id":"kaatyp:p-lra-4",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label":"Late Roman Amphora 4",
    "broader":"kaatyp:p-amphora",
    "description": "Late Roman amphora form produced in southern Palestine. Also known as “Almagro 54” and “Gaza Amphora” among other names.",
    "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=16"
   },{
    "@id":"kaatyp:p-lra-5",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label":"Late Roman Amphora 5",
    "broader":"kaatyp:p-amphora",
    "see": "http://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=267"
   },{
    "@id":"kaatyp:p-lra-6",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label":"Late Roman Amphora 6",
    "broader":"kaatyp:p-amphora"
   },{
    "@id":"kaatyp:p-lra-7",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label":"Late Roman Amphora 7",
    "broader":"kaatyp:p-amphora"
   },{
    "@id":"kaatyp:p-mra-3",
-   "@type":"kaaont:typology-item",
-   "label":"Midle Roman Amphora 3",
+   "@type":"typology-item",
+   "label":"Middle Roman Amphora 3",
    "broader":"kaatyp:p-amphora"
   },{
+   "@id":"kaatyp:p-megarian-bowl",
+   "@type": "typology-item",
+   "label": "Megarian bowl",
+   "broader": "kaatyp:p",
+   "description": "Generic category of Hellenistic moldmade bowls, so-called 'Megarian'."
+  },{
    "@id":"kaatyp:p-ottoman",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Ottoman Pottery",
    "broader": "kaatyp:p",
    "description": "Placeholder for preliminary identification of a vessel as Ottoman by chronology."
   },{
    "@id":"kaatyp:p-pithos",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Pithos",
    "broader": "kaatyp:p"
   },{
    "@id":"kaatyp:p-prs",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Phocaean Red Slip",
    "broader": "kaatyp:p-slipped-fw"
   },{
    "@id":"kaatyp:p-prs-hayes-1",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label": "Phocaean Red-Slip Hayes 1",
    "broader": "kaatyp:p-prs"
   },{
    "@id":"kaatyp:p-prs-hayes-1a",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label": "Phocaean Red-Slip Hayes 1a",
    "broader": "kaatyp:p-prs-hayes-1"
   },{
    "@id":"kaatyp:p-prs-hayes-3",
    "label": "Phocaean Red-Slip Hayes 3",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "broader": "kaatyp:p-prs"
   },{
+   "@id":"kaatyp:p-prs-hayes-3c",
+   "label": "Phocaean Red-Slip Hayes 3c",
+   "@type":"typology-item",
+   "broader": "kaatyp:p-prs-hayes-3"
+  },{
+   "@id":"kaatyp:p-prs-hayes-3h",
+   "label": "Phocaean Red-Slip Hayes 3h",
+   "@type":"typology-item",
+   "broader": "kaatyp:p-prs-hayes-3"
+  },{
    "@id":"kaatyp:p-prs-hayes-4",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label": "Phocaean Red-Slip Hayes 4",
    "broader": "kaatyp:p-prs"
   },{
    "@id":"kaatyp:p-prs-hayes-10",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label": "Phocaean Red-Slip Hayes 10",
    "broader": "kaatyp:p-prs"
   },{
    "@id":"kaatyp:p-prs-hayes-10a",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "broader": "kaatyp:p-prs",
    "label": "Phocaean Red-Slip Hayes 10a"
   },{
    "@id":"kaatyp:p-prs-hayes-10b",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label": "Phocaean Red-Slip Hayes 10b",
    "broader": "kaatyp:p-prs"
   },{
    "@id":"kaatyp:p-prs-hayes-10c",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label": "Phocaean Red-Slip Hayes 10c",
    "broader": "kaatyp:p-prs"
   },{
    "@id":"kaatyp:p-prs-unclassified",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label": "Unclassified Phocaean Red-Slip",
    "broader": "kaatyp:p-prs",
-   "description": "The use of this “type” indicates that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification."
+   "comment": "The use of this “type” can indicate that the record is incomplete and will be improved, that the form is currently unidentified, or that the sherd does not support further identification."
   },{
    "@id": "kaatyp:p-rooftile",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Rooftile"
    },{
    "@id": "kaatyp:p-sig-it",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Italian Sigillata",
    "broader": "kaatyp:p-slipped-fw",
    "description": "Roman-period red slipped table vessels produced in Italy from the late 1st century BC into the 2nd AD."
    },{
    "@id": "kaatyp:p-sig-it-conspectus-4",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Italian Sigillata Conspectus Form 4",
    "broader": "kaatyp:p-sig-it",
    "not-after": 20,
    "not-before": -20
    },{
    "@id": "kaatyp:p-sig-it-conspectus-18",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Italian Sigillata Conspectus Form 18",
    "broader": "kaatyp:p-sig-it",
    "not-after": 40,
    "not-before": -20
    },{
    "@id": "kaatyp:p-sig-it-conspectus-18.2",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Italian Sigillata Conspectus Form 18.2",
    "broader": ["kaatyp:p-sig-it","kaatyp:p-sig-it-conspectus-18"],
    "not-after": 40,
    "not-before": -20
    },{
    "@id": "kaatyp:p-sig-it-stamp",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Italian Sigillata Stamp",
    "broader": ["kaatyp:p-sig-it"],
    "comment": "Corinthus of Pozzuoli",
@@ -425,7 +475,7 @@
    "not-before": 1
    },{
    "@id": "kaatyp:p-sig-it-stamp-cva-608-3",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Italian Sigillata CVA Stamp 608.3",
    "broader": ["kaatyp:p-sig-it-stamp"],
    "comment": "Corinthus of Pozzuoli",
@@ -433,44 +483,74 @@
    "not-before": 1
    },{
    "@id": "kaatyp:p-sig-it-unclassified",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Unclassified Italian Sigillata",
    "broader": "kaatyp:p-sig-it",
-   "description": "The use of this “type” indicates either that the record is incomplete and will be improved, in which case “unclassified” is a placeholder, that the form is currently unidentified, or that the sherd does not support further identification."
+   "comment": "The use of this “type” can indicate that the record is incomplete and will be improved, that the form is currently unidentified, or that the sherd does not support further identification."
    },{
    "@id":"kaatyp:p-small-handled-stopper",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Small handled amphora stopper",
    "broader":"kaatyp:p",
    "description": "Used exclusively for regionally-made stoppers for LRA2 amphoras."
   },{
    "@id": "kaatyp:p-spatheion",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label": "Spatheion",
    "broader": "kaatyp:p-amphora"
   },{
    "@id":"kaatyp:p-unclassified",
-   "@type": "kaaont:typology-item",
-   "broader": "kaatyp:generic",
-   "label": "Unclassified Pottery"
+   "@type": "typology-item",
+   "broader": "kaatyp:p",
+   "label": "Unclassified Pottery",
+   "comment": "The use of this “type” can indicate that the record is incomplete and will be improved, that the form is currently unidentified, or that the sherd does not support further identification."
+  },{
+   "@id":"kaatyp:p-unclassified-red-figure",
+   "@type": "typology-item",
+   "broader": "kaatyp:p",
+   "label": "Unclassified Red Figure",
+   "comment": "The use of this “type” can indicate that the record is incomplete and will be improved, that the form is currently unidentified, or that the sherd does not support further identification."
+  },{
+   "@id":"kaatyp:p-unclassified-black-figure",
+   "@type": "typology-item",
+   "broader": "kaatyp:p",
+   "label": "Unclassified Black Figure",
+   "comment": "The use of this “type” can indicate that the record is incomplete and will be improved, that the form is currently unidentified, or that the sherd does not support further identification."
+  },{
+   "@id": "kaatyp:p-unguentarium",
+   "@type":"typology-item",
+   "label": "Unguentarium",
+   "broader": "kaatyp:p"
+  },{
+   "@id": "kaatyp:p-unguentarium-fusiform",
+   "@type":"typology-item",
+   "label": "Fusiform unguentarium",
+   "broader": "kaatyp:p-unguentarium"
+
+  },{
+   "@id": "kaatyp:p-unguentarium-piriform",
+   "@type":"typology-item",
+   "label": "Piriform unguentarium",
+   "broader": "kaatyp:p-unguentarium"
+
   },{
    "@id": "kaatyp:p-water-pipe",
-   "@type":"kaaont:typology-item",
+   "@type":"typology-item",
    "label": "Water Pipe",
    "broader": "kaatyp:p"
   },{
    "@id":"kaatyp:s",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "broader": "kaatyp:generic",
    "label": "Sculpture"
   },{
    "@id":"kaatyp:s-herm",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Herm",
    "broader": "kaatyp:s"
   },{
    "@id":"kaatyp:s-figurine",
-   "@type": "kaaont:typology-item",
+   "@type": "typology-item",
    "label": "Terracotta Figurine",
    "broader": "kaatyp:s"
   }

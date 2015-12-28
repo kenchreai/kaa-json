@@ -3,870 +3,970 @@
   "@graph": [
     {
       "@id": "kaahbr:field-book-number-c-0001",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "label": "Field Book Number C 1 (Excavation Box C 1)",
+      "next": "kaahbr:field-book-number-c-0002",
       "notebook-transcription": "Box #1 Contains material from Area C, section 1, first layer. (see p. 8)",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-003"],
       "same-as": {"@id": "kaahbr:excavation-box-c0001",
-                  "@type": "kaaont:excavation-box",
+                  "@type": "excavation-box",
     				"label": "Excavation Box C 1",
     				"on-notebook-page": [ "kaahbr:notebook-page-c-i-003",
     				 					   "kaahbr:notebook-page-c-i-008"]}
     },{
       "@id": "kaahbr:field-book-number-c-0002",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "label": "Field Book Number C 2 (Excavation Box C 2)",
+      "next": "kaahbr:field-book-number-c-0003",
       "notebook-transcription": "Box #2 Contains material from Area C, section 2, first layer. (see p. 8). - Byzantine ware, one combed ware. - coarse red glaze",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-003"],
       "same-as": {"@id": "kaahbr:excavation-box-c0002",
-                  "@type": "kaaont:excavation-box",
+                  "@type": "excavation-box",
     				"label": "Excavation Box C 2",
     				"on-notebook-page": [ "kaahbr:notebook-page-c-i-003",
     				 					   "kaahbr:notebook-page-c-i-008"]}
     },{
       "@id": "kaahbr:field-book-number-c-0003",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "label": "Field Book Number C 3",
+      "next": "kaahbr:field-book-number-c-0004",
       "on-notebook-page": "kaahbr:notebook-page-c-i-003",
       "notebook-transcription": "Box #2 Contains material from Area C, section 3, first layer. (see p. 8). - Coarse Roman ware, some combed decoration",
       "same-as": {"@id": "kaahbr:excavation-box-c0003",
-                  "@type": "kaaont:excavation-box",
+                  "@type": "excavation-box",
     				"label": "Excavation Box C 3",
     				"on-notebook-page": [ "kaahbr:notebook-page-c-i-003",
     				 					   "kaahbr:notebook-page-c-i-008"]}
     },{
       "@id": "kaahbr:field-book-number-c-0004",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "label": "Field Book Number C 4",
+      "next": "kaahbr:field-book-number-c-0005",
       "on-notebook-page": "kaahbr:notebook-page-c-i-003",
       "notebook-transcription": "Box #2 Contains material from Area C, section 3, 0.50 cm. (see p. 8).",
       "same-as": {"@id": "kaahbr:excavation-box-c0004",
-                  "@type": "kaaont:excavation-box",
+                  "@type": "excavation-box",
     				"label": "Excavation Box C 4",
     				"on-notebook-page": [ "kaahbr:notebook-page-c-i-003",
     				 					   "kaahbr:notebook-page-c-i-008"]}
     },{
       "@id": "kaahbr:field-book-number-c-0005",
-      "@type": ["kaaont:field-book-number"],
-      "label": "Field Book Number C 5 (KE 78)",
+      "@type": ["field-book-number"],
+      "label": "Field Book Number C 5 (KE 78 Lamp)",
+      "in-excavation-trench": "kaahbr:trench-c63-i-3",
+      "next": "kaahbr:field-book-number-c-0006",
       "on-notebook-page": "kaahbr:notebook-page-c-i-003",
       "same-as": "kaahbr:ke0078"
     },{
       "@id": "kaahbr:field-book-number-c-0006",
-      "@type": ["kaaont:field-book-number"],
+      "@type": ["field-book-number"],
       "label": "Field Book Number C 6 (Discarded)",
       "discarded": true,
+      "next": "kaahbr:field-book-number-c-0007",
       "on-notebook-page": "kaahbr:notebook-page-c-i-003"
+    },{
+      "@id": "kaahbr:field-book-number-c-0007",
+      "@type": ["field-book-number"],
+      "label": "Field Book Number C 7",
+      "next": "kaahbr:field-book-number-c-0008",
+      "notebook-transcription": "Terracotta fragment fd in section 3, G9, first layer",
+      "on-notebook-page": "kaahbr:notebook-page-c-i-004"
+    },{
+      "@id": "kaahbr:field-book-number-c-0008",
+      "@type": ["field-book-number"],
+      "label": "Field Book Number C 8 (KE 2)",
+      "next": "kaahbr:field-book-number-c-0009",
+      "notebook-transcription": "Piece of antefix (marble) (floral) fd in section 1 at C9, at depth of .55 cm",
+      "on-notebook-page": "kaahbr:notebook-page-c-i-004",
+      "same-as": "kaahbr:ke0002"
+    },{
+      "@id": "kaahbr:field-book-number-c-0009",
+      "@type": ["field-book-number"],
+      "label": "Field Book Number C 9",
+      "discarded": true,
+      "next": "kaahbr:field-book-number-c-0010",
+      "notebook-transcription": "Piece of Roman glass. section 1, H9, at depth of 0.55 cm",
+      "on-notebook-page": "kaahbr:notebook-page-c-i-004"
+    },{
+      "@id": "kaahbr:field-book-number-c-0010",
+      "@type": ["field-book-number"],
+      "label": "Field Book Number C 10 (KE 30 Lamp)",
+      "next": "kaahbr:field-book-number-c-0011",
+      "notebook-transcription": "Piece of Roman lamp. section 3, A9, at 50 cm down",
+      "on-notebook-page": "kaahbr:notebook-page-c-i-004",
+      "same-as": "kaahbr:ke0030"
     },{
       "@id": "kaahbr:field-book-number-c-0011",
       "label": "Field Book Number C 11",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "on-notebook-page": ["kaahbr:notebook-page-c-i-007", "kaahbr:notebook-page-c-i-009"]
+      "@type": ["field-book-number", "excavation-box"],
+      "on-notebook-page": ["kaahbr:notebook-page-c-i-007", "kaahbr:notebook-page-c-i-009"],
+      "same-as": {"@id":"kaahbr:excavation-box-c0011",
+                  "@type": "excavation-box",
+    				"label": "Excavation Box C 11",
+    				"on-notebook-page": [ "kaahbr:notebook-page-c-i-007",
+    				 					   "kaahbr:notebook-page-c-i-009"]}
     },{
       "@id": "kaahbr:field-book-number-c-0016",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 16 (Excavation Box 16)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 16 (Excavation Box 16)",
       "in-excavation-trench": "kaahbr:trench-c63-i-3",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-008", "kaahbr:notebook-page-c-i-164"]
     },{
       "@id": "kaahbr:field-book-number-c-0017",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 17 (Excavation Box 17)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 17 (Excavation Box 17)",
       "in-excavation-trench": "kaahbr:trench-c63-i-3",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-008", "kaahbr:notebook-page-c-i-164"]
     },{
       "@id": "kaahbr:field-book-number-c-0018",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 18 (Excavation Box 18)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 18 (Excavation Box 18)",
       "in-excavation-trench": "kaahbr:trench-c63-i-3",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-008", "kaahbr:notebook-page-c-i-164"]
     },{
       "@id": "kaahbr:field-book-number-c-0021",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 21 (Excavation Box 21)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 21 (Excavation Box 21)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-163"
     },{
       "@id": "kaahbr:field-book-number-c-0022",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 22 (Excavation Box 22)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 22 (Excavation Box 22)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-163"
     },{
       "@id": "kaahbr:field-book-number-c-0024",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 24 (Excavation Box 24)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 24 (Excavation Box 24)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-162"
     },{
       "@id": "kaahbr:field-book-number-c-0025",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 25 (Excavation Box 25)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 25 (Excavation Box 25)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-162"
     },{
       "@id": "kaahbr:field-book-number-c-0026",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 26 (Excavation Box 26)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 26 (Excavation Box 26)",
       "in-excavation-trench": "kaahbr:trench-c63-i-1",
       "on-notebook-page": "kaahbr:notebook-page-c-i-162"
     },{
       "@id": "kaahbr:field-book-number-c-0037",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 37 (Excavation Box 37)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 37 (Excavation Box 37)",
       "in-excavation-trench": "kaahbr:trench-c63-i-1",
       "on-notebook-page": "kaahbr:notebook-page-c-i-160"
     },{
       "@id": "kaahbr:field-book-number-c-0038",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 38 (Excavation Box 38)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 38 (Excavation Box 38)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-160"
     },{
       "@id": "kaahbr:field-book-number-c-0039",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 39 (Excavation Box 39)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 39 (Excavation Box 39)",
       "in-excavation-trench": "kaahbr:trench-c63-i-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-160"
     },{
       "@id": "kaahbr:field-book-number-c-0040",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 40 (Excavation Box 40)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 40 (Excavation Box 40)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-160"
     },{
       "@id": "kaahbr:field-book-number-c-0046",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 46 (Excavation Box 46)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 46 (Excavation Box 46)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-158"
     },{
+      "@id": "kaahbr:field-book-number-c-0047",
+      "@type": ["field-book-number"],
+      "label": "Field book number C 47 (KE 31)",
+      "in-excavation-trench": "kaahbr:trench-c63-i-4",
+      "on-notebook-page": "kaahbr:notebook-page-c-i-158",
+      "same-as": "kaahbr:ke0031"
+    },{
+      "@id": "kaahbr:field-book-number-c-0048",
+      "@type": ["field-book-number"],
+      "label": "Field book number C 48 (KE 34)",
+      "in-excavation-trench": "kaahbr:trench-c63-i-4",
+      "on-notebook-page": "kaahbr:notebook-page-c-i-158",
+      "same-as": "kaahbr:ke0034"
+    },{
       "@id": "kaahbr:field-book-number-c-0049",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 49 (Excavation Box 49)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 49 (Excavation Box 49)",
       "in-excavation-trench": "kaahbr:trench-c63-i-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-158"
     },{
       "@id": "kaahbr:field-book-number-c-0050",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 50 (Excavation Box 50)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 50 (Excavation Box 50)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-158"
     },{
       "@id": "kaahbr:field-book-number-c-0051",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 51 (Excavation Box 51)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 51 (Excavation Box 51)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-158"
     },{
       "@id": "kaahbr:field-book-number-c-0052",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 52 (Excavation Box 52)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 52 (Excavation Box 52)",
       "in-excavation-trench": "kaahbr:trench-c63-i-1",
       "on-notebook-page": "kaahbr:notebook-page-c-i-157"
     },{
       "@id": "kaahbr:field-book-number-c-0053",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 53 (Excavation Box 53)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 53 (Excavation Box 53)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-157"
     },{
       "@id": "kaahbr:field-book-number-c-0056",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 56 (Excavation Box 56)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 56 (Excavation Box 56)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-157"
     },{
       "@id": "kaahbr:field-book-number-c-0057",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 57 (Excavation Box 57)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 57 (Excavation Box 57)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-157"
     },{
       "@id": "kaahbr:field-book-number-c-0059",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 59 (Excavation Box 59)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 59 (Excavation Box 59)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-156"
     },{
-      "@id": "kaahbr:field-book-number-c-0062",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 62 (Excavation Box 62)",
-      "in-excavation-trench": "kaahbr:trench-c63-i-2",
-      "on-notebook-page": "kaahbr:notebook-page-c-i-155"
+      "@id": "kaahbr:field-book-number-c-0060",
+      "@type": ["field-book-number"],
+      "label": "Field book number C 60 (KE 26)",
+      "in-excavation-trench": "kaahbr:trench-c63-i-4",
+      "on-notebook-page": "kaahbr:notebook-page-c-i-156",
+      "same-as": "kaahbr:ke0026"
     },{
       "@id": "kaahbr:field-book-number-c-0063",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 63 (Excavation Box 63)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 63 (Excavation Box 63)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-155"
     },{
       "@id": "kaahbr:field-book-number-c-0063a",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 63a (Excavation Box 63a)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 63a (Excavation Box 63a)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-019"
     },{
       "@id": "kaahbr:field-book-number-c-0064",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 64 (Excavation Box 64)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 64 (Excavation Box 64)",
       "in-excavation-trench": "kaahbr:trench-c63-i-1",
       "on-notebook-page": "kaahbr:notebook-page-c-i-155"
     },{
       "@id": "kaahbr:field-book-number-c-0065",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 65 (Excavation Box 65)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 65 (Excavation Box 65)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-155"
     },{
       "@id": "kaahbr:field-book-number-c-0066",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 66 (Excavation Box 66)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 66 (Excavation Box 66)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-155"
     },{
       "@id": "kaahbr:field-book-number-c-0066a",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 66a (Excavation Box 66a)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 66a (Excavation Box 66a)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-155"
     },{
       "@id": "kaahbr:field-book-number-c-0067",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 67 (Excavation Box 67)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 67 (Excavation Box 67)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-017", "kaahbr:notebook-page-c-i-155"]
     },{
       "@id": "kaahbr:field-book-number-c-0068",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 68 (Excavation Box 68)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 68 (Excavation Box 68)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-154"
     },{
       "@id": "kaahbr:field-book-number-c-0070",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 70 (Excavation Box 70)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 70 (Excavation Box 70)",
       "in-excavation-trench": "kaahbr:trench-c63-i-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-154"
     },{
+      "@id": "kaahbr:field-book-number-c-0073",
+      "@type": "field-book-number",
+      "label": "Field book number C 71 (KE 41)",
+      "in-excavation-trench": "kaahbr:trench-c63-i-4",
+      "on-notebook-page": "kaahbr:notebook-page-c-i-153",
+      "same-as": "kaahbr:ke0041"
+    },{
       "@id": "kaahbr:field-book-number-c-0075",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 75 (Excavation Box 75)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 75 (Excavation Box 75)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-153"
     },{
       "@id": "kaahbr:field-book-number-c-0075a",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 75a (Excavation Box 75a)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 75a (Excavation Box 75a)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-153"
     },{
       "@id": "kaahbr:field-book-number-c-0079",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 79 (Excavation Box 79)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 79 (Excavation Box 79)",
       "in-excavation-trench": "kaahbr:trench-c63-i-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-152"
     },{
       "@id": "kaahbr:field-book-number-c-0080",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 80 (Excavation Box 80)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 80 (Excavation Box 80)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-152"
     },{
       "@id": "kaahbr:field-book-number-c-0081",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 81 (Excavation Box 81)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 81 (Excavation Box 81)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-152"
     },{
+      "@id": "kaahbr:field-book-number-c-0083",
+      "@type": ["field-book-number"],
+      "label": "Field book number C 83 (KE 39)",
+      "in-excavation-trench": "kaahbr:trench-c63-i-4",
+      "on-notebook-page": "kaahbr:notebook-page-c-i-151",
+      "same-as": "kaahbr:ke0039"
+    },{
       "@id": "kaahbr:field-book-number-c-0084",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 84 (Excavation Box 84)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 84 (Excavation Box 84)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-150"
     },{
       "@id": "kaahbr:field-book-number-c-0084a",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 84a (Excavation Box 84a)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 84a (Excavation Box 84a)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-150"
     },{
       "@id": "kaahbr:field-book-number-c-0085",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 85 (Excavation Box 85)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 85 (Excavation Box 85)",
       "in-excavation-trench": "kaahbr:trench-c63-i-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-150"
     },{
       "@id": "kaahbr:field-book-number-c-0086",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 86 (Excavation Box 86)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 86 (Excavation Box 86)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-150"
     },{
       "@id": "kaahbr:field-book-number-c-0088",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 88 (Excavation Box 88)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 88 (Excavation Box 88)",
       "in-excavation-trench": "kaahbr:trench-c63-i-2",
       "on-notebook-page": "kaahbr:notebook-page-c-i-149"
     },{
       "@id": "kaahbr:field-book-number-c-0089",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 89 (Excavation Box 89)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 89 (Excavation Box 89)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-149"
     },{
       "@id": "kaahbr:field-book-number-c-0091",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 91 (Excavation Box 91)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 91 (Excavation Box 91)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-148"
     },{
       "@id": "kaahbr:field-book-number-c-0093",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 93 (Excavation Box 93)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 93 (Excavation Box 93)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-148"
     },{
       "@id": "kaahbr:field-book-number-c-0096",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 96 (Excavation Box 96)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 96 (Excavation Box 96)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-147"
     },{
       "@id": "kaahbr:field-book-number-c-0097",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 97 (Excavation Box 97)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 97 (Excavation Box 97)",
       "in-excavation-trench": "kaahbr:trench-c63-i-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-147"
     },{
       "@id": "kaahbr:field-book-number-c-0100",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 100 (Excavation Box 100)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 100 (Excavation Box 100)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-147"
     },{
       "@id": "kaahbr:field-book-number-c-0101",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 101 (Excavation Box 101)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 101 (Excavation Box 101)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-146"
     },{
       "@id": "kaahbr:field-book-number-c-0102",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 102 (Excavation Box 102)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 102 (Excavation Box 102)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-146"
     },{
       "@id": "kaahbr:field-book-number-c-0103",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 103 (Excavation Box 103)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 103 (Excavation Box 103)",
       "in-excavation-trench": "kaahbr:trench-c63-i-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-146"
     },{
       "@id": "kaahbr:field-book-number-c-0104",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 104 (Excavation Box 104)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 104 (Excavation Box 104)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-146"
     },{
       "@id": "kaahbr:field-book-number-c-0104a",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 104a (Excavation Box 104a)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 104a (Excavation Box 104a)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-146"
     },{
       "@id": "kaahbr:field-book-number-c-0105",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 105 (Excavation Box 105)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 105 (Excavation Box 105)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
-      "on-notebook-page": "kaahbr:notebook-page-c-i-146"
+      "on-notebook-page": "kaahbr:notebook-page-c-i-146",
+      "same-as": ["kaahbr:ke0111", "kaahbr:ke0139"]
     },{
       "@id": "kaahbr:field-book-number-c-0110",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 110 (Excavation Box 110)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 110 (Excavation Box 110)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-145"
     },{
       "@id": "kaahbr:field-book-number-c-0114",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 114 (Excavation Box 114)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 114 (Excavation Box 114)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-143"
     },{
       "@id": "kaahbr:field-book-number-c-0115",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 115 (Excavation Box 115)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 115 (Excavation Box 115)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-143"
     },{
       "@id": "kaahbr:field-book-number-c-0119",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 119 (Excavation Box 119)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 119 (Excavation Box 119)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-142"
     },{
       "@id": "kaahbr:field-book-number-c-0120",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 120 (Excavation Box 120)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 120 (Excavation Box 120)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-142"
     },{
       "@id": "kaahbr:field-book-number-c-0121",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 121 (Excavation Box 121)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 121 (Excavation Box 121)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-142"
     },{
       "@id": "kaahbr:field-book-number-c-0123",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 123 (Excavation Box 123)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 123 (Excavation Box 123)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-141"
     },{
       "@id": "kaahbr:field-book-number-c-0124",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 124 (Excavation Box 124)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 124 (Excavation Box 124)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-141"
     },{
       "@id": "kaahbr:field-book-number-c-0124a",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 124a (Excavation Box 124a)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 124a (Excavation Box 124a)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-141"
     },{
       "@id": "kaahbr:field-book-number-c-0125",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 125 (Excavation Box 125)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 125 (Excavation Box 125)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-141"
     },{
       "@id": "kaahbr:field-book-number-c-0126",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 126 (Excavation Box 126)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 126 (Excavation Box 126)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-140"
     },{
+      "@id": "kaahbr:field-book-number-c-0127",
+      "@type": ["field-book-number"],
+      "label": "Field book number C 127 (KE 80, Lamp)",
+      "in-excavation-trench": "kaahbr:trench-c63-ii-4",
+      "on-notebook-page": "kaahbr:notebook-page-c-i-140",
+      "same-as": "kaahbr:ke0080"
+    },{
       "@id": "kaahbr:field-book-number-c-0128",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 128 (Excavation Box 128)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 128 (Excavation Box 128)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-140"
     },{
       "@id": "kaahbr:field-book-number-c-0129",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 129 (Excavation Box 128)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 129 (Excavation Box 128)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": "kaahbr:notebook-page-c-i-140"
     },{
       "@id": "kaahbr:field-book-number-c-0130",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 130 (Excavation Box 130)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 130 (Excavation Box 130)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": "kaahbr:notebook-page-c-i-140"
     },{
       "@id": "kaahbr:field-book-number-c-0131",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 131 (Excavation Box 131)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 131 (Excavation Box 131)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-139"
     },{
       "@id": "kaahbr:field-book-number-c-0132",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 132 (Excavation Box 132)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 132 (Excavation Box 132)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-139"
     },{
       "@id": "kaahbr:field-book-number-c-0133",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 133 (Excavation Box 133)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 133 (Excavation Box 133)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-139"
     },{
+      "@id": "kaahbr:field-book-number-c-0135",
+      "@type": ["field-book-number"],
+      "label": "Field book number C 135 (KE 81, Lamp)",
+      "in-excavation-trench": "kaahbr:trench-c63-i-4",
+      "on-notebook-page": "kaahbr:notebook-page-c-i-139",
+      "same-as": "kaahbr:ke0081"
+    },{
       "@id": "kaahbr:field-book-number-c-0138",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 138 (Excavation Box 138)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 138 (Excavation Box 138)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-138"
     },{
       "@id": "kaahbr:field-book-number-c-0139",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 139 (Excavation Box 139)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 139 (Excavation Box 139)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-138"
     },{
       "@id": "kaahbr:field-book-number-c-0140",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 140 (Excavation Box 140)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 140 (Excavation Box 140)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-039", "kaahbr:notebook-page-c-i-137"]
     },{
       "@id": "kaahbr:field-book-number-c-0140a",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 140a (Excavation Box 140a)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 140a (Excavation Box 140a)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-039"
     },{
       "@id": "kaahbr:field-book-number-c-0141",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 141 (Excavation Box 141)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 141 (Excavation Box 141)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-041", "kaahbr:notebook-page-c-i-137"]
     },{
       "@id": "kaahbr:field-book-number-c-0142",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 142 (Excavation Box 142)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 142 (Excavation Box 142)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-041", "kaahbr:notebook-page-c-i-137"]
     },{
       "@id": "kaahbr:field-book-number-c-0143",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 143 (Excavation Box 143)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 143 (Excavation Box 143)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-043", "kaahbr:notebook-page-c-i-137"]
     },{
       "@id": "kaahbr:field-book-number-c-0144",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 144 (Excavation Box 144)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 144 (Excavation Box 144)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-043", "kaahbr:notebook-page-c-i-137"]
     },{
       "@id": "kaahbr:field-book-number-c-0145",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 145 (Excavation Box 145)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 145 (Excavation Box 145)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-043", "kaahbr:notebook-page-c-i-137"]
     },{
       "@id": "kaahbr:field-book-number-c-0146",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 146 (Excavation Box 146)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 146 (Excavation Box 146)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-044", "kaahbr:notebook-page-c-i-136"]
     },{
       "@id": "kaahbr:field-book-number-c-0147",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 147 (Excavation Box 147)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 147 (Excavation Box 147)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-044", "kaahbr:notebook-page-c-i-136"]
     },{
       "@id": "kaahbr:field-book-number-c-0148",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 148 (Excavation Box 148)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 148 (Excavation Box 148)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-039", "kaahbr:notebook-page-c-i-136"]
     },{
       "@id": "kaahbr:field-book-number-c-0148a",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 148a (Excavation Box 148a)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 148a (Excavation Box 148a)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-039"
     },{
       "@id": "kaahbr:field-book-number-c-0149",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 149 (Excavation Box 149)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 149 (Excavation Box 149)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-039", "kaahbr:notebook-page-c-i-136"]
     },{
       "@id": "kaahbr:field-book-number-c-0150",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 150 (Excavation Box 150)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 150 (Excavation Box 150)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": "kaahbr:notebook-page-c-i-045"
     },{
       "@id": "kaahbr:field-book-number-c-0151",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 151 (Excavation Box 151)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 151 (Excavation Box 151)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-135"
     },{
       "@id": "kaahbr:field-book-number-c-0152",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 152 (Excavation Box 152)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 152 (Excavation Box 152)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-135"
     },{
       "@id": "kaahbr:field-book-number-c-0155",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 155 (Excavation Box 155)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 155 (Excavation Box 155)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-135"
     },{
       "@id": "kaahbr:field-book-number-c-0156",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 156 (Excavation Box 156)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 156 (Excavation Box 156)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-134"
     },{
       "@id": "kaahbr:field-book-number-c-0159",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 159 (Excavation Box 159)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 159 (Excavation Box 159)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-134"
     },{
       "@id": "kaahbr:field-book-number-c-0160",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 160 (Excavation Box 160)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 160 (Excavation Box 160)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-133"
     },{
       "@id": "kaahbr:field-book-number-c-0161",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 161 (Excavation Box 161)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 161 (Excavation Box 161)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-133"
     },{
       "@id": "kaahbr:field-book-number-c-0164",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 164 (Excavation Box 164)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 164 (Excavation Box 164)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-049", "kaahbr:notebook-page-c-i-132"]
     },{
       "@id": "kaahbr:field-book-number-c-0164a",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 164a (Excavation Box 164a)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 164a (Excavation Box 164a)",
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-132"
     },{
       "@id": "kaahbr:field-book-number-c-0165",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 165 (Excavation Box 165)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 165 (Excavation Box 165)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-051"
     },{
       "@id": "kaahbr:field-book-number-c-0166",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 166 (Excavation Box 166)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 166 (Excavation Box 166)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-052"
     },{
       "@id": "kaahbr:field-book-number-c-0167",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 167 (Excavation Box 167)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 167 (Excavation Box 167)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": "kaahbr:notebook-page-c-i-132"
     },{
       "@id": "kaahbr:field-book-number-c-0168",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 168 (Excavation Box 168)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 168 (Excavation Box 168)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-052", "kaahbr:notebook-page-c-i-132"]
     },{
       "@id": "kaahbr:field-book-number-c-0169",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 169 (Excavation Box 169)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 169 (Excavation Box 169)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": "kaahbr:notebook-page-c-i-054"
     },{
       "@id": "kaahbr:field-book-number-c-0170",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 170 (Excavation Box 170)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 170 (Excavation Box 170)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-056", "kaahbr:notebook-page-c-i-131"]
     },{
       "@id": "kaahbr:field-book-number-c-0171",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 171 (Excavation Box 171)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 171 (Excavation Box 171)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-054", "kaahbr:notebook-page-c-i-056"]
     },{
       "@id": "kaahbr:field-book-number-c-0174",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
-      "label": "Field book number 174 (Excavation Box 174)",
+      "@type": ["field-book-number", "excavation-box"],
+      "label": "Field book number C 174 (Excavation Box 174)",
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-051", "kaahbr:notebook-page-c-i-130"]
     },{
       "@id": "kaahbr:field-book-number-c-0175",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-051", "kaahbr:notebook-page-c-i-130"]
     },{
       "@id": "kaahbr:field-book-number-c-0179",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-3",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-051", "kaahbr:notebook-page-c-i-129"]
     },{
       "@id": "kaahbr:field-book-number-c-0180",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-053", "kaahbr:notebook-page-c-i-129"]
     },{
       "@id": "kaahbr:field-book-number-c-0181",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-056", "kaahbr:notebook-page-c-i-129"]
     },{
       "@id": "kaahbr:field-book-number-c-0184",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-064", "kaahbr:notebook-page-c-i-127"]
     },{
       "@id": "kaahbr:field-book-number-c-0188",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": "kaahbr:notebook-page-c-i-126"
     },{
       "@id": "kaahbr:field-book-number-c-0191",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": "kaahbr:notebook-page-c-i-066"
     },{
       "@id": "kaahbr:field-book-number-c-0192",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": "kaahbr:notebook-page-c-i-066"
     },{
+      "@id": "kaahbr:field-book-number-c-0194",
+      "@type": ["field-book-number"],
+      "in-excavation-trench": "kaahbr:trench-c63-ii-6",
+      "on-notebook-page": "kaahbr:notebook-page-c-i-125",
+      "same-as": "kaahbr:ke0112"
+    },{
       "@id": "kaahbr:field-book-number-c-0196",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-065", "kaahbr:notebook-page-c-i-124"]
     },{
       "@id": "kaahbr:field-book-number-c-0198",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-065", "kaahbr:notebook-page-c-i-124"]
     },{
+      "@id": "kaahbr:field-book-number-c-0204",
+      "@type": ["field-book-number"],
+      "label": "Field Book Number C 204 (KE 113, Lamp)",
+      "in-excavation-trench": "kaahbr:trench-c63-ii-5",
+      "on-notebook-page": "kaahbr:notebook-page-c-i-122",
+      "same-as": "kaahbr:ke0113"
+    },{
       "@id": "kaahbr:field-book-number-c-0206",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-072", "kaahbr:notebook-page-c-i-121"]
     },{
       "@id": "kaahbr:field-book-number-c-0207",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": "kaahbr:notebook-page-c-i-121"
     },{
       "@id": "kaahbr:field-book-number-c-0211",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": "kaahbr:notebook-page-c-i-120"
     },{
       "@id": "kaahbr:field-book-number-c-0214",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-070", "kaahbr:notebook-page-c-i-119"]
     },{
       "@id": "kaahbr:field-book-number-c-0217",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": "kaahbr:notebook-page-c-i-118"
     },{
       "@id": "kaahbr:field-book-number-c-0221",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-071", "kaahbr:notebook-page-c-i-076", "kaahbr:notebook-page-c-i-117"]
     },{
       "@id": "kaahbr:field-book-number-c-0221a",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": "kaahbr:notebook-page-c-i-076"
     },{
       "@id": "kaahbr:field-book-number-c-0229",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": "kaahbr:notebook-page-c-i-115"
     },{
       "@id": "kaahbr:field-book-number-c-0230",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": "kaahbr:notebook-page-c-i-115"
     },{
       "@id": "kaahbr:field-book-number-c-0232",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": "kaahbr:notebook-page-c-i-114"
     },{
       "@id": "kaahbr:field-book-number-c-0233",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-080", "kaahbr:notebook-page-c-i-114"]
     },{
       "@id": "kaahbr:field-book-number-c-0235",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": "kaahbr:notebook-page-c-i-113"
     },{
       "@id": "kaahbr:field-book-number-c-0237",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-076", "kaahbr:notebook-page-c-i-113"]
     },{
       "@id": "kaahbr:field-book-number-c-0239",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-7",
       "on-notebook-page": "kaahbr:notebook-page-c-i-082"
     },{
       "@id": "kaahbr:field-book-number-c-0242",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-076", "kaahbr:notebook-page-c-i-112"]
     },{
       "@id": "kaahbr:field-book-number-c-0243",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-6",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-079", "kaahbr:notebook-page-c-i-112"]
     },{
       "@id": "kaahbr:field-book-number-c-0246",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-085", "kaahbr:notebook-page-c-i-111"]
     },{
       "@id": "kaahbr:field-book-number-c-0247",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-085", "kaahbr:notebook-page-c-i-111"]
     },{
       "@id": "kaahbr:field-book-number-c-0500",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-7",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-092", "kaahbr:notebook-page-c-i-111"]
     },{
       "@id": "kaahbr:field-book-number-c-0501",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-7",
       "on-notebook-page": "kaahbr:notebook-page-c-i-111"
     },{
       "@id": "kaahbr:field-book-number-c-0502",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-5",
       "on-notebook-page": "kaahbr:notebook-page-c-i-110"
     },{
       "@id": "kaahbr:field-book-number-c-0507",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-096", "kaahbr:notebook-page-c-i-108"]
     },{
       "@id": "kaahbr:field-book-number-c-0508",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-7",
       "on-notebook-page": "kaahbr:notebook-page-c-i-108"
     },{
       "@id": "kaahbr:field-book-number-c-0509",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-7",
       "on-notebook-page": "kaahbr:notebook-page-c-i-108"
     },{
       "@id": "kaahbr:field-book-number-c-0515",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": ["kaahbr:notebook-page-c-i-096", "kaahbr:notebook-page-c-i-107"]
     },{
       "@id": "kaahbr:field-book-number-c-0516",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-7",
       "on-notebook-page": "kaahbr:notebook-page-c-i-106"
     },{
       "@id": "kaahbr:field-book-number-c-0518",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-106"
     },{
       "@id": "kaahbr:field-book-number-c-0518",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-i-4",
       "on-notebook-page": "kaahbr:notebook-page-c-i-106"
     },{
       "@id": "kaahbr:field-book-number-c-0519",
-      "@type": ["kaaont:field-book-number", "kaaont:excavation-box"],
+      "@type": ["field-book-number", "excavation-box"],
       "in-excavation-trench": "kaahbr:trench-c63-ii-7",
       "on-notebook-page": "kaahbr:notebook-page-c-i-106"
     }

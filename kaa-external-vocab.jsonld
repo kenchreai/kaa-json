@@ -2,15 +2,6 @@
  "@context": "kaa-context.jsonld",
  "@graph": [
   {
-   "@id":"crm:P5_has_type",
-   "label":"Typology"
-  },{
-   "@id":"crm:E55_type",
-   "label":"Typological term"
-  },{
-   "@id":"crm:P127_has_broader_term",
-   "label":"Broader typological term"
-  },{
    "@id":"dct:creator",
    "label":"Author or Editor"
   },{
@@ -25,9 +16,6 @@
   },{
    "@id":"dct:isPartOf",
    "label":"Part of"
-  },{
-   "@id":"foaf:name",
-   "label":"Name"
   },{
     "@id":"geo:lat",
     "label": "Decimal latitude"

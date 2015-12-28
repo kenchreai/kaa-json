@@ -3,217 +3,226 @@
  "@graph": [
   {
    "@id":"kaa:beverley-adamsheck",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Beverley Adamsheck",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/489736548",
    "viaf": "http://viaf.org/viaf/191392491"
   },{
    "@id":"kaa:john-bandekas",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "John Bandekas",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/71386897"
   },{
    "@id":"kaa:alix-barbet",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Alix Barbet",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/71386897"
   },{
    "@id":"kaa:gavin-blasdel",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Gavin Blasdel",
    "is-logical-part-of": "kaa:people",
    "see": "http://dlib.nyu.edu/awdl/isaw/isaw-papers/10/",
    "viaf": "http://viaf.org/viaf/71386897"
   },{
    "@id":"kaa:jorge-jose-bravo-iii",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Jorge Jose Bravo III",
    "is-logical-part-of": "kaa:people",
    "see": "http://dlib.nyu.edu/awdl/isaw/isaw-papers/10/",
    "viaf": "http://viaf.org/viaf/290936500"
   },{
    "@id":"kaa:martin-breen",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Martin Breen",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/303579603"
   },{
    "@id":"kaa:robert-h-brill",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Robert Brill",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/489736404",
    "viaf": "http://viaf.org/viaf/17303911"
   },{
    "@id":"kaa:oscar-t-broneer",
-   "@type": "kaaont:person",
+   "@type": "person",
    "comment": "In the Spring of 1963, O. Broneer arranged for the purchase of property at Kenchreai prior to the start of excavation that year.",
    "label": "Oscar T. Broneer",
    "is-logical-part-of": "kaa:people",
    "viaf": "http://viaf.org/viaf/117252295",
-   "kaaont:associated-with-year": "kaa:year1963"
+   "associated-with-year": "kaa:year1963"
   },{
    "@id":"kaa:wellington-willson-cummer",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "W. Willson Cummer",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/147632",
    "viaf": "http://viaf.org/viaf/47366868",
-   "kaaont:associated-with-year": "kaa:year1969"
+   "associated-with-year": "kaa:year1969"
+  },{
+   "@id":"kaa:dan-l-davis",
+   "@type": "person",
+   "label": "Dan L. Davis",
+   "is-logical-part-of": "kaa:people",
+   "see": "http://www.luther.edu/davida06/",
+   "associated-with-year": "kaa:year2015"
   },{
    "@id":"kaa:roxana-docsan",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Roxana Docsan",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/303579603",
    "viaf": "http://viaf.org/viaf/217386788"
   },{
    "@id":"kaa:richard-k-dunn",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Richard K. Dunn",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/25068015"
   },{
    "@id":"kaa:elizabeth-r-gebhard",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Elizabeth R. Gebhard",
    "is-logical-part-of": "kaa:people",
    "viaf": "http://viaf.org/viaf/195628890",
-   "kaaont:associated-with-year": "kaa:year1963"
+   "associated-with-year": "kaa:year1963"
   },{
    "@id":"kaa:phyllis-graham",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Phyllis Graham",
    "is-logical-part-of": "kaa:people",
-   "kaaont:associated-with-year": "kaa:year2015"
+   "associated-with-year": "kaa:year2015"
   },{
    "@id":"kaa:john-g-hawthorne",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "John G. Hawthorne",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.ascsa.edu.gr/index.php/archives/john-g-hawthorne",
-   "kaaont:associated-with-year": "kaa:year1963"
+   "associated-with-year": "kaa:year1963",
+   "on-notebook-page": "kaahbr:notebook-page-c-i-001"
   },{
    "@id":"kaa:sebastian-heath",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Sebastian Heath",
    "is-logical-part-of": "kaa:people",
    "viaf": "http://viaf.org/viaf/220831018",
-   "kaaont:associated-with-year": "kaa:year2013"
+   "associated-with-year": "kaa:year2013"
   },{
    "@id":"kaa:robert-l-hohlfelder",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Robert L. Hohlfelder",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/829279",
    "viaf": "http://viaf.org/viaf/46773164"
   },{
    "@id":"kaa:leila-ibrahim",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Leila Ibrahim",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/489736404",
    "viaf": "http://viaf.org/viaf/35708767"
   },{
    "@id":"kaa:donald-jackson",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Donald F. Jackson",
    "comment": "Supervisor at Area TA.",
    "is-logical-part-of": ["kaa:people", "kaa:year1964"]
   },{
    "@id":"kaa:florence-monier",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Florence Monier",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/176520803"
   },{
    "@id":"kaa:melissa-moore-morison",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Melissa Moore Morison",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/25068015"
   },{
    "@id":"kaa:edwin-s-ramage",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Edwin S. Ramage",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/147183",
    "viaf": "http://viaf.org/viaf/59099581"
   },{
    "@id":"kaa:joseph-l-rife",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Joseph L. Rife",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.jstor.org/stable/10.2307/25068015",
    "viaf": "http://viaf.org/viaf/292151525",
-   "kaaont:associated-with-year": "kaa:year2013"
+   "associated-with-year": "kaa:year2013"
   },{
    "@id":"kaa:alice-swift-riginos",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Alice Swift Riginos",
    "description": "A member of the 1963 team as a University of Chicago graduate student. Returned in 1964, 1966 and 1968.",
    "is-logical-part-of": "kaa:people",
    "see": "http://archives.chicagotribune.com/1967/07/28/page/43/article/alice-swift-to-wed-in-greece",
-   "kaaont:associated-with-year": ["kaa:year1963", "kaa:year1964", "kaa:year1966", "kaa:year1968"]
+   "associated-with-year": ["kaa:year1963", "kaa:year1964", "kaa:year1966", "kaa:year1968"]
   },{
    "@id":"kaa:robert-l-scranton",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Robert L. Scranton",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/489736331",
    "viaf": "http://viaf.org/viaf/107033339",
-   "kaaont:associated-with-year": "kaa:year1963"
+   "associated-with-year": "kaa:year1963"
   },{
    "@id":"kaa:joseph-w-shaw",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Joseph W. Shaw",
    "is-logical-part-of": "kaa:people",
    "see": ["http://www.worldcat.org/oclc/489736331","http://utarms.library.utoronto.ca/researchers/joseph-w.-shaw"],
    "viaf": "http://viaf.org/viaf/80260303",
-   "kaaont:associated-with-year": "kaa:year1963"
+   "associated-with-year": "kaa:year1963"
   },{
    "@id":"kaa:maria-c-shaw",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Maria C. Shaw",
    "is-logical-part-of": "kaa:people",
    "viaf": "http://viaf.org/viaf/46816373"
   },{
    "@id":"kaa:wilma-olch-stern",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Wilma Olch Stern",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/303579603",
    "viaf": "http://viaf.org/viaf/48390541"
   },{
    "@id":"kaa:danae-hadjilazaro-thimme",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Danae Hadjilazaro Thimme",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/303579603",
    "viaf": ["http://viaf.org/viaf/10183217","http://viaf.org/viaf/237380935"]
   },{
    "@id":"kaa:diether-thimme",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Diether Thimme",
    "is-logical-part-of": "kaa:people",
    "see": "http://purl.dlib.indiana.edu/iudl/archives/bfc/B35-1979",
    "viaf": "http://viaf.org/viaf/245219671"
   },{
    "@id":"kaa:douglas-h-ubelaker",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Douglas H. Ubelaker",
    "is-logical-part-of": "kaa:people",
-   "see": "http://www.jstor.org/stable/10.2307/25068015",
+   "see": ["http://www.jstor.org/stable/10.2307/25068015",
+           "https://en.wikipedia.org/wiki/Douglas_H._Ubelaker"],
    "viaf": "http://viaf.org/viaf/92759009"
   },{
    "@id":"kaa:kalliopi-kristalli-votsi",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Kalliopi Kristalli-Votsi",
    "description": "Responsible for the excavations of the Threpsiades property in 1976.",
    "is-logical-part-of": "kaa:people",
@@ -221,7 +230,7 @@
    "comment": "Kristalli-Votsi, K. 1984. “Ἐφορεία Κλασικῶν Ἀρχαιοτήτων Ναυπλίου· Νόμος Κορινθίας, Κεγχρεές.” Archaiologikon Deltion 31 (B’1, 1976): 64–65."
   },{
    "@id":"kaa:hector-williams",
-   "@type": "kaaont:person",
+   "@type": "person",
    "label": "Hector Williams",
    "is-logical-part-of": "kaa:people",
    "see": "http://www.worldcat.org/oclc/489736603",
