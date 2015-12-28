@@ -4260,9 +4260,9 @@ kaahbr:notebook-page-c-i-014
         kaaont:pagescan             "pagescans/trench-notebooks/notebook-c-i/C%20I%201963_Page_08.png" .
 
 kaahbr:ke1501  a                   kaaont:inventory-number ;
-        rdfs:comment               "Was recataloged as KE 1745, with a more detailed sketch and more complete description. That number was then re-assigned to the next item. This means that the alternate catalog entry has no inventory number associated with it. Currently, 'KE 1501' points to the PDF file that illustrates the 'redacted' entry." ;
         kaaont:file                "pagescans/inventory/1501-1503.PDF" , "pagescans/inventory/1745.PDF" ;
         kaaont:is-logical-part-of  kaahbr:inventory-book ;
+        kaaont:kaa-note            "Was recataloged as KE 1745, with a more detailed sketch and more complete description. That number was then re-assigned to the next item. This means that the alternate catalog entry has no inventory number associated with it. Currently, 'KE 1501' points to the PDF file that illustrates the 'redacted' entry." ;
         kaaont:next                kaahbr:ke1502 .
 
 kaahbr:notebook-page-a-iii-060
@@ -18908,8 +18908,8 @@ kaahbr:ke0572  a                   kaaont:inventory-number ;
                 kaatyp:l .
 
 kaahbr:ke1476  a                   kaaont:inventory-number ;
-        rdfs:comment               "The bag for this inventory number also has a tag for box-ta0144." ;
         kaaont:is-logical-part-of  kaahbr:box-c1341 , kaahbr:inventory-book ;
+        kaaont:kaa-note            "The bag for this inventory number also has a tag for box-ta0144." ;
         kaaont:next                kaahbr:ke1477 .
 
 kaahbr:ke0382  a                   kaaont:inventory-number ;

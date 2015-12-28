@@ -32,7 +32,7 @@
  "excavation-box":{"@id":"kaaont:excavation-box"},
  "excavation-notebook":{"@id":"kaaont:excavation-notebook"},
  "excavation-trench":{"@id":"kaaont:excavation-trench"},
- "extant-part": "kaaont:extant-part",
+ "extant-part": {"@id":"kaaont:extant-part"},
  "field-book-number":{"@id":"kaaont:field-book-number"},
  "file":{"@id":"kaaont:file"},
  "has-part": {"@id": "kaaont:has-part", "@type": "@id"},
