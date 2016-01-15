@@ -11,7 +11,6 @@
 @prefix kaatyp: <http://kenchreai.org/kaa/typology/> .
 
 :ontology a owl:Ontology ;
-	owl:imports <file:/Users/sfsh/Documents/kenchreai/kaa-json/kaa.ttl> ;
 	rdfs:label "Kenchreai Archaeological Archive OWL Ontology" ;
 	rdfs:comment "Classes, properties and individuals used to describe content in the Kenchreai Archaeological Archive (KAA). This ontology is very much under construction." .
 # 
@@ -23,15 +22,21 @@
 # #################################################################
 # 
 # 
-# http://kenchreai.org/kaa/previous
+# http://kenchreai.org/kaa/ontology/associated-with-modern-chronology
 
-:previous a owl:ObjectProperty ;
-	owl:inverseOf kaaont:next .
+kaaont:associated-with-modern-chronology a owl:ObjectProperty ;
+	rdfs:subPropertyOf kaaont:is-logical-part-of .
+# 
+# http://kenchreai.org/kaa/ontology/associated-with-month
+
+kaaont:associated-with-month a owl:ObjectProperty ;
+	rdfs:range kaaont:month ;
+	rdfs:label "Associated with month" .
 # 
 # http://kenchreai.org/kaa/ontology/associated-with-year
 
 kaaont:associated-with-year a owl:ObjectProperty ;
-	rdfs:subPropertyOf kaaont:is-logical-part-of ;
+	rdfs:subPropertyOf kaaont:associated-with-modern-chronology ;
 	rdfs:range kaaont:year ;
 	rdfs:label "Associated with year" .
 # 
@@ -44,24 +49,31 @@ kaaont:broader a owl:ObjectProperty ;
 	rdfs:domain kaaont:typology-item ;
 	rdfs:label "Broader" .
 # 
+# http://kenchreai.org/kaa/ontology/excavation-trench-contains
+
+kaaont:excavation-trench-contains a owl:ObjectProperty ;
+	rdfs:subPropertyOf kaaont:has-physical-part ;
+	owl:inverseOf kaaont:in-excavation-trench .
+# 
 # http://kenchreai.org/kaa/ontology/has-logical-part
 
 kaaont:has-logical-part a owl:ObjectProperty ;
 	rdfs:subPropertyOf kaaont:has-part ;
-	owl:inverseOf kaaont:is-logical-part-of , kaaont:on-notebook-page , kaaont:typological-identification ;
+	owl:inverseOf kaaont:is-logical-part-of , kaaont:on-notebook-page ;
 	rdfs:label "Has logical part" .
 # 
 # http://kenchreai.org/kaa/ontology/has-part
 
 kaaont:has-part a owl:ObjectProperty ;
 	owl:inverseOf kaaont:is-part-of ;
+	a owl:TransitiveProperty ;
 	rdfs:label "Has Part" .
 # 
 # http://kenchreai.org/kaa/ontology/has-physical-part
 
 kaaont:has-physical-part a owl:ObjectProperty ;
 	rdfs:subPropertyOf kaaont:has-part ;
-	owl:inverseOf kaaont:in-excavation-trench , kaaont:is-physical-part-of ;
+	owl:inverseOf kaaont:is-physical-part-of ;
 	rdfs:label "Has physical part" .
 # 
 # http://kenchreai.org/kaa/ontology/has-published-catalog-entry
@@ -107,13 +119,19 @@ kaaont:narrower a owl:ObjectProperty ;
 # 
 # http://kenchreai.org/kaa/ontology/next
 
-kaaont:next a owl:ObjectProperty .
+kaaont:next a owl:ObjectProperty ;
+	owl:inverseOf kaaont:previous ;
+	rdfs:label "Next" .
 # 
 # http://kenchreai.org/kaa/ontology/on-notebook-page
 
 kaaont:on-notebook-page a owl:ObjectProperty ;
 	rdfs:subPropertyOf kaaont:is-logical-part-of ;
 	rdfs:label "On notebook page" .
+# 
+# http://kenchreai.org/kaa/ontology/previous
+
+kaaont:previous a owl:ObjectProperty .
 # 
 # http://kenchreai.org/kaa/ontology/references
 
@@ -126,16 +144,21 @@ kaaont:referred-to-by a owl:ObjectProperty .
 # 
 # http://kenchreai.org/kaa/ontology/same-as
 
-kaaont:same-as a owl:ObjectProperty ;
-	rdfs:subPropertyOf kaaont:has-logical-part ;
+kaaont:same-as a owl:ObjectProperty , owl:SymmetricProperty ;
 	rdfs:label "Same as" .
 # 
 # http://kenchreai.org/kaa/ontology/typological-identification
 
 kaaont:typological-identification a owl:ObjectProperty ;
 	rdfs:subPropertyOf kaaont:is-logical-part-of ;
+	owl:inverseOf kaaont:typological-identification-of ;
 	rdfs:range kaaont:typology-item ;
 	rdfs:label "Typological identification" .
+# 
+# http://kenchreai.org/kaa/ontology/typological-identification-of
+
+kaaont:typological-identification-of a owl:ObjectProperty ;
+	rdfs:subPropertyOf kaaont:has-logical-part .
 # 
 # http://kenchreai.org/kaa/ontology/viaf
 
@@ -150,11 +173,6 @@ kaaont:viaf a owl:ObjectProperty ;
 # #
 # #################################################################
 # 
-# 
-# http://kenchreai.org/kaa/rim-diameter
-
-:rim-diameter a owl:DatatypeProperty ;
-	rdfs:label "Rim diameter" .
 # 
 # http://kenchreai.org/kaa/ontology/base-diameter
 
@@ -215,16 +233,18 @@ kaaont:inventory-book-sketch a owl:DatatypeProperty ;
 	rdfs:comment "Boolean value indicating the presence of a sketch in the Inventory Book." ;
 	rdfs:label "Inventory Book Sketch" .
 # 
+# http://kenchreai.org/kaa/ontology/kaa-note
+
+kaaont:kaa-note a owl:DatatypeProperty ;
+	rdfs:comment "A note indicating some aspect of the editorial state or other aspect of an entity within KAA." ;
+	rdfs:label "KAA Note" .
+# 
 # http://kenchreai.org/kaa/ontology/model
 
 kaaont:model a owl:DatatypeProperty ;
 	rdfs:range xsd:anyURI ;
 	rdfs:comment "URL of 3D model." ;
 	rdfs:label "3D Model" .
-# 
-# http://kenchreai.org/kaa/ontology/month
-
-kaaont:month a owl:DatatypeProperty .
 # 
 # http://kenchreai.org/kaa/ontology/name
 
@@ -245,6 +265,7 @@ kaaont:pagescan a owl:DatatypeProperty ;
 # http://kenchreai.org/kaa/ontology/photograph
 
 kaaont:photograph a owl:DatatypeProperty ;
+	rdfs:range xsd:string ;
 	rdfs:label "Photograph" .
 # 
 # http://kenchreai.org/kaa/ontology/preserved-height
@@ -261,6 +282,12 @@ kaaont:rim-diameter a owl:DatatypeProperty ;
 
 kaaont:subject-number a owl:DatatypeProperty ;
 	rdfs:label "Subject number" .
+# 
+# http://kenchreai.org/kaa/ontology/typology-comment
+
+kaaont:typology-comment a owl:DatatypeProperty ;
+        rdfs:labe; "Typological identification comment" ;
+	rdfs:comment "Either a note indicating the typological identity of the entity or a comment on the same." , "Typology comment" .
 # 
 # 
 # 
@@ -331,6 +358,11 @@ kaaont:inventory-number a owl:Class ;
 
 kaaont:kth-container a owl:Class .
 # 
+# http://kenchreai.org/kaa/ontology/month
+
+kaaont:month a owl:Class ;
+	rdfs:label "Month" .
+# 
 # http://kenchreai.org/kaa/ontology/notebook
 
 kaaont:notebook a owl:Class ;
@@ -362,5 +394,17 @@ kaaont:typology-item a owl:Class ;
 
 kaaont:year a owl:Class ;
 	rdfs:label "Year" .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Annotations
+# #
+# #################################################################
+# 
+# 
+
+rdf:type rdfs:label "Is a" .
 # 
 # Generated by the OWL API (version 4.1.3.20151118-2017) https://github.com/owlcs/owlapi

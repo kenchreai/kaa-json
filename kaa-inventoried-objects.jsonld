@@ -788,7 +788,7 @@
       "is-logical-part-of": "kaahbr:inventory-book",
       "file": ["photography/2011_inventory_photos/IMG_2781.png","pagescans/inventory/90-95.PDF"],
       "next": "kaahbr:ke0092",
-      "part": "Rim",
+      "extant-part": "Rim",
       "typology": "kaatyp:p-corinthian-aryballos"
     },
     {
@@ -2389,7 +2389,7 @@
       "file": ["pagescans/inventory/297-300.PDF","photography/2011_inventory_photos/IMG_0938.png"],
       "next": "kaahbr:ke0300",
       "on-notebook-page": "kaahbr:notebook-page-b-i-135",
-      "same:": "kaahbr:MI0074",
+      "subject-number": "Mi 74",
       "typology": "kaatyp:mi-stone-bowl"
     },
     {
@@ -12213,7 +12213,7 @@
       "@id": "kaahbr:ke1529",
       "@type": "inventory-number",
       "label": "KE 1529 (Late Roman Amphora 1)",
-      "height-preserved": 11,
+      "preserved-height": 11,
       "is-logical-part-of": "kaahbr:inventory-book",
       "modern-chronology": "kaa:day1963-08-01",
       "next": "kaahbr:ke1530",
