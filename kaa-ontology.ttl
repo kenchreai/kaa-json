@@ -4,13 +4,13 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix claros: <http://purl.org/NET/Claros/vocab#> .
 @prefix kaahbr: <http://kenchreai.org/kaa/harbor/> .
 @prefix kaakth: <http://kenchreai.org/kaa/threpsiades/> .
 @prefix kaaont: <http://kenchreai.org/kaa/ontology/> .
 @prefix kaatyp: <http://kenchreai.org/kaa/typology/> .
 
 :ontology a owl:Ontology ;
+	owl:imports <http://www.w3.org/1999/02/22-rdf-syntax-ns#> ;
 	rdfs:label "Kenchreai Archaeological Archive OWL Ontology" ;
 	rdfs:comment "Classes, properties and individuals used to describe content in the Kenchreai Archaeological Archive (KAA). This ontology is very much under construction." .
 # 
@@ -182,6 +182,7 @@ kaaont:base-diameter a owl:DatatypeProperty ;
 # http://kenchreai.org/kaa/ontology/comment
 
 kaaont:comment a owl:DatatypeProperty ;
+	owl:equivalentProperty kaaont:kaa-any-string ;
 	rdfs:label "Comment" .
 # 
 # http://kenchreai.org/kaa/ontology/count
@@ -223,6 +224,7 @@ kaaont:height a owl:DatatypeProperty ;
 # http://kenchreai.org/kaa/ontology/inventory-book-description
 
 kaaont:inventory-book-description a owl:DatatypeProperty ;
+	owl:equivalentProperty kaaont:kaa-any-string ;
 	rdfs:comment "Text of the description as transcribed from the Inventory Book." ;
 	rdfs:label "Inventory book description" .
 # 
@@ -232,6 +234,11 @@ kaaont:inventory-book-sketch a owl:DatatypeProperty ;
 	rdfs:range xsd:boolean ;
 	rdfs:comment "Boolean value indicating the presence of a sketch in the Inventory Book." ;
 	rdfs:label "Inventory Book Sketch" .
+# 
+# http://kenchreai.org/kaa/ontology/kaa-any-string
+
+kaaont:kaa-any-string a owl:DatatypeProperty ;
+	owl:equivalentProperty kaaont:notebook-transcription , kaaont:subject-number .
 # 
 # http://kenchreai.org/kaa/ontology/kaa-note
 
@@ -286,8 +293,8 @@ kaaont:subject-number a owl:DatatypeProperty ;
 # http://kenchreai.org/kaa/ontology/typology-comment
 
 kaaont:typology-comment a owl:DatatypeProperty ;
-        rdfs:labe; "Typological identification comment" ;
-	rdfs:comment "Either a note indicating the typological identity of the entity or a comment on the same." , "Typology comment" .
+	rdfs:comment "Either a note indicating the typological identity of the entity or a comment on the same." , "Typology comment" ;
+	rdfs:label "Typological identification comment" .
 # 
 # 
 # 
